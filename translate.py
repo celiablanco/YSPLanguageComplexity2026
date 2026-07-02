@@ -88,7 +88,7 @@ def translate_file(input_path: str, target_lang: str, source_lang: str = "auto",
     translated_text = "\n".join(translated_chunks)
     if output_path is None:
         output_path = '.'
-    filename = str(in_path.with_name(f"{in_path.stem}_{target_lang}{in_path.suffix}"))
+    filename = str(f"{in_path.stem}_{target_lang}{in_path.suffix}")
 
     Path(output_path,filename).write_text(translated_text, encoding="utf-8")
     print(f"\nDone. Translated file saved to: {output_path}")
