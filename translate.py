@@ -33,7 +33,7 @@ except ImportError:
         "Install it with: pip install deep-translator"
     )
 
-MAX_CHUNK_SIZE = 4500  # stay safely under the translator's ~5000 char limit
+MAX_CHUNK_SIZE = 1500  # stay safely under the translator's ~5000 char limit
 
 
 def chunk_text(text: str, max_size: int = MAX_CHUNK_SIZE):
@@ -77,7 +77,7 @@ def translate_file(input_path: str, target_lang: str, source_lang: str = "auto",
     if not text.strip():
         sys.exit("Input file is empty.")
 
-    translator = GoogleTranslator(source=source_lang, target=target_lang)
+    translator = GoogleTranslator(source=source_lang, target=target_lang) #Don't initiate a bunch of these, instead change the translator.source/translator.target
     chunks = chunk_text(text)
 
     translated_chunks = []
@@ -97,18 +97,146 @@ def translate_file(input_path: str, target_lang: str, source_lang: str = "auto",
 
 def main():
     parser = argparse.ArgumentParser(description="Translate a text file into any language.")
-    parser.add_argument("input_file", help="Path to the text file to translate")
-    parser.add_argument("target_language", help="Target language code or name (e.g. 'es', 'french')")
-    parser.add_argument("--source", default="auto", help="Source language code (default: auto-detect)")
-    parser.add_argument("--output", default=None, help="Path for the translated output file")
+    #parser.add_argument("input_file", help="Path to the text file to translate")
+    #parser.add_argument("target_language", help="Target language code or name (e.g. 'es', 'french')")
+    #parser.add_argument("--source", default="auto", help="Source language code (default: auto-detect)")
+    #parser.add_argument("--output", default=None, help="Path for the translated output file")
     
     target_languages = {
-        "japanese",
-        "english",
-        "portuguese",
-        "chinese (traditional)",
-        "spanish"
-    }
+    "afrikaans": "af",
+    "albanian": "sq",
+    "amharic": "am",
+    "arabic": "ar",
+    "armenian": "hy",
+    "assamese": "as",
+    "aymara": "ay",
+    "azerbaijani": "az",
+    "bambara": "bm",
+    "basque": "eu",
+    "belarusian": "be",
+    "bengali": "bn",
+    "bhojpuri": "bho",
+    "bosnian": "bs",
+    "bulgarian": "bg",
+    "catalan": "ca",
+    "cebuano": "ceb",
+    "chichewa": "ny",
+    "chinese (simplified)": "zh-CN",
+    "chinese (traditional)": "zh-TW",
+    "corsican": "co",
+    "croatian": "hr",
+    "czech": "cs",
+    "danish": "da",
+    "dhivehi": "dv",
+    "dogri": "doi",
+    "dutch": "nl",
+    "english": "en",
+    "esperanto": "eo",
+    "estonian": "et",
+    "ewe": "ee",
+    "filipino": "tl",
+    "finnish": "fi",
+    "french": "fr",
+    "frisian": "fy",
+    "galician": "gl",
+    "georgian": "ka",
+    "german": "de",
+    "greek": "el",
+    "guarani": "gn",
+    "gujarati": "gu",
+    "haitian creole": "ht",
+    "hausa": "ha",
+    "hawaiian": "haw",
+    "hebrew": "iw",
+    "hindi": "hi",
+    "hmong": "hmn",
+    "hungarian": "hu",
+    "icelandic": "is",
+    "igbo": "ig",
+    "ilocano": "ilo",
+    "indonesian": "id",
+    "irish": "ga",
+    "italian": "it",
+    "japanese": "ja",
+    "javanese": "jw",
+    "kannada": "kn",
+    "kazakh": "kk",
+    "khmer": "km",
+    "kinyarwanda": "rw",
+    "konkani": "gom",
+    "korean": "ko",
+    "krio": "kri",
+    "kurdish (kurmanji)": "ku",
+    "kurdish (sorani)": "ckb",
+    "kyrgyz": "ky",
+    "lao": "lo",
+    "latin": "la",
+    "latvian": "lv",
+    "lingala": "ln",
+    "lithuanian": "lt",
+    "luganda": "lg",
+    "luxembourgish": "lb",
+    "macedonian": "mk",
+    "maithili": "mai",
+    "malagasy": "mg",
+    "malay": "ms",
+    "malayalam": "ml",
+    "maltese": "mt",
+    "maori": "mi",
+    "marathi": "mr",
+    "meiteilon (manipuri)": "mni-Mtei",
+    "mizo": "lus",
+    "mongolian": "mn",
+    "myanmar": "my",
+    "nepali": "ne",
+    "norwegian": "no",
+    "odia (oriya)": "or",
+    "oromo": "om",
+    "pashto": "ps",
+    "persian": "fa",
+    "polish": "pl",
+    "portuguese": "pt",
+    "punjabi": "pa",
+    "quechua": "qu",
+    "romanian": "ro",
+    "russian": "ru",
+    "samoan": "sm",
+    "sanskrit": "sa",
+    "scots gaelic": "gd",
+    "sepedi": "nso",
+    "serbian": "sr",
+    "sesotho": "st",
+    "shona": "sn",
+    "sindhi": "sd",
+    "sinhala": "si",
+    "slovak": "sk",
+    "slovenian": "sl",
+    "somali": "so",
+    "spanish": "es",
+    "sundanese": "su",
+    "swahili": "sw",
+    "swedish": "sv",
+    "tajik": "tg",
+    "tamil": "ta",
+    "tatar": "tt",
+    "telugu": "te",
+    "thai": "th",
+    "tigrinya": "ti",
+    "tsonga": "ts",
+    "turkish": "tr",
+    "turkmen": "tk",
+    "twi": "ak",
+    "ukrainian": "uk",
+    "urdu": "ur",
+    "uyghur": "ug",
+    "uzbek": "uz",
+    "vietnamese": "vi",
+    "welsh": "cy",
+    "xhosa": "xh",
+    "yiddish": "yi",
+    "yoruba": "yo",
+    "zulu": "zu",
+}
     output= Path("translated")
     for filename in os.listdir('source'):
         for language in target_languages:
