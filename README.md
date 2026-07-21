@@ -25,6 +25,10 @@ $ python translate.py
     All available languages on Google translate are copied below.
     The test was made using as source the whole text of 'The Art of War' from https://classics.mit.edu/Tzu/artwar.html in English And the Japanese text of Art of War (孫子の兵法) from https://sonshi-heihou.com/%e5%ad%ab%e5%ad%90%e8%a8%88%e7%af%87-%e6%9b%b8%e3%81%8d%e4%b8%8b%e3%81%97/ into every available language.
 
+
+FOR IPA
+Had to install .exe for windows, restart Vscode, add PATH
+Error. dll MBROLA, Installed https://archive.org/details/MbrolaTools35, got voice from https://github.com/numediart/MBROLA-voices
 target_languages = {
     "afrikaans": "af",
     "albanian": "sq",

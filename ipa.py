@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""
-to_ipa.py
+""" ipa.py
 
 Reads all .txt files from a 'translated/' folder, auto-detects each file's
 language, converts the text to standard IPA notation, and saves the results
@@ -15,16 +14,18 @@ Setup:
     pip install phonemizer langdetect
 
 Usage:
-    python to_ipa.py
-    python to_ipa.py --lang es            # force a single language for all files
-    python to_ipa.py --no-stress          # omit stress markers (ˈ ˌ)
-    python to_ipa.py --separator " | "   # custom separator between words
+    python ipa.py
+    python ipa.py --lang es            # force a single language for all files
+    python ipa.py --no-stress          # omit stress markers (ˈ ˌ)
+    python ipa.py --separator " | "   # custom separator between words
 """
 import os
 os.environ["PHONEMIZER_ESPEAK_LIBRARY"] = r"C:\Program Files\eSpeak NG\libespeak-ng.dll"
+os.environ["PHONEMIZER_ESPEAK_PATH"] = r"C:\Program Files\eSpeak NG"
 import argparse
 import sys
 from pathlib import Path
+import time
 
 # ── Dependency checks ────────────────────────────────────────────────────────
 try:
@@ -47,77 +48,140 @@ except ImportError:
 SOURCE_DIR = Path("translated")
 OUTPUT_DIR = Path("ipa")
 
-# Maps common langdetect ISO-639-1 codes → espeak-ng language tags
-LANG_MAP: dict[str, str] = {
-    "af": "af",
-    "ar": "ar",
-    "bg": "bg",
-    "bn": "bn",
-    "bs": "bs",
-    "ca": "ca",
-    "cs": "cs",
-    "cy": "cy",
-    "da": "da",
-    "de": "de",
-    "el": "el",
-    "en": "en-us",
-    "eo": "eo",
-    "es": "es",
-    "et": "et",
-    "eu": "eu",
-    "fa": "fa",
-    "fi": "fi",
-    "fr": "fr-fr",
-    "ga": "ga",
-    "gu": "gu",
-    "he": "he",
-    "hi": "hi",
-    "hr": "hr",
-    "hu": "hu",
-    "hy": "hy",
-    "id": "id",
-    "is": "is",
-    "it": "it",
-    "ja": "ja",
-    "ka": "ka",
-    "kn": "kn",
-    "ko": "ko",
-    "lt": "lt",
-    "lv": "lv",
-    "mk": "mk",
-    "ml": "ml",
-    "mr": "mr",
-    "ms": "ms",
-    "mt": "mt",
-    "my": "my",
-    "nb": "nb",
-    "ne": "ne",
-    "nl": "nl",
-    "or": "or",
-    "pa": "pa",
-    "pl": "pl",
-    "pt": "pt",
-    "ro": "ro",
-    "ru": "ru",
-    "si": "si",
-    "sk": "sk",
-    "sl": "sl",
-    "sq": "sq",
-    "sr": "sr",
-    "sv": "sv",
-    "sw": "sw",
-    "ta": "ta",
-    "te": "te",
-    "th": "th",
-    "tl": "es",   # Tagalog — approximate with Spanish phonology
-    "tr": "tr",
-    "uk": "uk",
-    "ur": "ur",
-    "uz": "uz",
-    "vi": "vi",
-    "zh-cn": "cmn",
-    "zh-tw": "cmn",
-    "zh": "cmn",
+LANG_MAP: dict[str,str]={
+    "afrikaans": "af",
+    "albanian": "sq",
+    "amharic": "am",
+    "arabic": "ar",
+    "armenian": "hy",
+    "assamese": "as",
+    "aymara": "ay",
+    "azerbaijani": "az",
+    "bambara": "bm",
+    "basque": "eu",
+    "belarusian": "be",
+    "bengali": "bn",
+    "bhojpuri": "bho",
+    "bosnian": "bs",
+    "bulgarian": "bg",
+    "catalan": "ca",
+    "cebuano": "ceb",
+    "chichewa": "ny",
+    "chinese (simplified)": "cmn",
+    "chinese (traditional)": "cmn",
+    "corsican": "co",
+    "croatian": "hr",
+    "czech": "cs",
+    "danish": "da",
+    "dhivehi": "dv",
+    "dogri": "doi",
+    "dutch": "nl",
+    "english": "en",
+    "esperanto": "eo",
+    "estonian": "et",
+    "ewe": "ee",
+    "filipino": "tl",
+    "finnish": "fi",
+    "french": "fr",
+    "frisian": "fy",
+    "galician": "gl",
+    "georgian": "ka",
+    "german": "de",
+    "greek": "el",
+    "guarani": "gn",
+    "gujarati": "gu",
+    "haitian creole": "ht",
+    "hausa": "ha",
+    "hawaiian": "haw",
+    "hebrew": "iw",
+    "hindi": "hi",
+    "hmong": "hmn",
+    "hungarian": "hu",
+    "icelandic": "is",
+    "igbo": "ig",
+    "ilocano": "ilo",
+    "indonesian": "id",
+    "irish": "ga",
+    "italian": "it",
+    "japanese": "ja",
+    "javanese": "jw",
+    "kannada": "kn",
+    "kazakh": "kk",
+    "khmer": "km",
+    "kinyarwanda": "rw",
+    "konkani": "gom",
+    "korean": "ko",
+    "krio": "kri",
+    "kurdish (kurmanji)": "ku",
+    "kurdish (sorani)": "ckb",
+    "kyrgyz": "ky",
+    "lao": "lo",
+    "latin": "la",
+    "latvian": "lv",
+    "lingala": "ln",
+    "lithuanian": "lt",
+    "luganda": "lg",
+    "luxembourgish": "lb",
+    "macedonian": "mk",
+    "maithili": "mai",
+    "malagasy": "mg",
+    "malay": "ms",
+    "malayalam": "ml",
+    "maltese": "mt",
+    "maori": "mi",
+    "marathi": "mr",
+    "meiteilon (manipuri)": "mni-Mtei",
+    "mizo": "lus",
+    "mongolian": "mn",
+    "myanmar": "my",
+    "nepali": "ne",
+    "norwegian": "no",
+    "odia (oriya)": "or",
+    "oromo": "om",
+    "pashto": "ps",
+    "persian": "fa",
+    "polish": "pl",
+    "portuguese": "pt",
+    "punjabi": "pa",
+    "quechua": "qu",
+    "romanian": "ro",
+    "russian": "ru",
+    "samoan": "sm",
+    "sanskrit": "sa",
+    "scots gaelic": "gd",
+    "sepedi": "nso",
+    "serbian": "sr",
+    "sesotho": "st",
+    "shona": "sn",
+    "sindhi": "sd",
+    "sinhala": "si",
+    "slovak": "sk",
+    "slovenian": "sl",
+    "somali": "so",
+    "spanish": "es",
+    "sundanese": "su",
+    "swahili": "sw",
+    "swedish": "sv",
+    "tajik": "tg",
+    "tamil": "ta",
+    "tatar": "tt",
+    "telugu": "te",
+    "thai": "th",
+    "tigrinya": "ti",
+    "tsonga": "ts",
+    "turkish": "tr",
+    "turkmen": "tk",
+    "twi": "ak",
+    "ukrainian": "uk",
+    "urdu": "ur",
+    "uyghur": "ug",
+    "uzbek": "uz",
+    "vietnamese": "vi",
+    "welsh": "cy",
+    "xhosa": "xh",
+    "yiddish": "yi",
+    "yoruba": "yo",
+    "zulu": "zu",
 }
 
 SUPPORTED_ESPEAK = set(EspeakBackend.supported_languages().keys())
@@ -130,42 +194,36 @@ def detect_language(text: str) -> str | None:
     except LangDetectException:
         return None
 
-    espeak_tag = LANG_MAP.get(lang_code)
-
-    # If not in our map, try the raw code directly against espeak's list
-    if not espeak_tag:
-        if lang_code in SUPPORTED_ESPEAK:
-            espeak_tag = lang_code
-        else:
-            # Try prefix match (e.g. "zh-cn" → "cmn")
-            prefix = lang_code.split("-")[0]
-            matches = [tag for tag in SUPPORTED_ESPEAK if tag == prefix or tag.startswith(prefix + "-")]
-            espeak_tag = matches[0] if matches else None
+    espeak_tag = lang_code
+    if lang_code in SUPPORTED_ESPEAK:
+        espeak_tag = lang_code
+    else:
+        # Try prefix match (e.g. "zh-cn" → "cmn")
+        prefix = lang_code.split("-")[0]
+        matches = [tag for tag in SUPPORTED_ESPEAK if tag == prefix or tag.startswith(prefix + "-")]
+        espeak_tag = matches[0] if matches else None
 
     return espeak_tag
 
 
-def convert_to_ipa(text: str, lang: str, with_stress: bool, separator: str) -> str:
+def convert_ipa(text: list[str], lang: str, with_stress: bool, separator: str) -> str:
     """Convert a block of text to IPA using the espeak-ng backend."""
-    lines = text.splitlines()
+
     ipa_lines = []
+    
 
-    for line in lines:
-        if not line.strip():
-            ipa_lines.append("")
-            continue
-
-        ipa = phonemize(
-            line,
+    ipa = phonemize(
+            text,
             backend="espeak",
             language=lang,
             with_stress=with_stress,
             njobs=1,
             separator=Separator(word=separator, phone="", syllable=""),
+            preserve_empty_lines= True
         )
-        ipa_lines.append(ipa.strip())
+    time.sleep(0.2)
 
-    return "\n".join(ipa_lines)
+    return "\n".join(ipa)
 
 
 def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
@@ -194,11 +252,20 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
             lang = forced_lang
             print(f"  Language: {lang} (forced)")
         else:
-            lang = detect_language(text)
+            try:
+                for language in LANG_MAP:
+                    if file.name.find(language) != -1:
+                        lang = LANG_MAP[language]
+                        break
+            except LangDetectException:
+                    return None
+            
+            if lang not in SUPPORTED_ESPEAK:
+                lang = detect_language(text)
             if not lang:
-                print("  Could not detect language — skipping.\n")
-                failed.append(file.name)
-                continue
+                    print("  Could not detect language — skipping.\n")
+                    failed.append(file.name)
+                    continue
             print(f"  Detected language: {lang}")
 
         if lang not in SUPPORTED_ESPEAK:
@@ -207,7 +274,8 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
             continue
 
         try:
-            ipa_text = convert_to_ipa(text, lang, with_stress, separator)
+            text = text.splitlines()
+            ipa_text = convert_ipa(text, lang, with_stress, separator)
             out_path = OUTPUT_DIR / f"{file.stem}_ipa.txt"
             out_path.write_text(ipa_text, encoding="utf-8")
             print(f"  Saved → {out_path}\n")
