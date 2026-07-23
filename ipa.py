@@ -253,9 +253,9 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
             print(f"  Language: {lang} (forced)")
         else:
             try:
-                for language in LANG_MAP:
+                for language in LANG_MAP.values():
                     if file.name.find(language) != -1:
-                        lang = LANG_MAP[language]
+                        lang = language
                         break
             except LangDetectException:
                     return None

@@ -33,7 +33,7 @@ except ImportError:
         "Install it with: pip install deep-translator"
     )
 
-MAX_CHUNK_SIZE = 1500  # stay safely under the translator's ~5000 char limit
+MAX_CHUNK_SIZE = 4500  # stay safely under the translator's ~5000 char limit
 
 
 def chunk_text(text: str, max_size: int = MAX_CHUNK_SIZE):
@@ -68,7 +68,7 @@ def chunk_text(text: str, max_size: int = MAX_CHUNK_SIZE):
     return chunks
 
 
-def translate_file(input_path: str, target_lang: str, source_lang: str = "auto", output_path: Path = None):
+def translate_file(translator: GoogleTranslator,input_path: str, target_lang: str, source_lang: str = "auto", output_path: Path = None):
     in_path = Path(input_path)
     if not in_path.exists():
         sys.exit(f"Input file not found: {input_path}")
@@ -76,13 +76,14 @@ def translate_file(input_path: str, target_lang: str, source_lang: str = "auto",
     text = in_path.read_text(encoding="utf-8")
     if not text.strip():
         sys.exit("Input file is empty.")
-
-    translator = GoogleTranslator(source=source_lang, target=target_lang) #Don't initiate a bunch of these, instead change the translator.source/translator.target
+    
+     #Don't initiate a bunch of these, instead change the translator.source/translator.target
+    translator.target= target_lang
     chunks = chunk_text(text)
 
     translated_chunks = []
     for i, chunk in enumerate(chunks, start=1):
-        print(f"Translating chunk {i}/{len(chunks)}...")
+        print(f"Translating chunk {i}/{len(chunks)}... to {translator.target} from {translator.source}")
         translated_chunks.append(translator.translate(chunk))
 
     translated_text = "\n".join(translated_chunks)
@@ -103,83 +104,7 @@ def main():
     #parser.add_argument("--output", default=None, help="Path for the translated output file")
     
     target_languages = {
-    "afrikaans": "af",
-    "albanian": "sq",
-    "amharic": "am",
-    "arabic": "ar",
-    "armenian": "hy",
-    "assamese": "as",
-    "aymara": "ay",
-    "azerbaijani": "az",
-    "bambara": "bm",
-    "basque": "eu",
-    "belarusian": "be",
-    "bengali": "bn",
-    "bhojpuri": "bho",
-    "bosnian": "bs",
-    "bulgarian": "bg",
-    "catalan": "ca",
-    "cebuano": "ceb",
-    "chichewa": "ny",
-    "chinese (simplified)": "zh-CN",
-    "chinese (traditional)": "zh-TW",
-    "corsican": "co",
-    "croatian": "hr",
-    "czech": "cs",
-    "danish": "da",
-    "dhivehi": "dv",
-    "dogri": "doi",
-    "dutch": "nl",
-    "english": "en",
-    "esperanto": "eo",
-    "estonian": "et",
-    "ewe": "ee",
-    "filipino": "tl",
-    "finnish": "fi",
-    "french": "fr",
-    "frisian": "fy",
-    "galician": "gl",
-    "georgian": "ka",
-    "german": "de",
-    "greek": "el",
-    "guarani": "gn",
-    "gujarati": "gu",
-    "haitian creole": "ht",
-    "hausa": "ha",
-    "hawaiian": "haw",
-    "hebrew": "iw",
-    "hindi": "hi",
-    "hmong": "hmn",
-    "hungarian": "hu",
-    "icelandic": "is",
-    "igbo": "ig",
-    "ilocano": "ilo",
-    "indonesian": "id",
-    "irish": "ga",
-    "italian": "it",
-    "japanese": "ja",
-    "javanese": "jw",
-    "kannada": "kn",
-    "kazakh": "kk",
-    "khmer": "km",
-    "kinyarwanda": "rw",
-    "konkani": "gom",
-    "korean": "ko",
-    "krio": "kri",
-    "kurdish (kurmanji)": "ku",
-    "kurdish (sorani)": "ckb",
-    "kyrgyz": "ky",
-    "lao": "lo",
-    "latin": "la",
-    "latvian": "lv",
-    "lingala": "ln",
-    "lithuanian": "lt",
-    "luganda": "lg",
-    "luxembourgish": "lb",
-    "macedonian": "mk",
-    "maithili": "mai",
-    "malagasy": "mg",
-    "malay": "ms",
+
     "malayalam": "ml",
     "maltese": "mt",
     "maori": "mi",
@@ -238,9 +163,10 @@ def main():
     "zulu": "zu",
 }
     output= Path("translated")
+    translator = GoogleTranslator(source='en',target='fr')
     for filename in os.listdir('source'):
         for language in target_languages:
-            translate_file(os.path.join('source',filename),language,'auto',output)
+            translate_file(translator,os.path.join('source',filename),target_languages[language],'auto',output)
     args = parser.parse_args()
     'translate_file(args.input_file, args.target_language, args.source, args.output)'
 
