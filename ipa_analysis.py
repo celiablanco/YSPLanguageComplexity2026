@@ -77,7 +77,7 @@ for file in files:
 
 df = pd.DataFrame(results)
 
-df = df.sort_values("Language")
+df = df.sort_values("Character Count")
 
 df.head()
 
@@ -93,52 +93,42 @@ df.to_csv("character_statistics.csv", index=False)
 print("Saved as character_statistics.csv")
 
 import matplotlib.pyplot as plt
+import numpy as np
 
 plt.figure(figsize=(20,6))
+plt.scatter(df["Language"], df["Character Count"])
+plt.grid(axis='y')
+plt.xticks(rotation=90)
+plt.ylabel("Character Count")
+plt.title(f"Character Count Across {len(files)} Languages")
+plt.tight_layout()
+plt.savefig(f"character_analysis_v2/IPA Character_Count for {len(files)} Languages.png", dpi=300, bbox_inches="tight")
 
-plt.bar(df["Language"], df["Character Count"])
+plt.figure(figsize=(20,6))
+plt.scatter(df["Language"], df["Character Count (No Spaces)"])
+plt.grid(axis='y')
+plt.xticks(rotation=90)
+plt.ylabel("Character Count (No Spaces)")
+plt.title(f"Character Count (No Spaces) Across {len(files)} Languages")
+plt.tight_layout()
+plt.savefig(f"character_analysis_v2/IPA Character Count (No Spaces) for {len(files)} Languages.png", dpi=300, bbox_inches="tight")
 
+x=np.array(df["Language"])
+y=np.array(df["Character Count"])
+plt.scatter(x,y, color = 'blue')
+plt.grid(axis='y')
+plt.xticks(rotation=90)
+y=np.array(df["Character Count (No Spaces)"])
+plt.scatter(x,y,color = 'red')
+plt.grid(axis='y')
 plt.xticks(rotation=90)
 
 plt.ylabel("Character Count")
-
-plt.title("Character Count Across 133 Languages")
-
+plt.title(f"Character Count With (Blue) and Without (Red) Spaces Across {len(files)} Languages")
 plt.tight_layout()
-plt.savefig("character_analysis_v2/Character_Count_Across_133_Languages.png", dpi=300, bbox_inches="tight")
+plt.savefig(f"character_analysis_v2/IPA Character Count With and Without Spaces for {len(files)} Languages.png", dpi=300, bbox_inches="tight")
 
 
-plt.show()
-
-plt.figure(figsize=(20,6))
-
-plt.bar(df["Language"], df["Unique Characters"])
-
-plt.xticks(rotation=90)
-
-plt.ylabel("Unique Characters")
-
-plt.title("Unique Characters Used")
-
-plt.tight_layout()
-plt.savefig("character_analysis_v2/unique_characters.png", dpi=300, bbox_inches="tight")
-
-plt.show()
-
-plt.figure(figsize=(20,6))
-
-plt.bar(df["Language"], df["Characters / Word"])
-
-plt.xticks(rotation=90)
-
-plt.ylabel("Characters per Word")
-
-plt.title("Average Characters per Word")
-
-plt.tight_layout()
-plt.savefig("character_analysis_v2/average_characters_per_word.png", dpi=300, bbox_inches="tight")
-
-plt.show()
 
 from collections import Counter
 

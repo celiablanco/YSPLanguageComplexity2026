@@ -184,26 +184,8 @@ LANG_MAP: dict[str,str]={
     "zulu": "zu",
 }
 
-SUPPORTED_ESPEAK = set(EspeakBackend.supported_languages().keys())
+SUPPORTED_ESPEAK = EspeakBackend.supported_languages()
 
-
-def detect_language(text: str) -> str | None:
-    """Return the best-matching espeak-ng language tag for the given text."""
-    try:
-        lang_code = detect(text)
-    except LangDetectException:
-        return None
-
-    espeak_tag = lang_code
-    if lang_code in SUPPORTED_ESPEAK:
-        espeak_tag = lang_code
-    else:
-        # Try prefix match (e.g. "zh-cn" → "cmn")
-        prefix = lang_code.split("-")[0]
-        matches = [tag for tag in SUPPORTED_ESPEAK if tag == prefix or tag.startswith(prefix + "-")]
-        espeak_tag = matches[0] if matches else None
-
-    return espeak_tag
 
 
 def convert_ipa(text: list[str], lang: str, with_stress: bool, separator: str) -> str:
@@ -239,7 +221,13 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
     success, failed, skipped = [], [], []
 
     for file in txt_files:
+        lang = None
         print(f"[{file.name}]")
+        out_path= f"{file.stem}_ipa.txt"
+        if os.path.exists(out_path):
+            print(f"{file.name} -> already done, skipping")
+            continue
+
         text = file.read_text(encoding="utf-8")
 
         if not text.strip():
@@ -253,22 +241,20 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
             print(f"  Language: {lang} (forced)")
         else:
             try:
-                for language in LANG_MAP.values():
-                    if file.name.find(language) != -1:
-                        lang = language
+                for (language,tag) in LANG_MAP.items():
+                    if file.name.find(f"_{tag}.txt") != -1:
+                        lang = tag
                         break
             except LangDetectException:
                     return None
             
-            if lang not in SUPPORTED_ESPEAK:
-                lang = detect_language(text)
             if not lang:
                     print("  Could not detect language — skipping.\n")
                     failed.append(file.name)
                     continue
             print(f"  Detected language: {lang}")
 
-        if lang not in SUPPORTED_ESPEAK:
+        if lang not in SUPPORTED_ESPEAK.keys():
             print(f"  Language '{lang}' not supported by espeak-ng — skipping.\n")
             failed.append(file.name)
             continue
@@ -276,7 +262,7 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
         try:
             text = text.splitlines()
             ipa_text = convert_ipa(text, lang, with_stress, separator)
-            out_path = OUTPUT_DIR / f"{file.stem}_ipa.txt"
+            out_path = OUTPUT_DIR / f"{SUPPORTED_ESPEAK[lang]}.txt"
             out_path.write_text(ipa_text, encoding="utf-8")
             print(f"  Saved → {out_path}\n")
             success.append(file.name)
