@@ -33,7 +33,7 @@ except ImportError:
         "Install it with: pip install deep-translator"
     )
 
-MAX_CHUNK_SIZE = 4500  # stay safely under the translator's ~5000 char limit
+MAX_CHUNK_SIZE = 1500  # stay safely under the translator's ~5000 char limit
 
 
 def chunk_text(text: str, max_size: int = MAX_CHUNK_SIZE):
@@ -78,6 +78,7 @@ def translate_file(translator: GoogleTranslator,input_path: str, target_lang: st
         sys.exit("Input file is empty.")
     
      #Don't initiate a bunch of these, instead change the translator.source/translator.target
+    translator.source = source_lang
     translator.target= target_lang
     chunks = chunk_text(text)
 
@@ -105,6 +106,83 @@ def main():
     
     target_languages = {
 
+    "afrikaans": "af",
+    "albanian": "sq",
+    "amharic": "am",
+    "arabic": "ar",
+    "armenian": "hy",
+    "assamese": "as",
+    "aymara": "ay",
+    "azerbaijani": "az",
+    "bambara": "bm",
+    "basque": "eu",
+    "belarusian": "be",
+    "bengali": "bn",
+    "bhojpuri": "bho",
+    "bosnian": "bs",
+    "bulgarian": "bg",
+    "catalan": "ca",
+    "cebuano": "ceb",
+    "chichewa": "ny",
+    "chinese (simplified)": "zh-CN",
+    "chinese (traditional)": "zh-TW",
+    "corsican": "co",
+    "croatian": "hr",
+    "czech": "cs",
+    "danish": "da",
+    "dhivehi": "dv",
+    "dogri": "doi",
+    "dutch": "nl",
+    "english": "en",
+    "esperanto": "eo",
+    "estonian": "et",
+    "ewe": "ee",
+    "filipino": "tl",
+    "finnish": "fi",
+    "french": "fr",
+    "frisian": "fy",
+    "galician": "gl",
+    "georgian": "ka",
+    "german": "de",
+    "greek": "el",
+    "guarani": "gn",
+    "gujarati": "gu",
+    "haitian creole": "ht",
+    "hausa": "ha",
+    "hawaiian": "haw",
+    "hebrew": "iw",
+    "hindi": "hi",
+    "hmong": "hmn",
+    "hungarian": "hu",
+    "icelandic": "is",
+    "igbo": "ig",
+    "ilocano": "ilo",
+    "indonesian": "id",
+    "irish": "ga",
+    "italian": "it",
+    "japanese": "ja",
+    "javanese": "jw",
+    "kannada": "kn",
+    "kazakh": "kk",
+    "khmer": "km",
+    "kinyarwanda": "rw",
+    "konkani": "gom",
+    "korean": "ko",
+    "krio": "kri",
+    "kurdish (kurmanji)": "ku",
+    "kurdish (sorani)": "ckb",
+    "kyrgyz": "ky",
+    "lao": "lo",
+    "latin": "la",
+    "latvian": "lv",
+    "lingala": "ln",
+    "lithuanian": "lt",
+    "luganda": "lg",
+    "luxembourgish": "lb",
+    "macedonian": "mk",
+    "maithili": "mai",
+    "malagasy": "mg",
+    "malay": "ms",
     "malayalam": "ml",
     "maltese": "mt",
     "maori": "mi",
@@ -160,10 +238,10 @@ def main():
     "xhosa": "xh",
     "yiddish": "yi",
     "yoruba": "yo",
-    "zulu": "zu",
+    "zulu": "zu"
 }
     output= Path("translated")
-    translator = GoogleTranslator(source='en',target='fr')
+    translator = GoogleTranslator(source='auto',target='fr')
     for filename in os.listdir('source'):
         for language in target_languages:
             translate_file(translator,os.path.join('source',filename),target_languages[language],'auto',output)

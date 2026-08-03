@@ -133,7 +133,7 @@ LANG_MAP: dict[str,str]={
     "meiteilon (manipuri)": "mni-Mtei",
     "mizo": "lus",
     "mongolian": "mn",
-    "myanmar": "my",
+ #   "myanmar": "my",
     "nepali": "ne",
     "norwegian": "no",
     "odia (oriya)": "or",
@@ -223,18 +223,7 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
     for file in txt_files:
         lang = None
         print(f"[{file.name}]")
-        out_path= f"{file.stem}_ipa.txt"
-        if os.path.exists(out_path):
-            print(f"{file.name} -> already done, skipping")
-            continue
-
-        text = file.read_text(encoding="utf-8")
-
-        if not text.strip():
-            print("  Skipped (empty file).\n")
-            skipped.append(file.name)
-            continue
-
+        
         # Determine language
         if forced_lang:
             lang = forced_lang
@@ -258,11 +247,22 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
             print(f"  Language '{lang}' not supported by espeak-ng — skipping.\n")
             failed.append(file.name)
             continue
+        out_path= f"{file.stem}{SUPPORTED_ESPEAK[lang]}.txt"
+        out_path= OUTPUT_DIR / out_path
+        if os.path.exists(out_path):
+            print(f"{file.name} -> already done, skipping")
+            continue
 
+        text = file.read_text(encoding="utf-8")
+
+        if not text.strip():
+            print("  Skipped (empty file).\n")
+            skipped.append(file.name)
+            continue
         try:
             text = text.splitlines()
             ipa_text = convert_ipa(text, lang, with_stress, separator)
-            out_path = OUTPUT_DIR / f"{SUPPORTED_ESPEAK[lang]}.txt"
+            out_path = OUTPUT_DIR / f"{file.stem}{SUPPORTED_ESPEAK[lang]}.txt"
             out_path.write_text(ipa_text, encoding="utf-8")
             print(f"  Saved → {out_path}\n")
             success.append(file.name)
