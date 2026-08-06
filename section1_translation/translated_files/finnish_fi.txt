@@ -1,0 +1,903 @@
+FEDERALIST No. 1. Yleinen johdanto 
+Independent Journalille. lauantaina 27. lokakuuta 1787 
+HAMILTON 
+New Yorkin osavaltion ihmisille: 
+sen jälkeen, kun olet saanut yksiselitteisen kokemuksen olemassa olevan liittovaltion hallituksen tehottomuudesta, sinua pyydetään 
+pohtimaan Amerikan yhdysvaltojen uutta perustuslakia. Aihe puhuu oman merkityksensä; 
+ymmärtäen sen seurauksia ei vähempää kuin UNIONin olemassaolon, unionin turvallisuuden ja hyvinvoinnin 
+osia, joista se koostuu, imperiumin kohtalo monessa suhteessa maailman mielenkiintoisin. On 
+on usein huomautettu, että se näyttää olevan varattu tämän maan ihmisille heidän käytöksensä ja 
+Esimerkiksi ratkaisemaan tärkeä kysymys, pystyvätkö miesten yhteiskunnat todella perustamaan vai eivät 
+hyvä hallitus pohdiskelun ja valinnan perusteella vai ovatko he ikuisesti määrätty riippuvaisiksi poliittisista asioistaan 
+onnettomuutta ja voimaa koskevat perustuslait. Jos huomautuksessa on totuutta, kriisi, johon olemme päässeet, saattaa olla 
+soveliasta pitää aikakautena, jolloin tämä päätös on tehtävä; ja meidän osamme väärä valinta 
+Tämän näkemyksen mukaan se voi ansaita sen, että sitä pidetään ihmiskunnan yleisenä onnettomuutena. 
+Tämä ajatus lisää hyväntekeväisyyden kannustimia isänmaallisuuden kansojen lisäksi lisätäkseen huolenpitoa, jota kaikki 
+huomaavaisten ja hyvien miesten täytyy suhtautua tapahtumaan. Onnellista on, jos valintaamme ohjaa a 
+harkittu arvio todellisista etuistamme, hämmentämättä ja puolueeton näkökohdista, jotka eivät liity tähän 
+yleinen etu. Mutta tätä on kiihkeämmin toivottava kuin vakavasti odotettavissa oleva asia. Suunnitelma tarjottiin meille 
+Pohdinnat vaikuttavat liian moniin erityisiin etuihin, innovoivat liian monia paikallisia instituutioita, joita ei voida ottaa mukaan 
+sen keskustelu monista sen ansioille vieraista aiheista sekä näkemyksistä, intohimoista ja ennakkoluuloista, jotka eivät ole kovin suotuisia 
+totuuden löytäminen. 
+Yksi suurimmista esteistä, jotka uuden perustuslain on kohdattava 
+On huomattava, että jokaisessa valtiossa on tietyn ihmisluokan ilmeinen kiinnostus vastustaa kaikkia mahdollisia muutoksia 
+uhkaavat heikentää heidän valtion alaisuudessaan hoitamiensa tehtävien valtaa, palkkaa ja seurauksia 
+laitokset; ja toisen ihmisluokan kieroutunut kunnianhimo, joka joko toivoo voivansa ylistää 
+itseään maansa hämmennysten takia tai imartelevat itseään oikeudenmukaisemmilla näkymin kohota 
+valtakunnan jakaminen useisiin osittaisiin konfederaatioihin kuin sen liitosta yhden hallituksen alaisuudessa. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+5/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+Tarkoitukseni ei kuitenkaan ole jäädä tämänkaltaisiin havaintoihin. Tiedän hyvin, että se olisi 
+järjetöntä ratkaisemaan umpimähkäisesti minkä tahansa miehen vastustusta (vain siksi, että heidän tilanteensa saattaa 
+altistaa heidät epäilyille) kiinnostuneiksi tai kunnianhimoisiksi näkemyksiksi. Suorapuheisuus pakottaa meidät myöntämään, että jopa sellaiset miehet 
+voidaan käynnistää pystyasennossa; ja ei voida epäillä, että suuri osa vastustuksesta on tehnyt sen 
+ulkonäkö tai saattaa ilmetä myöhemmin, tulee lähteistä, ainakin moitteeton, ellei kunnioitettava 
+– ennakkoluuloton kateus ja pelot johtivat harhaan mielen rehelliset erehdykset. Niin monia todellakin ja niin 
+voimakkaita ovat syyt, jotka antavat väärän harhaan tuomiolle, jonka me usein näemme viisaana 
+ja hyviä miehiä niin väärällä kuin oikealla puolella yhteiskunnan kannalta ensiarvoisen suurissa kysymyksissä. Tämä 
+Olosuhteet, jos niistä huolehditaan asianmukaisesti, antaisivat maltillisuuden oppitunnin niille, jotka ovat aina niin vakuuttuneita 
+siitä, että he ovat oikeassa missä tahansa kiistassa. Ja tässä suhteessa voidaan vetää lisäsyy varovaisuuteen 
+ajatuksesta, että emme aina ole varmoja, että puhtaampi vaikuttaa niihin, jotka puolustavat totuutta 
+periaatteita kuin vastustajiaan. Kunnianhimo, ahneus, henkilökohtainen vihamielisyys, puolueen vastustus ja monet muut 
+motiivit, jotka eivät ole sen kiitettävämpiä, ovat omiaan vaikuttamaan yhtä hyvin niitä, jotka kannattavat, kuin niitä, jotka vastustavat 
+kysymyksen oikea puoli. Ellei näitäkään maltillisuuksia olisi ollut, mikään ei voisi olla huonompaa 
+kuin se suvaitsematon henki, joka on aina ollut ominaista poliittisille puolueille. Sillä politiikassa, kuten uskonnossa, se on 
+yhtä absurdia pyrkiä tekemään käännynnäisiä tulella ja miekalla. Kummassakaan harhaoppia voidaan harvoin parantaa 
+vaino. 
+Ja kuitenkin, vaikka vain näiden tunteiden sallitaan olla, meillä on jo riittävästi viitteitä siitä 
+tapahtua tässä, kuten kaikissa aiemmissa suuren kansallisen keskustelun tapauksissa. Vihaisten ja pahanlaatuisten intohimojen tulva tulee 
+päästää irti. Vastakkaisten osapuolten käyttäytymisen perusteella päättelemme, että he tekevät niin 
+Toivovat molemminpuolisesti osoittavansa mielipiteidensä oikeudenmukaisuuden ja lisäävänsä käännynnäistensä määrää 
+heidän julistustensa äänekkyyttä ja heidän invektioidensa katkeruutta. Valaistunutta intoa energian ja 
+hallinnon tehokkuus leimataan despoottista valtaa rakastavan ja vihamielisen luonteen jälkeläisenä. 
+vapauden periaatteita. Liian tunnollinen mustasukkaisuus ihmisten oikeuksien vaarasta, mikä on enemmän 
+yleensä pään kuin sydämen vika esitetään pelkkänä teeskentelynä ja tekosyynä, vanhentuneena syöttinä 
+suosion vuoksi yleisen edun kustannuksella. Unohdetaan toisaalta, että mustasukkaisuus on tavallista 
+rakkauden myötä, ja että jalo vapauden innostus on taipuvainen saastumaan kapeaan ja 
+illiberaalista epäluottamuksesta. Toisaalta unohdetaan yhtä lailla, että hallituksen elinvoima on välttämätöntä 
+vapauden turvallisuus; että järkevää ja tietoon perustuvaa tuomiota pohdittaessa heidän etunsa ei voi koskaan olla 
+erotettu; ja että vaarallinen kunnianhimo piilee useammin omituisen innokkaan naamion takana 
+ihmisiä kuin kielletyn vaikutelman innokkuutta hallituksen lujuuden ja tehokkuuden puolesta. Historia tulee 
+opettaa meille, että edellinen on löydetty paljon varmemmaksi tie despotismin käyttöönotolle kuin jälkimmäinen, 
+ja että niistä miehistä, jotka ovat kumonneet tasavaltojen vapaudet, suurin osa on aloittanut uransa 
+maksamalla nöyryyttävän oikeuden kansalle; aloittavat demagogit ja lopettavat tyrannit. 
+Edellisten havaintojen aikana olen nähnyt, hyvät kansalaiseni, kiinnittämään teidät 
+varo kaikilta yrityksiltä, miltä taholta tahansa, vaikuttaa päätökseesi mahdollisimman pian 
+hyvinvointiasi muilla vaikutelmilla kuin ne, jotka voivat johtua totuuden todisteista. Tulet, ei 
+epäilystäkään, ovat samalla keränneet niiden yleisestä ulottuvuudesta, että ne lähtevät lähteestä ei 
+epäystävällinen uutta perustuslakia kohtaan. Kyllä, maanmieheni, omistan sen teille tarkkaavaisena 
+Olen selvästi sitä mieltä, että sinun etusi mukaista on hyväksyä se. Olen vakuuttunut, että tämä on turvallisin kurssi 
+vapautesi, arvokkuutesi ja onnellisuutesi vuoksi. En vaikuta varauksiin, joita en tunne. En huvita sinua 
+näyttäen harkitsevalta, kun olen päättänyt. Tunnustan teille rehellisesti vakaumukseni ja minä 
+antaa sinulle vapaasti syitä, joihin ne perustuvat. Tietoisuus hyvistä aikomuksista halveksii 
+epäselvyyttä. En kuitenkaan aio moninkertaistaa ammatteja tällä tavalla. Motiivini on pysyttävä tallessa 
+omaa rintaani. Argumenttini ovat avoimia kaikille, ja kaikki voivat tuomita ne. Niitä on tarjottava vähintään a 
+henki, joka ei häpeä totuuden asiaa. 
+Ehdotan julkaisusarjassa, että keskustelemme seuraavista mielenkiintoisista yksityiskohdista: 
+UNIONIN HYÖDYYS POLITILISELLE HYVINVOITTAMISELLE 
+NYKYISYYDET SÄILYTTÄVÄKSI TÄMÄ UNIONIN HALLITUKSEN TARVITTAESSA 
+VÄHIMMÄN YHTÄÄN ENERGIAA KUIN EHDOTETTU, TÄMÄN TARKOITUKSEN SAAVUTTAMISEKSI 
+ONKO EHDOTETUN PERUSTUSLAITON YMPÄRISTÖSOPIMUKSEN TODELLISIEN PERIAATTEIDEN mukainen. 
+TASAVALLAN HALLITUKSEN VERTAILUSSA OMAN VALTION PERUSTUSLAITTEESSA ja lopuksi 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+6/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+LISÄTURVALLISUUS, JOKA SEN KÄYTTÖÖNOTTO TAKAA TÄMÄN SÄILYTTÄMISEN 
+HALLITUKSEN LAJIT, VAPAUDELLE JA OMAISUUKSEEN. 
+Tämän keskustelun edetessä pyrin antamaan tyydyttävän vastauksen kaikkiin vastalauseisiin, jotka 
+ovat ilmestyneet, mikä saattaa näyttää vaativan huomiotasi. Voidaan ehkä pitää tarpeettomana esittää argumentteja UNIONin hyödyllisyyden osoittamiseksi, epäilemättä se asia, 
+syvästi kaiverrettu suuren kansan sydämiin kaikissa valtioissa ja sellaisissa, joita voidaan kuvitella, 
+ei ole vastustajia. Mutta tosiasia on, että kuulemme sen jo kuiskattavan vastustajien yksityisissä piireissä 
+uuteen perustuslakiin, että kolmetoista valtiota ovat liian laajat mihinkään yleiseen järjestelmään ja että meidän on oltava 
+pakko turvautua erillisiin konfederaatioihin, jotka koostuvat kokonaisuuden eri osista.(1) Tämä oppi tulee kaikessa 
+todennäköisyydellä, levitetään asteittain, kunnes sillä on tarpeeksi ääniä hyväksyäkseen sen avoimen lupauksen. Ihan turhaan 
+voi olla selvempi niille, jotka pystyvät ottamaan laajemman näkemyksen aiheesta, kuin vaihtoehto 
+uuden perustuslain hyväksyminen tai unionin hajottaminen. Siitä on siis käyttöä aluksi 
+tutkia tuon unionin etuja, tiettyjä pahoja ja todennäköisiä vaaroja, joille jokainen valtio joutuu 
+alttiina sen hajoamisesta. Tämä on siten seuraavan puheeni aihe. 
+PUBLIUS 
+1. Sama ajatus, joka jäljittää argumentit niiden seurauksiin, esitetään useissa myöhäisissä julkaisuissa 
+uutta perustuslakia vastaan. 
+ 
+FEDERALIST No. 2. Vaarat 
+Ulkomaiset voimat ja vaikutusvalta 
+Independent Journalille. Keskiviikkona 31. lokakuuta 1787 
+JAY 
+New Yorkin osavaltion ihmisille: 
+KUN Amerikan ihmiset ajattelevat, että heitä on nyt pyydetty ratkaisemaan kysymys, joka sen 
+seuraukset, täytyy osoittautua yhdeksi tärkeimmistä, mikä on koskaan kiinnittänyt heidän huomionsa, heidän asiansa 
+hyvin kattava ja erittäin vakava näkemys asiasta on ilmeistä. 
+Mikään ei ole varmempaa kuin hallituksen välttämätön välttämättömyys, ja yhtä kiistatonta on, että 
+aina ja miten se on perustettu, ihmisten on luovutettava sille jotkin luonnollisista oikeuksistaan saadakseen sen 
+tarvittavilla voimilla. Siksi on pohdinnan arvoista, lisäisikö se kiinnostusta 
+Amerikan kansalle, että heidän pitäisi yleisiin tarkoituksiinsa olla yksi kansakunta, yhden liittovaltion hallituksen alaisuudessa, 
+tai että heidän tulisi jakaa itsensä erillisiin konfederaatioihin ja antaa kunkin päämiehelle samanlainen 
+valtaa, joka niitä kehotetaan antamaan yhdelle kansalliselle hallitukselle. 
+Viime aikoihin asti on ollut vastaanotettu ja kiistaton mielipide, että Amerikan kansan vauraus 
+riippui heidän jatkuvastaan lujasti yhtenäisyydestään sekä parhaiden ja viisaimpien kansalaistemme toiveista, rukouksista ja ponnisteluista 
+on jatkuvasti suunnattu kyseiseen kohteeseen. Mutta nyt ilmestyy poliitikkoja, jotka väittävät tämän mielipiteen olevan virheellinen, 
+ja että sen sijaan, että etsisimme turvaa ja onnea liitosta, meidän pitäisi etsiä sitä valtioiden jakautumisesta 
+erilliset konfederaatiot tai suvereniteetit. Kuinka erikoiselta tämä uusi oppi näyttääkin, se on kuitenkin sitä 
+sen puolestapuhujat; ja tietyt hahmot, jotka vastustivat sitä aiemmin, ovat tällä hetkellä numerossa. 
+Riippumatta siitä, mitkä argumentit tai kannustimet ovat saaneet aikaan tämän muutoksen tunteissa ja 
+Näiden herrojen julistusten perusteella ei varmastikaan olisi viisasta yleisesti ottaen hyväksyä näitä uusia poliittisia asioita 
+periaatteita olematta täysin vakuuttuneita siitä, että ne perustuvat totuuteen ja järkevään politiikkaan. 
+Minulle on usein ollut ilo huomata, että itsenäinen Amerikka ei koostunut irrallaan olevista ja kaukaisista 
+alueita, mutta tuo yksi yhdistetty, hedelmällinen, laajalle levinnyt maa oli osa läntisistä vapauden pojistamme. 
+Providence on erityisellä tavalla siunannut sitä erilaisilla maaperillä ja tuotantotavoilla ja kastellut sitä 
+lukemattomia puroja sen asukkaiden iloksi ja majoittumiseksi. Peräkkäinen purjehduskelpoinen vesi 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+7/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+muodostaa eräänlaisen ketjun reunojen ympärille, ikään kuin sitoakseen sen yhteen; kun taas maailman jaloimmat joet juoksevat 
+sopivilla etäisyyksillä, esittele heille valtateitä ystävällisten apuvälineiden ja keskinäisen yhteydenpidon helpottamiseksi 
+erilaisten tavaroiden kuljetus ja vaihto. Yhtä ilolla olen yhtä usein pannut merkille, että Providence on ollut iloinen voidessaan yhdistää tämän 
+maa yhdelle yhdistyneelle kansalle – kansalle, joka polveutuu samoista esivanhemmista ja puhui samaa kieltä, 
+tunnustavat samaa uskontoa, sitoutuvat samoihin hallituksen periaatteisiin, hyvin samankaltaisia tavoiltaan ja 
+tapoja, ja jotka yhteisillä neuvoilla, aseilla ja ponnisteluilla taistelevat rinta rinnan läpi pitkän ja verisen 
+sota, ovat jaloineet yleisen vapauden ja itsenäisyyden. 
+Tämä maa ja tämä kansa näyttävät olevan luotu toisilleen, ja näyttää siltä, ​​että se olisi suunniteltu 
+Varmuus, että perintö, joka on niin sopiva ja kätevä veljesjoukolle, jonka yhdistävät toisiinsa 
+vahvimmat siteet, ei saa koskaan jakautua useisiin epäsosiaalisiin, mustasukkaisiin ja vieraisiin suvereniteeteihin. 
+Samankaltaiset tunteet ovat tähän asti vallinneet meidän kaikkien miesten luokkien ja uskontokuntien keskuudessa. Kaikille 
+yleisissä tarkoituksissa olemme olleet yhtenäisesti yksi kansa, jokainen yksittäinen kansalainen kaikkialla nauttimassa samasta 
+kansalliset oikeudet, etuoikeudet ja suoja. Kansakuntana olemme tehneet rauhan ja sodan; kansana, joka meillä on 
+voitti yhteiset vihollisemme; kansakuntana olemme muodostaneet liittoutumia, tehneet sopimuksia ja tehneet niitä 
+erilaisia sopimuksia ja yleissopimuksia ulkomaisten valtioiden kanssa. 
+Vahva tunne liiton arvosta ja siunauksista sai ihmiset jo hyvin varhaisessa vaiheessa perustamaan 
+liittohallitus säilyttää ja säilyttää sen. He muodostivat sen melkein heti, kun heillä oli poliittinen olemassaolo; 
+ei, aikana, jolloin heidän asuntonsa olivat liekeissä, kun monet heidän kansalaisistaan vuotivat verta ja kun 
+vihamielisyyden ja autioitumisen edistyminen jätti vain vähän tilaa niille rauhallisille ja kypsille tiedusteluille ja pohdiskeluille, jotka 
+tulee koskaan edeltää viisaan ja tasapainoisen hallituksen muodostamista vapaalle kansalle. Se ei saa olla 
+ihmetteli, että hallitus, joka on perustettu niin epäsuotuisina aikoina, löytyisi kokeellisella tavalla 
+puutteellinen ja riittämätön siihen tarkoitukseen, johon sillä oli tarkoitus vastata. 
+Nämä älykkäät ihmiset huomasivat nämä puutteet ja katuivat niitä. Jatka edelleen yhtä kiintynyttä liittoon kuin 
+ihastuneena vapauteen he havaitsivat vaaran, joka välittömästi uhkasi entistä ja kaukaisempaa 
+jälkimmäinen; ja olla vakuuttuneita siitä, että molemmille riittää turvaa vain kansallisessa hallituksessa 
+viisaasti muotoiltuina he kuin yhdellä äänellä kutsuivat koolle myöhäisen vuosikongressin Philadelphiaan ottaakseen tämän tärkeän 
+harkittava aihe. 
+Tämä konventti koostui miehistä, joilla oli kansan luottamus, ja monilla heistä oli 
+heistä tulee erittäin tunnusomaisia isänmaallisuutensa, hyveensä ja viisautensa ansiosta aikoina, jotka koettelivat ihmisten mieliä ja sydämiä 
+miehet, ottivat raskaan tehtävän. Leudona rauhan kauden aikana, kun muut aiheet eivät ole miehittäytyneet, he 
+kulunut useita kuukausia viileässä, keskeytymättömässä ja päivittäisessä kuulemisessa; ja lopuksi olematta hämmästynyt 
+he esittelivät ja suosittelivat valtaa tai vaikutteita muista intohimoista paitsi rakkaudesta isänmaataan kohtaan 
+ihmiset yhteisten ja hyvin yksimielisten neuvostojensa tuottaman suunnitelman. 
+Myönnä, sillä niin on se tosiasia, että tämä suunnitelma on vain SUOSITELTUA, ei pakotettu, mutta muistakaa kuitenkin, että 
+sitä ei suositella SOKEAN hyväksynnän tai SOKEAN hyväksynnän; mutta siihen rauhalliseen ja avoimeen 
+harkinta, jota aiheen laajuus ja tärkeys vaativat ja mitä sen varmasti pitäisi tehdä 
+vastaanottaa. Mutta tämä (kuten tämän artikkelin edellisessä numerossa todettiin) on toivottua enemmän kuin odotettiin, 
+jotta sitä voidaan harkita ja tutkia. Kokemus entisestä tilaisuudesta opettaa meitä olemaan liian tottelemattomia 
+sellaisia toiveita. Vielä ei ole unohdettu, että perustellut pelot välittömästä vaarasta saivat ihmiset 
+Amerikka muodostaa ikimuistoisen kongressin 1774. Tuo elin suositteli heille tiettyjä toimenpiteitä 
+ja tapahtuma osoitti heidän viisautensa; kuitenkin on tuoreessa muistissamme, kuinka pian lehdistö alkoi 
+täynnä esitteitä ja viikkolehtiä juuri noita toimenpiteitä vastaan. Ei vain monet virkailijat 
+hallitus, joka totteli henkilökohtaisen edun käskyjä, mutta muut seurausten virheellisen arvion perusteella, 
+tai aiempien kiintymysten kohtuuton vaikutus tai jonka kunnianhimo kohdistui esineisiin, jotka eivät vastanneet toisiaan 
+yleinen etu, olivat väsymättömiä yrityksissään saada ihmiset hylkäämään tuon isänmaallisen neuvon. 
+kongressi. Monia todellakin petettiin ja eksytettiin, mutta suuri enemmistö ihmisistä perusteli ja päätti 
+harkiten; ja onnellisia he pohtiessaan tehneensä niin. 
+He katsoivat, että kongressi koostui monista viisaista ja kokeneista miehistä. Eli koolle kutsuttu 
+eri puolilta maata, he toivat mukanaan ja kommunikoivat toisilleen erilaisia hyödyllisiä 
+tietoja. Se, että ajan kuluessa he kulkivat yhdessä tutkien ja keskustelemassa totuudesta 
+maansa etujen vuoksi heidän on täytynyt hankkia siitä erittäin tarkkaa tietoa. Että he olivat 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+8/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+henkilökohtaisesti kiinnostuneita julkisesta vapaudesta ja hyvinvoinnista, ja siksi se ei ollut pienempi heidän taipumusnsa kuin 
+Heidän velvollisuutensa on suositella vain sellaisia toimenpiteitä, joita he kypsimmän harkinnan jälkeen todella pitivät järkevänä 
+ja suotavaa. 
+Nämä ja vastaavat näkökohdat saivat ihmiset sitten luottamaan suuresti järjestön harkintaan ja rehellisyyteen 
+kongressi; ja he kuuntelivat heidän neuvojaan huolimatta erilaisista taiteista ja yrityksistä, joilla heidät karkotettiin siitä. 
+Mutta jos kansalla yleisesti olisi syytä luottaa tuon kongressin miehiin, joista vain harvat olivat joutuneet täysin oikeuden eteen tai 
+yleisesti tiedossa, vielä suurempi syy heillä on nyt kunnioittaa konventin tuomiota ja neuvoja sen vuoksi 
+tunnetaan hyvin, että jotkut tuon kongressin arvostetuimmista jäsenistä, joita on sittemmin koettu ja 
+oikeutetusti hyväksytty isänmaallisuudelle ja kyvyille, ja jotka ovat vanhentuneet poliittisen tiedon hankkimisessa, olivat myös 
+tämän valmistelukunnan jäseniä ja ottamaan siihen kertyneet tietonsa ja kokemuksensa. 
+On huomionarvoista, että ei vain ensimmäinen, vaan jokainen seuraava kongressi, samoin kuin myöhäinen kongressi, 
+ovat poikkeuksetta yhtyneet ihmisten kanssa ajattelemaan, että Amerikan vauraus riippui sen unionista. Vastaanottaja 
+säilyttää ja säilyttää se oli ihmisten suuri tavoite muodostaessaan tuon yleissopimuksen, ja se on myös suuri 
+suunnitelma, jonka valmistelukunta on neuvonut heitä hyväksymään. Millä soveltuvuudella siis tai mitä varten 
+hyviä tarkoituksia, ovat yrityksiä tällä nimenomaisella ajanjaksolla, joita jotkut miehet ovat tehneet vähätellä sen merkitystä 
+Unioni? Tai miksi ehdotetaan, että kolme tai neljä konfederaatiota olisi parempi kuin yksi? Olen vakuuttunut omastani 
+oman mielen, että ihmiset ovat aina ajatellut oikein tästä aiheesta, ja että heidän yleismaailmallinen ja yhtenäinen 
+sitoutuminen unionin asiaan perustuu suuriin ja painaviin syihin, joita pyrin kehittämään ja 
+selittää joissakin seuraavissa papereissa. He, jotka edistävät ajatusta useiden erillisten konfederaatioiden korvaamisesta 
+konventin suunnitelman huone, näyttävät selvästi ennakoivan, että sen hylkääminen tekisi jatkuvuuden 
+unionin äärimmäisessä vaarassa. Näin varmasti olisi, ja toivon vilpittömästi, että se olisikin niin 
+Jokainen hyvä kansalainen selvästi ennakoi, että aina kun unioni hajoaa, Amerikka tekee sen 
+syytä huudahtaa runoilijan sanoin: "HYVÄSTI! PITKÄ JOHTI KAIKELLE SUURUUDENI." 
+PUBLIUS 
+ 
+FEDERALIST No. 3. Sama aihe 
+Jatkuu (koskee ulkomaalaisista vaaroista 
+Voima ja vaikutus) 
+Independent Journalille. lauantaina 3. marraskuuta 1787 
+JAY 
+New Yorkin osavaltion ihmisille: 
+EI OLE uusi havainto, että minkään maan ihmiset (jos, kuten amerikkalaiset, älykkäät ja 
+hyvin perillä oleva) adoptoivat harvoin ja pysyvät jatkuvasti monta vuotta virheellisessä mielipiteessään kunnioittaen 
+etuja. Tällä huomiolla on luonnollisesti taipumus luoda suurta kunnioitusta ihmisten korkeaa mielipidettä kohtaan 
+Amerikka on niin pitkään ja tasaisesti viihtynyt siitä, kuinka tärkeää on jatkaa lujasti yhtenäisyyttään 
+liittovaltion hallitukselle, jolla on riittävät valtuudet kaikkiin yleisiin ja kansallisiin tarkoituksiin. 
+Mitä huolellisemmin pohdin ja tutkin syitä, jotka näyttävät synnyttäneen tämän mielipiteen, 
+sitä enemmän olen vakuuttunut, että ne ovat vakuuttavia ja vakuuttavia. 
+Niiden monien esineiden joukossa, joihin viisas ja vapaa kansa pitää tarpeellisena kiinnittää huomionsa, on se 
+Heidän TURVALLISUUSSAAN huolehtiminen näyttää olevan ensimmäinen. Ihmisten TURVALLISUUS liittyy epäilemättä suureen 
+erilaisia olosuhteita ja näkökohtia, ja näin ollen se tarjoaa paljon liikkumavaraa niille, jotka haluavat määritellä 
+se tarkasti ja kattavasti. 
+Tällä hetkellä tarkoitan vain sitä, että se kunnioittaa turvallisuutta rauhan ja tyyneyden säilyttämiseksi, 
+sekä ulkomaisista aseista ja vaikutuksista johtuvia vaaroja vastaan, kuten myös samankaltaisista vaaroista 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+9/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+kotimaisista syistä. Koska edellinen näistä tulee ensin järjestyksessä, on sopivaa, että siitä keskustellaan ensimmäisenä. Anna 
+Sen vuoksi ryhdymme tutkimaan, eivätkö ihmiset ole oikeassa siinä, että sydämellinen unioni, jonka alainen on 
+tehokas kansallinen hallitus, antaa heille parhaan mahdollisen turvan vihollisuuksia vastaan 
+ulkomailla. 
+Maailmassa tapahtuneiden tai tapahtuvien sotien lukumäärä on aina olemassa 
+suhteessa niiden syiden määrään ja painoon, olivatpa ne TODELLA tai teeskenneltyjä, jotka provosoivat tai 
+KUTSU heidät. Jos tämä huomautus on oikeudenmukainen, on hyödyllistä tiedustella, ovatko niin monet VAIN syyt sodalle todennäköisiä 
+antaa YHDISTYNYT AMERIKA kuten DISUNITED America; sillä jos kävisi ilmi, että Yhdysvallat 
+antaa luultavasti vähiten, niin siitä seuraa, että tässä suhteessa unioni pyrkii eniten suojelemaan ihmisiä 
+rauhan tilassa muiden kansojen kanssa. 
+Sodan JUST syyt johtuvat suurimmaksi osaksi joko sopimusrikkomuksesta tai suorasta väkivallasta. 
+Amerikka on jo solminut sopimuksia peräti kuuden vieraan maan kanssa, ja kaikki, paitsi Preussi, ovat 
+merenkulun ja siksi voi ärsyttää ja vahingoittaa meitä. Hänellä on myös laajaa kauppaa Portugalin, Espanjan ja 
+Britanniassa, ja kahden viimeksi mainitun osalta on lisäksi otettava huomioon naapuruston seikka. 
+Amerikan rauhan kannalta on erittäin tärkeää, että hän noudattaa kansojen lakeja kaikkia näitä valtoja kohtaan, 
+ja minusta näyttää ilmeiseltä, että yksi kansallinen hallitus tekee tämän täydellisemmin ja täsmällisemmin 
+kuin se voisi olla joko kolmentoista erillisen valtion tai kolmen tai neljän erillisen liittovaltion kesken. 
+Koska kun tehokas kansallinen hallitus perustetaan, maan parhaat miehet eivät vain 
+suostumus palvelemaan, mutta myös yleensä nimitetään johtamaan sitä; vaikka kaupunki tai maa tai muu 
+vaikutusvaltaa, voi sijoittaa miehiä osavaltion kokouksiin tai senaatteihin, tuomioistuimiin tai toimeenpanevaan hallintoon 
+osastoilla, mutta yleisempi ja laajempi maine kyvyistä ja muista pätevyydestä on tarpeen 
+suositella miehiä kansallisen hallituksen tehtäviin, varsinkin kun sillä on laajin valintakenttä, 
+äläkä koskaan koe sitä oikeiden henkilöiden tarvetta, mikä ei ole harvinaista joissakin osavaltioissa. Näin ollen tulee 
+Seurauksena on, että kansallisen hallituksen hallinto, poliittiset neuvot ja oikeudelliset päätökset ovat 
+viisaampia, järjestelmällisempiä ja harkitsevampia kuin yksittäisten valtioiden ja siten tyydyttävämpiä 
+kunnioitusta muita kansoja kohtaan, samoin kuin TURVALLISTA meitä kohtaan. 
+Koska kansallisen hallituksen alaisuudessa sopimukset ja perussopimusten artiklat sekä kansakuntien lait tekevät niin 
+on aina selitettävä yhdessä mielessä ja pantava täytäntöön samalla tavalla, kun taas samat tuomiot 
+kohdat ja kysymykset kolmessatoista osavaltiossa tai kolmessa tai neljässä konfederaatiossa eivät aina ole yhtäpitäviä tai johdonmukaisia; 
+ja se, samoin kuin erilaisia riippumattomia tuomioistuimia ja tuomareita, jotka ovat eri ja riippumattomien nimittämiä 
+hallitukset, kuten erilaiset paikalliset lait ja edut, jotka voivat vaikuttaa niihin ja vaikuttaa niihin. Viisaus 
+yleissopimusta antaessaan tällaiset kysymykset ja nimeämien tuomioistuinten toimivaltaan ja tuomioihin 
+vastuussa vain yhdelle kansalliselle hallitukselle, ei voi olla liikaa kiitosta. 
+Koska nykyisen tappion tai edun mahdollisuus saattaa usein houkutella yhden tai kahden valtion hallituspuolueeseen 
+poikkea vilpittömästä uskosta ja oikeudenmukaisuudesta; mutta ne kiusaukset, jotka eivät tavoita muita valtioita, ja näin ollen 
+joilla on vain vähän tai ei ollenkaan vaikutusta kansalliseen hallitukseen, kiusaus on hedelmätön, ja hyvässä uskossa ja 
+oikeus säilyy. Ison-Britannian kanssa tehdyn rauhansopimuksen tapaus antaa tälle perustelulle suuren painoarvon. Sillä vaikka valtion hallituspuolueen pitäisi olla taipuvainen vastustamaan tällaisia kiusauksia, kuitenkin sellaisenaan 
+kiusaukset voivat johtua ja yleensä johtuvat valtiolle ominaisista olosuhteista, ja ne voivat vaikuttaa suureen 
+asukasmäärästä, hallituspuolue ei välttämättä aina pysty, jos haluaa, estää epäoikeudenmukaisuutta 
+meditoivat tai rankaisemaan hyökkääjiä. Mutta kansallinen hallitus, joka ei vaikuta paikallisiin 
+olosuhteissa, heitä ei pakoteta tekemään itse väärin eivätkä halua valtaa tai taipumusta siihen 
+estää tai rangaista sen tekemisiä muiden toimesta. 
+Toistaiseksi siis joko suunniteltujen tai tahattomien sopimusten ja kansakuntien lakien rikkomisen varaa JUST 
+sodan syistä, niitä ei voida ottaa kiinni yhden julkishallinnon alaisuudessa kuin useiden pienempien hallitusten alaisuudessa, ja 
+tässä suhteessa edellinen suosii eniten ihmisten TURVALLISUUTTA. 
+Mitä tulee sodan oikeudenmukaisiin syihin, jotka johtuvat suorasta ja laittomasta väkivallasta, se näyttää minulle yhtä selvältä 
+että yksi hyvä kansallinen hallitus tarjoaa huomattavasti enemmän turvaa tällaisia vaaroja vastaan kuin voidaan päätellä 
+mistä tahansa muusta neljänneksestä. 
+Koska tällaiset väkivaltaisuudet johtuvat useammin osan kuin kokonaisuuden intohimoista ja eduista; 
+yhdestä tai kahdesta valtiosta kuin unionista. Yksikään Intian sota ei ole vielä aiheuttanut hyökkäysten vuoksi 
+nykyinen liittohallitus, niin heikko kuin se on; mutta on useita tapauksia Intian vihollisuuksista 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+10/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+yksittäisten valtioiden sopimattoman käytöksen provosoima, jotka joko eivät pysty tai halua hillitä tai rankaista 
+rikokset ovat antaneet mahdollisuuden useiden viattomien asukkaiden teurastukseen. 
+Espanjan ja Ison-Britannian alueiden naapurusto, joka rajautuu tiettyihin valtioihin ja ei toisiin 
+rajoittaa riitojen syyt välittömämmin rajamaihin. Rajavaltiot, jos niitä on, ovat niitä 
+jotka äkillisen ärsytyksen impulssin ja ilmeisen kiinnostuksen tai loukkaantumisen nopean tunteen alaisena ovat todennäköisimmin 
+suoralla väkivallalla kiihottaakseen sotaa näitä kansoja vastaan; eikä mikään voi niin tehokkaasti välttää tätä vaaraa kuin a 
+kansallinen hallitus, jonka viisautta ja varovaisuutta eivät heikennä intohimot, jotka käynnistävät 
+osapuolet ovat heti kiinnostuneita. 
+Mutta kansallinen hallitus ei anna vain vähemmän oikeudenmukaisia sodan syitä, vaan se on myös enemmän mukana 
+heidän valtaansa mukauttaa ja sovittaa heidät sovinnollisesti. Ne ovat lauhkeampia ja viileämpiä, ja siinä 
+kunnioitus, kuten myös muissa, kykenee toimimaan viisaammin kuin loukkaava valtio. Ylpeys 
+valtiot, samoin kuin ihmiset, saa heidät luonnollisesti perustelemaan kaikkia tekojaan ja vastustaa niiden tunnustamista, 
+korjaamaan tai korjaamaan virheitään ja rikkomuksiaan. Tällaisissa tapauksissa se ei vaikuta kansalliseen hallitukseen 
+tätä ylpeyttä, mutta jatkaa maltillisesti ja rehellisesti harkitakseen ja päättääkseen sopivimman keinon 
+vapauttaa heidät heitä uhkaavista vaikeuksista. 
+Lisäksi on hyvin tunnettua, että tunnustukset, selitykset ja korvaukset hyväksytään usein sellaisina kuin ne 
+tyydyttävä vahvalta yhdistyneeltä kansakunnalta, joka hylättäisiin epätyydyttävänä, jos valtio tai 
+konfederaatio, jolla on vähän huomiota tai valtaa. 
+Vuonna 1685 Genovan osavaltio loukkasi Ludvig XIV:tä ja yritti rauhoitella häntä. Hän vaati 
+että he lähettäisivät dogensa tai päätuomarinsa neljän senaattorinsa kanssa RANSKAAN kysymään 
+hänen anteeksiantonsa ja vastaanottaa ehdot. Heidän oli alistuttava siihen rauhan vuoksi. Olisiko hän missään 
+tilaisuudessa ovat joko vaatineet tai saaneet vastaavanlaista nöyryytystä Espanjalta, Britannialta tai keneltä tahansa muulta 
+VOIMAKAS kansakunta? 
+PUBLIUS 
+ 
+FEDERALIST No. 4. Sama aihe 
+Jatkuu (koskee ulkomaalaisista vaaroista 
+Voima ja vaikutus) 
+Independent Journalille. Keskiviikkona 7. marraskuuta 1787 
+JAY 
+New Yorkin osavaltion ihmisille: 
+MINUN VIIMEISESSÄ paperissani esitettiin useita syitä, miksi ihmisten turvallisuus olisi parhaiten turvattu ammattiliitolla 
+sitä vaaraa vastaan, jolle se voi altistua muille kansoille annetuista VAIN syistä; ja ne syyt osoittavat 
+että tällaisia syitä ei vain annettaisi harvemmin, vaan ne olisivat myös helpompia ottaa huomioon a 
+kansallisen hallituksen kuin joko osavaltioiden hallitukset tai ehdotetut pienet konfederaatiot. Mutta Amerikan ihmisten turvallisuus ULKOMAAN voiman aiheuttamia vaaroja vastaan ei riipu vain heistä 
+eivät suostu antamaan OIKEAA sodan syitä muille kansoille, mutta myös niiden asettumisesta ja jatkamisesta 
+sellaiseen tilanteeseen, joka ei KUUTTA vihamielisyyttä tai loukkaamista; sillä ei tarvitse huomioida, että on TEISKENNÄTTY 
+sekä vain sodan syitä. 
+On liian totta, vaikka se onkin häpeällistä ihmisluonnon kannalta, että kansakunnat yleensä käyvät sotaa milloin tahansa 
+heillä on mahdollisuus saada sillä mitä tahansa; ei, absoluuttiset hallitsijat käyvät usein sotaa, kun heidän kansakuntansa 
+eivät saa siitä mitään, vaan ainoastaan henkilökohtaisiin tarkoituksiin ja esineisiin, kuten sotilaallisen kunnian jano, 
+kosto henkilökohtaisista loukkauksista, kunnianhimosta tai yksityisistä sopimuksista, joiden tarkoituksena on ylistää tai tukea heidän perhettään tai 
+partisaanit. Nämä ja monet muut motiivit, jotka vaikuttavat vain suvereenin mieleen, johtavat hänet usein 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+11/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+osallistua sotiin, joita oikeus tai kansansa ääni ja edut eivät pyhitä. Mutta näistä riippumatta 
+sotaan, jotka ovat yleisempiä absoluuttisissa monarkioissa, mutta jotka ansaitsevat huomiomme, 
+on muita, jotka vaikuttavat kansoihin yhtä usein kuin kuninkaisiin; ja joidenkin niistä havaitaan tutkimuksessa kasvavan 
+pois suhteellisesta tilanteestamme ja olosuhteistamme. 
+Ranskan ja Britannian kanssa olemme kilpailijoita kalataloudessa ja pystymme toimittamaan niiden markkinoille halvemmalla kuin he voivat. 
+itse, huolimatta kaikista pyrkimyksistä estää se omilla palkkioillaan tai ulkomaisten kalojen velvollisuuksilla. 
+Heidän ja useimpien muiden Euroopan maiden kanssa olemme kilpailijoita merenkulussa ja kuljetuskaupassa; ja me 
+pettää itsemme, jos oletamme, että joku heistä iloitsee nähdessään sen kukoistavan; kuljetusliiketoimintaamme varten 
+eivät voi kasvaa ilman, että he jossain määrin heikentävät heidän omaansa, se on enemmän heidän etunsa ja tulee olemaan enemmän heidän politiikkansa, 
+hillitä kuin edistää sitä. 
+Kiinaan ja Intiaan suuntautuvassa kaupassa puutumme useampaan kuin yhteen kansakuntaan, koska se antaa meille mahdollisuuden osallistua 
+etuja, jotka heillä oli tavallaan monopolisoitunut, ja koska me siten toimitamme itsellemme hyödykkeitä 
+joita ostimme heiltä. 
+Oman kauppamme laajentaminen omilla aluksillamme ei voi tuottaa mielihyvää millekään omistavalle kansakunnalle 
+alueilla tällä mantereella tai sen lähellä, koska tuotantomme halpa ja erinomaisuus lisäsi 
+läheisyyden olosuhteet sekä kauppiaidemme ja navigaattoriemme yritys ja osoite antavat meille paremman 
+jakaa näiden alueiden tarjoamia etuja, kuin niiden toiveet tai politiikka edellyttävät 
+suvereenit. 
+Espanjan mielestä on kätevää sulkea Mississippi meitä vastaan toisaalta, ja Iso-Britannia sulkee meidät pois 
+Pyhä Lawrence toisaalta; eikä kumpikaan heistä salli muita vesiä, jotka ovat heidän ja meidän välillämme 
+tulla keskinäisen kanssakäymisen ja liikenteen välineeksi. 
+Näistä ja vastaavista näkökohdista, jotka voisivat, jos ne ovat johdonmukaisia varovaisuuden kanssa, vahvistua ja 
+yksityiskohtaisesti, on helppo nähdä, että mustasukkaisuus ja levottomuudet voivat vähitellen liukua ihmisten mieliin ja kaappeihin. 
+muita kansakuntia, emmekä odota heidän katsovan edistymistämme unionissa, vallassa ja 
+seurauksena maalla ja merellä välinpitämättömyyden ja tyyneyden silmällä. 
+Amerikkalaiset ovat tietoisia siitä, että näistä olosuhteista voi syntyä houkutuksia sotaan 
+muilta, jotka eivät ole tällä hetkellä niin ilmeisiä, ja aina kun tällaiset kannustimet löytävät sopivan ajan ja tilaisuuden 
+toiminta, teeskentely värittää ja perustella niitä eivät ole puutteellisia. Pitävätkö he siis viisaasti liittoa ja 
+hyvä kansallinen hallitus tarpeen mukaan asettaa ja pitää heidät SELLAisessa TILANTEESSA kuin sen sijaan 
+KUTSUmalla sotaan, on taipumus tukahduttaa ja lannistaa sitä. Tilanne on paras mahdollinen tila 
+puolustukseen, ja se riippuu välttämättä maan hallituksesta, aseista ja resursseista. 
+Koska kokonaisuuden turvallisuus on kokonaisuuden etu, eikä siitä voida huolehtia ilman hallitustakaan 
+yksi tai useampi tai monta, tutkikaamme, onko yksi hyvä hallitus kyseessä olevaan tarkoitukseen verrattuna enemmän 
+pätevä kuin mikään muu annettu numero. Yksi hallitus voi kerätä ja hyödyntää kyvykkäimpien miesten kykyjä ja kokemusta missä tahansa osassa 
+unionista ne voivat löytyä. Se voi siirtyä yhtenäisten politiikan periaatteiden mukaisesti. Se voi harmonisoida, assimiloida ja 
+suojella useita osia ja jäseniä ja laajentaa sen ennakointia ja varotoimia jokaiseen. Vuonna 
+sopimuksia tehtäessä se pitää kokonaisuuden etua ja osien erityisetuja toisiinsa liittyvinä 
+kokonaisuuden kanssa. Se voi käyttää kokonaisuuden resursseja ja voimaa minkä tahansa tietyn osan puolustamiseen, 
+ja se helpommin ja nopeammin kuin osavaltioiden hallitukset tai erilliset konfederaatiot voivat tehdä, 
+konsertin ja järjestelmän yhtenäisyyden halu. Se voi asettaa miliisi yhden kurinpitosuunnitelman alle ja asettamalla heidän 
+virkamiehet, jotka ovat oikeassa alaisuudessa päätuomarin alaisuudessa, ikään kuin yhdistävät heidät yhdeksi 
+joukot ja tekevät niistä siten tehokkaampia kuin jos ne olisi jaettu kolmeentoista tai kolmeen tai neljään erilliseen osaan 
+itsenäisiä yrityksiä. 
+Millainen olisi Britannian miliisi, jos englantilaiset miliisi tottelisivat Englannin hallitusta, jos skottilaiset 
+miliisi totteli Skotlannin hallitusta, ja jos Walesin miliisi totteli Walesin hallitusta? Oletetaan 
+hyökkäys; pystyisivätkö nämä kolme hallitusta (jos ne ylipäätään suostuivat) kaikkine voimineen siihen 
+toimia vihollista vastaan niin tehokkaasti kuin Ison-Britannian yksittäinen hallitus tekisi? 
+Olemme kuulleet paljon Britannian laivastoista, ja saattaa tulla aika, jos olemme viisaita, jolloin 
+Amerikka saattaa kiinnittää huomiota. Mutta jos yksi kansallinen hallitus ei olisi säännellyt Britannian navigointia niin kuin 
+tehdä siitä merimiesten lastentarha – jos yksi kansallinen hallitus ei olisi käyttänyt kaikkia kansallisia keinoja ja keinoja 
+Laivastojen muodostamiseen tarvittavia materiaaleja, niiden kyvykkyyttä ja ukkosta ei olisi koskaan juhlittu. Antaa Englannin 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+12/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+saa navigointinsa ja laivastonsa – anna Skotlannin navigointinsa ja laivastonsa – anna Walesilla navigointinsa ja laivastonsa 
+- Irlannin navigointi ja laivasto - olkoot nämä neljä brittiläisen imperiumin osa-aluetta 
+neljä itsenäistä hallitusta, ja on helppo havaita, kuinka pian ne kukin supistuvat 
+merkityksettömyyttä. 
+Käytä näitä tosiasioita omaan tapaukseemme. Jätä Amerikka jaettuna kolmeentoista tai, jos haluat, kolmeen tai neljään 
+itsenäiset hallitukset – mitä armeijoita he voisivat nostaa ja maksaa – mitä laivastoja he voisivat koskaan toivoa? Jos 
+yhden kimppuun hyökättiin, lentäisivätkö muut sen avuksi ja käyttäisivät verensä ja rahansa sen puolustamiseen? Olisiko siellä 
+älkää olko vaarassa, että heidät imarrellaan puolueettomiksi sen valheellisilla lupauksilla tai liian suurella kiintymyksellä 
+jotta rauha heikkenee vaarantaen heidän rauhansa ja turvallisuuden naapureiden vuoksi, joista kenties 
+he ovat olleet kateellisia, ja kenen merkityksen he ovat tyytyväisiä nähdessään vähentyneen? Vaikka sellainen käytös tekisi 
+ei ole viisasta, se olisi kuitenkin luonnollista. Kreikan valtioiden ja muiden maiden historia, 
+Tällaisia tapauksia on runsaasti, eikä ole epätodennäköistä, että se, mitä niin usein on tapahtunut, tapahtuisi samanlaisissa tapauksissa 
+olosuhteissa, toistuu. 
+Mutta myönnä, että he saattavat olla halukkaita auttamaan tunkeutunutta valtiota tai konfederaatiota. Miten, milloin ja missä 
+missä suhteessa annetaan ihmisten ja rahan apua? Kuka komentaa liittoutuneiden armeijoita ja keneltä 
+saako hän heidän käskynsä? Kuka ratkaisee rauhanehdot ja riitatapauksissa mikä tuomari 
+päättää niiden välillä ja pakottaa suostumaan? Erilaiset vaikeudet ja haitat olisivat erottamattomia 
+tällaisesta tilanteesta; kun taas yksi hallitus valvoo yleisiä ja yhteisiä etuja ja yhdistää 
+ja ohjaamaan kokonaisuuden voimia ja resursseja, olisi vapaa kaikista näistä hämmennyksistä ja 
+enemmän ihmisten turvallisuuden vuoksi. 
+Mutta olipa tilanteemme mikä tahansa, olimmepa sitten tiukasti yhtenäisiä yhden kansallisen hallituksen alaisuudessa tai jakautuneet a 
+lukuisia konfederaatioita, on varmaa, että vieraat kansat tietävät ja näkevät sen täsmälleen sellaisena kuin se on; ja he toimivat 
+meitä kohtaan vastaavasti. Jos he näkevät, että kansallinen hallitus on tehokas ja hyvin hallinnoitu, kauppamme 
+varovaisesti säännelty, miliisimme asianmukaisesti organisoitu ja kurinalainen, resurssimme ja taloutemme huomaamattomasti 
+hallittu, luottomme palautettu, ihmiset vapaita, tyytyväisiä ja yhtenäisiä, he ovat paljon halukkaampia 
+vaalimaan ystävyyttämme kuin herättämään kaunaamme. Jos toisaalta he löytävät meidät joko puutteellisiksi tai puutteellisiksi 
+tehokas hallitus (jokainen valtio tekee oikein tai väärin, koska sen hallitsijat saattavat vaikuttaa sopivalta) tai jakautuvat kolmeen osaan 
+tai neljä itsenäistä ja luultavasti ristiriitaista tasavaltaa tai konfederaatiota, joista yksi on taipuvainen Britanniaan, toinen 
+Ranska ja kolmas Espanjalle, ja kenties pelataan toisiaan vastaan kolmella, mikä köyhä, säälittävä hahmo 
+tekee Amerikka heidän silmissään! Kuinka vastuussa hänestä tulisi paitsi heidän halveksuntaansa myös heidän suuttumuksensa, 
+ja kuinka pian rakas ostettu kokemus julistaisi, että kun kansa tai perhe jakautuu niin, se ei koskaan epäonnistu 
+itseään vastaan. 
+PUBLIUS 
+ 
+FEDERALIST No. 5. Sama aihe 
+Jatkuu (koskee ulkomaalaisista vaaroista 
+Voima ja vaikutus) 
+Independent Journalille. lauantaina 10. marraskuuta 1787 
+JAY 
+New Yorkin osavaltion ihmisille: 
+QUEEN ANNE esittää Skotlannin parlamentille 1. heinäkuuta 1706 päivätyssä kirjeessään joitakin huomautuksia 
+Englannin ja Skotlannin välille muodostuneen UNIONIN tärkeys ansaitsee huomiomme. aion 
+esitä yleisölle yksi tai kaksi ottetta siitä: "Koko ja täydellinen liitto on vankka perusta 
+kestävä rauha: Se turvaa uskontosi, vapautesi ja omaisuutesi; poistakaa vihollisuus keskenänne ja 
+kateutta ja erimielisyyksiä kahden valtakuntamme välillä. Sen täytyy lisätä voimaasi, rikkauksiasi ja kauppaasi; ja 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+13/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+tämä liitto koko saari, joka liittyy kiintymykseen ja on vapaa kaikista eri etuja koskevista peloista, 
+VASTUSTAA KAIKKI VIHOLLISIAAN." "Suosittelemme teille vilpittömästi rauhallisuutta ja yksimielisyyttä 
+tässä suuressa ja painavassa asiassa, jotta liitto saataisiin onnelliseen päätökseen, koska se on ainoa 
+TEHOKAS tapa turvata nykyinen ja tuleva onnellisuutemme ja pettää meidän ja sinun suunnittelumme 
+vihollisia, jotka epäilemättä tässä tapauksessa KÄYTTÄVÄT KORKEIMMAT YRITYSTEN ESTÄMISEKSI TAI 
+VIIVYTÄ TÄTÄ UNIONIA." 
+Edellisessä kirjoituksessa huomautettiin, että heikkous ja eripuraisuus kotona aiheuttaisivat vaaroja 
+ulkomailla; ja että mikään ei suojelisi meitä heiltä paremmin kuin liitto, voima ja hyvä hallitus 
+itsessämme. Tämä aihe on runsas, eikä sitä voi helposti tyhjentää. 
+Ison-Britannian historia on se, jonka tunnemme yleensä parhaiten, ja se antaa meille monia 
+hyödyllisiä oppitunteja. Saatamme hyötyä heidän kokemuksestaan ​​maksamatta hintaa, jonka se heille maksoi. Vaikka näyttää siltä 
+maalaisjärjelle on selvää, että tällaisen saaren ihmisten pitäisi olla vain yksi kansakunta, mutta huomaamme, että he olivat 
+kolmeen ikään jaettuna ja että nuo kolme olivat lähes jatkuvasti sekaantuneet riitoihin ja sotiin yhden kanssa 
+toinen. Huolimatta siitä, että heidän todellinen kiinnostuksensa mannermaita kohtaan oli todella sama, mutta kuitenkin 
+noiden kansojen taiteet, politiikka ja käytännöt, heidän keskinäinen mustasukkaisuus pidettiin jatkuvasti kiihtyneenä, ja 
+pitkiä vuosia ne olivat paljon hankalia ja hankalampia kuin hyödyllisiä ja auttavia kutakin 
+muu. 
+Pitäisikö Amerikan ihmisten jakaa itsensä kolmeen tai neljään kansakuntaan, eikö sama tapahtuisi? 
+Eikö samankaltaisia ​​mustasukkaisuutta syntyisi ja niitä vaalittaisiin samalla tavalla? Sen sijaan, että he olisivat "liittyneet kiintymykseen" 
+ja vapaa kaikesta pelosta eri "etujen" suhteen, kateus ja mustasukkaisuus sammuttaisivat pian luottamuksen ja 
+kiintymys ja jokaisen konfederaation osittaiset edut koko Amerikan yleisten etujen sijaan olisivat 
+politiikkansa ja pyrkimyksensä ainoat kohteet. Siksi he tekisivät aina, kuten useimmat muut RAJOITUKSET 
+olla joko sekaantunut riitoihin ja sotaan tai elää niiden jatkuvassa pidätyksessä. Järkevimmät kolmen tai neljän konfederaation puolustajat eivät voi kohtuudella olettaa, että he kaipaisivat 
+pysyä täsmälleen samassa asemassa vahvuuspisteissä, vaikka ne oli mahdollista muodostaa niin aluksi; mutta, 
+Myönnämme, että se on käytännössä mahdollista, mutta mikä ihmisen kekseliäis voi varmistaa tällaisen tasa-arvon jatkumisen? 
+Riippumatta niistä paikallisista olosuhteista, joilla on tapana synnyttää ja lisätä valtaa yhdessä osassa ja estää sen 
+edistystä toisessa, meidän on kerrottava sen ylivertaisen politiikan ja hyvän hallinnon vaikutuksista 
+luultavasti erottaa hallituksen yksi ylitse muiden, ja jolla niiden suhteellinen tasa-arvo vahvuus ja 
+harkinta tuhoutuisi. Sillä ei voida olettaa, että sama järkevä politiikka, varovaisuus, 
+ja jokainen näistä konfederaatioista tarkkailee ennakointia tasaisesti pitkän peräkkäisen vuoden ajan. 
+Aina ja mistä tahansa syystä voi tapahtua ja tapahtuisi, että joku näistä kansoista tai 
+Konfederaatioiden pitäisi nousta poliittisen merkityksen asteikolla paljon naapureidensa yläpuolelle 
+naapurit katselisivat häntä kateudella ja pelolla. Molemmat intohimot johtaisivat heidät 
+kasvot, ellei edistämään, mitä tahansa, mikä lupaa vähentää hänen merkitystään; ja myös hillitsisi 
+toimenpiteistä, jotka on suunniteltu edistämään tai jopa turvaamaan hänen vaurautensa. Paljon aikaa ei tarvittaisi 
+jotta hän voisi havaita nämä epäystävälliset luonteet. Hän aloitti pian, ei vain menettääkseen luottamuksensa häneen 
+naapureita, vaan myös tuntea heille yhtä epäsuotuisaa asennetta. Epäluottamus luo luonnollisesti epäluottamusta, ja sen myötä 
+mikään ei muuta hyväntahtoisuutta ja ystävällisyyttä nopeammin kuin vihamielinen kateus ja välinpitämätön 
+imputaatioita, joko ilmaistuja tai oletettuja. 
+Pohjoinen on yleensä vahvuusalue, ja monet paikalliset olosuhteet tekevät sen todennäköisimpänä 
+Pohjoinen ehdotetuista konfederaatioista ei kovin kaukana olisi kiistatta pelottavampi 
+kuin kukaan muu. Pian tämä kävisi ilmi, kun POHJOINEN HIVE kiihottaisi saman 
+ideoita ja tuntemuksia Amerikan eteläisissä osissa, kuten se teki aiemmin Euroopan eteläosissa. 
+Ei myöskään vaikuta hätiköidyltä olettamukselta, että sen nuoret parvet saattavat usein houkutella keräämään hunajaa 
+ylellisempien ja herkempien naapureidensa kukkivampia peltoja ja leudompaa ilmaa. 
+Ne, jotka harkitsevat hyvin samankaltaisten jakojen ja konfederaatioiden historiaa, löytävät siihen runsaasti syytä 
+ymmärtää, että mietiskelevät eivät missään muussa mielessä olisi naapureita kuin rajanaapureita; 
+että he eivät rakastaisi eivätkä luottaisi toisiinsa, vaan päinvastoin joutuisivat eripuraisuuden, mustasukkaisuuden ja 
+keskinäiset vammat; lyhyesti sanottuna, että he asettaisivat meidät juuri sellaisiin tilanteisiin, joihin jotkut kansat epäilemättä haluavat 
+näkemään meidät, eli VAIN TOIMIEN TOISILLE SUURETTAVAT. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+14/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+Näistä pohdinnoista näyttää siltä, että ne herrat ovat pahasti väärässä, jotka olettavat, että liittoja 
+hyökkäävä ja puolustava voisi muodostua näiden konfederaatioiden välille, ja se tuottaisi tuon yhdistelmän ja 
+aseiden ja resurssien liitto, joka olisi tarpeen niiden saattamiseksi ja pitämiseksi valtavassa tilassa 
+puolustus ulkomaalaisia vihollisia vastaan. 
+Milloin itsenäiset valtiot, joihin Iso-Britannia ja Espanja olivat aiemmin jakautuneet, yhdistyivät sellaisiin 
+liittoutumaan tai yhdistämään voimansa vierasta vihollista vastaan? Ehdotetut konfederaatiot ovat ERILLISIÄ 
+KANSAT. Jokainen heistä käy kauppaa ulkomaalaisten kanssa säännelläkseen erillisillä sopimuksilla; ja heidän 
+Tuotannot ja hyödykkeet ovat erilaisia ja sopivat eri markkinoille, niin olisivat nuo sopimukset 
+olennaisesti erilaisia. Erilaisten kaupallisten huolenaiheiden on synnyttävä erilaisia etuja, ja tietysti erilaisia 
+poliittisen kiintymyksen asteet ja yhteydet eri vieraisiin kansoihin. Siksi saattaa ja luultavasti 
+kävisi niin, että vieras kansa, jonka kanssa ETELÄN liitto voisi olla sodassa, olisi 
+sellainen, jonka kanssa POHJOINEN konfederaatio olisi kaikkein halukkain säilyttää rauha ja ystävyys. Heidän välittömän intressinsä vastaista liittoa ei sen vuoksi olisi helppo muodostaa, eikä myöskään, jos se muodostuisi 
+tarkkailtava ja täytettävä täydellisessä hyvässä uskossa. 
+Ei, on paljon todennäköisempää, että Amerikassa, kuten Euroopassa, naapurivaltiot toimivat 
+vastakkaiset intressit ja epäystävälliset intohimot, löydettäisiin usein eri puolilta. Ottaen huomioon meidän 
+etäisyyden Euroopasta, olisi luonnollisempaa, että nämä konfederaatiot ymmärtäisivät vaarat toisistaan 
+kuin kaukaisista kansoista, ja siksi jokaisen heistä tulisi halukkaampi suojautua toisilta 
+ulkomaisten liittoutumien avuksi, kuin suojautua vierailta vaaroilta keskinäisten liittoutumien avulla. Ja tässä annetaan 
+emme unohda, kuinka paljon helpompaa on vastaanottaa ulkomaisia laivastoja satamiimme ja vieraita armeijoita meidän 
+maassa, kuin suostutella tai pakottaa heidät lähtemään. Kuinka monta valloitusta roomalaiset ja muut tekivät 
+liittolaisten hahmoissa ja mitä innovaatioita he saman hahmon alaisina toivat 
+niiden hallitukset, joita he teeskentelivät suojelevansa. 
+Päättäköön vilpittömät miehet sitten, onko Amerikan jakautuminen mihin tahansa riippumattomiin 
+Suvereniteetit pyrkivät turvaamaan meidät vieraiden kansojen vihollisuudelta ja sopimattomalta puuttumiselta. 
+PUBLIUS 
+ 
+FEDERALIST No. 6. Vaarat 
+Erimielisyydet valtioiden välillä 
+Independent Journalille. Keskiviikkona 14. marraskuuta 1787 
+HAMILTON 
+New Yorkin osavaltion ihmisille: 
+Tämän paperin kolme viimeistä numeroa on omistettu niiden vaarojen luettelemiseksi, joita me kohtaamme 
+pitäisi olla erillään vieraiden kansojen aseilta ja taiteilta. Jatkan nyt asiaan 
+hahmottele toisenlaisia ja ehkä vieläkin hälyttävämpiä vaaroja – sellaisia, jotka suurella todennäköisyydellä virtaavat 
+valtioiden välisistä erimielisyyksistä sekä sisäisistä ryhmittymistä ja kouristuksia. Näitä on ollut 
+joissakin tapauksissa jo hieman odotettua; mutta ne ansaitsevat tarkemman ja kattavamman tutkimuksen. 
+Miehen täytyy olla kaukana utopistisissa spekulaatioissa, joka voi vakavasti epäillä sitä, jos näiden valtioiden pitäisi olla 
+täysin hajaantuneet tai vain osittaisina konfederaatioina yhdistyneet alaosastot, joihin heidät saatetaan heittää 
+olisivat usein ja väkivaltaisia kilpailuja keskenään. Olettaen motiivien puutetta sellaisille kilpailuille kuin 
+argumentti heidän olemassaoloaan vastaan olisi unohtaa, että miehet ovat kunnianhimoisia, kostonhimoisia ja raiskauksia. Katsomaan 
+harmonian jatkamiseksi useiden itsenäisten, toisiinsa liittymättömien suvereniteettien välillä samassa 
+naapurustossa, olisi sivuuttaa inhimillisten tapahtumien yhtenäinen kulku ja uhmata kertynyttä 
+vuosien kokemus. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+15/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+Kansakuntien vihamielisyyden syitä on lukemattomia. On joitain, joilla on yleinen ja melkein 
+jatkuva toiminta yhteiskunnan kollektiivisissa elimissä. Tästä kuvauksesta kuuluu voimanrakkaus tai halu 
+ylivalta ja valta – mustasukkaisuus vallasta tai halu tasa-arvoon ja turvallisuuteen. On muitakin, jotka 
+heillä on rajallisempi, vaikkakin yhtä toimiva vaikutusvalta omilla aloillaan. Sellaisia ovat kilpailut 
+ja kaupalliset kilpailut kaupallisten maiden välillä. Ja muitakin on, ei yhtä monta kuin kumpaakaan 
+edellisistä, jotka ovat peräisin täysin yksityisistä intohimoista; kiintymyksissä, vihollisuuksissa, kiinnostuksissa, toiveissa, 
+ja pelot johtavien yksilöiden yhteisöissä, joiden jäseniä he ovat. Miehet tämän luokan, onko 
+kuninkaan tai kansan suosikkeja, ovat liian monessa tapauksessa käyttäneet väärin omistamaansa luottamusta; ja 
+olettaen jonkin julkisen vaikuttimen tekosyynä, eivät ole ujoittaneet kansallista rauhaa henkilökohtaiselle 
+etu tai henkilökohtainen tyydytys. 
+Ylistetty Perikles prostituoidun kaunaa noudattaen(1) suuren osan kustannuksella 
+maanmiestensä verta ja aarteita, hyökkäsi, voitti ja tuhosi SAMMIAN kaupungin. The 
+sama mies, yksityisen kiusan kiihottama MEGARENSIAALEJA (2) toista Kreikan kansakuntaa vastaan tai välttääkseen 
+syytteeseenpano, jolla häntä uhkailtiin osallisena Phidias-patsaan oletetussa varkaudessa(3) tai 
+päästä eroon häntä vastaan esitetyistä syytöksistä valtion varojen hajauttamisesta ostossa 
+suosiosta,(4) tai kaikkien näiden syiden yhdistelmästä, oli tuon kuuluisan ja kohtalokkaan sodan primitiivinen kirjoittaja, 
+tunnustettu kreikkalaisissa aikakirjoissa nimellä PELOPONNESIAN sota; jotka erilaisten jälkeen 
+vaihtelut, tauot ja uudistukset päättyivät Ateenan liittovaltion tuhoon. 
+Kunnianhimoinen kardinaali, joka oli Henrik VIII:n pääministeri ja antoi hänen turhamaisuudestaan pyrkiä kolminkertaiseen 
+kruunu,(5) toivoi onnistuvansa saamaan tuon upean palkinnon 
+Keisari Kaarle V. Turvatakseen tämän yritteliään ja voimakkaan hallitsijan suosion ja edun hän ryntäsi 
+Englanti sotaan Ranskan kanssa, vastoin politiikan selkeimpiä saneluja ja vaaranten turvallisuuden ja 
+riippumattomuudesta, samoin kuin valtakunnasta, jota hän johti neuvojensa avulla, kuten Euroopasta yleensä. Sillä jos 
+koskaan oli suvereeni, joka tarjosi oikeudenmukaisesti toteuttaakseen universaalin monarkian hankkeen, se oli keisari Kaarle 
+V., jonka juonitteluissa Wolsey oli yhtä aikaa instrumentti ja huijari. 
+Vaikutus, joka oli yhden naisen kiihkoilulla,(6) toisen kiihkoilulla(7) ja kolmannen kaapelilla(8) 
+nykyajan politiikassa suuren osan Eurooppaa käyminen ja rauhoitukset ovat aiheita, jotka ovat 
+deskantoitu liian usein, jotta sitä ei yleisesti tunneta. 
+Moninkertaistaa esimerkkejä henkilökohtaisten näkökohtien toiminnasta suurten kansallisten tapahtumien tuotannossa, 
+joko ulkomainen tai kotimainen, heidän suunnansa mukaan, olisi turhaa ajanhukkaa. Ne joilla on 
+mutta pinnallinen tutustuminen lähteisiin, joista ne on tarkoitus saada, muistaa itse 
+erilaisia tapauksia; eivätkä ne, joilla on siedettävä tieto ihmisluonnosta, tarvitse sellaista 
+muodostaa mielipiteensä joko kyseisen toimijan todellisuudesta tai laajuudesta. Ehkä kuitenkin viittaus, taipumus 
+yleisen periaatteen havainnollistamiseksi voidaan soveliaasti käsitellä tapausta, joka on viime aikoina tapahtunut keskuudessa 
+itseämme. Jos Shays ei olisi ollut Epätoivoinen velallinen, on syytä epäillä, onko Massachusetts 
+olisi joutunut sisällissotaan. 
+Mutta huolimatta kokemuksen yhtäpitävästä todistuksesta, tässä nimenomaisessa asiassa on vielä löydettävä 
+visionäärisiä tai suunnittelevia miehiä, jotka ovat valmiita puolustamaan valtioiden välisen ikuisen rauhan paradoksia, 
+vaikka hajallaan ja vieraantuneet toisistaan. Tasavaltojen nerous (sanoa ne) on tyynenmeren; henki 
+kaupalla on taipumus pehmentää miesten tapoja ja tukahduttaa ne palavat huumorit, jotka 
+ovat niin usein sytyttäneet sotia. Kaupalliset tasavallat, kuten meidän, eivät koskaan häviä itseään 
+tuhoisia riitoja keskenään. Niitä hallitsee molemminpuolinen etu, ja he kehittävät henkistä henkeä 
+keskinäinen ystävyys ja sopu. Eikö ole (saamme kysyä näiltä politiikan projektoreilta) kaikkien kansojen todellinen etu viljellä samaa 
+hyväntahtoinen ja filosofinen henki? Jos tämä on heidän todellinen etunsa, ovatko he todella pyrkineet siihen? Eikö se ole 
+päinvastoin, poikkeuksetta on havaittu, että hetkellisillä intohimoilla ja välittömällä kiinnostuksella on aktiivisempi ja 
+hallitsevampi ihmisten käyttäytyminen kuin yleiset tai etäiset politiikan, hyödyn tai oikeudenmukaisuuden näkökohdat? Onko 
+tasavallat ovat käytännössä olleet vähemmän riippuvaisia sodasta kuin monarkiat? Eivätkö entisiä hallinnoi MEN as 
+sekä jälkimmäinen? Eikö siellä ole vastenmielisyyttä, mieltymyksiä, kilpailua ja epäoikeudenmukaisten hankintojen toiveita, jotka vaikuttavat 
+kansakunnat ja kuninkaat? Eivätkö suositut kokoontumiset ole usein alttiina raivolle, kaunalle, 
+mustasukkaisuus, ahneus ja muut epäsäännölliset ja väkivaltaiset taipumukset? Eikö ole hyvin tiedossa, että heidän päättäväisyytensä 
+niitä hallitsevat usein muutamat henkilöt, joihin he luottavat, ja he ovat luonnollisesti taipuvaisia tinkimään 
+näiden henkilöiden intohimojen ja näkemysten perusteella? Onko kauppa tähän mennessä tehnyt muuta kuin muuttanut 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+16/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+sodan kohteita? Eikö rikkauden rakkaus ole yhtä dominoiva ja yritteliäs intohimo kuin valtaa tai kunniaa kohtaan? 
+Eikö kaupallisiin motiiveihin perustuvia sotia ole ollut niin paljon, koska siitä on tullut vallitseva 
+kansakuntien järjestelmä, kuten ennen aiheutti alueen tai herruuden ahkeruus? Ei ole henkeä 
+Kauppa on monissa tapauksissa antanut uusia kannustimia ruokahalulle, sekä toiselle että toiselle? 
+Vetokoon kokemukseen, inhimillisten mielipiteiden vähiten erehtyväisimpään oppaaseen, saadakseen vastaus näihin kysymyksiin. 
+Sparta, Ateena, Rooma ja Karthago olivat kaikki tasavaltoja; kaksi niistä, Ateena ja Karthago, mainoksesta 
+ystävällinen. Silti he osallistuivat yhtä usein sotiin, hyökkääviin ja puolustaviin, kuin naapurimonarkiat 
+samat ajat. Sparta oli vähän parempi kuin hyvin säännelty leiri; ja Rooma ei ollut koskaan kyllästynyt verilöylyyn ja 
+valloitus. 
+Vaikka Carthago oli kaupallinen tasavalta, se oli hyökkääjä juuri siinä sodassa, joka päättyi sen tuhoon. 
+Hannibal oli kantanut kätensä Italian sydämeen ja Rooman porteille, ennen kuin Scipio puolestaan antoi hänelle 
+Karthagon alueiden kaataminen ja kansainyhteisön valloitus. 
+Venetsia oli myöhempinä aikoina mukana useammin kuin kerran kunnianhimosodissa, kunnes siitä tuli muiden italialaisten kohde. 
+toteaa, paavi Julius II. löysi keinot saavuttaa se valtava liiga,(9), joka antoi tappavan iskun 
+tämän ylimielisen tasavallan voima ja ylpeys. 
+Hollannin maakunnat ottivat johtavan ja näkyvän osan, kunnes ne joutuivat velkojen ja verojen yli. 
+Euroopan sodissa. He kilpailivat raivoissaan Englannin kanssa meren hallinnasta, ja he olivat yksi niistä 
+sinnikkäin ja säälittävin Ludvig XIV:n vastustajista. 
+Ison-Britannian hallituksessa kansan edustajat muodostavat yhden kansallisen lainsäätäjän haaran. 
+Kauppa on ollut aikojen ajan tämän maan pääasiallinen harrastus. Harvat kansat ovat kuitenkin olleet enemmän 
+osallistunut usein sotaan; ja sodat, joihin tämä valtakunta on osallistunut, ovat useissa tapauksissa 
+lähti ihmisistä. 
+Jos saan ilmaista sen, on ollut melkein yhtä paljon suosittuja kuin kuninkaallisia sotia. Kansakunnan huudot ja 
+edustajiensa tärkeydestä ovat useissa tilanteissa raahatneet hallitsijansa sotaan, tai 
+jatkoivat heitä siinä, vastoin heidän taipumuksiaan ja joskus vastoin valtion todellisia etuja. sisään 
+ikimuistoinen kamppailu ylivoimasta ITÄVALLAN ja BOURBONin kilpailevien talojen välillä, joka niin kauan 
+piti Eurooppaa liekeissä, on hyvin tiedossa, että englantilaisten antipatiat ranskalaisia kohtaan tukivat 
+Suosikkijohtajan kunnianhimo tai pikemminkin ahneus(10) pitkitti sodan rajojen yli. 
+järkevää politiikkaa ja pitkän aikaa tuomioistuimen näkemyksiä vastaan. Näiden kahden viimeksi mainitun kansan sodat ovat suurelta osin kasvaneet kaupallisista syistä 
+näkökohdat, - halu syrjäyttää ja pelko tulla syrjäytyneeksi, joko tietyillä aloilla 
+liikenteessä tai kaupan ja merenkulun yleisissä eduissa ja joskus jopa syyllisemmässä halussa 
+osallistuminen muiden kansojen kaupassa ilman heidän suostumustaan. 
+Viimeinen sota, paitsi Britannian ja Espanjan välillä, sai alkunsa brittiläisten kauppiaiden yrityksistä nostaa syytteeseen 
+laiton kauppa Espanjan pääjoen kanssa. Nämä perusteettomat käytännöt saivat aikaan ankaruutta 
+Espanjalaiset Ison-Britannian aiheita kohtaan, jotka eivät olleet oikeutettuja, koska he ylittivät 
+oikeudenmukaisen koston rajoissa ja syytettiin epäinhimillisyydestä ja julmuudesta. Monet englantilaisista, jotka olivat 
+Espanjan rannikolle otetut lähetettiin kaivamaan Potosin kaivoksia; ja hengen tavanomaisella edistymisellä 
+katkeruuden vuoksi viattomat hämmentyivät jonkin ajan kuluttua syyllisten kanssa mielivaltaiseen rangaistukseen. The 
+kauppiaiden valitukset sytyttivät väkivaltaisen liekin koko maassa, joka pian sen jälkeen syttyi 
+alahuoneessa, ja se toimitti sen ministeriölle. Kostokirjeet myönnettiin ja 
+syttyi sota, joka seurauksineen kaatoi kaikki liittoumat, jotka oli muodostettu vain kaksikymmentä vuotta aikaisemmin 
+ja sangviiniset odotukset hyödyllisimmistä hedelmistä. 
+Tästä yhteenvedosta, mitä on tapahtunut muissa maissa, joiden tilanteet ovat kestäneet lähimpänä 
+kuin omaamme, mitä syytä meillä voi olla uskoa niihin haaveisiin, jotka viettelevät meidät 
+odottaa rauhaa ja sydämellisyyttä nykyisen konfederaation jäsenten välillä eron tilassa? 
+Emmekö ole jo nähneet tarpeeksi niiden turhien teorioiden virheellisyyttä ja ylellisyyttä, jotka ovat huvittaneet meitä 
+lupauksilla vapautuksesta epätäydellisyydestä, heikkoudesta ja pahuudesta, joka esiintyy yhteiskunnassa kaikissa muodoissaan? 
+Eikö olisi aika herätä kultaisen aikakauden petollisesta unelmasta ja omaksua käytännöllinen maksiimi 
+poliittisen käyttäytymisemme suunta, josta me, samoin kuin muut maapallon asukkaat, olemme vielä kaukana 
+onnellinen täydellisen viisauden ja täydellisen hyveen valtakunta? 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+17/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+Olkoon äärimmäisen masennuksen piste, johon kansallinen arvomme ja kunniamme ovat vajoaneet, olkoon haittoja 
+tuntui kaikkialla löyhästä ja huonosta hallituksen hallinnosta, olkoon Pohjoisen osavaltion kapina 
+Carolina, myöhäiset uhkaavat levottomuudet Pennsylvaniassa ja todelliset kapinat ja kapinat 
+Massachusetts, julista –! 
+Toistaiseksi yleinen ihmiskunta ei vastaa niiden oppeja, jotka yrittävät tuudittaa uneen. 
+pelkomme valtioiden välisestä erimielisyydestä ja vihamielisyydestä, jos se hajoaa jo pitkään 
+yhteiskunnan kehityksen havainnoinnista tulee eräänlainen aksiooma politiikassa, että tilanteen läheisyys tai läheisyys, 
+muodostaa kansakuntien luonnollisia vihollisia. Älykäs kirjoittaja ilmaisee itseään tästä aiheesta näin: 
+"NAAPURIKANSAT (sanoo hän) ovat luonnostaan toistensa vihollisia, ellei niiden yhteinen heikkous ole 
+pakottaa heidät liittotasavallassa liittotasavallassa, ja heidän perustuslakinsa estää erimielisyydet 
+naapuruston tilaisuuksiin, sammuttaen sen salaisen mustasukkaisuuden, joka saa kaikki osavaltiot ylistämään itseään 
+naapureidensa kustannuksella."(11) Tämä kohta osoittaa samalla PAHuuden ja ehdottaa, että 
+KORJAUSAINE. 
+PUBLIUS 
+1. Aspasia, vide "Plutarkoksen Perikleksen elämä". 
+2. Ibid. 
+3. Ibid. 
+4. Ibid. Phidiaan arveltiin varastaneen julkista kultaa Perikleen suostumuksella. 
+Minerva-patsaan koristelu. 
+5. Paavien käyttämä. 
+6. Madame de Maintenon. 
+7. Marlboroughin herttuatar. 
+8. Madame de Pompadour. 
+9. Cambrayn liitto, joka käsittää keisarin, Ranskan kuninkaan, Aragonin kuninkaan ja useimmat 
+Italian ruhtinaat ja osavaltiot. 
+10. Marlboroughin herttua. 
+11. Video "Principes des Negociations" par l'Abbé de Mably. 
+ 
+FEDERALIST No. 7. Sama aihe 
+Jatkuu (koskee vaaroja alkaen 
+Valtioiden väliset erimielisyydet) 
+Independent Journalille. Torstaina 15. marraskuuta 1787 
+HAMILTON 
+New Yorkin osavaltion ihmisille: 
+Toisinaan KYSYYN, näennäisen voiton ilmassa, mitä kannustimia valtioilla voisi olla, jos ne olisivat eristyneitä, 
+sotimaan toisiaan vastaan? Olisi täydellinen vastaus tähän kysymykseen sanoa – täsmälleen samat kannustimet 
+jotka ovat eri aikoina tulvanneet vereen kaikki maailman kansat. Mutta valitettavasti meille, 
+kysymys antaa tarkemman vastauksen. Eroavaisuuksiin on syitä lähipiirissämme 
+pohdiskelua, jonka suuntauksesta meillä on ollut jopa liittovaltion perustuslain rajoitusten alaisena 
+riittävä kokemus, jotta voimme muodostaa arvion siitä, mitä voisi odottaa, jos nämä rajoitukset olisivat 
+poistettu. 
+Aluekiistat on aina todettu yhdeksi hedelmällisimmistä vihamielisyyden lähteistä kansojen välillä. 
+Ehkä suurin osa maata tuhonneista sodista on syntynyt tästä alkuperästä. Tämä syy 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+18/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+olisi keskuudessamme täydessä voimassa. Meillä on valtava alue ratkaisematonta aluetta Yhdysvaltojen rajojen sisällä 
+osavaltioissa. Useiden heistä ja unionin hajoamisesta on edelleen ristiriitaisia ja ratkaisemattomia vaatimuksia 
+loisi perustan samanlaisille vaatimuksille heidän kaikkien välillä. On hyvin tiedossa, että heillä on ollut tähän asti 
+vakavaa ja eloisaa keskustelua oikeuksista maihin, joita ei myönnetty tuolloin 
+Vallankumous, ja joka yleensä meni kruunumaiden nimellä. Valtiot, joiden rajoissa 
+siirtomaahallitukset, joihin he kuuluivat, ovat vaatineet niitä omaisuudekseen, muut ovat väittäneet sen 
+tämän artiklan mukaiset kruunun oikeudet kuuluvat unionille; varsinkin koko lännen osaan 
+alue, joka joko tosiasiallisesti hallinnassa tai intialaisten omistajien suostumuksella on joutunut 
+Ison-Britannian kuninkaan lainkäyttövaltaa, kunnes se luovuttiin rauhansopimuksessa. Tämä on sanottu, 
+oli joka tapauksessa Konfederaation hankinta vieraan vallan kanssa tehdyllä sopimuksella. Se on ollut varovaista 
+kongressin politiikkaa tämän kiistan rauhoittamiseksi saamalla valtiot antamaan myönnytyksiä Yhdysvalloille 
+valtioiden koko eduksi. Tämä on saavutettu niin pitkälle kuin unionin jatkuessa 
+antaa päätetyn mahdollisuuden riidan sovinnolliseen päättämiseen. Konfederaation hajottaminen, 
+kuitenkin elvyttäisi tämän kiistan ja loisi muita samasta aiheesta. Tällä hetkellä suuri osa 
+vapaa läntinen alue on luovutuksen perusteella, ellei millään etuoikeudella, unionin yhteistä omaisuutta. Jos 
+jotka olivat lopussa, valtiot, jotka tekivät luovutuksen liittovaltion kompromissin periaatteen mukaisesti, olisivat sopivia, kun 
+apurahan motiivi oli lakannut, saada maat takaisin palautuksena. Muut valtiot epäilemättä vaatisivat sitä 
+osuus edustusoikeudesta. Heidän argumenttinsa olisi, että kerran myönnettyä apurahaa ei voitaisi peruuttaa; 
+ja että konfederaation yhteisillä ponnisteluilla hankittu tai turvattu alueelle osallistumisen oikeudenmukaisuus, 
+pysyi ennallaan. Jos todennäköisyyden vastaisesti kaikki valtiot myöntäisivät, että jokaisella oli siihen oikeus 
+osuuden tästä yhteisestä osakkeesta, olisi edelleen vaikeuksia voittaa asianmukaisen säännön osalta 
+jako. Eri valtiot vahvistaisivat tätä tarkoitusta varten erilaisia ​​periaatteita. ja miten ne vaikuttaisivat 
+osapuolten vastakkaiset intressit, ne eivät välttämättä ole helposti alttiita tyynelle sopeutumiselle. 
+Laajalla länsimaisen alueen kentällä havaitsemme siksi runsaasti teatteria vihamielisille teeskentelyille, ilman 
+mikä tahansa erotuomari tai yleinen tuomari, joka puuttuu kilpailevien osapuolten välillä. Järkeillä menneestä tulevaisuuteen, 
+meillä on hyvä syy ymmärtää, että miekkaan vedotaan joskus heidän tuomarinaan. 
+eroja. Connecticutin ja Pennsylvanian välisen kiistan olosuhteet kunnioittaen maata osoitteessa 
+Wyoming, kehota meitä olemaan tottelemattomia odottaessamme tällaisten erojen helppoa sopeutumista. Artikkelit 
+Konfederaatio velvoitti osapuolet saattamaan asian liittovaltion tuomioistuimen ratkaistavaksi. Esitys oli 
+ja tuomioistuin päätti Pennsylvanian hyväksi. Mutta Connecticut antoi voimakkaita merkkejä tyytymättömyydestä 
+tällä päättäväisyydellä; hän ei myöskään näyttänyt olevan täysin suostunut siihen, ennen kuin neuvottelemalla ja johdolla, 
+Jotain vastinetta löydettiin menetykselle, jonka hän luuli itselleen kärsineensä. Täällä ei sanottu mitään 
+tarkoituksena on ilmaista pienintäkään epäluottamusta kyseisen valtion käyttäytymistä kohtaan. Hän epäilemättä uskoi vilpittömästi siihen 
+ovat loukkaantuneet päätöksestä; ja valtiot, kuten yksilöt, suostuvat suurella vastahakoisuudella päättäväisyyksiin 
+heidän vahingoksi. 
+Ne, joilla oli mahdollisuus nähdä transaktioiden sisäpuoli, jotka osallistuivat tapahtuman etenemiseen 
+Tämän osavaltion ja Vermontin alueen välinen kiista voi myös taata kokemamme vastustuksen 
+valtioista, jotka eivät olleet kiinnostuneita vaatimuksesta; ja voi todistaa minkä vaaran 
+Konfederaation rauha olisi saatettu paljastaa, jos tämä valtio olisi yrittänyt puolustaa oikeuksiaan väkisin. Kaksi 
+motiivit vallitsivat tuossa vastustuksessa: yksi, mustasukkaisuus tulevaisuuttamme kohtaan; ja toinen, 
+joidenkin naapurivaltioissa vaikutusvaltaisten henkilöiden edut, jotka olivat saaneet maa-avustuksia 
+alueen todellinen hallitus. Jopa valtiot, jotka esittivät vaatimuksia, jotka ovat ristiriidassa meidän kanssamme, 
+vaikuttivat halukkaammalta hajottaa tämä valtio kuin luoda omia väitteitään. Nämä olivat uusia 
+Hampshire, Massachusetts ja Connecticut. New Jersey ja Rhode Island löysivät aina a 
+lämmin into Vermontin itsenäisyyden puolesta; ja Marylandissa, kunnes he olivat huolissaan yhteyden ilmaantumisesta 
+Kanadan ja tuon osavaltion välillä, omaksuivat syvästi samoja näkemyksiä. Nämä pienet valtiot näkivät kanssa 
+epäystävällinen silmä näkökulmamme kasvavaan suuruuteen. Tarkastelemalla näitä tapahtumia voimme jäljittää joitakin niistä 
+syyt, jotka todennäköisesti sotkevat valtiot keskenään, jos se olisi niiden epäsuotuisa kohtalo 
+erottua. 
+Kauppakilpailut olisivat toinen hedelmällinen kiistan lähde. Valtiot epäsuotuisammin 
+Olosuhteet haluaisivat paeta paikallisen tilanteen haittoja ja osallistua niihin 
+onnellisempien naapuriensa etuja. Jokainen osavaltio tai erillinen konfederaatio noudattaisi järjestelmää 
+itselleen ominainen kauppapolitiikka. Tämä aiheuttaisi eroja, mieltymyksiä ja poissulkemisia, mikä tekisi 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+19/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+synnyttää tyytymättömyyttä. Seurustelutottumukset yhtäläisten etuoikeuksien perusteella, joihin olemme tottuneet 
+maan varhaisimmasta asutuksesta lähtien, antaisi niille tyytymättömyyden syille enemmän etua kuin ne 
+olisi luonnollisesti riippumaton tästä tilanteesta. MEIDÄN TULISI OLLA VALMIS NIMITÄÄN 
+VAHINGOITTAA NE ASIAT, JOTKA OLIVAT TODELLISESSA OIKEUTTAVAT RIIPPUMATTOMIEN TEOT 
+SUVEREENITEETTIIN KUULUTTAVAT ERI ETUA. Yrittäjyys, joka on ominaista 
+kaupallinen osa Amerikkaa, ei ole jättänyt tilaisuutta esitellä itseään parantamattomana. Se ei ole ollenkaan todennäköistä 
+tämä hillitön henki kunnioittaisi suuresti niitä kaupan sääntöjä, joita tietyt valtiot voisivat soveltaa 
+pyrkivät turvaamaan yksinomaiset edut omille kansalaisilleen. Näiden määräysten rikkomukset, toisaalta 
+pyrkimykset estää ja torjua niitä toisaalta johtaisivat luonnollisesti raivoihin, ja nämä kostotoimiin ja sotiin. 
+Mahdollisuudet, joita joillakin valtioilla olisi tehdä toisista verovelvollisiksi kaupallisin keinoin 
+sivujokivaltiot alistuisivat kärsimättömästi asetuksiin. New Yorkin suhteellinen tilanne, 
+Connecticut ja New Jersey tarjoavat tällaisen esimerkin. New York, tulotarpeista, 
+hänen on kannettava tuontitullit. Suuri osa näistä maksuista on maksettava kahden muun alueen asukkaiden 
+maahantuomien tuotteiden kuluttajien asemassa. New York ei olisi halukas eikä pystyisi luopumaan 
+tämä etu. Hänen kansalaisensa eivät suostuisi siihen, että heidän maksamansa tulli peruttaisiin heidän hyväksi 
+hänen naapuriensa kansalaiset; ei myöskään olisi mahdollista erottaa, ellei tiellä olisi tätä estettä 
+asiakkaita omilla markkinoillamme. Olisivatko Connecticut ja New Jersey pitkään suostuneet New Yorkin verotukseen 
+hänen yksinomainen etunsa? Pitäisikö meidän sallia pitkään olla hiljaisessa ja häiriöttömässä a 
+metropoli, jonka hallussapidosta saimme naapureillemme niin vastenmielisen edun, ja heidän 
+mielipide, niin ahdistava? Pitäisikö meidän säilyttää se Connecticutin vakiintunutta painoa vastaan 
+ja toisaalta New Jerseyn yhteistyöpaine? Nämä ovat kysymyksiä, jotka vain ankaruus ratkaisee 
+vastata myöntävästi. 
+Unionin julkinen velka olisi lisäsyy erillisten valtioiden yhteentörmäykseen tai 
+konfederaatiot. Ensisijaisesti jako ja sen jälkeen tapahtuva asteittainen sammuttaminen olisivat 
+yhtälailla huonoa huumoria ja vihamielisyyttä. Miten olisi mahdollista sopia jakosäännöstä 
+kaikkia tyydyttävä? Tuskin voidaan ehdottaa mitään, joka olisi täysin vapaa todellisista vastalauseista. Nämä, 
+kuten tavallista, osapuolten kielteiset edut liioittelevat. Heillä on jopa erilaisia näkemyksiä 
+julkisen velan maksamisen yleisestä periaatteesta. Jotkut heistä, joko vähemmän vaikuttunut 
+kansallisten luottojen tärkeydestä tai siksi, että heidän kansalaisiaan on vähän, jos ollenkaan, välitöntä kiinnostusta kysymykseen 
+välinpitämättömyys, ellei vastenmielisyys, joka tapauksessa kotimaisen velan maksua kohtaan. Nämä olisivat taipuvaisia 
+suurentaa jakelun vaikeuksia. Toiset heistä, lukuisat, joiden kansalaiset ovat velkojia 
+valtion velan kokonaismäärään verrattuna, olisi joillekin raskasta 
+tasapuolinen ja tehokas tarjous. Edellisen viivytteleminen herättäisi jälkimmäisen kaunaa. 
+Todelliset mielipide-erot ja niihin vaikuttavat viivästykset viivästyisivät tällä välin säännön ratkaisemista. 
+Asiasta kiinnostuneiden valtioiden kansalaiset huutaisivat; vieraat voimat vaatisivat oikeudenmukaistensa tyydytystä 
+vaatimuksia, ja valtioiden rauha vaarantuisi ulkoisen hyökkäyksen ja kaksinkertaisen potentiaalin vuoksi 
+sisäinen kiista. 
+Oletetaan, että säännöstä sopimiseen liittyvät vaikeudet on voitettu ja jako tehty. On silti hienoa 
+tilaa olettaa, että sovitun säännön havaittaisiin kokeessa olevan vaikeampi joillekin valtioille 
+kuin muiden päälle. Ne, jotka kärsivät siitä, etsivät luonnollisesti taakan keventämistä. The 
+toiset olisivat yhtä luonnollisesti haluttomia tarkistamaan, mikä todennäköisesti päättyisi heidän oman lisäkseen 
+rasitteita. Heidän kieltäytymisensä olisi liian uskottava tekosyy valituksen tehneille valtioille kieltäytyä niistä 
+lahjoituksia, joita ei pidä ottaa innokkaasti vastaan; ja näiden valtioiden sitoumusten noudattamatta jättäminen 
+olisi aihetta katkeralle keskustelulle ja kiistelylle. Jos jopa hyväksytyn säännön pitäisi käytännössä oikeuttaa 
+Yhdenvertaisuuden periaatteen vuoksi joidenkin valtioiden maksujen laiminlyönnit johtuisivat edelleen 
+muiden syiden monimuotoisuus – resurssien todellinen puute; heidän taloutensa huono hallinta; vahingossa 
+häiriöt hallituksen johtamisessa; ja muun lisäksi miesten vastahakoisuus 
+jakavat yleensä rahaa sellaisiin tarkoituksiin, jotka ovat kestäneet niitä tuottaneet tarpeet, ja häiritsevät 
+välittömien tarpeiden kanssa. Laiminlyönnit, mistä tahansa syystä, tuottaisivat valituksia, 
+syytökset ja riidat. Mikään ei ehkä häiritse kansojen rauhaa todennäköisemmin kuin 
+heidän on sidottu keskinäiseen panokseen minkä tahansa yhteisen esineen puolesta, joka ei tuota yhtäläistä ja sattumaa 
+hyötyä. Sillä se on havainto, niin totta kuin se onkin harhaanjohtava, ettei ihmisillä ole mitään niin helposti eri mieltä 
+rahan maksu. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+20/240 
+ 
+4.8.26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, kirjoittaneet Alexander Hamilton, John Jay ja James Madison 
+ 
+Lait rikkovat yksityisiä sopimuksia, koska ne merkitsevät hyökkäystä niiden valtioiden oikeuksiin, joiden 
+kansalaisten vahingoittamista, voidaan pitää toisena todennäköisenä vihamielisyyden lähteenä. Meillä ei ole valtuuksia 
+odottaa, että liberaalimpi tai oikeudenmukaisempi henki hallitsee yksittäisten valtioiden lainsäädäntöä 
+tämän jälkeen, jos niitä ei rajoita lisätarkastuksia, kuin olemme tähän mennessä nähneet liian monissa tapauksissa 
+häpäisevät heidän useita koodejaan. Olemme havainneet Connecticutissa innostuneen kostoalttiuden 
+Rhode Islandin lainsäätäjän tekemien valtavien tekojen seuraus; ja päättelemme kohtuudella, että in 
+vastaavissa tapauksissa muissa olosuhteissa sota, ei pergamentin vaan miekan, rankaisisi sellaisia 
+moraalisen velvollisuuden ja sosiaalisen oikeudenmukaisuuden julmia rikkomuksia. 
+Yhteensopimattomien liittoutumien todennäköisyys eri valtioiden tai konfederaatioiden ja eri ulkomaisten välillä 
+Kansakunnat ja tämän tilanteen vaikutukset koko rauhaan ovat joissakin jo riittävän paljastuneet 
+edelliset paperit. Näkökulmasta, jonka he ovat esittäneet tästä aiheesta, on tehtävä tämä johtopäätös, 
+että Amerikka, ellei se olisi lainkaan yhteydessä tai vain yksinkertaisen, hyökkäävän ja puolustavan liigan heikon siteen avulla, 
+tällaisten ärsyttävien liittoutumien toiminnan avulla kietoutua vähitellen kaikkiin Euroopan tuhoisiin labyrinteihin 
+politiikka ja sodat; ja niiden osien tuhoisat kiistat, joihin hänet jaettiin, todennäköisesti tekisi 
+tulla saaliiksi valtojen keinotekoille ja juonitteluille yhtä lailla heidän kaikkien vihollisiksi. Divide et impera (1) 
+sen täytyy olla jokaisen kansakunnan motto, joka joko vihaa tai pelkää meitä.(2) 
+PUBLIUS 
+1. Jaa ja käske. 
+2. Jotta näiden asiakirjojen koko aihe saataisiin mahdollisimman pian yleisön tietoon, se on 
+ehdotti niiden julkaisemista neljä kertaa viikossa – tiistaina New York Packetissa ja torstaina Dailyssa 
+Mainostaja.

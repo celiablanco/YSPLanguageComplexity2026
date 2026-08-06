@@ -1,0 +1,903 @@
+FEDERALIST nr 1. Üldine sissejuhatus 
+Sõltumatu ajakirja jaoks. Laupäeval, 27. oktoobril 1787. a 
+HAMILTON 
+New Yorgi osariigi inimestele: 
+PÄRAST ühemõttelist kogemust püsiva föderaalvalitsuse ebatõhususe kohta, kutsutakse teid üles 
+arutada Ameerika Ühendriikide uue põhiseaduse üle. Teema räägib oma tähtsusest; 
+mõistes selle tagajärgedes midagi vähemat kui LIIDU olemasolu, Euroopa Liidu turvalisust ja heaolu 
+osad, millest see koosneb, on impeeriumi saatus paljuski maailma kõige huvitavam. On 
+on sageli märgitud, et see näib olevat selle riigi elanikele oma käitumise ja käitumise tõttu reserveeritud 
+Näiteks otsustamaks olulist küsimust, kas meeste ühiskonnad on tõesti võimelised asutama või mitte 
+kas nad on igavesti määratud sõltuma oma poliitikast 
+põhiseadused õnnetuste ja jõu kohta. Kui märkuses on tõtt, võib kriis, milleni me oleme jõudnud 
+kohane pidada ajastuks, mil see otsus tuleb teha; ja meie osa vale valimine 
+võib selle seisukoha järgi väärida inimkonna üldiseks õnnetuseks. 
+See idee lisab patriotismi omadele filantroopia stiimuleid, et suurendada kõigi 
+arvestavad ja tublid mehed peavad üritusele kaasa tundma. Õnnelik saab olema, kui meie valikut peaks suunama a 
+meie tegelike huvide mõistlik hinnang, mis on segaduseta ja erapooletu kaalutlustest, mis ei ole seotud 
+avalik hüve. Kuid seda tuleb rohkem soovida kui tõsiselt oodata. Meie jaoks pakutud plaan 
+arutelud puudutavad liiga palju konkreetseid huve, toovad uuendusi liiga paljudes kohalikes institutsioonides, et mitte kaasata 
+tema arutlemine mitmesuguste teemade üle, mis on tema väärtustele võõrad, ning vaadete, kirgede ja eelarvamuste üle, mis on vähe soosivad 
+tõe avastamine. 
+Ühed kõige hirmuäratavamad takistused, millega uus põhiseadus peab silmitsi seisma 
+tuleb eristada teatud inimeste klassi ilmset huvi igas riigis seista vastu kõigile võimalikele muutustele 
+ohustada nende võimu, töötasu ja riigi alluvuses olevate ametite tagajärgede vähenemist 
+asutused; ja teise klassi meeste väärastunud ambitsioonid, kes kas loodavad end austada 
+end oma riigi segaduste tõttu või meelitavad end õiglasemate väljavaadetega tõusta 
+impeeriumi jagamine mitmeks osaliseks konföderatsiooniks kui selle liit ühe valitsuse alla. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+5/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+Siiski ei ole minu eesmärk seda laadi tähelepanekutel peatuda. Ma tean hästi, et see oleks nii 
+ebaviisakas lahendama valimatult mis tahes meeste rühma vastuseisu (ainult seetõttu, et nende olukord võib 
+kahtlustada) huvitatud või ambitsioonikateks seisukohtadeks. Candor kohustab meid tunnistama, et isegi sellised mehed 
+võib käivitada püstiste kavatsustega; ja ei saa kahelda, et palju vastuseisu, mis on oma 
+välimus või võib edaspidi ilmuda, pärineb allikatest, vähemalt veatu, kui mitte austusväärne 
+- ausad mõistuse vead, mille viisid eksiteele eelarvamuslik kadedus ja hirmud. Nii palju tõesti ja nii 
+võimsad on põhjused, mis annavad kohtuotsusele vale kallutatuse, mida me sageli näeme targana 
+ja head mehed ühiskonna jaoks esmatähtsate küsimustega nii valel kui ka paremal poolel. See 
+Nõuetekohase tähelepanu korral annaks see asjaolu mõõdukuse õppetunni neile, kes on alati nii veenvad 
+et neil on igas vaidluses õigus. Ja selles osas võib olla veel üks põhjus ettevaatuseks 
+mõtisklusest, et me ei ole alati kindlad, et tõe propageerijaid mõjutab puhtam 
+põhimõtted kui nende antagonistid. Ambitsioonid, ahnus, isiklik vaen, partei vastuseis ja palju muud 
+motiivid, mis pole nendest kiiduväärsemad, sobivad nii neile, kes toetavad, kui ka neile, kes on vastu. 
+küsimuse parem pool. Kui poleks isegi neid ajendeid mõõdutundele, ei saaks midagi olla halvasti hinnatud 
+kui see sallimatu vaim, mis on alati iseloomustanud erakondi. Sest poliitikas, nagu ka religioonis, on see nii 
+sama absurdne on seada eesmärgiks proselüütide valmistamine tule ja mõõgaga. Kummagi ketserlust saab harva ravida 
+tagakiusamine. 
+Ja ometi, ükskõik kui need tunded ka poleks lubatud, on meil juba piisavalt märke, et see nii läheb 
+juhtuda siin nagu kõigil kunagistel suure riikliku diskussiooni juhtumitel. Vihaste ja pahaloomuliste kirgede tulva hakkab 
+lahti lasta. Kui otsustada vastaspoolte käitumise põhjal, jõuame järeldusele, et nad seda teevad 
+loodavad vastastikku tõestada oma arvamuste õiglust ja suurendada nende pöördunute arvu 
+nende deklamatsioonide valjust ja nende invektsioonide kibedust. Valgustunud innukus energia ja 
+valitsuse tõhusust häbimärgistatakse kui despootlikku võimu armastava ja vaenuliku tuju järglast. 
+vabaduse põhimõtted. Liiga skrupulaarne kadedus ohust inimeste õigustele, mis on rohkem 
+tavaliselt kujutatakse pea, mitte südame viga pelgalt teeskluse ja võltsina, vana söödana. 
+populaarsuse nimel avaliku hüve arvelt. Ühest küljest unustatakse ära, et armukadedus on tavaline 
+armastusega kaasnev ja et üllas vabaduse entusiasm võib nakatuda kitsa ja kitsa vaimuga. 
+illiberaalne usaldamatus. Teisest küljest unustatakse samamoodi ära, et valitsuse jõulisus on oluline 
+vabaduse turvalisus; et mõtiskledes mõistliku ja teadliku otsuse üle ei saa nende huvi kunagi olla 
+eraldatud; ja et ohtlik ambitsioon varitseb sagedamini innukuse õiguste eest hoolitsemise salapärase maski taga 
+inimesi kui keelatud näilise innukusest valitsuse kindluse ja tõhususe eest. Ajalugu teeb 
+õpetab meile, et esimene on leitud palju kindlama tee despotismi juurutamiseni kui teine, 
+ja et vabariikide vabadused ümber lükanud meestest on enamik alustanud oma karjääri 
+makstes rahvale alatut kohut; alustavad demagoogid ja lõpetavad türannid. 
+Eelnevate vaatluste käigus on mul olnud pilk, mu kaaskodanikud, panna teid teie peale. 
+hoidke end kõigist katsetest, mis tahes kvartalist, teie otsust võimalikult kiiresti mõjutada 
+teie heaolu, mis tahes muljete tõttu, välja arvatud need, mis võivad tuleneda tõe tõenditest. Sa saad, ei 
+kahtlus, samas on kogunud nende üldisest ulatusest, et nad lähtuvad allikast mitte 
+ebasõbralik uuele põhiseadusele. Jah, mu kaasmaalased, ma kuulun teile, olles sellele tähelepanelik 
+Olen selgelt seisukohal, et see on teie huvides. Olen veendunud, et see on kõige turvalisem kursus 
+teie vabaduse, väärikuse ja õnne eest. Ma ei mõjuta reserve, mida ma ei tunne. Ma ei lõbusta sind 
+näiliselt kaalutlevat, kui olen otsustanud. Tunnistan teile ausalt oma veendumusi ja mina 
+esitab teile vabalt põhjused, millel need rajanevad. Heade kavatsuste teadvus põlgab 
+ebaselgus. Siiski ei hakka ma selle peale elukutseid paljundama. Minu motiivid peavad jääma hoiule 
+mu enda rind. Minu argumendid on kõigile avatud ja kõik võivad nende üle kohut mõista. Neid pakutakse vähemalt a 
+vaim, mis ei häbista tõe põhjust. 
+Teen ettepaneku arutleda mitmes artiklis järgmiste huvitavate üksikasjade üle: 
+LIIDU KASUTUS TEIE POLIITILISELE HEAKSEKS 
+KÄESOLEVA KONFEDERATSIOON, ET SÄILITADA SELLE LIIDU VAJADUS VALITSUSE järele 
+SELLE OBJEKTI SAAVUTAMISEKS VÄHEM VÕRDSELT ENERGILINE 
+KAVANDATAVA PÕHISEADUSE VASTAVUS ÜLESANDE TÕELISELE PÕHIMÕTETEGA. 
+VABARIIGI VALITSUS ANALOOGIAT TEIE ENDA RIIGI PÕHISEADUSEGA ja lõpuks 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+6/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+TÄIENDAV TURVALISUS, MIDA SELLE KASUTAMINE TAGAB SELLE SÄILITAMISE 
+VALITSUSE LIIGID, VABADUSELE JA OMANDILE. 
+Selle arutelu käigus püüan ma anda rahuldava vastuse kõigile vastuväidetele, mis 
+on ilmunud, mis võib tunduda nõudvat teie tähelepanu. Võib-olla peetakse üleliigseks esitada argumente LIIDU kasulikkuse tõestamiseks, kahtlemata, 
+sügavalt graveeritud suure rahva südamesse igas riigis ja sellises, mida võib ette kujutada, 
+tal pole vastaseid. Kuid tõsiasi on see, et me kuuleme seda juba vastuolijate eraringkondades sosistamas 
+uus põhiseadus, et kolmteist riiki on ühegi üldise süsteemi jaoks liiga suured ja et me peame seda tegema 
+vajadus kasutada eraldiseisvaid konföderatsioone, mis koosnevad tervikust erinevatest osadest.(1) See doktriin on üldiselt 
+tõenäosusega, levitatakse järk-järgult, kuni sellel on piisavalt hääli, et nõustuda selle avalikuga. Mitte millegi eest 
+võib olla ilmsem neile, kes suudavad teemat laiendada, kui alternatiiv 
+uue põhiseaduse vastuvõtmise või liidu lagunemise. Seetõttu on see algusest peale kasulik 
+selle liidu eeliste, teatud pahede ja tõenäoliste ohtude uurimine, millega iga riik satub 
+paljastatud selle lagunemisest. Sellest tulenevalt on see minu järgmise pöördumise teema. 
+PUBLIUS 
+1. Sama ideed, mis otsivad argumente nende tagajärgedeni, on esitatud mitmes hilises väljaandes 
+uue põhiseaduse vastu. 
+ 
+FEDERALIST nr 2. Ohtude kohta 
+Võõrjõud ja mõju 
+Sõltumatu ajakirja jaoks. Kolmapäeval, 31. oktoobril 1787. a 
+JAY 
+New Yorgi osariigi inimestele: 
+KUI Ameerika inimesed mõtlevad, et nad on nüüd kutsutud otsustama küsimust, mis selle 
+tagajärjed, peavad osutuma üheks kõige olulisemaks, mis nende tähelepanu on kunagi köitnud, nende asjakohasust 
+väga kõikehõlmav ja ka väga tõsine vaade sellele on ilmne. 
+Miski pole kindlam kui valitsuse vältimatu vajadus, ja sama vaieldamatu on see, et 
+millal ja kuidas see kehtestatakse, peavad inimesed sellele loovutama mõned oma loomulikud õigused, et see omandada 
+vajalike volitustega. Seetõttu tasub kaaluda, kas see tekitaks rohkem huvi 
+Ameerika rahvast, et nad peaksid üldiselt olema üks rahvas ühe föderaalvalitsuse all, 
+või et nad peaksid end jagama eraldi konföderatsioonideks ja andma igaühe juhile samasugused 
+volitused, mis neil soovitatakse anda ühele riigi valitsusele. 
+Kuni viimase ajani on levinud ja vaieldamatu arvamus, et Ameerika inimeste õitseng 
+sõltus nende jätkuvast kindlast ühtsusest ning meie parimate ja targemate kodanike soovidest, palvetest ja pingutustest 
+on pidevalt sellele objektile suunatud. Kuid nüüd ilmuvad poliitikud, kes väidavad, et see arvamus on ekslik, 
+ja et selle asemel, et otsida liidus turvalisust ja õnne, peaksime seda otsima osariikide jagunemisest 
+erinevad konföderatsioonid või suveräänsused. Ükskõik kui erakordne see uus õpetus ka ei näi, on see siiski nii 
+selle kaitsjad; ja teatud tegelased, kes olid sellele varem palju vastu, on praegu numbris. 
+Olenemata sellest, millised on argumendid või stiimulid, mis on põhjustanud selle tundemuutuse ja 
+Nende härrasmeeste avaldustega ei oleks kindlasti mõistlik neid uusi poliitilisi omaks võtta 
+põhimõtteid, olemata täielikult veendunud, et need on rajatud tõele ja kindlale poliitikale. 
+Mulle on sageli rõõmu valmistanud tõdeda, et sõltumatu Ameerika ei koosnenud eraldatud ja kaugetest 
+territooriumid, kuid see üks ühendatud, viljakas ja laialt levinud riik oli osa meie lääne vabaduse poegadest. 
+Providence on seda erilisel viisil õnnistanud mitmesuguste muldade ja toodanguga ning kastnud seda 
+lugematuid ojasid selle elanike rõõmuks ja majutuseks. Järjekorras laevatatavad veed 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+7/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+moodustab oma piiride ümber mingi keti, justkui sidumaks seda kokku; samas kui maailma õilsamad jõed jooksevad 
+mugavate vahemaade tagant, esitage neile kiirteed sõbralike abivahendite ja vastastikuse suhtlemise hõlbustamiseks 
+nende erinevate kaupade transport ja vahetus. Sama heameelega olen sama sageli märganud, et Providence'il on olnud hea meel seda ühendada 
+riik üheks ühendatud rahvaks – samadest esivanematest põlvnevaks rahvaks, kes kõneleb sama keelt, 
+tunnistavad sama religiooni, kinnituvad samadele valitsemispõhimõtetele, väga sarnased oma kommete ja kommete poolest 
+kombed ja kes oma ühiste nõuannete, relvade ja jõupingutustega võitlesid külg külje kõrval kogu pika ja verise 
+sõda, on üllalt kehtestanud üldise vabaduse ja sõltumatuse. 
+Tundub, et see riik ja see rahvas on teineteise jaoks loodud ja tundub, nagu oleks see loodud 
+Ettehooldus, et pärand on nii õige ja mugav vennaskonnale, keda ühendab üksteisega 
+tugevaimad sidemed, ei tohiks kunagi jaguneda mitmeks ebasotsiaalseks, armukadedaks ja võõraks suveräänsuseks. 
+Sarnased tunded on seni valitsenud meie kõigi ordude ja konfessioonide seas. Kõigile 
+üldistel eesmärkidel oleme olnud ühtmoodi üks rahvas, iga üksik kodanik kõikjal, kes naudib sama 
+rahvuslikud õigused, privileegid ja kaitse. Rahvana oleme sõlminud rahu ja sõja; rahvana, mis meil on 
+võitnud meie ühised vaenlased; rahvana oleme loonud liite, sõlminud lepinguid ja sõlminud 
+mitmesugused välisriikidega sõlmitud lepingud ja lepingud. 
+Tugev tunne liidu väärtusest ja õnnistustest ajendas inimesi juba väga varakult asutama 
+föderaalvalitsus seda säilitada ja põlistada. Nad moodustasid selle peaaegu kohe, kui neil oli poliitiline eksistents; 
+ei, ajal, mil nende elamud põlesid leekides, kui paljud nende kodanikud veritsesid ja kui 
+vaenulikkuse ja kõleduse edenemine jättis vähe ruumi nendele rahulikele ja küpsetele järelepärimistele ja mõtisklustele, mis 
+peab kunagi eelnema vaba rahva jaoks targa ja tasakaaluka valitsuse moodustamisele. See ei pea olema 
+imestas selle üle, et nii ebasoodsatel aegadel loodud valitsust tuleks eksperimendi käigus palju leida 
+puudulik ja ebapiisav eesmärgi saavutamiseks. 
+Need intelligentsed inimesed tajusid neid puudusi ja kahetsesid. Endiselt mitte vähem seotud ametiühinguga kui 
+Armunud vabadusest, märkasid nad ohtu, mis ähvardas vahetult endisi ja kaugemalt ka neid 
+viimane; ja olla veendunud, et mõlema jaoks on piisavat turvalisust võimalik leida ainult riiklikus valitsuses 
+targalt kujundatud, kutsusid nad nagu ühel häälel kokku hilise konvendi Philadelphias, et võtta seda tähtsat 
+käsitletav teema. 
+See konvent koosnes meestest, kes valdasid rahva usaldust ja kellest paljud olid seda usaldanud 
+saada kõrgelt silmapaistvaks oma patriotismi, vooruse ja tarkuse poolest aegadel, mis proovisid inimeste meelt ja südant 
+mehed, võtsid selle raske ülesande ette. Kergel rahuajal, kui mõtted ei ole hõivatud teistest teemadest, nad 
+möödus mitu kuud lahedal, katkematul ja igapäevasel konsultatsioonil; ja lõpuks ilma aukartust tundmata 
+võimu või mõjutatuna mis tahes kirgedest, välja arvatud armastus oma kodumaa vastu, tutvustasid ja soovitasid nad 
+inimeste ühiste ja väga üksmeelsete nõukogude koostatud plaani. 
+Tunnistage, sest nii on tõsiasi, et see plaan on ainult SOOVITUSLIK, mitte pealesunnitud, kuid pidage meeles, et 
+ei soovita PIME heakskiitu ega PIME heakskiitu; aga sellele rahulikule ja avameelsele 
+kaalutlus, mida teema ulatus ja tähtsus nõuavad ja mida see kindlasti peaks tegema 
+saada. Kuid see (nagu selle artikli eelmises numbris märgitud) on oodatust rohkem soovida, 
+et seda nii kaaluda ja uurida. Kunagine kogemus õpetab, et me ei tohi olla liiga vinged 
+sellised lootused. Pole veel unustatud, et põhjendatud kartus ähvardava ohu ees ajendas inimesi 
+Ameerika moodustada meeldejääv 1774. aasta kongress. See organ soovitas neile teatud meetmeid 
+ja sündmus tõestas nende tarkust; ometi on meie mälestustes värske, kui kiiresti ajakirjandus hakkas 
+kubisevad brošüüridest ja nädalalehtedest just nende meetmete vastu. Mitte ainult paljud ametnikud 
+valitsus, kes allus isiklike huvide diktaadile, kuid teised, tagajärgede eksliku hinnangu põhjal, 
+või endiste kiindumuste lubamatu mõju või kelle ambitsioonid olid suunatud objektidele, mis ei vastanud sellele 
+avalikkuse hüvanguks, olid väsimatud oma jõupingutustes veenda inimesi selle isamaalase nõuandeid tagasi lükkama. 
+kongress. Tõepoolest, paljud said petta ja petta, kuid enamik inimesi arutles ja otsustas 
+kaalutletult; ja nad on õnnelikud, kui nad seda tegid. 
+Nad leidsid, et kongress koosnes paljudest tarkadest ja kogenud meestest. See, kutsutakse kokku 
+riigi erinevatest piirkondadest tõid nad kaasa ja edastasid üksteisele mitmesuguseid kasulikke asju 
+teavet. See, et aja jooksul möödusid nad koos tõe uurides ja arutledes 
+oma riigi huvides, peavad nad olema omandanud selle kohta väga täpsed teadmised. Et nad olid 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+8/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+isiklikult huvitatud avalikust vabadusest ja õitsengust ning seetõttu ei olnud see nende kalduvus väiksem kui 
+nende kohustus on soovitada ainult selliseid meetmeid, mida nad pärast kõige küpsemat kaalumist pidasid tõesti mõistlikuks 
+ja soovitav. 
+Need ja sarnased kaalutlused ajendasid inimesi suurel määral lootma oma otsustusvõimele ja aususele 
+kongress; ja nad võtsid nende nõuandeid kuulda, hoolimata sellest, et erinevad kunstid ja ettevõtmised neid sellest eemale peletasid. 
+Aga kui rahval laiemalt oleks põhjust usaldada selle kongressi mehi, kellest vähesed olid täielikult kohut mõistetud või 
+üldiselt teada, on neil nüüd veelgi suurem põhjus austada konventsiooni otsust ja nõuandeid 
+on hästi teada, et mõned tolle kongressi silmapaistvamad liikmed, keda on sellest ajast peale proovinud ja 
+õiglaselt tunnustatud patriotismi ja võimete poolest ning kes on poliitilise informatsiooni hankimisel vanaks jäänud 
+selle konventsiooni liikmed ning kandsid sinna oma kogutud teadmised ja kogemused. 
+Väärib märkimist, et mitte ainult esimene, vaid ka iga järgnev kongress, aga ka hiline konvent, 
+on alati ühinenud inimestega, kes arvavad, et Ameerika õitseng sõltub tema Liidust. To 
+säilitada ja põlistada seda oli inimeste suur eesmärk selle konventsiooni moodustamisel ja see on ka suur 
+plaani eesmärk, mida konvent on soovitanud neil vastu võtta. Mis kohasusega seega või milleks 
+head eesmärgid, on mõnede meeste katsed sellel konkreetsel perioodil alandada selle tähtsust 
+Liit? Või miks arvatakse, et kolm või neli konföderatsiooni oleks parem kui üks? Olen omas veendunud 
+oma meelt, et inimesed on sellel teemal alati õigesti mõelnud ning et nende universaalne ja ühtne 
+kiindumus liidu asjasse põhineb suurtel ja kaalukatel põhjustel, mida ma püüan edasi arendada ja 
+selgitage mõnes järgnevas dokumendis. Nad propageerivad ideed mitmete erinevate konföderatsioonide asendamiseks 
+konvendi plaani ruumi, näivad selgelt ette nägevat, et selle tagasilükkamine muudaks jätkumise 
+liidu jaoks ülimas ohus. See oleks kindlasti nii ja ma soovin siiralt, et see nii oleks 
+iga hea kodaniku poolt selgelt ette nähtud, mida iganes liidu lagunemine saabub Ameerika 
+põhjust hüüda poeedi sõnadega: "HÜVASTI! PIKALT HÜVASTI KÕIK MU SUURUS." 
+PUBLIUS 
+ 
+FEDERALIST nr 3. Sama teema 
+Jätkub (Välismaa ohtude kohta 
+jõud ja mõju) 
+Sõltumatu ajakirja jaoks. Laupäeval, 3. novembril 1787. a 
+JAY 
+New Yorgi osariigi inimestele: 
+Pole uus tähelepanek, et ühegi riigi inimesed (kui, nagu ameeriklased, on intelligentsed ja 
+hästi informeeritud) võtavad harva omaks ja püsivad aastaid järjekindlalt ekslikul arvamusel, austades oma 
+huvid. See kaalutlus kipub loomulikult tekitama suurt austust inimeste kõrge arvamuse vastu 
+Ameerika on nii kaua ja ühtlaselt meelt avaldanud selle üle, kui tähtis on jätkata oma kindlat ühtsust 
+föderaalvalitsus, millel on piisavad volitused kõigi üldiste ja riiklike eesmärkide täitmiseks. 
+Mida tähelepanelikumalt ma kaalun ja uurin põhjuseid, mis näivad olevat selle arvamuse sünnitanud, 
+seda enam ma veendun, et need on veenvad ja veenvad. 
+Paljude objektide hulgas, millele tark ja vaba rahvas peab vajalikuks oma tähelepanu juhtida, on see 
+nende OHUTUSE tagamine näib olevat esimene. Inimeste TURVALISUS on kahtlemata seotud suurega 
+erinevaid asjaolusid ja kaalutlusi ning annab seetõttu palju vabadust neile, kes soovivad määratleda 
+seda täpselt ja kõikehõlmavalt. 
+Praegu mõtlen seda ainult nii, et see austab rahu ja vaikuse säilitamise turvalisust, nagu 
+samuti VÕÕRLISTEST RELVAEST JA MÕJUTEST, aga ka sarnastest ohtudest tulenevate 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+9/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+kodustest põhjustest. Kuna esimene neist on järjekorras esimene, on õige, et seda tuleks esimesena arutada. Lase 
+asume seepärast uurima, kas rahval pole õigus oma arvamuses, et südamlik Liit an 
+tõhus riigivalitsus, pakub neile parimat turvalisust, mida saab VÕENGUTE vastu välja mõelda 
+välismaal. 
+Maailmas toimunud või juhtuma hakkavate sõdade arv leitakse alati olevat 
+proportsioonis põhjuste arvu ja kaaluga, kas PÄRIS või TEESELDUD, mis PROVOTSEVAD või 
+KUTSU neid. Kui see märkus on õiglane, on kasulik uurida, kas on tõenäoline, et sõja jaoks on nii palju ÕIGUSLIKKE põhjuseid 
+annab ÜHENDATUD AMEERIKA kui DISUNITED America; sest kui peaks selguma, et Ühend-Ameerika 
+annab ilmselt kõige vähem, siis järeldub, et selles osas kipub liit kõige rohkem inimesi hoidma 
+rahuseisundis teiste rahvastega. 
+Sõja ÕIGLASED põhjused tulenevad enamasti kas lepingute rikkumisest või otsesest vägivallast. 
+Ameerika on juba sõlminud lepingud vähemalt kuue välisriigiga ja kõik, välja arvatud Preisimaa, on seda sõlminud 
+merendusega ning seetõttu võib meid häirida ja vigastada. Tal on ka ulatuslik kaubandus Portugali, Hispaania ja 
+Ühendkuningriigil ja viimase kahe puhul tuleb lisaks arvestada naabruskonnaga seotud asjaoludega. 
+Ameerika rahu jaoks on ülimalt tähtis, et ta järgiks rahvaste seadusi kõigi nende võimude suhtes, 
+ja mulle tundub ilmselge, et üks riigi valitsus teeb seda täiuslikumalt ja täpsemini 
+kui see võiks olla kas kolmteist eraldiseisvat riiki või kolm või neli erinevat konföderatsiooni. 
+Sest kui üks kord luuakse tõhus riigivalitsus, ei tee riigi parimad mehed mitte ainult 
+nõusolek teenida, kuid üldjuhul määratakse ka seda juhtima; kuigi linn või maa või muu 
+sõlmitud mõjuvõimuga, võivad mehi paigutada osariigi assambleesse või senati või kohtusse või täitevvõimu 
+osakondades, on vaja andekate ja muude kvalifikatsioonide üldisemat ja ulatuslikumat mainet 
+soovitada mehi riigi valitsuse alluvuses olevatesse ametitesse, eriti kuna sellel on kõige laiem valik, 
+ja ei koge kunagi seda puudust korralike inimeste järele, mis pole mõnes osariigis haruldane. Järelikult saab 
+tulemuseks on riigi valitsuse administratsioon, poliitilised nõuandjad ja kohtuotsused 
+targemad, süstemaatilisemad ja läbimõeldumad kui üksikute riikide omad ning järelikult rahuldavamad 
+lugupidamine teiste rahvaste vastu, samuti TURVALISEM meie suhtes. 
+Sest riigi valitsuse all on lepingud ja lepingu artiklid, aga ka rahvaste seadused 
+alati selgitatakse ühes tähenduses ja täidetakse samal viisil, samas kui otsused samade kohta 
+punktid ja küsimused ei ole kolmeteistkümnes osariigis või kolmes või neljas konföderatsioonis alati kooskõlas ega järjepidevad; 
+ja see, samuti erinevate sõltumatute kohtute ja kohtunike tõttu, kelle ametisse on määranud erinevad ja sõltumatud 
+valitsused, nagu erinevad kohalikud seadused ja huvid, mis võivad neid mõjutada ja mõjutada. Tarkus 
+konventsioon, andes sellised küsimused nende kohtute jurisdiktsiooni ja otsuste alla, mille on määranud ja 
+vastutav ainult ühe riigi valitsuse ees, ei saa liiga palju kiita. 
+Kuna praegune kahju või eelis võib sageli ühe või kahe riigi valitsuspartei ahvatleda 
+kõrvale kalduma heast usust ja õiglusest; kuid need kiusatused ei jõua teistesse riikidesse ja järelikult 
+omades vähe või üldse mitte mingit mõju riigi valitsusele, on kiusatus viljatu ning heausksus ja 
+õiglus säiliks. Suurbritanniaga sõlmitud rahulepingu juhtum lisab sellele arutlusele palju kaalu. Sest isegi kui riigi valitsuspartei peaks sellistele kiusatustele vastu seista, siis sellisena 
+kiusatused võivad tuleneda riigile omapärastest asjaoludest ja võivad kaasneda suurel määral 
+elanike arvust ei pruugi valitsuspartei alati soovi korral olla võimeline ebaõiglust ära hoidma 
+mediteerinud või agressoreid karistama. Kuid riigi valitsus, keda need kohalikud ei mõjuta 
+oludes, ei ajendata end ise ülekohut toime panema ega soovi selleks võimu ega kalduvust 
+takistada või karistada selle sooritamist teiste poolt. 
+Seega, kuna lepingute ja rahvaste seaduste kavandatud või juhuslikud rikkumised on siiani võimaldanud JUST 
+sõja põhjuste tõttu on neid ühe üldvalitsuse all vähem tabatav kui mitme väiksema valitsuse all ja 
+selles osas pooldab esimene kõige enam inimeste OHUTUST. 
+Mis puutub sõja õiglastesse põhjustesse, mis tulenevad otsesest ja ebaseaduslikust vägivallast, siis see tundub mulle sama selge 
+et üks hea riigi valitsus pakub sedasorti ohtude eest tunduvalt suuremat turvalisust, kui on võimalik tuletada 
+mis tahes teisest kvartalist. 
+Sest sellist vägivalda põhjustavad sagedamini mingi osa kui terviku kired ja huvid; 
+ühest või kahest riigist kui liidust. Ühtegi India sõda ei ole veel põhjustanud India agressioonid 
+praegune föderaalvalitsus, nii nõrk kui see on; kuid India vaenutegevuse kohta on mitmeid juhtumeid 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+10/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+provotseeritud üksikute riikide ebaõige käitumise tõttu, kes ei suuda või ei taha ohjeldada või karistada 
+kuriteod, on andnud põhjust paljude süütute elanike tapmiseks. 
+Hispaania ja Briti alade naabrus, mis piirneb teatud osariikidega ja teistega mitte 
+piirab tüli põhjused otsekohe piires. Piiririigid, kui neid on, on need 
+kes äkilise ärrituse ja kiire näilise huvi või vigastuse ajel on kõige tõenäolisem, 
+otsese vägivallaga õhutada nende rahvastega sõda; ja miski ei suuda seda ohtu nii tõhusalt vältida kui a 
+riigi valitsus, kelle tarkust ja ettenägelikkust ei vähenda kired, mis käivitavad 
+pooled kohe huvitatud. 
+Kuid riigi valitsus ei anna mitte ainult vähem õiglasi sõjapõhjuseid, vaid ka seda rohkem 
+nende võime neid sõbralikult majutada ja lahendada. Nad on mõõdukamad ja jahedamad ning selles 
+austus, nagu ka teistes, on suutlikumad tegutseda teadlikumalt kui rikkuv riik. Uhkus 
+nii riigid kui ka inimesed sunnib neid loomulikult kõiki oma tegusid õigustama ja on vastu nende tunnustamisele, 
+nende vigade ja rikkumiste parandamine või parandamine. Sellistel juhtudel riigi valitsust see ei mõjuta 
+seda uhkust, kuid jätkab mõõdukuse ja aususega, et kaaluda ja otsustada kõige sobivamate vahendite üle 
+vabastada neid raskustest, mis neid ähvardavad. 
+Pealegi on hästi teada, et tunnustusi, selgitusi ja hüvitisi aktsepteeritakse sageli kui 
+rahuldav tugevalt ühendatud rahvalt, mis lükatakse tagasi kui mitterahuldav, kui seda pakub riik või 
+vähese tähelepanu või võimuga konföderatsioon. 
+Aastal 1685 püüdis Genova osariik Louis XIV-d solvanud teda rahustada. Ta nõudis 
+et nad peaksid saatma oma Doge'i ehk peakohtuniku koos nelja senaatoriga PRANTSUSMAALE küsima 
+temalt andeks anda ja tingimused kätte saada. Nad olid kohustatud sellele rahu huvides alluma. Kas ta oleks mõnel 
+on kas nõudnud või saanud samasugust alandust Hispaanialt, Suurbritannialt või kelleltki teiselt 
+VÕIMAS rahvas? 
+PUBLIUS 
+ 
+FEDERALIST nr 4. Sama teema 
+Jätkub (Välismaa ohtude kohta 
+jõud ja mõju) 
+Sõltumatu ajakirja jaoks. Kolmapäeval, 7. novembril 1787. a 
+JAY 
+New Yorgi osariigi inimestele: 
+MINU VIIMANE ettekanne tõi välja mitu põhjust, miks inimeste turvalisus oleks kõige paremini tagatud ametiühingu kaudu 
+ohu vastu, millega see võib kokku puutuda ÕIGUSLIKULT teistele riikidele antud sõjapõhjustega; ja need põhjused näitavad 
+et selliseid põhjusi mitte ainult harvemini ei antaks, vaid need oleksid ka kergemini vastuvõetavad, a 
+kui osariikide valitsused või kavandatavad väikesed konföderatsioonid. Kuid Ameerika inimeste turvalisus VÄLISjõududest tulenevate ohtude eest ei sõltu ainult nendest 
+sallimatus anda teistele rahvastele ÕIGLASED sõjapõhjused, aga ka nende paigutamine ja jätkamine 
+selline olukord, mis ei kutsu vaenulikkust ega solvamist; sest pole vaja jälgida, et on TEESELDUD nagu 
+samuti sõja õiglased põhjused. 
+See on liiga tõsi, kui häbiväärne see ka inimloomusele on, et rahvad üldiselt sõdivad millal iganes 
+neil on väljavaade selle kaudu midagi saada; ei, absoluutsed monarhid peavad sageli sõda, kui nende rahvad 
+ei saa sellega midagi, vaid ainult isiklikel eesmärkidel ja eesmärkidel, nagu janu sõjalise hiilguse järele, 
+kättemaks isiklike solvamiste, ambitsioonide või erakokkulepete eest, mille eesmärk on tõsta või toetada oma perekondi või 
+partisanid. Need ja mitmed muud motiivid, mis mõjutavad ainult suverääni meelt, viivad ta sageli selleni 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+11/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+osaleda sõdades, mida ei ole pühitsenud õiglus ega tema rahva hääl ja huvid. Kuid nendest sõltumatult 
+õhutusi sõjaks, mis on rohkem levinud absoluutsetes monarhiates, kuid mis väärivad meie tähelepanu, 
+on ka teisi, mis mõjutavad rahvusi sama sageli kui kuningaid; ja mõned neist avastatakse uurimisel kasvavat 
+välja meie suhtelisest olukorrast ja oludest. 
+Prantsusmaa ja Suurbritanniaga oleme kalanduses rivaalid ja suudame nende turge varustada odavamalt kui nad suudavad 
+ise, hoolimata jõupingutustest seda takistada omapoolsete hüvituste või kohustustega välismaiste kalade suhtes. 
+Nendega ja enamiku teiste Euroopa riikidega oleme rivaalid navigatsioonis ja kaubaveos; ja meie 
+petame ennast, kui arvame, et keegi neist rõõmustab selle õitsengu üle; sest meie kandekaubandus 
+ei saa suureneda, ilma et nad mingil määral vähendaksid nende oma, see on pigem nende huvi ja on rohkem nende poliitika, 
+ohjeldada kui edendada. 
+Kaubanduses Hiinasse ja Indiasse sekkume me rohkem kui ühte riiki, kuna see võimaldab meil osaleda 
+eeliseid, mis neil teatud viisil monopoliseeriti, ja kuna me varustame end seeläbi kaupadega 
+mida me neilt ostsime. 
+Meie endi kaubanduse laiendamine oma laevadel ei saa pakkuda naudingut ühelegi rahvale, kes seda valdab 
+territooriumidel sellel mandril või selle läheduses, sest meie toodangu odavus ja tipptase suurendas 
+läheduses olevad asjaolud ning meie kaupmeeste ja navigaatorite ettevõte ja aadress annavad meile parema 
+osa nende territooriumide pakutavatest eelistest, kui see sõltub nende piirkonna soovidest või poliitikast 
+suveräänid. 
+Hispaania peab ühest küljest mugavaks Mississippi meie vastu sulgeda ja Suurbritannia jätab meid 
+Püha Lawrence teiselt poolt; ega kumbki neist luba teistel vetel, mis on nende ja meie vahel 
+saada vastastikuse suhtluse ja liikluse vahendiks. 
+Nendest ja muudest sarnastest kaalutlustest, mis võivad, kui need on kooskõlas ettevaatlikkusega, olla rohkem võimendatud ja 
+üksikasjalikult on lihtne näha, et kadedus ja rahutus võivad järk-järgult libiseda inimeste mõtetesse ja kabinettidesse. 
+teised rahvad ja et me ei peaks eeldama, et nad peaksid arvestama meie edusammudega liidus, võimul ja 
+tagajärjeks nii maismaal kui ka merel, ükskõiksuse ja meelerahu pilguga. 
+Ameerika inimesed on teadlikud, et need asjaolud võivad samuti esile kutsuda sõja 
+teistelt, mis ei ole praegu nii ilmsed, ja alati, kui sellised stiimulid leiavad sobivat aega ja võimalust 
+toimingut, teeskleb värvimist ja nende õigustamist. Seetõttu peavad nad targaks liidu ja 
+hea riigi valitsus kui vaja, et panna ja hoida neid SELLISES OLUKORDAS, selle asemel 
+KUTSUDES sõda, kipub seda represseerima ja heidutama. See olukord seisneb parimas võimalikus olekus 
+ja see sõltub tingimata riigi valitsusest, relvadest ja ressurssidest. 
+Kuna terviku turvalisus on terviku huvi ja seda ei saa tagada ka ilma valitsuseta 
+üks või mitu või mitu, uurigem, kas üks hea valitsus ei ole kõnealuse objekti suhtes rohkem 
+pädevad kui ükski teine antud number. Üks valitsus võib koguda ja kasutada kõige võimekamate meeste andeid ja kogemusi ükskõik millises osas 
+liit neid võib leida. See võib liikuda ühtsetel poliitikapõhimõtetel. See võib ühtlustada, assimileerida ja 
+kaitsta mitut osa ja liiget ning laiendada oma ettenägelikkust ja ettevaatusabinõusid igaühele. Aastal 
+lepingute sõlmimisel käsitleb ta terviku huve ja osade erihuve seotuna 
+terviku omaga. See võib rakendada terviku ressursse ja jõudu mis tahes konkreetse osa kaitsmiseks, 
+ja seda hõlpsamini ja kiiremini kui osariikide valitsused või eraldiseisvad konföderatsioonid seda teha saavad, 
+kontserdi ja süsteemi ühtsuse puudumine. See võib paigutada miilitsad ühe distsipliiniplaani alla ja pannes nende 
+ametnikud, kes on õigel alluvuses peakohtunikule, koondavad nad justkui üheks 
+ja muudavad need seeläbi tõhusamaks, kui kolmeteistkümneks või kolmeks või neljaks eraldiseisvaks jagunemiseks 
+sõltumatud ettevõtted. 
+Milline oleks Suurbritannia miilits, kui inglise miilits kuuletuks Inglismaa valitsusele, kui šotlased 
+miilits allus Šotimaa valitsusele ja kui Walesi miilits kuuletus Walesi valitsusele? Oletame 
+invasioon; kas need kolm valitsust (kui nad üldse nõustuksid) suudaksid koos kõigi oma jõududega seda teha 
+tegutseda vaenlase vastu nii tõhusalt, kui seda teeks Suurbritannia ühtne valitsus? 
+Oleme kuulnud palju Suurbritannia laevastikest ja kui oleme targad, võib tulla aeg, mil 
+Ameerika võib tähelepanu pöörata. Kuid kui üks riigi valitsus poleks Suurbritannia navigeerimist nii reguleerinud 
+teha sellest meremeeste lasteaed – kui üks riigi valitsus poleks kõiki riiklikke vahendeid ja vahendeid välja kutsunud 
+materjale laevastike moodustamiseks, nende meisterlikkust ja äikest poleks kunagi tähistatud. Las Inglismaa 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+12/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+oma navigatsioon ja laevastik – las Šotimaal olla oma navigatsioon ja laevastik – las Walesil olla oma navigatsioon ja laevastik 
+— las Iirimaal olla oma navigatsioon ja laevastik — olgu need neli Briti impeeriumi moodustavat osa allutatud 
+neli sõltumatut valitsust ja on lihtne mõista, kui kiiresti need kõik kahanevad 
+tähtsusetus. 
+Rakendage neid fakte meie enda juhtumile. Lahkuge Ameerikast kolmeteistkümneks või, kui soovite, kolmeks või neljaks 
+sõltumatud valitsused – milliseid armeed võiksid nad luua ja maksta – milliseid laevastikke võiksid nad kunagi loota? Kui 
+ühte rünnati, kas teised lendaksid teda aitama ja kulutaksid oma verd ja raha selle kaitseks? Oleks seal 
+ei tohi olla ohtu, et neid meelitatakse selle võltslike lubadustega neutraalsusele või võrgutatakse liiga suurest kiindumusest 
+et rahu väheneks, ohustades nende rahu ja turvalisust naabrite huvides, kellest võib-olla 
+nad on olnud armukadedad ja kelle tähtsuse vähenemist nad näevad? Kuigi selline käitumine oleks 
+ei ole tark, see oleks siiski loomulik. Kreeka ja teiste riikide ajalugu, 
+Selliseid juhtumeid on külluses ja pole ebatõenäoline, et see, mis on nii sageli juhtunud, juhtuks sarnaselt 
+asjaolud korduvad. 
+Kuid tunnistage, et nad võivad olla valmis sissetunginud riiki või konföderatsiooni aitama. Kuidas, millal ja milles 
+meeste abi ja raha proportsioon on lubatud? Kes juhib liitlasvägesid ja millisest 
+kas ta saab oma käsud kätte? Kes määrab rahutingimused ja vaidluste korral milline kohtunik 
+otsustada nende vahel ja sundida nõustuma? Erinevad raskused ja ebamugavused oleksid lahutamatud 
+sellisest olukorrast; kusjuures üks valitsus, mis jälgib üldisi ja ühiseid huve ning kombineerib 
+ning kogu volituste ja ressursside suunamine oleks vaba kõigist nendest piinlikest olukordadest ja soodustaks 
+palju rohkem inimeste turvalisuse huvides. 
+Kuid olgu meie olukord milline tahes, kas oleme kindlalt ühendatud ühe riigi valitsuse alla või jaguneme a 
+konföderatsioonide arv, on kindel, et välisriigid teavad ja näevad seda täpselt sellisena, nagu see on; ja nad hakkavad tegutsema 
+meie poole vastavalt. Kui nad näevad, et meie riigi valitsus on tõhus ja hästi juhitud, siis meie kaubandus 
+heaperemehelikult reguleeritud, meie miilits korralikult organiseeritud ja distsiplineeritud, meie ressursid ja rahandus diskreetselt 
+juhitud, meie krediit taastatud, meie inimesed vabad, rahulolevad ja ühtsed, on nad palju rohkem valmis 
+kasvatada meie sõprust kui kutsuda esile meie pahameelt. Teisest küljest, kui nad leiavad, et oleme kas vaesed või an 
+tõhus valitsus (iga riik teeb õigesti või valesti, sest tema valitsejad võivad tunduda mugavad) või jagunevad kolmeks 
+või neli sõltumatut ja tõenäoliselt vastuolulist vabariiki või konföderatsiooni, millest üks kaldub Suurbritannia poole, teine 
+Prantsusmaa ja kolmandik Hispaaniale ja võib-olla mängisid need kolm üksteise vastu, milline vaene ja haletsusväärne kuju 
+teeb Ameerika nende silmis! Kui vastutavaks muutuks ta mitte ainult nende põlguse, vaid ka nördimuse ees, 
+ja kui kiiresti võiks kallilt ostetud kogemus kuulutada, et kui rahvas või perekond nii lõheneb, ei jää see kunagi tegemata 
+iseenda vastu. 
+PUBLIUS 
+ 
+FEDERALIST nr 5. Sama teema 
+Jätkub (Välismaa ohtude kohta 
+jõud ja mõju) 
+Sõltumatu ajakirja jaoks. Laupäeval, 10. novembril 1787. a 
+JAY 
+New Yorgi osariigi inimestele: 
+KUNINGANNA ANNE esitab oma 1. juulil 1706. aastal Šoti parlamendile saadetud kirjas mõned tähelepanekud 
+Ühenduse tähtsus Inglismaa ja Šotimaa vahel, mis väärivad meie tähelepanu. ma teen 
+esitage avalikkusele üks või kaks väljavõtet sellest: "Terviklik ja täiuslik liit on selle kindel alus 
+kestev rahu: see kindlustab teie religiooni, vabaduse ja vara; eemaldage omavahelised vaenud ja 
+meie kahe kuningriigi kadedus ja erimeelsused. See peab suurendama teie jõudu, rikkust ja kaubandust; ja poolt 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+13/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+sellest ühendusest saab kogu saar, olles ühendatud kiindumusega ja vaba igasugustest erinevat huvi pakkuvatest kartustest. 
+VÕIMALIK PUUDUTA KÕIGILE OMA VAENNALISTELE." „Soovitame teile siiralt rahulikkust ja üksmeelt 
+selles suures ja kaalukas asjas, et liit saaks õnneliku lõpu, olles ainus 
+TÕHUS viis kindlustada meie praegune ja tulevane õnn ning pettuma meie ja teie disainides 
+vaenlased, kes kahtlemata sel korral KASUTAVAD OMA KÕIGE PÜHINGUID, ET VÄLTIDA VÕI 
+LÜHITADA SEE LIIT edasi." 
+Eelmises kirjutises märgiti, et nõrkus ja lõhed kodus toovad endaga kaasa ohte 
+välismaal; ja et miski ei kaitse meid nende eest rohkem kui liit, jõud ja hea valitsus 
+meie sees. See teema on rikkalik ja seda ei saa kergesti ammendada. 
+Suurbritannia ajalugu on see, millega oleme üldiselt kõige paremini kursis ja see annab meile palju 
+kasulikke õppetunde. Võime nende kogemustest kasu saada, maksmata hinda, mida see neile maksis. Kuigi tundub 
+tervele mõistusele on selge, et sellise saare inimesed peaksid olema vaid üks rahvas, kuid me leiame, et nad olid seda 
+kolmeks jagatud ajastuteks ja et need kolm olid peaaegu pidevalt segatud tülidesse ja sõdadesse ühega 
+teine. Vaatamata sellele, et nende tõeline huvi mandririikide vastu oli tegelikult sama, kuid siiski 
+nende rahvaste kunstid, poliitika ja tavad, nende vastastikust armukadedust hoiti pidevalt lõkkele ja 
+pikkade aastate jooksul olid need palju ebamugavamad ja tülikamad, kui neist igaühele kasulikud ja abistavad 
+muud. 
+Kas Ameerika inimesed peaksid end jagama kolmeks või neljaks riigiks, kas ei juhtuks sama? 
+Kas ei tekiks sarnaseid armukadedusi ja neid ei peetaks samamoodi kalliks? Selle asemel, et nad oleksid "kiindunud" 
+ja vaba igasugusest kartusest erinevate "huvide" ees, kadedus ja armukadedus kustutavad peagi enesekindluse ja 
+kiindumus ja iga konföderatsiooni osalised huvid kogu Ameerika üldiste huvide asemel oleksid 
+nende poliitika ja püüdluste ainsad objektid. Järelikult, nagu enamik teisi PIIRIrahvaid, teeksid nad seda alati 
+osaleda vaidlustes ja sõjas või elada nende pidevas mõistmises. Kõige targemad kolme või nelja konföderatsiooni pooldajad ei saa mõistlikult eeldada, et nad igatseksid 
+jääma tugevuse osas täpselt võrdsele tasemele, isegi kui neid oli võimalik alguses nii kujundada; aga, 
+tunnistades, et see on teostatav, kuid milline inimlik väljamõeldis võib tagada sellise võrdsuse jätkumise? 
+Sõltumata nendest kohalikest oludest, mis kipuvad ühes osas võimsust sünnitama ja suurendama ning seda takistama 
+edusammud teises, peame teavitama selle parema poliitika ja hea juhtimise mõjudest, mis seda teeks 
+ilmselt eristavad valitsust üks teistest kõrgemal ja mille järgi nende suhteline võrdsus tugevuselt ja 
+kaalutlus hävitataks. Sest ei saa eeldada, et sama mõistlik poliitika, ettevaatlikkus, 
+ja ettenägelikkust jälgiksid kõik need konföderatsioonid ühtlaselt pikkade aastate jooksul. 
+Millal iganes ja mis tahes põhjustel võib juhtuda ja juhtub, et mõni neist rahvastest või 
+konföderatsioonid peaksid tõusma poliitilise tähtsuse skaalal palju kõrgemale kui tema naabrid, see 
+kui need naabrid vaataksid teda kadeduse ja hirmuga. Mõlemad kired viivad neid 
+nägu, kui mitte edendada, mis iganes võib lubada tema tähtsust vähendada; ja hoiaks ka tagasi 
+neid meetmetest, mis on kavandatud tema heaolu edendamiseks või isegi kindlustamiseks. Palju aega poleks vaja 
+võimaldada tal neid ebasõbralikke hoiakuid eristada. Ta alustab varsti, mitte ainult selleks, et kaotada tema vastu usaldust 
+naabreid, vaid ka tunda neile sama ebasoodsat suhtumist. Usaldamatus tekitab loomulikult usaldamatust ja poolt 
+midagi ei muuda heatahtlikkust ja lahke käitumist kiiremini kui pahatahtlik kadedus ja ebaaus 
+väljendatud või kaudsed imputatsioonid. 
+Põhja on üldiselt tugevuspiirkond ja paljud kohalikud asjaolud muudavad selle kõige tõenäolisemaks 
+Kavandatavatest konföderatsioonidest põhja pool oleks mitte väga kaugel perioodil vaieldamatult hirmuäratavam 
+kui ükski teine. Kohe niipea, kui see ilmseks saab, hakkab PÕHJA-HIVE sama erutama 
+ideid ja sensatsioone Ameerika lõunapoolsemates piirkondades, mida ta varem tegi Euroopa lõunapoolsetes osades. 
+Samuti ei tundu olevat lööve oletus, et selle noortel sülemel võib sageli tekkida kiusatus mett koguda. 
+luksuslike ja õrnemate naabrite rohkem õitsevaid põlde ja mahedamat õhku. 
+Need, kes arvestavad hästi sarnaste jagunemiste ja konföderatsioonide ajalooga, leiavad selleks küllaldaselt põhjust 
+mõistma, et need, kes mõtisklevad, poleks muus mõttes naabrid kui piiripealsed; 
+et nad ei armastaks ega usaldaks üksteist, vaid oleksid vastupidi lahkarvamuste, armukadeduse ja 
+vastastikused vigastused; ühesõnaga, et nad asetaksid meid täpselt olukordadesse, mida mõned rahvad kahtlemata soovivad 
+meid näha, nimelt AINULT TEISELE VÄRVITUD. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+14/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+Nendest kaalutlustest selgub, et need härrad eksivad suuresti, kes eeldavad, et liitud 
+Nende konföderatsioonide vahel võidakse moodustada ründav ja kaitsev suund, mis tekitaks selle kombinatsiooni ja 
+relvatahte ja ressursside liit, mis oleks vajalik nende tohutusse seisundisse viimiseks ja hoidmiseks 
+kaitse välisvaenlaste vastu. 
+Millal ühinesid iseseisvad riigid, milleks Suurbritannia ja Hispaania olid varem jagatud 
+liita või ühendada oma jõud välisvaenlase vastu? Kavandatavad konföderatsioonid on ERINEVAD 
+RAHVUSED. Igaüks neist suhtleks välismaalastega, et neid reguleerida erinevate lepingutega; ja nagu nende 
+toodang ja kaubad on erinevad ja sobivad erinevatele turgudele, nii oleksid ka need lepingud 
+olemuselt erinev. Erinevad ärilised mured peavad tekitama erinevaid huve ja loomulikult erinevaid 
+poliitilise seotuse astmed ja seotus erinevate välisriikidega. Seetõttu võib ja tõenäoliselt 
+juhtuks, et see võõras rahvas, kellega LÕUNA konföderatsioon võib sõdida, oleks 
+selline, kellega PÕHJA konföderatsioon sooviks kõige enam säilitada rahu ja sõprust. Seetõttu poleks nende vahetutele huvidele niivõrd vastuolus olevat liitu lihtne moodustada ega ka selle loomisel 
+vaadelda ja täita täiesti heas usus. 
+Ei, on palju tõenäolisem, et Ameerikas, nagu ka Euroopas, tegutsevad naaberriigid 
+vastandlikud huvid ja ebasõbralikud kired, leitakse sageli erinevatest külgedest. Arvestades meie 
+Euroopast kaugemal, oleks loomulikum, et need konföderatsioonid mõistaksid üksteisest tulenevat ohtu 
+kui kaugetest rahvastest ja seetõttu peaks igaüks neist rohkem tahtma end teiste eest kaitsta 
+välisriikide liitude abi, kui välismaiste ohtude eest kaitsmine omavaheliste liitude kaudu. Ja siin las 
+ärge unustage, kui palju lihtsam on vastu võtta välislaevastike meie sadamatesse ja võõraid sõjavägesid meie sadamatesse. 
+kui see on veenda või sundida neid lahkuma. Kui palju vallutusi roomlased ja teised tegid 
+liitlaste tegelaskujudes ja milliseid uuendusi nad sama tegelase all sisse tõid 
+nende valitsused, keda nad teesklesid kaitsvat. 
+Otsustagu siis avameelsed mehed, kas Ameerika jaguneb teatud arvuks sõltumatuteks 
+suveräänsused kipuvad meid kaitsma võõrriikide vaenutegevuse ja sobimatu sekkumise eest. 
+PUBLIUS 
+ 
+FEDERALIST nr 6. Ohtude kohta 
+Riikidevahelised lahkhelid 
+Sõltumatu ajakirja jaoks. Kolmapäeval, 14. novembril 1787. a 
+HAMILTON 
+New Yorgi osariigi inimestele: 
+Selle paberi kolm viimast numbrit on pühendatud meie ohtude loendile 
+tuleks lahkheliseisundis paljastada võõraste rahvaste relvade ja kunstide eest. Ma jätkan nüüd 
+piiritleda teistsuguseid ja võib-olla veelgi murettekitavamaid ohte – neid, mis suure tõenäosusega edasi voolavad 
+riikide endi vahelistest lahkhelidest ning siseriiklikest lahkhelidest ja krampidest. Need on olnud 
+mõnel juhul juba veidi oodatud; kuid nad väärivad täpsemat ja põhjalikumat uurimist. 
+Utoopilistes spekulatsioonides peab olema mees, kes võib selles tõsiselt kahelda, kui need riigid peaksidki olema 
+täielikult lahutatud või ainult osalisteks konföderatsioonideks ühendatud alajaotused, millesse nad võidakse paisata 
+oleks sagedased ja vägivaldsed omavahelised võistlused. Eeldada, et sellistel võistlustel pole motiive nagu 
+argument nende olemasolu vastu oleks unustada, et mehed on ambitsioonikad, kättemaksuhimulised ja raevukad. Et vaadata 
+harmoonia jätkumiseks mitme sõltumatu, omavahel mitteseotud suveräänsuse vahel 
+naabruskonnas, oleks inimlike sündmuste ühtse käigu eiramine ja kogunenud trotsimine 
+aegade kogemus. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+15/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+Rahvaste vaenulikkuse põhjuseid on lugematu arv. On mõned, millel on üldine ja peaaegu 
+pidev tegutsemine ühiskonna kollektiivsete organite peal. Selle kirjelduse hulka kuulub armastus võimu vastu või soov selle järele 
+ülimuslikkus ja ülemvõim – võimu kadedus või võrdsuse ja turvalisuse soov. On ka teisi, mis 
+neil on oma sfääris piiratum, kuigi sama operatiivne mõju. Sellised on rivaalitsemised 
+ja kaubanduslike riikide vahelised kaubanduskonkursid. Ja on ka teisi, mitte vähem palju kui kumbki 
+esimestest, mis pärinevad täielikult erakirgedest; kiindumustes, vaenudes, huvides, lootustes, 
+ja hirmud juhtivate isikute ees kogukondades, mille liikmed nad on. Selle klassi mehed, kas 
+kuninga või rahva lemmikud, on liiga paljudel juhtudel kuritarvitanud oma enesekindlust; ja 
+oletades mõne avaliku motiivi ettekäändeks, ei ole rüganud ohverdada rahvuslikku rahu isiklikule 
+eelis või isiklik rahuldus. 
+Kuulus Perikles, kooskõlas prostituudi pahameelega,(1) suure osa arvelt 
+oma kaasmaalaste verd ja aardeid, ründas, võitis ja hävitas SAMMIANIDE linna. The 
+sama mees, keda õhutas eraviisiline kiusamine MEGARENSIANIDE (2) vastu, teise Kreeka rahva vastu, või vältima 
+süüdistuse esitamine, millega teda ähvardati Phidiase kuju oletatava varguse kaasosalisena,(3) või 
+vabaneda talle ette valmistatud süüdistustest riigi raha hajutamises ostuga 
+populaarsusest,(4) või kõigi nende põhjuste kombinatsioonist, oli selle kuulsa ja saatusliku sõja primitiivne autor, 
+Kreeka annaalides eristatakse PELOPONSESIA sõja nimega; mis pärast erinevaid 
+kõikumised, vaheajad ja uuendused, mis lõppesid Ateena ühisuse hävimisega. 
+Ambitsioonikas kardinal, kes oli Henry VIII peaminister, lubades oma edevusel pürgida kolmiku poole. 
+kroon,(5) avaldas lootust, et see suurepärane auhind õnnestub omandada 
+Keiser Karl V. Et kindlustada selle ettevõtliku ja võimsa monarhi poolehoidu ja huvi, tegi ta ette 
+Inglismaa sõtta Prantsusmaaga, mis on vastuolus kõige selgema poliitika diktaadiga ning ohustab turvalisust ja 
+iseseisvusest, samuti kuningriigist, mille üle ta oma nõuannete abil juhtis, kui ka Euroopast üldiselt. Sest kui 
+kunagi oli suverään, kes tegi universaalse monarhia projekti elluviimiseks õiglase pakkumise, see oli keiser Charles 
+V., kelle intriigides oli Wolsey korraga pill ja pätt. 
+Mõju, mida avaldasid ühe naise fanatism,(6) teise kirglikkus(7) ja kolmanda kavalus(8) 
+Kaasaegses poliitikas on käärimine ja rahustamine suures osas Euroopast teemad, mis on 
+liiga sageli dekanteeritud, et seda üldiselt ei teata. 
+Korrutada näiteid isiklike kaalutluste kasutamisest suurte riiklike sündmuste loomisel, 
+kas välis- või kodumaine, vastavalt nende suunale, oleks asjatu ajaraisk. Need, kellel on 
+kuid pealiskaudne tutvus allikatega, millest need pärinevad, meenub ise 
+erinevaid juhtumeid; ja need, kellel on talutavad teadmised inimloomusest, ei vaja selliseid 
+oma arvamust selle agentuuri tegelikkuse või ulatuse kohta. Võib-olla siiski viide, kalduvus 
+üldprintsiibi illustreerimiseks võib asjakohaselt käsitleda juhtumit, mis on viimasel ajal juhtunud seas 
+meie ise. Kui Shays poleks olnud MEELEheitel VÕLG, siis võib kahelda, kas Massachusetts 
+oleks sattunud kodusõtta. 
+Kuid hoolimata kogemuste ühtsetest tunnistustest on selles konkreetses veel leida 
+visionäärid või kujundavad mehed, kes on valmis propageerima riikidevahelise igavese rahu paradoksi, 
+kuigi tükeldatud ja üksteisest võõrandunud. Vabariikide geenius (öelda, et nad) on vaikne; vaimu 
+kaubandusel on kalduvus pehmendada meeste kombeid ja kustutada need tuleohtlikud huumorid, mis 
+on nii sageli süüdanud sõdu. Kaubandusvabariigid, nagu meiegi, ei raiska end kunagi 
+hävitavad tülid omavahel. Neid juhivad vastastikused huvid ja nad kasvatavad vaimu 
+vastastikune sõprus ja üksmeel. Kas pole (võime poliitikas nendelt projektoritelt küsida) kõigi rahvaste tõeline huvi kasvatada sama 
+heatahtlik ja filosoofiline vaim? Kui see on nende tõeline huvi, siis kas nad on seda ka tegelikult taotlenud? Kas pole, peal 
+vastupidi, alati on leitud, et hetkelised kired ja vahetu huvi omavad aktiivsemat ja 
+range kontroll inimkäitumise üle kui üldised või kauged poliitika, kasulikkuse või õigluse kaalutlused? On 
+vabariigid on olnud sõjast vähem sõltuvuses kui monarhiad? Kas endisi ei halda MEN as 
+ja see viimane? Kas ei ole vastumeelsust, eelistusi, rivaalitsemist ja ebaõiglaste omandamiste soove, mis mõjutavad 
+nii rahvad kui ka kuningad? Kas populaarsed kooslused ei allu sageli raevu, pahameele, 
+armukadedus, ahnus ja muud ebaregulaarsed ja vägivaldsed kalduvused? Kas pole hästi teada, et nende otsused 
+sageli juhivad mõned üksikud isikud, kellele nad usaldavad, ja loomulikult võivad nad olla tinktuuritud 
+nende inimeste kirgede ja vaadete järgi? Kas kaubandus on siiani teinud midagi enamat kui muutnud 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+16/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+sõjaobjektid? Kas armastus rikkuse vastu pole sama domineeriv ja ettevõtlik kirg kui võimu või hiilguse armastus? 
+Kas pole olnud nii palju kaubanduslikel motiividel põhinevaid sõdu, kuna sellest on saanud valdav 
+rahvaste süsteem, nagu seda varem põhjustas territooriumi või domineerimise ahmus? Ei oma vaimu 
+Kaubandus andis paljudel juhtudel söögiisu uusi stiimuleid nii ühe kui ka teise jaoks? 
+Nendele päringutele vastuse saamiseks pöörduge kogemuse poole, inimarvamuste kõige vähem eksliku juhi poole. 
+Sparta, Ateena, Rooma ja Kartaago olid kõik vabariigid; kaks neist, Ateena ja Kartaago, reklaamist 
+lahke. Ometi osalesid nad sama sageli sõdades, ründavates ja kaitsvates, nagu naabermonarhiad. 
+samad ajad. Sparta oli pisut parem kui hästi reguleeritud laager; ja Rooma ei olnud kunagi tapatalgutest küllastunud ja 
+vallutus. 
+Kartaago, ehkki kaubandusvabariik, oli agressor selles sõjas, mis lõppes tema hävitamisega. 
+Hannibal oli viinud oma käed Itaalia südamesse ja Rooma väravateni, enne kui Scipio talle omakorda andis. 
+kukutati Kartaago aladel ja vallutas ühisuse. 
+Veneetsia osales hilisematel aegadel rohkem kui korra ambitsioonisõdades, kuni sai teise itaallase objektiks. 
+märgib paavst Julius II. leidis vahendid selle kohutava liiga saavutamiseks,(9) mis andis surmava hoobi 
+selle üleoleva vabariigi võim ja uhkus. 
+Hollandi provintsid võtsid juhtiva ja silmapaistva osa, kuni nad olid võlgade ja maksudega üle koormatud. 
+Euroopa sõdades. Nad pidasid Inglismaaga raevukalt võitlust mere valitsemise pärast ja kuulusid nende hulka 
+kõige visadumad ja leplikumad Louis XIV vastastest. 
+Suurbritannia valitsuses moodustavad rahvaesindajad ühe riigi seadusandliku kogu haru. 
+Kaubandus on selles riigis olnud läbi aegade domineeriv tegevusala. Sellegipoolest on vähesed rahvad olnud rohkem 
+osaleb sageli sõjas; ja sõjad, milles see kuningriik on osalenud, on paljudel juhtudel, 
+lähtus inimestest. 
+Kui ma võin seda väljendada, on olnud peaaegu sama palju populaarseid kui kuninglikke sõdu. Rahva karjed ja 
+nende esindajate kaalutlused on mitmel korral oma monarhid sõtta vedanud või 
+jätkas neid selles, vastupidiselt nende kalduvustele ja mõnikord vastuolus riigi tegelike huvidega. sisse 
+see meeldejääv võitlus paremuse pärast konkureerivate AUSTRIA ja BOURBONi majade vahel, mis nii kaua 
+hoidis Euroopat leegis, on hästi teada, et inglaste antipaatiad prantslaste vastu, sekundeerides 
+Lemmikjuhi ambitsioonid või õigemini ahnus(10) venitasid sõja üle piiride, mille on ette näinud. 
+mõistlik poliitika ja pikka aega kohtu seisukohtadega vastuolus. Nende kahe viimati mainitud riigi sõjad on suurel määral välja kasvanud kommertskasutusest 
+kaalutlused — tõrjumissoov ja hirm tõrjumise ees, kas teatud valdkondades 
+liikluses või kaubanduse ja navigatsiooni üldistes eelistes ning mõnikord isegi süüdlaslikus soovis 
+osaleda teiste rahvaste kaubanduses ilma nende nõusolekuta. 
+Viimane sõda, kuid Suurbritannia ja Hispaania vahel, sai alguse Briti kaupmeeste katsetest kohtu alla anda. 
+salakaubandus Hispaania peamiste. Need õigustamatud tavad tõid kaasa karmiduse 
+Hispaanlased Suurbritannia alamate suhtes, mis ei olnud enam õigustatud, sest nad ületasid 
+õiglase kättemaksu piirid ning süüdistati ebainimlikkuses ja julmuses. Paljud inglased, kes olid 
+Hispaania rannikule viidud saadeti kaevama Potosi kaevandustesse; ja vaimu tavapärase edenemisega 
+pahameele tõttu segati süütud mõne aja pärast valimatu karistuse tõttu süüdlastega. The 
+kaupmeeste kaebused sütitasid kogu riigis ägeda leegi, mis varsti pärast seda puhkes 
+alamkojas ja see organ edastas selle ministeeriumile. Anti kättemaksukirjad ja 
+järgnes sõda, mis oma tagajärgede tõttu kukutas kõik liidud, mis alles kakskümmend aastat varem olid moodustatud 
+sangviiniliste ootustega kõige kasulikumate viljade suhtes. 
+Sellest kokkuvõttest, mis on toimunud teistes riikides, kelle olukordi on kandnud kõige lähem 
+kui me oleme sarnased meie omadega, siis mis põhjust võib meil olla usaldada neid unistusi, mis meelitaksid meid 
+rahu ja südamlikkuse ootus praeguse konföderatsiooni liikmete vahel lahusolekus? 
+Kas me pole juba piisavalt näinud nende tühiste teooriate ekslikkust ja ekstravagantsust, mis on meid lõbustanud 
+lubadustega vabastada ebatäiuslikkusest, nõrkustest ja pahedest, mis ühiskonnas igas vormis esinevad? 
+Kas poleks aeg ärgata kuldajastu petlikust unenäost ja võtta omaks praktiline maksiim 
+meie poliitilise käitumise suund, millest meie, nagu ka teised maakera elanikud, oleme veel kaugel 
+õnnelik täiusliku tarkuse ja täiusliku vooruse impeerium? 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+17/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+Olgu äärmise depressiooni punkt, kuhu meie rahvuslik väärikus ja au on vajunud, las ebamugavused 
+tunda kõikjal lõdvast ja halvast valitsuse juhtimisest, olgu Põhjariigi osa mäss 
+Carolina, hilised ähvardavad rahutused Pennsylvanias ning tegelikud ülestõusud ja mässud 
+Massachusetts, teatage –! 
+Seni on inimkonna üldine tunnetus vastamas nende tõekspidamistele, kes püüavad uinuda. 
+meie kartused riikidevahelise ebakõla ja vaenu pärast, kui see on lahknemise korral 
+ühiskonna arengu jälgimine muutub poliitikas omamoodi aksioomiks, et olukorra lähedus või lähedus, 
+on rahvaste loomulikud vaenlased. Arukas kirjanik väljendab end sel teemal järgmiselt: 
+"NAABERRAHVAD (ütleb ta) on loomulikult üksteise vaenlased, välja arvatud juhul, kui nende ühine nõrkus on 
+sunnib neid KONFEDERATSIOONI VABARIIGis liigasse astuma ja nende põhiseadus hoiab ära erinevused, mida 
+naabruskonna üritustel, kustutades selle salajase armukadeduse, mis sunnib kõiki osariike end ülistama 
+nende naabrite arvelt." (11) See lõik osutab samal ajal KURJELE ja soovitab 
+LAHENDUS. 
+PUBLIUS 
+1. Aspaasia, vide "Plutarkhose Periklese elu". 
+2. Ibid. 
+3. Ibid. 
+4. Ibid. Phidias pidi Periklese nõusolekul varastama avalikku kulda, et 
+Minerva kuju kaunistus. 
+5. Kandsid paavstid. 
+6. Madame de Maintenon. 
+7. Marlborough hertsoginna. 
+8. Madame de Pompadour. 
+9. Cambray Liiga, mis hõlmab keisrit, Prantsusmaa kuningat, Aragoni kuningat ja enamikku 
+Itaalia vürstid ja osariigid. 
+10. Marlborough hertsog. 
+11. Video "Principes des Gociations" par l'Abbé de Mably. 
+ 
+FEDERALIST nr 7. Sama teema 
+Jätkub (Ohtude kohta alates 
+Riikidevahelised lahkhelid) 
+Sõltumatu ajakirja jaoks. Neljapäeval, 15. novembril 1787. a 
+HAMILTON 
+New Yorgi osariigi inimestele: 
+Mõnikord küsitakse näilise triumfi õhkkonnaga, millised stiimulid võiksid olla riikidel, kui nad on lahknevad, 
+üksteise vastu sõda pidama? Sellele küsimusele oleks täielik vastus öelda – täpselt samad stiimulid 
+mis on eri aegadel kõik maailma rahvad verega uputanud. Kuid meie kahjuks on 
+küsimus annab konkreetsema vastuse. Erinevuste põhjused meie lähikonnas on 
+mõtisklus, mille tendents on meil isegi föderaalse põhiseaduse piirangute all olnud 
+piisavalt kogemusi, et saaksime otsustada, mida võiks nende piirangute korral oodata 
+eemaldatud. 
+Territoriaalsed vaidlused on läbi aegade peetud üheks viljakamaks vaenuallikaks rahvaste vahel. 
+Sellest päritolust on alguse saanud võib-olla suurim osa maad hävitanud sõdadest. See põhjus 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+18/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+eksisteeriks meie seas täies jõus. Meil on suur hulk asustamata territooriumi Ameerika Ühendriikide piirides 
+osariigid. Mitmed neist on endiselt vastuolulised ja otsustamata nõuded ning liidu lagunemine 
+paneks aluse sarnastele väidetele nende kõigi vahel. On hästi teada, et neil on seni olnud 
+tõsine ja elav arutelu õiguste üle maadele, mida ei antud ajal 
+revolutsioon ja mis tavaliselt käisid kroonumaade nime all. Riigid, kelle piirides 
+koloniaalvalitsused, millesse nad kuulusid, on nõudnud neid oma omandiks, teised on seda väitnud 
+selles artiklis olevad krooniõigused on liidule üle antud; eriti kogu selle lääneosa osas 
+territoorium, mis kas tegeliku valduse tõttu või India omanike alluvuse tõttu allutati 
+Suurbritannia kuninga jurisdiktsiooni, kuni sellest rahulepinguga loobuti. Seda on öeldud, 
+oli igal juhul konföderatsiooni omandamine võõra võimuga sõlmitud lepinguga. See on olnud mõistlik 
+Kongressi poliitika selle vastuolu vaigistamiseks, sundides riike tegema Ameerika Ühendriikidele loovutamist 
+riigid terviku hüvanguks. Seda on seni saavutatud, liidu jätkamise raames 
+annab kindla väljavaate vaidluse rahumeelseks lõpetamiseks. Konföderatsiooni tükeldamine, 
+aga taaselustaks selle vaidluse ja tekitaks teisi samal teemal. Praegu on suur osa 
+vaba lääne territoorium on vähemalt loovutamise, kui mitte mõne eelneva õiguse alusel, liidu ühisomand. Kui 
+mis olid lõppenud, oleksid riigid, kes tegid loovutamise föderaalse kompromissi põhimõttel, sobivad, kui 
+toetuse motiiv oli lakanud, maid tagasi nõuda. Teised riigid kahtlemata nõuaksid seda 
+proportsioon esindusõiguse alusel. Nende argument oleks, et toetust, kui see on antud, ei saa tagasi võtta; 
+ja et Konföderatsiooni ühiste jõupingutustega omandatud või tagatud territooriumil osalemise õiglus, 
+jäi kahanemata. Kui vastupidiselt tõenäolisusele peaksid kõik riigid tunnistama, et igaühel oli selleks õigus 
+osa sellest lihtaktsiast, oleks õige reegli kohaselt siiski raskusi ületada 
+jagamine. Erinevad riigid kehtestaksid selleks erinevad põhimõtted; ja kuidas need mõjutaksid 
+osapoolte vastandlike huvide tõttu ei pruugi nad olla kergesti vastuvõtlikud vaikse kohandumisele. 
+Lääne territooriumi laial väljal tajume seetõttu küllaldast teatrit vaenulike pretensioonide jaoks, ilma 
+mis tahes kohtunik või tavaline kohtunik, kes sekkub vaidlevate poolte vahel. Et mõelda minevikust tulevikku, 
+meil on hea alus mõista, et mõnikord apelleeritakse mõõgale kui nende vahekohtunikule. 
+erinevusi. Connecticuti ja Pennsylvania vahelise vaidluse asjaolud, austades maad aadressil 
+Wyoming, manitse meid, et me ei peaks olema armulikud, kui ootame selliste erinevuste lihtsat lahendamist. Artiklid 
+Konföderatsiooni otsus kohustas osapooli esitama asja föderaalkohtu otsusele. Esitamine oli 
+tehtud ja kohus otsustas Pennsylvania kasuks. Kuid Connecticut andis tugevaid märke rahulolematusest 
+selle otsusekindlusega; samuti ei paistnud ta olevat sellega täielikult leppinud, kuni läbirääkimiste ja juhtimise tõttu, 
+kaotusele, mille ta ise arvas, leiti midagi samaväärset. Siin pole midagi öeldud 
+mille eesmärk on väljendada vähimatki umbusaldust selle riigi käitumisele. Kahtlemata uskus ta seda siiralt 
+on otsusega viga saanud; ja riigid, nagu ka üksikisikud, nõustuvad otsusekindlusega suure vastumeelsusega 
+nende kahjuks. 
+Need, kellel oli võimalus näha tehingute edenemist jälginud tehingute sisemust 
+vastuolu selle osariigi ja Vermonti ringkonna vahel, võib kinnitada ka vastuseisu, mida me kogesime 
+riikidest, mis ei ole huvitatud, või riikidest, kes olid nõudest huvitatud; ja saab tõendada, millist ohtu 
+Konföderatsiooni rahu oleks võinud paljastada, kui see riik oleks püüdnud oma õigusi jõuga kaitsta. Kaks 
+motiivid domineerisid selles vastasseisus: üks, armukadedus meie tulevase võimu vastu; ja teine, 
+naaberriikides teatud mõjuvõimuga isikute huvid, kes olid saanud maatoetusi 
+selle ringkonna tegelik valitsus. Isegi riigid, kes esitasid nõudeid, mis on vastuolus meie omadega, 
+tundus olevat innukam seda riiki tükeldada, kui oma pretensioone kehtestada. Need olid uued 
+Hampshire, Massachusetts ja Connecticut. New Jersey ja Rhode Island avastasid igal korral a 
+soe innukus Vermonti iseseisvuse eest; ja Marylandi, kuni tekkis ärevus seoses ühenduse ilmnemisega 
+Kanada ja selle osariigi vahel, asusid sügavalt samadele seisukohtadele. Kuna tegemist on väikeste osariikidega, nägid need koos 
+ebasõbralik silm meie kasvava ülevuse perspektiiv. Nende tehingute ülevaatamisel võime mõnda neist jälgida 
+põhjused, mis võivad riike üksteisega segada, kui see peaks olema nende ebasoodne saatus 
+lahutatuks muutuda. 
+Kaubandusvõistlused oleksid veel üks viljakas tüliallikas. Ühendriigid vähem soodsalt 
+olukorras, sooviks pääseda kohaliku olukorra ebasoodsatest olukordadest ja saada osa sellest 
+oma õnnelikumate naabrite eeliseid. Iga osariik või eraldiseisev konföderatsioon järgiks süsteemi 
+talle omane kaubanduspoliitika. See tooks kaasa eristused, eelistused ja välistused, mis tekiks 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+19/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+tekitada rahulolematust. Võrdsete privileegide alusel suhtlemise harjumused, millega oleme harjunud 
+riigi varaseimast asustusest saadik annaks neile rahulolematuse põhjustele teravama eelise kui nemad 
+oleks loomulikult sellest asjaolust sõltumatu. PEAKSIME OLEMA VALMIS DENOMINERIMISEKS 
+VIGASTAB NEED ASJAD, MIS OLID TEGELIKKUSES SÕLTUMATUD TEGUD 
+ERINEV HUVIGA KONSULTEERIvad SUVERÄÄNUSED. Ettevõtlikkus, mis iseloomustab 
+Ameerika kommertsosas, pole jätnud ühtegi võimalust end täiustamata näidata. See pole sugugi tõenäoline 
+see ohjeldamatu vaim austaks neid kaubanduseeskirju, mida teatud riigid võiksid järgida 
+püüdma tagada oma kodanikele eksklusiivseid hüvesid. Nende eeskirjade rikkumised, ühelt poolt, 
+jõupingutused nende ärahoidmiseks ja tõrjumiseks tooksid seevastu loomulikult kaasa pahameele ning need omakorda kättemaksu ja sõdu. 
+Võimalused, mis mõnel riigil oleksid, muutes teised äritegevuse kaudu neile maksumaks 
+lisaäärsed riigid alluksid kannatamatult määrustele. New Yorgi suhteline olukord, 
+Connecticut ja New Jersey võiksid endale sellist näidet pakkuda. New York, tuluvajadusest, 
+peab kehtestama tollimaksud oma impordile. Suure osa nendest kohustustest peavad tasuma kahe teise riigi elanikud 
+imporditud toodete tarbijate võimekuses. New York ei tahaks ega suudaks loobuda 
+see eelis. Tema kodanikud ei nõustuks sellega, et nende makstud tollimaks tuleks tema kasuks tasuda 
+tema naabrite kodanikud; samuti poleks otstarbekas eristada, kui seda takistust ei oleks 
+klientidele meie enda turgudel. Kas Connecticut ja New Jersey alluksid New Yorki maksustamisele 
+tema eksklusiivne eelis? Kas meil peaks olema kaua lubatud jääda vaiksesse ja segamatusse nautimisse a 
+metropol, mille omamisest saime oma naabritele nii ebameeldiva eelise, ja nende 
+arvamus, nii rõhuv? Kas me peaksime suutma seda säilitada Connecticuti valitseva raskuse vastu 
+ja teiselt poolt New Jersey koostöösurve? Need on küsimused, mida lahendab ainuüksi sihikindlus 
+vastata jaatavalt. 
+Liidu riigivõlg oleks eraldiseisvate riikide vahelise kokkupõrke järjekordne põhjus 
+konföderatsioonid. Esmakordselt jaotamine ja järgnev järkjärguline kustutamine oleks 
+samamoodi halva huumori ja vaenu tekitav. Kuidas oleks võimalik jaotusreeglis kokku leppida 
+kõiki rahuldav? Vaevalt on võimalik välja pakkuda ühtegi ettepanekut, mis oleks täiesti vaba tegelikest vastuväidetest. Need, 
+nagu tavaliselt, liialdaks poolte ebasoodne huvi. Nende seas on isegi erinevaid seisukohti 
+riigivõla vabastamise üldpõhimõtte kohta. Mõned neist, kas vähem muljet avaldanud 
+rahvusliku krediidi tähtsust või seetõttu, et nende kodanikel on selle küsimuse vastu vähe huvi, kui üldse 
+ükskõiksus, kui mitte vastumeelsus, koduvõla tasumise suhtes igal juhul. Need kalduksid 
+suurendavad jaotamise raskusi. Teised neist, kelle kodanikud on võlausaldajad 
+riigi võla kogusummast rohkem kui riigi osakaal, oleks mõne jaoks raske 
+õiglane ja tõhus pakkumine. Esimeste venitamine tekitaks teistes pahameelt. 
+Vahepeal lükkaksid reegli kehtestamise edasi tõelised eriarvamused ja mõjutatud viivitused. 
+Huvitatud riikide kodanikud käraksid; võõrvõimud nõudsid oma õiglaste rahulolu 
+nõudmised ning riikide rahu oleks ohus välise sissetungi kahekordse juhuse tõttu 
+sisemine tüli. 
+Oletame, et reeglis kokkuleppimise raskused on ületatud ja jaotus tehtud. Ikka on suurepärane 
+ruumi oletada, et kokkulepitud reegel oleks katse käigus mõne riigi jaoks raskem 
+kui teiste peal. Need, kes selle all kannatasid, otsivad loomulikult koormuse leevendamist. The 
+teised ei sooviks loomulikult läbivaatamist, mis tõenäoliselt lõppeks nende endi arvu suurenemisega 
+kohustused. Nende keeldumine oleks kaebuse esitanud riikidele liiga usutav ettekääne oma keeldumisest keelduda 
+panused, mida ei tohi innukalt omaks võtta; ja nende riikide kohustuste mittetäitmine 
+oleks kibeda arutelu ja tülide pinnas. Kui isegi vastuvõetud reegel peaks praktikas õigustama 
+Selle võrdsuse põhimõtte kohaselt tuleneksid mõne riigi maksete viivitused siiski 
+muude põhjuste mitmekesisus – ressursside tegelik defitsiit; nende rahanduse halb juhtimine; juhuslik 
+häired valitsuse juhtimises; ja lisaks muule ka vastumeelsus, millega mehed 
+jagavad tavaliselt raha eesmärkidel, mis on neid tekitanud vajadused üle elanud, ja sekkuvad 
+koheste soovide pakkumisega. Mis tahes põhjusest tulenevad õigusrikkumised tooksid kaasa kaebused, 
+etteheiteid ja tülisid. Võimalik, et miski ei häiri rahvaste rahu tõenäolisemalt kui 
+nad on seotud vastastikuse panusega mis tahes ühise objekti nimel, mis ei anna võrdset ja kokkulangevust 
+kasu. Sest see on nii tõsi kui ka tühine tähelepanek, et inimesed ei erine millegi suhtes nii kergesti 
+raha maksmine. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+20/240 
+ 
+4.8.26, kell 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, autorid Alexander Hamilton, John Jay ja James Madison 
+ 
+Seadused, mis rikuvad eralepinguid, kuna need kujutavad endast agressiooni nende riikide õigustele, kelle 
+kodanikud on nende poolt vigastatud, võib seda pidada teiseks tõenäoliseks vaenuallikaks. Meil pole selleks volitusi 
+eeldada, et üksikute riikide seaduste üle valitseks liberaalsem või õiglasem vaim 
+edaspidi, kui seda ei piira täiendavad kontrollid, kui oleme seni näinud liiga paljudel juhtudel 
+häbistada nende mitmeid koode. Oleme täheldanud, et Connecticutis on innustunud kättemaksuks 
+Rhode Islandi seadusandliku kogu toime pandud hirmutegude tagajärg; ja me järeldame mõistlikult, et 
+sarnastel juhtudel, muudel asjaoludel karistaks sõda mitte PARGAMENTI, vaid mõõga pärast selliseid 
+moraalse kohustuse ja sotsiaalse õigluse julmad rikkumised. 
+Erinevate riikide või konföderatsioonide ja erinevate välisriikide vahel kokkusobimatute liitude tõenäosus 
+rahvad ja selle olukorra mõju kogu rahule on mõnes riigis piisavalt avastatud 
+eelnevad paberid. Vaate põhjal, mida nad on selle teema osa kohta näidanud, tuleb teha selline järeldus, 
+et Ameerika, kui see pole üldse ühendatud või ainult nõrga sidemega lihtsas ründe- ja kaitseliigas, oleks 
+selliste segaste liitude toimimisega takerduda järk-järgult kõigisse Euroopa hukatuslikesse labürintidesse 
+poliitika ja sõjad; ja nende osade hävitavate vaidluste tõttu, milleks ta oli jagatud, oleks tõenäoliselt nii 
+saada jõudude võltsingute ja mahhinatsioonide saagiks võrdselt nende kõigi vaenlasteks. Divide et impera (1) 
+peab olema iga rahva moto, kes meid kas vihkab või kardab.(2) 
+PUBLIUS 
+1. Jaga ja käsu. 
+2. Et kogu nende paberite teema saaks võimalikult kiiresti avalikkuse ette tuua, on see nii 
+tegi ettepaneku avaldada need neli korda nädalas – teisipäeval New York Packetis ja neljapäeval ajalehes Daily 
+Reklaamija.

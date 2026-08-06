@@ -1,0 +1,5 @@
+Environment Info
+Python version: 3.12.13
+pandas version: 2.2.2
+deep-translator version: 1.9.1
+Run date: 2026-08-06

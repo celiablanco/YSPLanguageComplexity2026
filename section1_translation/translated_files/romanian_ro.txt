@@ -1,0 +1,903 @@
+FEDERALIST Nr. 1. Introducere generală 
+Pentru Jurnalul Independent. Sâmbătă, 27 octombrie 1787 
+HAMILTON 
+Poporului statului New York: 
+DUPĂ o experiență fără echivoc a ineficacității guvernului federal subzistant, ești chemat 
+să delibereze asupra unei noi Constituții pentru Statele Unite ale Americii. Subiectul își spune propria importanță; 
+cuprinzând în consecințele sale nimic mai puțin decât existența UNIUNII, siguranța și bunăstarea 
+părți din care este compus, soarta unui imperiu în multe privințe cel mai interesant din lume. Are 
+s-a remarcat frecvent că pare să fi fost rezervat oamenilor acestei țări, prin conduita lor și 
+de exemplu, pentru a decide problema importantă, dacă societățile de oameni sunt cu adevărat capabile sau nu să se întemeieze 
+guvernare bună din reflecție și alegere, sau dacă ei sunt pentru totdeauna destinați să depindă pentru politica lor 
+constituţii privind accidentul şi forţa. Dacă există ceva adevăr în remarcă, s-ar putea ca criza la care am ajuns 
+cu corectitudine să fie privit ca epoca în care acea decizie trebuie luată; și o alegere greșită a părții noi 
+va acționa poate, în această opinie, merită să fie considerată nenorocirea generală a omenirii. 
+Această idee va adăuga stimulentele filantropiei la cele ale patriotismului, pentru a spori solicitudinea pe care toți 
+Bărbații grijulii și buni trebuie să simtă pentru eveniment. Fericit va fi dacă alegerea noastră ar fi condusă de a 
+estimare judicioasă a adevăratelor noastre interese, neperplexă și nepărtinitoare de considerații care nu au legătură cu 
+binele public. Dar acesta este un lucru de dorit cu mai multă ardoare decât de așteptat. Planul oferit nostru 
+deliberările afectează prea multe interese particulare, inovează asupra prea multor instituții locale, în care să nu se implice 
+discuția sa o varietate de obiecte străine de meritele sale și de opinii, pasiuni și prejudecăți puțin favorabile 
+descoperirea adevărului. 
+Printre cele mai formidabile dintre obstacolele pe care noua Constituție va trebui să le întâmpine s-ar putea cu ușurință 
+se distinge interesul evident al unei anumite clase de oameni din fiecare stat de a rezista tuturor schimbărilor care pot 
+riscă o diminuare a puterii, a remunerației și a consecințelor funcțiilor pe care le dețin în cadrul statului 
+unități; și ambiția pervertită a unei alte clase de oameni, care fie vor spera să se mărească 
+ei înșiși prin confuziile țării lor, sau se vor flata cu perspective mai corecte de înălțare din 
+subdiviziunea imperiului în mai multe confederații parțiale decât din unirea sa sub un singur guvern. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+5/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+Cu toate acestea, nu este intenția mea să mă opresc asupra observațiilor de această natură. Sunt bine conștient că ar fi 
+necinstiți să rezolve fără discernământ opoziția oricărui grup de bărbați (doar pentru că situațiile lor ar putea 
+supune-i suspiciunii) în viziuni interesate sau ambițioase. Sinceritatea ne va obliga să admitem că chiar și astfel de oameni 
+poate fi acţionat de intenţii drepte; şi nu se poate pune la îndoială că mare parte din opoziţia care a făcut-o 
+aspectul, sau poate să-și facă apariția în continuare, va izvora din surse, cel puțin fără vină, dacă nu respectabile 
+— erorile sincere ale minții rătăcite de gelozii și temeri preconcepute. Într-adevăr atât de numeroși și așa 
+puternice sunt cauzele care servesc pentru a da o părtinire falsă judecății, pe care noi, de multe ori, le vedem înțelepte. 
+și oameni buni pe partea greșită, precum și pe partea dreaptă a întrebărilor de primă amploare pentru societate. Aceasta 
+circumstanța, dacă ar fi luată în considerare în mod corespunzător, ar oferi o lecție de moderație celor care sunt vreodată atât de convinși 
+de a avea dreptate în orice controversă. Și un alt motiv de prudență, în acest sens, ar putea fi trasat 
+din reflecția că nu suntem întotdeauna siguri că cei care susțin adevărul sunt influențați de mai pur 
+principii decât antagoniştii lor. Ambiție, avariție, animozitate personală, opoziție de partid și multe altele 
+motive nu mai lăudabile decât acestea, sunt susceptibile să opereze la fel de bine asupra celor care susțin ca și asupra celor care se opun 
+partea dreaptă a unei întrebări. Dacă nu ar exista nici măcar aceste stimulente la moderație, nimic nu ar putea fi mai prost judecat 
+decât acel spirit intolerant care a caracterizat, în orice moment, partidele politice. Căci în politică, ca și în religie, așa este 
+la fel de absurd să urmăreşti să faci prozeliţi prin foc şi sabie. Erezii în oricare dintre ele pot fi rareori vindecate de 
+persecutie. 
+Și totuși, oricât de permise vor fi doar aceste sentimente, avem deja suficiente indicii că va fi 
+se întâmplă în aceasta ca în toate cazurile anterioare de mare discuție națională. Un torent de pasiuni mânioase și maligne vor 
+fi eliberat. Pentru a judeca după conduita părților opuse, vom fi conduși să concluzionam că o vor face 
+spera reciproc să demonstreze dreptatea opiniilor lor și să crească numărul convertiților lor de către 
+zgomotul declamațiilor lor și amărăciunea invectivelor lor. Un zel luminat pentru energie și 
+eficiența guvernării va fi stigmatizată ca fiind descendentul unui temperament pasionat de puterea despotică și ostil față de 
+principiile libertății. O gelozie prea scrupuloasă a pericolului pentru drepturile oamenilor, care este mai mult 
+de obicei vina capului decât a inimii, va fi reprezentată ca o simplă prefăcătură și artificiu, momeala veche. 
+pentru popularitate în detrimentul binelui public. Se va uita, pe de o parte, că gelozia este obișnuită 
+concomitent cu dragostea și că nobilul entuziasm al libertății este susceptibil să fie infectat cu un spirit de îngust și 
+neîncrederea iliberală. Pe de altă parte, va fi la fel de uitat că vigoarea guvernării este esențială pentru 
+securitatea libertății; că, în contemplarea unei judecăţi sănătoase şi bine informate, interesul lor nu poate fi niciodată 
+separate; și că o ambiție periculoasă se ascunde mai des în spatele măștii spețioase a zelului pentru drepturile celor 
+oameni decât sub aparența interzisă a zelului pentru fermitatea și eficiența guvernării. Istoria va 
+învață-ne că primului i s-a găsit un drum mult mai sigur spre introducerea despotismului decât celui din urmă, 
+iar acei oameni care au răsturnat libertățile republicilor, cel mai mare număr și-a început cariera 
+prin plata unui tribunal obsechios către popor; începând demagogii și terminând cu tiranii. 
+În cursul observațiilor precedente, am avut în vedere, concetățenii mei, să vă pun pe voi 
+ferește-te de toate încercările, din orice punct de vedere, de a-ți influența decizia într-o chestiune din cel mai înalt moment de a 
+bunăstarea dumneavoastră, prin orice alte impresii decât cele care pot rezulta din dovezile adevărului. Vei, nu 
+îndoiala, în același timp, au adunat din sfera generală a acestora, că acestea provin dintr-o sursă nu 
+neprietenos cu noua Constituție. Da, compatrioților mei, vă recunosc că, după ce i-am dat o atenție 
+considerație, sunt în mod clar de părere că este interesul dumneavoastră să îl adoptați. Sunt convins că acesta este cel mai sigur curs 
+pentru libertatea, demnitatea și fericirea ta. Afectez nu rezerve pe care nu le simt. nu te voi amuza 
+cu o aparenţă de deliberare când m-am hotărât. Îți recunosc sincer convingerile mele și eu 
+vă vor expune liber motivele pe care se întemeiază. Conștiința bunelor intenții disprețuiește 
+ambiguitate. Cu toate acestea, nu voi multiplica profesiile pe acest cap. Motivele mele trebuie să rămână în depozitul de 
+propriul meu sân. Argumentele mele vor fi deschise tuturor și vor putea fi judecate de toți. Acestea vor fi oferite cel puțin într-un 
+spirit care nu va dezonora cauza adevărului. 
+Îmi propun, într-o serie de lucrări, să discutăm următoarele detalii interesante: 
+UTILITATEA UNIUNII LA PROSPERITATEA DVS. POLITICĂ INSUFICIENȚA 
+CONFEDERAȚIA PREZENTĂ PENTRU A PĂSTRA ACEI UNIUNI NECESITATEA UNUI GUVERN LA 
+MAI MAI MAI EGAL DE ENERGETIC CU CEL PROPUS, PENTRU REALIZAREA ACESTUI OBIECT 
+CONFORMITATEA CONSTITUȚIEI PROPUSE LA adevăratele PRINCIPII ALE 
+GUVERNUL REPUBLICAN SA ANALOGIA CU PROPRIA CONSTITUȚIE DE STAT și, în sfârșit, 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+6/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+SECURITATE SUPLIMENTARĂ PE CARE ADOPTAREA SA O VA AFERI PĂSTRĂRII ACEI 
+SPECII DE GUVERNARE, LA LIBERTATE ȘI LA PROPRIETATE. 
+În derularea acestei discuţii mă voi strădui să dau un răspuns satisfăcător tuturor obiecţiilor care 
+și-ar fi făcut apariția, care poate părea să aibă vreo pretenție în atenția dumneavoastră. Poate fi considerat de prisos să oferim argumente care să demonstreze utilitatea UNIUNII, un punct, fără îndoială, 
+adânc gravat pe inimile marelui corp al poporului din fiecare stat și unul, care poate fi imaginat, 
+nu are adversari. Dar adevărul este că deja o auzim șoptită în cercurile private ale celor care se opun 
+noua Constituție, că cele treisprezece state sunt de o întindere prea mare pentru orice sistem general și că trebuie să 
+necesitatea recurge la confederații separate ale unor părți distincte ale întregului.(1) Această doctrină va, în toate 
+probabilitate, să fie propagată treptat, până când are suficienți adepți pentru a accepta o recunoaștere deschisă a acesteia. Pentru nimic 
+poate fi mai evident, pentru cei care sunt capabili să aibă o vedere lărgită a subiectului, decât alternativa unui 
+adoptarea noii Constituții sau o dezmembrare a Uniunii. Prin urmare, va fi de folos pentru început 
+examinând avantajele acelei Uniri, anumite rele și pericolele probabile la care se va afla fiecare stat 
+expus din dizolvarea lui. Prin urmare, acesta va constitui subiectul următoarei mele adrese. 
+PUBLIUS 
+1. Aceeași idee, urmărind argumentele la consecințele lor, este susținută în câteva dintre publicațiile târzii 
+împotriva noii Constituţii. 
+ 
+FEDERALIST Nr. 2. Referitor la Pericole din 
+Forța și influența străină 
+Pentru Jurnalul Independent. Miercuri, 31 octombrie 1787 
+JAY 
+Poporului statului New York: 
+CÂND poporul Americii reflectă că acum este chemat să decidă o întrebare, care, în ea 
+consecințe, trebuie să se dovedească una dintre cele mai importante care le-au atras vreodată atenția, corectitudinea lor 
+a avea o viziune foarte cuprinzătoare, precum și foarte serioasă, va fi evidentă. 
+Nimic nu este mai sigur decât necesitatea indispensabilă a guvernării și este la fel de incontestabil că 
+ori de câte ori și oricum este instituită, poporul trebuie să-i cedeze unele din drepturile lor naturale pentru a-l conferi 
+cu puterile necesare. Prin urmare, este bine demn de luat în considerare dacă ar conduce mai mult la interes 
+al poporului Americii că ar trebui, în toate scopurile generale, să fie o singură națiune, sub un singur guvern federal, 
+sau să se împartă în confederații separate și să dea șefului fiecăreia același fel de 
+competențe pe care li se recomandă să le plaseze într-un singur guvern național. 
+Până de curând a fost o opinie primită și necontrazisă că prosperitatea poporului Americii 
+depindeau de continuarea lor ferm unită și de urările, rugăciunile și eforturile cetățenilor noștri cei mai buni și înțelepți 
+au fost în mod constant îndreptate către acel obiect. Dar acum apar politicieni, care insistă că această opinie este eronată, 
+și că, în loc să căutăm siguranța și fericirea în unire, ar trebui să o căutăm într-o împărțire a statelor în 
+confederații sau suveranități distincte. Oricât de extraordinară ar părea această nouă doctrină, totuși a fost 
+avocații săi; iar anumite personaje care s-au opus mult mai înainte, sunt în prezent din număr. 
+Oricare ar fi argumentele sau stimulentele care au produs această schimbare a sentimentelor și 
+declarațiile acestor domni, cu siguranță nu ar fi înțelept ca oamenii în general să adopte aceste noi politici 
+principii fără a fi pe deplin convinși că se întemeiază pe adevăr și pe o politică sănătoasă. 
+De multe ori mi-a făcut plăcere să observ că America independentă nu era compusă din detașați și îndepărtați 
+teritorii, dar acea țară legată, fertilă, larg răspândită era porțiunea fiilor noștri ai libertății occidentali. 
+Providența a binecuvântat-o într-un mod special cu o varietate de soluri și producții și a udat-o cu 
+nenumărate pâraie, pentru deliciul și cazarea locuitorilor săi. O succesiune de ape navigabile 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+7/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+formează un fel de lanț în jurul marginilor sale, parcă pentru a-l lega împreună; în timp ce cele mai nobile râuri din lume, curgând 
+la distanțe convenabile, prezentați-le cu autostrăzi pentru comunicarea ușoară a ajutoarelor prietenoase, și reciprocă 
+transportul și schimbul diferitelor lor mărfuri. Cu aceeași plăcere am observat la fel de des că Providence a fost încântată să-l conecteze pe acesta 
+țară la un popor unit - un popor descendent din aceiași strămoși, vorbind aceeași limbă, 
+profesând aceeași religie, atașați acelorași principii de guvernare, foarte asemănătoare în manierele lor și 
+obiceiuri și care, prin sfaturile, armele și eforturile lor comune, luptă cot la cot pe parcursul unei lungi și sângeroase 
+război, au stabilit în mod nobil libertatea generală și independența. 
+Această țară și acest popor par să fi fost făcute unul pentru celălalt și se pare că ar fi fost proiectul 
+Providența, că o moștenire atât de potrivită și de convenabilă pentru o trupă de frați, uniți între ei prin 
+cele mai puternice legături, nu ar trebui să fie niciodată împărțite într-un număr de suveranități nesociale, geloase și străine. 
+Sentimente similare au predominat până acum în toate ordinele și denominațiile de oameni dintre noi. Tuturor 
+scopuri generale am fost în mod uniform un popor fiecare cetăţean individual de pretutindeni bucurându-se de acelaşi 
+drepturi naționale, privilegii și protecție. Ca națiune am făcut pace și război; ca națiune pe care o avem 
+a învins dușmanii noștri comuni; ca națiune am făcut alianțe, am făcut tratate și am încheiat 
+diverse pacte si conventii cu state straine. 
+Un puternic simț al valorii și binecuvântărilor unirii a determinat poporul, într-o perioadă foarte timpurie, să instituie un 
+guvernului federal să-l păstreze și să-l perpetueze. Au format-o aproape de îndată ce au avut o existență politică; 
+nu, într-o perioadă în care locuințele lor erau în flăcări, când mulți dintre cetățenii lor sângerau și când 
+progresul ostilităţii şi pustiirii lăsa puţin loc pentru acele întrebări şi reflecţii calme şi mature care 
+trebuie să preceadă vreodată formarea unui guvern înțelept și echilibrat pentru un popor liber. Nu trebuie să fie 
+s-a mirat că un guvern instituit în vremuri atât de nefavorabile, ar trebui să fie găsit foarte mult prin experiment 
+deficitar şi inadecvat scopului căruia s-a intenţionat să răspundă. 
+Acest popor inteligent a perceput și a regretat aceste defecte. Continuând în continuare nu mai puțin atașat de unire decât 
+îndrăgostiți de libertate, au observat pericolul care îl amenința imediat pe primul și mai departe pe cel 
+din urmă; și fiind convins că securitatea amplă pentru ambii ar putea fi găsită doar într-un guvern național mai mult 
+încadrați cu înțelepciune, ei ca într-o singură voce, au convocat convenția târzie de la Philadelphia, pentru a lua acea importantă 
+subiectul luat în considerare. 
+Această convenție a fost compusă din oameni care dețineau încrederea oamenilor și mulți dintre care aveau 
+devin foarte distinși prin patriotismul, virtutea și înțelepciunea lor, în vremuri care au încercat mințile și inimile 
+bărbați, și-au asumat sarcina grea. În sezonul blând al păcii, cu mințile neocupate de alte subiecte, ei 
+a trecut multe luni în consultație rece, neîntreruptă și zilnică; și în sfârșit, fără să fi fost uimit de 
+putere, sau influențați de orice pasiuni, cu excepția dragostei pentru țara lor, au prezentat și recomandat celor 
+oameni planul elaborat de consiliile lor comune și foarte unanime. 
+Recunoașteți, căci așa este și faptul că acest plan este doar RECOMANDAT, nu impus, totuși să ne amintim că 
+nu se recomanda nici aprobarii ORBI, nici reprobarii ORBI; dar la acel liniştit şi sincer 
+considerație pe care amploarea și importanța subiectului o cer și pe care cu siguranță ar trebui să o facă 
+primi. Dar acest lucru (așa cum a fost remarcat în numărul de mai sus al acestei lucrări) este mai mult de dorit decât de așteptat, 
+pentru ca acesta să fie astfel considerat și examinat. Experiența cu o ocazie anterioară ne învață să nu fim prea optimiști 
+astfel de sperante. Nu se uită încă că temerile bine întemeiate de pericol iminent i-au indus pe oameni 
+America pentru a forma memorabilul Congres din 1774. Acel organism le-a recomandat anumite măsuri 
+constituenți, iar evenimentul le-a dovedit înțelepciunea; totuși este proaspăt în amintirile noastre cât de repede a început presa 
+plină de pamflete și ziare săptămânale împotriva acelor măsuri. Nu numai mulți dintre ofițerii 
+guvern, care a respectat dictatele interesului personal, dar alții, dintr-o estimare greșită a consecințelor, 
+sau influența nejustificată a atașamentelor anterioare sau a căror ambiție viza obiecte care nu corespundeau cu 
+binele public, au fost de neobosit în eforturile lor de a convinge oamenii să respingă sfatul acelui patriot 
+Congres. Mulți, într-adevăr, au fost înșelați și amăgiți, dar marea majoritate a oamenilor a raționat și a decis 
+judicios; și sunt fericiți când reflectă că au făcut acest lucru. 
+Ei considerau că Congresul era compus din mulți oameni înțelepți și experimentați. Asta, fiind convocat 
+din diferite părți ale țării, au adus cu ei și au comunicat între ei o varietate de lucruri utile 
+informaţii. Asta, de-a lungul timpului au petrecut împreună pentru a cerceta și a discuta despre adevăr 
+interesele țării lor, ei trebuie să fi dobândit cunoștințe foarte exacte în acest sens. Că au fost 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+8/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+interesaţi individual de libertatea şi prosperitatea publică şi, prin urmare, că nu era mai puţin înclinaţia lor decât 
+datoria lor de a recomanda numai astfel de măsuri pe care, după cea mai matură deliberare, au considerat cu adevărat prudente 
+si recomandabil. 
+Aceste considerații și similare au determinat apoi oamenii să se bazeze foarte mult pe judecata și integritatea 
+Congres; și le-au luat sfatul, în ciuda diferitelor arte și străduințe folosite pentru a-i descuraja de la el. 
+Dar dacă oamenii în general aveau motive să se încreadă în oamenii acelui Congres, dintre care puțini fuseseră pe deplin judecati sau 
+cunoscute în general, au un motiv și mai mare acum să respecte judecata și sfatul convenției, pentru aceasta 
+este bine cunoscut faptul că unii dintre cei mai distinşi membri ai acelui Congres, care de atunci au fost judecaţi şi 
+pe drept aprobați pentru patriotism și abilități și care au îmbătrânit în dobândirea de informații politice, au fost de asemenea 
+membri ai acestei convenții și au adus în ea cunoștințele și experiența acumulate. 
+Este demn de remarcat că nu numai primul, ci și fiecare Congres care urmează, precum și convenția târzie, 
+s-au alăturat în mod invariabil poporului crezând că prosperitatea Americii depinde de Unirea ei. Pentru a 
+păstrarea și perpetuarea a fost marele obiectiv al poporului în formarea acelei convenții și este, de asemenea, marele 
+obiect al planului pe care convenția le-a sfătuit să-l adopte. Cu ce dreptate, deci, sau pentru ce 
+scopuri bune, sunt încercări în această perioadă specială făcute de unii bărbați de a deprecia importanța 
+Unire? Sau de ce se sugerează că trei sau patru confederații ar fi mai bune decât una? Sunt convins de mine 
+propria minte că oamenii au gândit întotdeauna corect cu privire la acest subiect și că universal și uniform 
+atașamentul față de cauza Unirii se bazează pe motive mari și serioase, pe care mă voi strădui să le dezvolt și 
+explicați în unele lucrări ulterioare. Ei care promovează ideea substituirii unui număr de confederații distincte în 
+camera planului convenției, par să prevadă clar că respingerea acestuia ar pune în continuare continuarea 
+al Uniunii în cel mai mare pericol. Cu siguranță așa ar fi și îmi doresc sincer să fie așa 
+clar prevăzut de fiecare bun cetăţean, că ori de câte ori va ajunge dizolvarea Uniunii, America va avea 
+motiv de a exclama, în cuvintele poetului: "LA RĂSPUN! Adio lung TOATE MĂREȚIA MEA". 
+PUBLIUS 
+ 
+FEDERALIST Nr. 3. Acelaşi subiect 
+Continuare (Cu privire la pericolele din străinătate 
+Forță și influență) 
+Pentru Jurnalul Independent. Sâmbătă, 3 noiembrie 1787 
+JAY 
+Poporului statului New York: 
+Nu este o observație nouă că oamenii din orice țară (dacă, la fel ca americanii, sunt inteligenți și 
+bine informat) rareori adoptă și perseverează în mod constant timp de mulți ani într-o opinie eronată privind respectarea lor 
+interese. Această considerație tinde în mod natural să creeze un mare respect pentru opinia înaltă a oamenilor 
+America a apreciat atât de mult timp și în mod uniform importanța continuării lor ferm unite sub unul singur 
+guvern federal, învestit cu puteri suficiente pentru toate scopurile generale și naționale. 
+Cu cât analizez și investighez mai atent motivele care par să fi dat naștere acestei opinii, 
+cu atât devin mai convins că sunt convingătoare și concludente. 
+Printre numeroasele obiecte spre care un popor înțelept și liber consideră necesar să-și îndrepte atenția, cea a 
+asigurarea SIGURANȚEI lor pare a fi prima. SIGURANȚA oamenilor are, fără îndoială, o legătură cu un mare 
+varietate de circumstanțe și considerații și, în consecință, oferă o mare latitudine celor care doresc să definească 
+este precis și cuprinzător. 
+În prezent vreau să o consider doar ca respectă securitatea pentru păstrarea păcii și liniștii, așa cum 
+precum și împotriva pericolelor provenite de la ARME ȘI INFLUENȚĂ STRĂINE, ca și de la pericole de genul similar care apar 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+9/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+din cauze domestice. Întrucât primul dintre acestea este primul în ordine, este potrivit să fie primul discutat. Lasă 
+trecem deci la examinarea daca poporul nu are dreptate in opinia lor ca o Unire cordiala, sub an 
+guvern național eficient, le oferă cea mai bună securitate care poate fi concepută împotriva OSTIBILITĂȚILOR din 
+peste hotare. 
+Numărul de războaie care s-au întâmplat sau se vor întâmpla în lume va fi întotdeauna găsit 
+proporţional cu numărul şi ponderea cauzelor, fie REALE sau PREFINTE, care PROVOCĂ sau 
+INVITAȚI-I. Dacă această remarcă este justă, devine util să ne întrebăm dacă sunt probabile atât de multe cauze de război 
+să fie dat de AMERICA UNITĂ ca de America DEZUNITĂ; căci dacă se va dovedi că America Unită 
+va da probabil cel mai puțin, atunci va urma că în acest sens Uniunea tinde cel mai mult să păstreze oamenii 
+într-o stare de pace cu alte popoare. 
+Cauzele JUSTE ale războiului, în cea mai mare parte, provin fie din încălcarea tratatelor, fie din violența directă. 
+America a încheiat deja tratate cu nu mai puțin de șase națiuni străine și toate, cu excepția Prusiei, sunt 
+maritim și, prin urmare, capabil să ne enerveze și să ne rănească. Ea are, de asemenea, un comerț extins cu Portugalia, Spania și 
+Marea Britanie și, în ceea ce privește cei doi din urmă, are, în plus, circumstanța vecinătății de care trebuie să se ocupe. 
+Este de mare importanță pentru pacea Americii ca ea să respecte legile națiunilor față de toate aceste puteri, 
+și mie mi se pare evident că acest lucru va fi făcut mai perfect și mai punctual de către un singur guvern național 
+decât ar putea fi fie de treisprezece state separate, fie de trei sau patru confederații distincte. 
+Pentru că, odată ce se înființează un guvern național eficient, cei mai buni bărbați din țară nu numai 
+consimțământul pentru a servi, dar, în general, va fi desemnat să îl gestioneze; căci, deși oraș sau țară, sau altul 
+influența contractată, poate plasa bărbați în adunări de stat, sau senate, sau curți de justiție sau executive 
+departamente, dar o reputație mai generală și extinsă pentru talente și alte calificări va fi necesară 
+recomandați bărbații la birourile guvernului național, mai ales că va avea cel mai larg domeniu de alegere, 
+și nu experimentați niciodată acea lipsă de persoane potrivite, care nu este neobișnuită în unele state. Prin urmare, va fi 
+rezultă că administrația, consilierii politici și deciziile judiciare ale guvernului național vor fi 
+mai înțelepte, sistematice și judicioase decât cele ale statelor individuale și, în consecință, mai satisfăcătoare cu 
+respect față de alte națiuni, precum și mai SIGUR față de noi. 
+Pentru că, sub guvernul național, tratatele și articolele tratatelor, precum și legile națiunilor, vor 
+să fie întotdeauna expuse într-un singur sens și executate în aceeași manieră, în timp ce judecățile asupra aceluiași 
+punctele și întrebările, în treisprezece state sau în trei sau patru confederații, nu vor fi întotdeauna concordante sau consecvente; 
+și asta, precum și din varietatea de instanțe independente și judecători numiți de diferiți și independenți 
+guvernelor, ca din diferitele legi și interese locale care le pot afecta și influența. Înțelepciunea de 
+convenția, în trimiterea unor astfel de întrebări în competența și hotărârea instanțelor desemnate de și 
+responsabil doar în fața unui singur guvern național, nu poate fi prea mult lăudat. 
+Deoarece perspectiva unei pierderi sau avantaje prezente poate deseori să ispitească partidul la guvernare din unul sau două state să facă acest lucru 
+abate-te de la buna-credinta si dreptate; dar acele ispite, neatingând celelalte State, și în consecință 
+având o influență redusă sau deloc asupra guvernului național, ispita va fi zadarnică și de bună-credință și 
+justiția să fie păstrată. Cazul tratatului de pace cu Marea Britanie adaugă o mare greutate acestui raționament. Pentru că, chiar dacă partidul de guvernământ dintr-un stat ar trebui să fie dispus să reziste unor asemenea tentații, totuși ca atare 
+tentațiile pot rezulta, și de obicei apar, din circumstanțe specifice statului și pot afecta o mare parte 
+numărul de locuitori, partidul de guvernare poate să nu fie întotdeauna capabil, dacă dorește, să prevină nedreptatea 
+meditat, sau pentru a pedepsi agresorii. Dar guvernul național, nefiind afectat de cei locali 
+circumstanțe, nici nu vor fi induși să comită greșelile ei înșiși, nici nu vor dori putere sau înclinație să facă 
+a preveni sau pedepsi comiterea acesteia de către alții. 
+Până acum, așadar, așa cum fie proiectate, fie încălcările accidentale ale tratatelor și ale legilor națiunilor oferă JUST 
+cauze ale războiului, ele sunt mai puțin reținute sub un guvern general decât sub mai multe guverne mai mici și 
+în acest sens, primul favorizează SIGURANȚA oamenilor. 
+În ceea ce privește acele cauze juste de război care provin din violență directă și ilegală, mi se pare la fel de clar 
+că un guvern național bun oferă mult mai multă siguranță împotriva pericolelor de acest fel decât poate fi derivată 
+din orice alt sector. 
+Pentru că asemenea violențe sunt cauzate mai frecvent de pasiunile și interesele unei părți decât ale întregului; 
+a unuia sau a două state decât a Uniunii. Nici măcar un război indian nu a fost încă prilejuit de agresiunile 
+guvernul federal actual, oricât de slab este; dar există mai multe cazuri de ostilități indiene 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+10/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+provocate de comportamentul necorespunzător al statelor individuale, care, fie incapabile, fie nu doresc să restrângă sau să pedepsească 
+infracțiuni, au dat prilej la sacrificarea multor locuitori nevinovați. 
+Vecinătatea teritoriilor spaniole și britanice, se învecinează cu unele state și nu cu altele, firește 
+limitează mai imediat cauzele certurilor la granițe. Statele limitrofe, dacă există, vor fi acelea 
+care, sub impulsul unei iritații bruște și al unui sentiment rapid de interes aparent sau rănire, va fi cel mai probabil, 
+prin violență directă, să provoace război cu aceste națiuni; și nimic nu poate evita atât de eficient acest pericol ca a 
+guvern naţional, a cărui înţelepciune şi prudenţă nu vor fi diminuate de pasiunile care acţionează 
+părțile imediat interesate. 
+Dar nu numai că guvernul național va da mai puține cauze juste de război, dar va fi și mai mult 
+puterea lor de a-i acomoda și de a le soluționa pe cale amiabilă. Vor fi mai temperate și mai răcoroase, și în asta 
+respectul, la fel ca și în ceilalți, va avea o capacitate mai mare de a acționa în mod sfătuit decât statul infractor. Mândria de 
+statelor, ca și a oamenilor, îi dispune în mod firesc să-și justifice toate acțiunile și se opune recunoașterii lor, 
+corectarea sau repararea erorilor și infracțiunilor acestora. Guvernul național, în astfel de cazuri, nu va fi afectat de 
+această mândrie, dar va proceda cu moderație și candoare pentru a lua în considerare și a decide asupra mijloacelor cele mai potrivite 
+eliberează-i de dificultățile care îi amenință. 
+În plus, este bine cunoscut faptul că recunoașterile, explicațiile și compensațiile sunt adesea acceptate ca 
+satisfăcătoare din partea unei națiuni unite puternice, care ar fi respinsă ca nesatisfăcătoare dacă ar fi oferită de un stat sau 
+confederație de puțină considerație sau putere. 
+În anul 1685, statul Genova l-a jignit pe Ludovic al XIV-lea, a încercat să-l liniștească. a cerut el 
+să-și trimită Dogul, sau magistratul-șef, însoțit de patru dintre senatorii lor, în FRANȚA, pentru a cere 
+iertare și primiți termenii lui. Au fost obligați să se supună acesteia de dragul păcii. Ar fi pe vreunul 
+ocazie fie au cerut, fie au primit o asemenea umilință din Spania, Marea Britanie sau oricare altul 
+Națiune PUTERNĂ? 
+PUBLIUS 
+ 
+FEDERALIST Nr. 4. Acelaşi subiect 
+Continuare (Cu privire la pericolele din străinătate 
+Forță și influență) 
+Pentru Jurnalul Independent. Miercuri, 7 noiembrie 1787 
+JAY 
+Poporului statului New York: 
+ULTIMA MEA lucrare a atribuit mai multe motive pentru care siguranța oamenilor ar fi cel mai bine asigurată de sindicat 
+împotriva pericolului la care poate fi expus prin cauzele JUST de război date altor națiuni; și acele motive arată 
+că astfel de cauze nu numai că ar fi date mai rar, ci ar fi și mai ușor acomodate, de către a 
+guvern național decât fie de către guvernele de stat, fie de micile confederații propuse. Dar siguranța oamenilor din America împotriva pericolelor din forța STRĂINĂ depinde nu numai de ei 
+abținându-se să dea DRE cauze de război altor națiuni, dar și să se plaseze și să se continue în 
+o astfel de situație încât să nu INVITĂ ostilitate sau insultă; căci nu trebuie observat că există PREFUNDE ca 
+precum și cauzele juste de război. 
+Este prea adevărat, oricât de rușinos ar fi pentru natura umană, că națiunile în general vor face război oricând. 
+au perspectiva de a obține ceva prin ea; nu, monarhii absoluti vor face adesea război atunci când națiunile lor 
+trebuie să nu obțină nimic din el, ci doar pentru scopuri și obiecte pur și simplu personale, cum ar fi setea de glorie militară, 
+răzbunare pentru afrontele personale, ambiția sau contractele private de a mări sau de a-și susține familiile particulare sau 
+partizani. Acestea și o varietate de alte motive, care afectează doar mintea suveranului, îl conduc adesea la 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+11/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+se angajează în războaie nesfințite de dreptate sau de vocea și interesele poporului său. Dar, independent de acestea 
+stimulente la război, care sunt mai răspândite în monarhiile absolute, dar care merită bine atenția noastră, 
+sunt altele care afectează națiunile la fel de des ca regii; iar unii dintre ei se vor descoperi, la examinare, că cresc 
+din situația și circumstanțele noastre relative. 
+Cu Franța și cu Marea Britanie suntem rivali în domeniul pescuitului și le putem aproviziona piețele mai ieftin decât pot ei 
+ei înșiși, în pofida oricăror eforturi de a preveni acest lucru prin recompense pe cont propriu sau taxe asupra peștilor străini. 
+Cu ei și cu majoritatea altor națiuni europene suntem rivali în navigație și comerț cu transport; iar noi 
+ne vom înșela pe noi înșine dacă presupunem că vreunul dintre ei se va bucura să-l vadă înflorind; pentru, ca comerțul nostru de transport 
+nu pot crește fără să-și diminueze într-o oarecare măsură al lor, este mai mult interesul lor și va fi mai mult politica lor, 
+a-l restrânge decât a-l promova. 
+În comerțul cu China și India, interferăm cu mai mult de o națiune, în măsura în care ne permite să participăm la 
+avantaje pe care ei le aveau într-un fel monopolizat și, prin urmare, ne aprovizionăm cu mărfuri 
+pe care le cumpărăm de la ei. 
+Extinderea propriului nostru comerț în propriile noastre nave nu poate face plăcere niciunei națiuni care posedă 
+teritorii de pe sau în apropierea acestui continent, deoarece ieftinitatea și excelența producțiilor noastre, adăugate la 
+circumstanțele învecinate, precum și întreprinderea și adresa comercianților și navigatorilor noștri, ne vor oferi o mai mare 
+să împărtășească avantajele pe care le oferă acele teritorii, decât constă în dorințele sau politica respectivului lor 
+suverani. 
+Spania consideră că este convenabil să închidă Mississippi împotriva noastră pe de o parte, iar Marea Britanie ne exclude din 
+Sfântul Lawrence pe de altă parte; nici unul dintre ei nu va permite celorlalte ape care sunt între ei și noi 
+devin mijlocul de relații și trafic reciproc. 
+Din aceste și alte considerații asemănătoare, care ar putea, dacă sunt în concordanță cu prudența, să fie mai amplificate și 
+detaliat, este ușor de observat că geloziile și neliniștile pot aluneca treptat în mințile și cabinetele 
+alte națiuni și că nu trebuie să ne așteptăm ca ei să ia în considerare avansarea noastră în unire, în putere și 
+consecință pe uscat și pe mare, cu un ochi de indiferență și calm. 
+Oamenii Americii sunt conștienți de faptul că din aceste circumstanțe pot apărea stimulente la război, precum și 
+de la altele nu chiar atât de evidente în prezent și că ori de câte ori astfel de stimulente pot găsi timp și oportunitate potrivite pentru 
+operațiunea, pretențiile de a le colora și de a le justifica nu vor lipsi. Cu înţelepciune, deci, consideră ei unirea şi 
+un guvern national bun cat este necesar sa-i puna si sa-i tina intr-o ASTA SITUATIE ca, in loc de 
+INVITARE la război, va tinde să-l reprima și să-l descurajeze. Această situație constă în cea mai bună stare posibilă de 
+apărare și depinde în mod necesar de guvern, de arme și de resursele țării. 
+Deoarece siguranța întregului este interesul întregului și nici nu poate fi asigurată fără guvern 
+unul sau mai multe sau mai multe, să ne întrebăm dacă o guvernare bună nu este, în raport cu obiectul în cauză, mai mult 
+competent decât orice alt număr dat. Un guvern poate colecta și se poate folosi de talentele și experiența celor mai capabili oameni, în orice parte a acestuia 
+uniunea pot fi găsite. Poate merge pe principii uniforme de politică. Poate armoniza, asimila și 
+protejați mai multe părți și membri și extindeți beneficiul previziunii și precauțiilor sale pentru fiecare. În 
+formarea tratatelor, va considera interesul întregului și interesele particulare ale părților ca fiind legate 
+cu cea a întregului. Poate aplica resursele și puterea întregului pentru apărarea oricărei părți particulare, 
+și asta mai ușor și mai rapid decât pot face guvernele de stat sau confederațiile separate, pentru 
+lipsa de concert și unitate de sistem. Poate plasa miliția sub un singur plan de disciplină și, punându-le lor 
+ofițerii aflați într-o linie corespunzătoare de subordonare față de magistratul-șef, îi vor, parcă, să-i consolideze într-un singur 
+corpuri și, prin urmare, le fac mai eficiente decât dacă ar fi împărțite în treisprezece sau în trei sau patru distincte 
+companii independente. 
+Ce ar fi miliția Marii Britanii dacă miliția engleză s-ar supune guvernului Angliei, dacă cea scoțiană 
+miliția s-a supus guvernului Scoției, iar dacă miliția galeză s-a supus guvernului Țării Galilor? Să presupunem 
+o invazie; ar putea acele trei guverne (dacă ar fi de acord) cu toate forțele lor respective 
+să opereze împotriva inamicului atât de eficient cum ar face guvernul unic al Marii Britanii? 
+Am auzit multe despre flotele Marii Britanii și poate veni vremea, dacă suntem înțelepți, când flotele din Marea Britanie 
+America poate atrage atenția. Dar dacă un singur guvern național, nu ar fi reglementat atât de mult navigația în Marea Britanie ca 
+să facă din ea o pepinieră pentru marinari — dacă un guvern naţional nu ar fi chemat toate mijloacele naţionale şi 
+materialele pentru formarea flotelor, priceperea și tunetul lor nu ar fi fost niciodată sărbătorite. Lasă Anglia 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+12/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+să aibă navigația și flota sa — lăsați Scoția să aibă navigația și flota sa — lăsați Țara Galilor să aibă navigația și flota sa 
+— lăsați Irlanda să aibă navigația și flota ei — lăsați cele patru părți constitutive ale imperiului britanic să fie sub control 
+patru guverne independente și este ușor de perceput cât de curând s-ar diminua fiecare în comparație 
+insignifiante. 
+Aplicați aceste fapte la propriul nostru caz. Lasă America împărțită în treisprezece sau, dacă vrei, în trei sau patru 
+guverne independente – ce armate ar putea să ridice și să plătească – ce flote ar putea spera să aibă vreodată? Dacă 
+unul a fost atacat, ceilalți ar zbura în ajutorul lui și ar cheltui sângele și banii pentru apărarea lui? Ar fi acolo 
+să nu existe pericolul ca ei să fie linguși la neutralitate de promisiunile ei spețioase sau sedusi de o prea mare dragoste 
+pentru ca pacea să scadă, punându-le în pericol liniștea și siguranța prezentă de dragul vecinilor, dintre care poate 
+au fost geloși și a cui importanță se mulțumesc să vadă diminuată? Deși o astfel de conduită ar 
+nu fii înțelept, ar fi, totuși, firesc. Istoria statelor Greciei și a altor țări, 
+abundă cu astfel de cazuri și nu este improbabil ca ceea ce sa întâmplat atât de des să se întâmple, în condiții similare 
+circumstanțe, se întâmplă din nou. 
+Dar recunoașteți că ar putea fi dispuși să ajute statul invadat sau confederația. Cum, și când și în ce 
+proporție se vor acorda ajutoare ale oamenilor și bani? Cine va comanda armatelor aliate și de la care 
+ei va primi el ordinele lui? Cine va stabili condițiile de pace și, în caz de dispute, ce arbitru va decide 
+să decidă între ele și să oblige să accepte? Diverse dificultăți și inconveniente ar fi inseparabile 
+dintr-o astfel de situație; întrucât un singur guvern, veghând asupra intereselor generale și comune și combinând 
+și dirijarea puterilor și resurselor întregului, ar fi liber de toate aceste stânjeniri și ar conduce 
+mult mai mult pentru siguranța oamenilor. 
+Dar oricare ar fi situația noastră, fie că suntem ferm uniți sub un singur guvern național, fie că sunt împărțiți în a 
+numărul de confederații, cert este că națiunile străine îl vor cunoaște și îl vor vedea exact așa cum este; si vor actiona 
+față de noi în consecință. Dacă văd că guvernul nostru național este eficient și bine administrat, comerțul nostru 
+reglementate prudent, miliția noastră organizată și disciplinată corespunzător, resursele și finanțele noastre discret 
+gestionați, creditul nostru restabilit, oamenii noștri liberi, mulțumiți și uniți, vor fi mult mai dispuși să 
+să ne cultivăm prietenia decât să ne provoci resentimentele. Dacă, pe de altă parte, ne găsesc fie lipsiți de an 
+guvernare eficientă (fiecare stat făcând bine sau rău, în ceea ce privește conducătorii săi poate părea convenabil), sau împărțit în trei 
+sau patru republici sau confederații independente și probabil discordante, una înclinată spre Marea Britanie, alta spre 
+Franța și o treime în Spania și poate jucate unul împotriva celuilalt de către cei trei, ce figură săracă și jalnică 
+va face America în ochii lor! Cât de răspunzătoare ar deveni ea nu numai față de disprețul lor, ci și față de indignarea lor, 
+și cât de curând ar proclama experiența scumpă că atunci când un popor sau o familie se împarte atât de mult, nu eșuează niciodată să fie 
+împotriva lor înșiși. 
+PUBLIUS 
+ 
+FEDERALIST Nr. 5. Acelaşi subiect 
+Continuare (Cu privire la pericolele din străinătate 
+Forță și influență) 
+Pentru Jurnalul Independent. Sâmbătă, 10 noiembrie 1787 
+JAY 
+Poporului statului New York: 
+REGINA ANNE, în scrisoarea sa din 1 iulie 1706 către Parlamentul Scoțian, face câteva observații cu privire la 
+importanța UNIUNII care se formează atunci între Anglia și Scoția, care merită atenția noastră. o voi face 
+prezentaţi publicului unul sau două extrase din ea: „O unire întreagă şi perfectă va fi temelia solidă a 
+pace durabilă: vă va asigura religia, libertatea și proprietatea; îndepărtați animozitățile dintre voi și 
+geloziile și diferențele dintre cele două regate ale noastre. Trebuie să vă sporească puterea, bogăția și comerțul; iar prin 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+13/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+această unire, întreaga insulă, fiind unită în afecțiune și liberă de toate temerile de interes diferit, va fi 
+PERMIS SĂ REZIȘTE TUTUROR DUȘMULUI ȘI.” „Vă recomandăm cu sinceritate calm și unanimitate 
+în această mare şi grea afacere, pentru ca unirea să fie adusă la o fericită încheiere, fiind singura 
+O modalitate EFECTĂ de a ne asigura fericirea prezentă și viitoare și de a dezamăgi designurile noastre și ale tale 
+inamicii, care, fără îndoială, cu această ocazie, își vor FOLOSI STRĂDINȚELE PRIME PENTRU A PREVENI SAU 
+Întârzie această unire.” 
+S-a remarcat în lucrarea precedentă că slăbiciunea și diviziunile la domiciliu ar provoca pericole 
+în străinătate; și că nimic nu ar tinde să ne ferească mai mult de ei decât unirea, puterea și buna guvernare 
+în interiorul nostru. Acest subiect este copios și nu poate fi epuizat cu ușurință. 
+Istoria Marii Britanii este cea cu care suntem în general cei mai bine familiarizați și ne oferă multe 
+lecții utile. Putem profita de experiența lor fără a plăti prețul pe care i-a costat. Deși se pare 
+evident pentru bunul simț că oamenii unei astfel de insule ar trebui să fie o singură națiune, dar constatăm că au fost 
+timp de secole împărțite în trei și că cei trei erau aproape constant implicați în certuri și războaie cu unul 
+alta. În ciuda interesului lor adevărat față de națiunile continentale a fost într-adevăr același, totuși de către 
+artele, politica și practicile acelor națiuni, geloziile lor reciproce au fost menținute perpetuu aprinse și pentru o 
+serii lungi de ani au fost mult mai incomode și mai supărătoare decât au fost utile și asistate pentru fiecare 
+altele. 
+Dacă oamenii din America ar trebui să se împartă în trei sau patru națiuni, nu s-ar întâmpla același lucru? 
+Nu ar apărea gelozii asemănătoare și nu ar fi în același mod prețuite? În loc să fie „uniți în afecțiune” 
+și libere de orice teamă de „interese” diferite, invidia și gelozia ar stinge în curând încrederea și 
+afecțiunea, iar interesele parțiale ale fiecărei confederații, în loc de interesele generale ale întregii Americi, ar fi 
+singurele obiecte ale politicii și activităților lor. Prin urmare, la fel ca majoritatea altor națiuni de graniță, ei ar face-o întotdeauna 
+fie implicați în dispute și război, fie trăiți în reținerea constantă a acestora. Cei mai înțelepți susținători ai trei sau patru confederații nu pot presupune în mod rezonabil că ar tânji 
+să rămână exact pe picior de egalitate în ceea ce privește forța, chiar dacă a fost posibil să le formeze astfel la început; dar, 
+admițând că este posibil, totuși, ce invenție umană poate asigura continuarea unei asemenea egalități? 
+Independent de acele circumstanțe locale care tind să dea naștere și să mărească puterea într-o parte și să o împiedice 
+progres într-un altul, trebuie să facem cunoștință cu efectele acelei politici superioare și a unui management bun care ar fi 
+distinge probabil guvernarea unuia deasupra celorlalți și prin care egalitatea lor relativă în putere și 
+considerația ar fi distrusă. Căci nu se poate presupune că același grad de politică sănătoasă, prudență, 
+iar previziunea ar fi observată uniform de fiecare dintre aceste confederații pentru o lungă succesiune de ani. 
+Oricând și din orice cauză, s-ar putea întâmpla, și s-ar întâmpla, ca oricare dintre aceste națiuni sau 
+confederațiile ar trebui să se ridice la scara importanței politice mult peste gradul vecinilor ei, că 
+moment ar privi acei vecini cu invidie și cu frică. Ambele pasiuni i-ar conduce la 
+înfățișarea, dacă nu să promoveze, orice ar putea promite că îi va diminua importanța; și, de asemenea, ar reține 
+ei din măsurile calculate pentru a avansa sau chiar pentru a-i asigura prosperitatea. Nu ar fi nevoie de mult timp 
+pentru a-i permite să discearnă aceste dispoziții neprietenoase. În curând avea să înceapă, nu numai să-și piardă încrederea în ea 
+vecinilor, dar și să simtă o dispoziție la fel de nefavorabilă acestora. Neîncrederea creează în mod natural neîncrederea, și prin urmare 
+nimic nu se schimbă mai repede bunăvoința și conduita bună decât prin gelozii invidioase și necazuri. 
+imputații, fie că sunt exprimate sau implicite. 
+Nordul este, în general, regiunea puternică, iar multe circumstanțe locale fac probabil că este cel mai mult 
+Nordul confederațiilor propuse ar fi, într-o perioadă nu foarte îndepărtată, fără îndoială mai formidabil 
+decât oricare dintre ceilalți. Imediat ce acest lucru ar deveni evident, STUPUL DE NORD ar excita la fel 
+idei și senzații în părțile mai sudice ale Americii, ceea ce a făcut anterior în părțile sudice ale Europei. 
+Nici nu pare a fi o presupunere neplăcută că roiurile sale tinere ar putea fi adesea tentate să adune miere în 
+câmpuri mai înflorite și aerul mai blând al vecinilor lor luxoși și mai delicati. 
+Cei care iau în considerare istoria unor diviziuni și confederații similare vor găsi motive abundente să 
+să înțelegeți că cei aflați în contemplație nu ar fi în alt sens vecini decât așa cum ar fi granițele; 
+că nu s-ar iubi și nici nu s-ar încrede unul în altul, ci, dimpotrivă, ar fi o pradă a discordiei, geloziei și 
+leziuni reciproce; pe scurt, că ne-ar plasa exact în situațiile în care unele neamuri le doresc fără îndoială 
+să ne vadă, adică FORMIDABILE NUMAI UNII ALȚI. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+14/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+Din aceste considerații reiese că acei domni se înșelează foarte mult care presupun că alianțe 
+ofensive și defensive ar putea fi formate între aceste confederații și ar produce acea combinație și 
+uniunea de voințe de arme și de resurse, care ar fi necesară pentru a le pune și menține într-o stare formidabilă de 
+apărare împotriva dușmanilor străini. 
+Când s-au combinat statele independente, în care Marea Britanie și Spania au fost divizate anterior 
+alianță sau să-și unească forțele împotriva unui inamic străin? Confederațiile propuse vor fi DISTINTE 
+NAȚIUNI. Fiecare dintre ei ar avea comerțul cu străinii să fie reglementat prin tratate distincte; iar ca lor 
+producțiile și mărfurile sunt diferite și adecvate pentru diferite piețe, așa ar fi acele tratate 
+în esenţă diferite. Preocupările comerciale diferite trebuie să creeze interese diferite și, desigur, diferite 
+grade de atașament politic și de legătură cu diferite națiuni străine. Prin urmare s-ar putea și probabil 
+s-ar întâmpla ca naţiunea străină cu care confederaţia de SUD ar putea fi în război să fie 
+unul cu care confederația de NORD ar fi cea mai dornică de a păstra pacea și prietenia. O alianță atât de contrară interesului lor imediat nu ar fi așadar ușor de format și nici, dacă s-ar forma, nu ar fi 
+să fie observat și împlinit cu desăvârșită bună-credință. 
+Nu, este mult mai probabil ca în America, ca și în Europa, națiunile vecine, acționând sub impulsul 
+interese opuse și pasiuni neprietenoase, s-ar găsi frecvent luând părți diferite. Având în vedere a noastră 
+distanță de Europa, ar fi mai firesc ca aceste confederații să prindă pericolul una de la alta 
+decât din națiunile îndepărtate și, prin urmare, că fiecare dintre ei ar trebui să fie mai dornic să se păzească de celelalte prin 
+ajutorul aliantelor straine, decat a se proteja de pericolele straine prin aliante intre ei. Și aici să 
+să nu uităm cât de ușor este să primim flote străine în porturile noastre și armate străine în 
+țară, decât să-i convingi sau să-i obligi să plece. Câte cuceriri au făcut romanii și alții 
+în personajele aliaților și ce inovații au introdus ei sub același personaj în 
+guvernele celor pe care pretindeau că îi protejează. 
+Lăsați bărbații sinceri să judece, deci, dacă împărțirea Americii într-un anumit număr de independenți 
+suveranitățile ar tinde să ne asigure împotriva ostilităților și a amestecului nepotrivit al națiunilor străine. 
+PUBLIUS 
+ 
+FEDERALIST Nr. 6. Referitor la Pericole din 
+Disensiuni între state 
+Pentru Jurnalul Independent. Miercuri, 14 noiembrie 1787 
+HAMILTON 
+Poporului statului New York: 
+Ultimele trei numere ale acestei lucrări au fost dedicate unei enumerări a pericolelor pentru care noi 
+ar trebui să fie expus, în stare de dezbinare, de armele și artele națiunilor străine. Voi trece acum la 
+delimitează pericole de alt tip și, poate, încă mai alarmant - cele care, după toate probabilitățile, vor curge 
+din disensiunile dintre statele înseși și din facțiunile și convulsiile interne. Acestea au fost 
+deja în unele cazuri ușor anticipat; dar merită o investigație mai specială și mai completă. 
+Un om trebuie să fie departe în speculațiile utopice care se poate îndoi serios că, dacă aceste state ar fi 
+complet dezbinați, sau uniți doar în confederații parțiale, subdiviziunile în care ar putea fi aruncați 
+ar avea frecvente și violente lupte între ei. A presupune lipsa de motive pentru astfel de concursuri, cum ar fi un 
+argument împotriva existenței lor, ar fi să uităm că bărbații sunt ambițioși, răzbunători și rapaci. A privi 
+pentru o continuare a armoniei între un număr de suveranități independente, neconectate în aceeași 
+vecinătate, ar însemna să nu ținem cont de cursul uniform al evenimentelor umane și să sfidăm 
+experiență de vârste. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+15/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+Cauzele ostilității între națiuni sunt nenumărate. Sunt unele care au un general și aproape 
+operare constantă asupra organismelor colective ale societății. Din această descriere sunt dragostea de putere sau dorința de 
+preeminență și stăpânire — gelozia puterii sau dorința de egalitate și siguranță. Sunt altele care 
+au o influență mai circumscrisă, deși la fel de operativă în sferele lor. Așa sunt rivalitățile 
+şi competiţii de comerţ între naţiuni comerciale. Și mai sunt și altele, nu mai puțin numeroase decât oricare 
+ale primelor, care își au originea în întregime în pasiunile private; în atașamente, vrăjmășii, interese, speranțe, 
+și temerile de a conduce indivizi în comunitățile din care sunt membri. Bărbații din această clasă, fie că 
+favoriții unui rege sau ai unui popor, au abuzat în prea multe cazuri de încrederea pe care o aveau; şi 
+asumând pretextul vreunui motiv public, nu s-au scuzat să sacrifice liniștea națională personalului 
+avantaj sau satisfacție personală. 
+Celebrul Pericle, în conformitate cu resentimentele unei prostituate,(1) în detrimentul unei mari din 
+sângele și comoara compatrioților săi, a atacat, a învins și a distrus orașul SAMMIENS. The 
+același om, stimulat de picătură privată împotriva MEGARENSIENilor,(2) o altă națiune a Greciei, sau pentru a evita o 
+urmărire penală cu care a fost amenințat ca complice al unui presupus furt al statuarului Fidias(3) sau să 
+scapa de acuzatiile pregatite sa i se aduca pentru risipirea fondurilor statului in cumparare 
+de popularitate(4) sau dintr-o combinație a tuturor acestor cauze, a fost autorul primitiv al acelui război faimos și fatal, 
+distins în analele grecești sub numele de război PELOPONNESIAN; care, după diverse 
+vicisitudinile, pauzele și reînnoirile, s-au încheiat în ruina comunității ateniene. 
+Cardinalul ambițios, care a fost prim-ministru al lui Henric al VIII-lea, permițând vanității sale să aspire la tripla 
+coroană,(5) a întreținut speranța de a reuși să dobândească acel premiu splendid prin influența 
+Împăratul Carol al V-lea. Pentru a-și asigura favoarea și interesul acestui monarh întreprinzător și puternic, a precipitat 
+Anglia într-un război cu Franța, contrar celor mai clare dictări ale politicii și în pericolul siguranței și 
+independenţa, atât a regatului pe care l-a prezidat prin sfaturile sale, cât şi a Europei în general. Căci dacă 
+a existat vreodată un suveran care a cerut corect să realizeze proiectul monarhiei universale, a fost împăratul Carol 
+V., ale cărui intrigi Wolsey a fost deodată instrumentul și pacalul. 
+Influența pe care a avut-o bigotismul unei femei, (6) petulanta alteia (7) și cabalile unei a treia (8) 
+în politica contemporană, fermentele și pacificările unei părți considerabile a Europei sunt subiecte care au 
+a fost decantat prea des pentru a nu fi cunoscut în general. 
+Pentru a multiplica exemplele de acțiune a considerațiilor personale în producerea marilor evenimente naționale, 
+fie străină, fie domestică, după direcția lor, ar fi o pierdere inutilă de timp. Cei care au 
+dar o cunoaștere superficială a surselor din care urmează să fie extrase, își va aminti ea însăși a 
+varietate de cazuri; iar cei care au o cunoaștere tolerabilă a naturii umane nu vor avea nevoie de asemenea 
+lumini pentru a-și forma opinia fie asupra realității, fie asupra amplorii acelei agenții. Poate, totuși, o referință, tendință 
+pentru a ilustra principiul general, se poate face cu bună dreptate un caz care sa întâmplat în ultima vreme printre 
+noi înșine. Dacă Shays nu ar fi fost un DEBITOR DISPERAT, este mult de îndoit dacă Massachusetts 
+ar fi fost cufundat într-un război civil. 
+Dar, în ciuda mărturiei concurente ale experienței, în acest special, există încă de găsit 
+oameni vizionari sau proiectanți, care sunt gata să susțină paradoxul păcii perpetue între state, 
+deși dezmembrați și înstrăinați unul de celălalt. Geniul republicilor (spun ele) este pacific; spiritul de 
+comertul are tendinta de a inmuia manierele oamenilor si de a stinge acele umori inflamabile care 
+au aprins atât de des în războaie. Republicile comerciale, ca a noastră, nu vor fi niciodată dispuse să se irosească 
+certuri ruinătoare între ele. Ei vor fi guvernați de interesul reciproc și vor cultiva un spirit de 
+prietenie și concordanță reciprocă. Nu este (s-ar putea să-i întrebăm pe acești proiectoare în politică) adevăratul interes al tuturor națiunilor de a cultiva același lucru 
+spirit binevoitor și filozofic? Dacă acesta este adevăratul lor interes, l-au urmărit de fapt? Nu are, pe 
+dimpotrivă, s-a constatat invariabil că pasiunile de moment, și interesul imediat, au o mai activă și 
+control imperios asupra conduitei umane decât considerații generale sau îndepărtate de politică, utilitate sau justiție? au 
+în practică, republicile au fost mai puțin dependente de război decât monarhiile? Nu sunt primele administrate de MEN ca 
+la fel ca si acesta din urma? Nu există aversiuni, predilecții, rivalități și dorințe de achiziții nedrepte care afectează? 
+națiuni, precum și regi? Nu sunt adunările populare supuse frecvent impulsurilor de furie, resentimente, 
+gelozia, avariția și alte înclinații neregulate și violente? Nu se știe bine că determinările lor 
+sunt adesea guvernați de câțiva indivizi în care au încredere și, desigur, sunt susceptibili de a fi tincturați 
+de pasiunile și opiniile acelor indivizi? Comerțul a făcut până acum ceva mai mult decât să schimbe 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+16/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+obiecte de război? Iubirea de bogăție, la fel de dominatoare și întreprinzătoare, nu este o pasiune precum cea pentru putere sau glorie? 
+Nu au existat atâtea războaie întemeiate pe motive comerciale, de când aceasta a devenit cea predominantă 
+sistem de națiuni, așa cum au fost prilejuite înainte de cupiditatea teritoriului sau a stăpânirii? Nu are spiritul de 
+comerțul, în multe cazuri, a administrat noi stimulente apetitului, atât pentru unul cât și pentru celălalt? 
+Lăsați să apelați la experiență, cel mai puțin falibil ghid al opiniilor umane, pentru un răspuns la aceste întrebări. 
+Sparta, Atena, Roma și Cartagina erau toate republici; două dintre ele, Atena și Cartagina, ale reclamei 
+amabil. Totuși erau la fel de des implicați în războaie, ofensive și defensive, precum monarhiile vecine ale 
+aceleasi ori. Sparta era puțin mai bună decât o tabără bine reglementată; iar Roma nu s-a săturat niciodată de măcel și 
+cucerire. 
+Cartagina, deși o republică comercială, a fost agresorul chiar în războiul care s-a încheiat cu distrugerea ei. 
+Hannibal își dusese brațele în inima Italiei și la porțile Romei, înainte ca Scipio, la rândul său, să-i dea 
+o răsturnare a teritoriilor Cartaginei și a făcut o cucerire a comunității. 
+Veneția, în vremurile de mai târziu, a figurat de mai multe ori în războaie de ambiție, până când, devenind un obiect pentru ceilalți italieni. 
+afirmă Papa Iulius al II-lea. a găsit mijloace pentru a realiza acea ligă formidabilă,(9) care a dat o lovitură mortală 
+puterea şi mândria acestei republici trufaşe. 
+Provinciile Olandei, până când au fost copleșite de datorii și impozite, au luat un rol important și vizibil. 
+în războaiele Europei. Au avut lupte furioase cu Anglia pentru stăpânirea mării și au fost printre 
+cel mai perseverent și mai implacabil dintre oponenții lui Ludovic al XIV-lea. 
+În guvernul Marii Britanii, reprezentanții poporului compun o ramură a legislativului național. 
+Comerțul a fost de secole urmărirea predominantă a acelei țări. Cu toate acestea, puține națiuni au fost mai multe 
+angajat frecvent în război; iar războaiele în care a fost angajat acel regat au, în numeroase cazuri, 
+a procedat de la popor. 
+Au existat, dacă pot să exprim așa, aproape la fel de multe populare ca și războaie regale. Strigătele națiunii și ale 
+importunitățile reprezentanților lor și-au târât, în diverse ocazii, monarhii lor în război sau 
+le-a continuat în ea, contrar înclinațiilor lor și uneori contrar intereselor reale ale statului. În 
+acea luptă memorabilă pentru superioritate dintre casele rivale ale AUSTRIEI și BOURBON, care atât de mult 
+a ținut Europa în flacără, este bine cunoscut faptul că antipatiile englezilor împotriva francezilor, secundând 
+ambiția, sau mai degrabă avariția unui lider favorit(10), a prelungit războiul dincolo de limitele marcate de 
+politică solidă și pentru o perioadă considerabilă de timp în opoziție cu opiniile instanței. Războaiele acestor două națiuni din urmă menționate au crescut în mare măsură din comerț 
+considerații,—dorința de a înlocui și teama de a fi înlocuiți, fie în anumite ramuri ale 
+trafic sau în avantajele generale ale comerțului și navigației, iar uneori chiar dorința mai culpabilă a 
+participarea la comerțul altor națiuni fără acordul lor. 
+Ultimul război între Marea Britanie și Spania a izvorât din încercările negustorilor britanici de a urmări penal un 
+comerțul ilicit cu principalul spaniol. Aceste practici nejustificate, din partea lor, au produs severitate din partea 
+spaniolii față de supușii Marii Britanii care nu erau mai justificate, deoarece depășeau 
+limitele unei răzbunări juste și erau acuzați de inumanitate și cruzime. Mulţi dintre englezi care au fost 
+luați pe coasta spaniolă au fost trimiși să sape în minele din Potosi; iar prin progresul obişnuit al unui spirit de 
+resentimente, nevinovații au fost, după un timp, confundați cu vinovații în pedeapsă fără discernământ. The 
+plângerile negustorilor au aprins o flacără violentă în întreaga națiune, care la scurt timp după aceea a izbucnit în 
+Camera Comunelor și a fost comunicată de la acel organism ministerului. Au fost acordate scrisori de represalii și 
+a urmat un război care, în consecințele sale, a răsturnat toate alianțele care fuseseră formate cu douăzeci de ani înainte. 
+cu așteptări sanguine ale celor mai benefice fructe. 
+Din acest rezumat a ceea ce s-a întâmplat în alte țări, ale căror situații au suportat cel mai aproape 
+asemănarea cu ale noastre, ce motiv să avem să ne încredem în acele reverii care ne-ar seduce într-un 
+așteptări de pace și cordialitate între membrii actualei confederații, în stare de separare? 
+Oare nu am văzut deja destul de eroare și extravaganță ale acelor teorii inactive care ne-au amuzat? 
+cu promisiunile unei scutiri de imperfecțiunile, slăbiciunile și relele incidente societății în orice formă? 
+Nu este timpul să ne trezim din visul înșelător al unei epoci de aur și să adoptăm ca maximă practică pentru 
+direcția comportamentului nostru politic pe care noi, ca și ceilalți locuitori ai globului, suntem încă îndepărtați de 
+fericit imperiu al înțelepciunii perfecte și al virtuții perfecte? 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+17/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+Lăsați punctul de depresie extremă în care s-au scufundat demnitatea și creditul nostru național, lăsați inconvenientele 
+simțită peste tot de la o administrare laxă și proastă a guvernului, să fie revolta unei părți a statului de Nord 
+Carolina, tulburările amenințătoare târzii din Pennsylvania și insurecțiile și rebeliunile reale din 
+Massachusetts, declara...! 
+Atât de departe este simțul general al omenirii să corespundă cu principiile celor care se străduiesc să adoarmă. 
+temerile noastre de discordie și ostilitate între state, în caz de dezbinare, pe care le are de mult 
+observarea progresului societății a devenit un fel de axiomă în politică, acea vecinătate sau apropiere de situație, 
+constituie națiunile dușmani naturali. Un scriitor inteligent se exprimă pe acest subiect în acest sens: 
+„NAȚIUNILE ÎNVECINE (spune el) sunt în mod firesc dușmane unul celuilalt, cu excepția cazului în care slăbiciunea lor comună 
+îi obligă să ligă într-o REPUBLICA CONFEDERATĂ, iar constituţia lor împiedică diferenţele care 
+ocazii de cartier, stingând acea gelozie secretă care dispune toate statele la care să se mărească 
+cheltuiala vecinilor lor.”(11) Acest pasaj, în același timp, evidențiază RĂUL și sugerează 
+REMEDIU. 
+PUBLIUS 
+1. Aspasia, vide „Viața lui Pericle a lui Plutarh”. 
+2. Ibid. 
+3. Ibid. 
+4. Ibid. Se presupunea că Fidias a furat niște aur public, cu conviețuirea lui Pericle, pentru 
+împodobirea statuii Minervei. 
+5. Purtat de papi. 
+6. Doamna de Maintenon. 
+7. Ducesă de Marlborough. 
+8. Doamna de Pompadour. 
+9. Liga Cambray, cuprinzând împăratul, regele Franței, regele Aragonului și majoritatea 
+principii si statele italiene. 
+10. Ducele de Marlborough. 
+11. Vide "Principes des Negociations" de l'Abbé de Mably. 
+ 
+FEDERALIST Nr. 7. Acelaşi subiect 
+Continuare (Cu privire la pericolele de la 
+Disensiunile dintre state) 
+Pentru Jurnalul Independent. Joi, 15 noiembrie 1787 
+HAMILTON 
+Poporului statului New York: 
+SE întreabă uneori, cu un aer de aparent triumf, ce stimulente ar putea avea statele, dacă ar fi dezbinate, 
+să facem război unii cu alții? Ar fi un răspuns complet la această întrebare să spui — exact aceleași stimulente 
+care, în diferite momente, au inundat în sânge toate națiunile din lume. Dar, din nefericire pentru noi, 
+întrebarea admite un răspuns mai precis. Există cauze ale diferențelor în imediata noastră 
+contemplare, a cărei tendință am avut-o chiar și sub restricțiile unei constituții federale 
+suficientă experiență pentru a ne permite să ne formăm o judecată asupra a ceea ce ar fi de așteptat dacă ar fi acele constrângeri 
+îndepărtat. 
+Disputele teritoriale au fost întotdeauna considerate una dintre cele mai fertile surse de ostilitate între națiuni. 
+Poate cea mai mare proporție de războaie care au pustiit pământul au izvorât din această origine. Aceasta cauza 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+18/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+ar exista printre noi în plină forță. Avem o suprafață vastă de teritoriu neașezat în interiorul granițelor Unite 
+state. Există încă pretenții discordante și nehotărâte între mai mulți dintre ei și dizolvarea Uniunii 
+ar pune bazele unor pretenții similare între toți. Este bine cunoscut că au avut până acum 
+discuție serioasă și animată cu privire la drepturile asupra terenurilor care nu erau acordate la momentul 
+Revoluție și care de obicei mergea sub denumirea de ținuturi ale coroanei. Statele în limitele cărora 
+guvernele coloniale din care erau alcătuite le-au revendicat drept proprietatea lor, ceilalți au susținut că 
+drepturile coroanei din acest articol au revenit Uniunii; mai ales în ceea ce priveşte toată acea parte a Occidentului 
+teritoriul căruia, fie prin posesia efectivă, fie prin supunerea proprietarilor indieni, a fost supus 
+jurisdicția regelui Marii Britanii, până când a fost renunțată prin tratatul de pace. Aceasta, s-a spus, 
+a fost în orice caz o achiziție către Confederație prin pact cu o putere străină. A fost cel prudent 
+politica Congresului de a potoli această controversă, impunând statelor să facă cedări către Statele Unite. 
+Statele în beneficiul întregului. Acest lucru a fost realizat până în prezent, astfel încât, în cadrul unei continuări a Uniunii, să 
+să ofere o perspectivă hotărâtă a încetării pe cale amiabilă a litigiului. O dezmembrare a Confederației, 
+cu toate acestea, ar reînvia această dispută și ar crea altele pe același subiect. În prezent, o mare parte din 
+teritoriul occidental vacant este, cel puțin prin cesiune, dacă nu prin vreun drept anterior, proprietatea comună a Uniunii. Dacă 
+că s-au încheiat, statele care au făcut cesiunea, pe un principiu de compromis federal, ar fi apte când 
+motivul cedarii încetase, de a revendica terenurile ca o reversiune. Celelalte state ar insista fără îndoială 
+o proporţie, prin drept de reprezentare. Argumentul lor ar fi că un grant, odată acordat, nu poate fi revocat; 
+și că justiția participării la un teritoriu dobândit sau asigurat prin eforturile comune ale Confederației, 
+rămas nediminuat. Dacă, contrar probabilității, ar trebui să fie admis de către toate statele, că fiecare avea dreptul la 
+o parte din acest stoc comun, ar mai fi o dificultate de depășit, în ceea ce privește o regulă adecvată a 
+repartizare. În acest scop, diferitele state ar stabili principii diferite; şi pe măsură ce ar afecta 
+interesele opuse ale părților, acestea ar putea să nu fie ușor susceptibile de o ajustare pacifică. 
+În câmpul larg al teritoriului occidental, deci, percepem un teatru amplu pentru pretenții ostile, fără 
+orice arbitru sau judecător comun să intervină între părțile în litigiu. Pentru a raționa din trecut spre viitor, 
+vom avea temeiuri bune de înțeles, că uneori sabia ar fi apelată ca arbitru al lor 
+diferențe. Circumstanțele disputei dintre Connecticut și Pennsylvania, respectând terenul de la 
+Wyoming, admonestează-ne să nu fim optimi în a ne aștepta la o adaptare ușoară a unor astfel de diferențe. Articolele 
+al confederației a obligat părțile să supună chestiunea deciziei unei instanțe federale. Depunerea a fost 
+făcută, iar instanța a decis în favoarea Pennsylvania. Dar Connecticut a dat semne puternice de nemulțumire 
+cu acea hotărâre; nici nu părea să fie complet resemnată, până când, prin negociere și conducere, 
+a fost găsit ceva asemănător unui echivalent pentru pierderea pe care ea presupunea că a suferit-o. Nimic de spus aici nu este 
+menită să transmită cea mai mică cenzură asupra comportamentului acelui stat. Fără îndoială că ea credea sincer 
+au fost vătămate prin decizie; iar statele, la fel ca indivizii, acceptă cu mare reticență la determinări 
+în dezavantajul lor. 
+Cei care au avut ocazia să vadă interiorul tranzacțiilor care au asistat la desfășurarea 
+controversele dintre acest stat și districtul Vermont, pot garanta și opoziția pe care am experimentat-o 
+din statele neinteresate ca și din cele care au fost interesate de revendicare; si poate atesta pericolul la care 
+pacea Confederației ar fi putut fi expusă, dacă acest stat ar fi încercat să-și afirme drepturile prin forță. Doi 
+motive preponderente în acea opoziție: unul, o gelozie întreținută de puterea noastră viitoare; iar celălalt, cel 
+interesul anumitor persoane de influenţă în statele vecine, care obţinuseră cerinţe de terenuri în temeiul 
+guvernul actual al districtului respectiv. Chiar și statele care au prezentat pretenții, în contradicție cu ale noastre, 
+păreau mai preocupați să dezmembreze acest Stat, decât să-și stabilească propriile pretenții. Acestea au fost Noi 
+Hampshire, Massachusetts și Connecticut. New Jersey și Rhode Island, în toate ocaziile, au descoperit a 
+zel cald pentru independența Vermontului; și Maryland, până la alarmat de apariția unei conexiuni 
+între Canada și acel stat, a intrat profund în aceleași opinii. Acestea fiind state mici, au văzut cu an 
+ochi neprietenos perspectiva măreţiei noastre tot mai mari. Într-o analiză a acestor tranzacții, putem urmări unele dintre acestea 
+cauzele care ar putea să încurce statele între ele, dacă ar fi destinul lor nepotrivit 
+a deveni dezbinat. 
+Concursurile comerciale ar fi o altă sursă fructuoasă de dispută. Statele mai puțin favorabile 
+circumstanța ar dori să scape de dezavantajele situației locale și să participe la 
+avantajele vecinilor lor mai norocoși. Fiecare stat, sau confederație separată, ar urma un sistem de 
+politica comercială proprie. Acest lucru ar provoca distincții, preferințe și excluderi, ceea ce ar face 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+19/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+naște nemulțumire. Obiceiurile actului sexual, pe baza de privilegii egale, cu care ne-am obișnuit 
+de la cea mai timpurie așezare a țării, ar oferi un avantaj mai intens acelor cauze de nemulțumire decât ei 
+ar fi în mod natural independent de această împrejurare. AR TREBUI SĂ FIM PREGĂTIȚI SĂ DENOMINĂM 
+RĂNĂRI ACELE LUCRURI CARE AU FOST ÎN REALITATE ACTE JUSTIFICATIVE DE INDEPENDENT 
+SUVERANITATI CONSULTANTA UN INTERES DISTINCT. Spiritul de întreprindere, care caracterizează 
+parte comercială a Americii, nu a lăsat niciun prilej de a se afișa neîmbunătățit. Nu este deloc probabil ca 
+acest spirit nestăpânit ar acorda mult respect acelor reglementări comerciale prin care anumite state ar putea 
+se străduiesc să asigure beneficii exclusive propriilor cetățeni. Încălcările acestor reglementări, pe de o parte, cel 
+eforturile de a le preveni și respinge, pe de altă parte, ar duce în mod natural la scandaluri, iar acestea la represalii și războaie. 
+Oportunitățile pe care le-ar avea unele state de a le face pe altele tributare prin comerț 
+reglementările ar fi supuse cu nerăbdare de către statele tributare. Situația relativă din New York, 
+Connecticut și New Jersey și-ar permite un exemplu de acest gen. New York, din nevoile de venituri, 
+trebuie să impună taxe asupra importurilor ei. O mare parte din aceste taxe trebuie plătite de locuitorii celorlalte două 
+Statele în calitate de consumatori a ceea ce importăm. New York nu ar fi nici dispus, nici capabil să renunțe 
+acest avantaj. Cetăţenii ei nu ar fi de acord ca o taxă plătită de ei să fie remisă în favoarea 
+cetăţeni ai vecinilor ei; nici nu ar fi posibil, dacă nu ar exista acest impediment în cale, să distingem 
+clienții de pe propriile noastre piețe. Connecticut și New Jersey s-ar supune mult timp să fie impozitate de New York pentru 
+beneficiul ei exclusiv? Dacă ni se permite mult timp să rămânem în bucuria liniştită şi netulburată de a 
+metropolă, din stăpânirea căreia am obținut un avantaj atât de odios vecinilor noștri, și, în lor 
+parere, atat de apasatoare? Ar trebui să reușim să-l păstrăm împotriva greutății existente a Connecticut-ului 
+partea, iar presiunea cooperantă din New Jersey pe de altă parte? Acestea sunt întrebări pe care doar temeritatea le va face 
+raspunde afirmativ. 
+Datoria publică a Uniunii ar fi o altă cauză de coliziune între statele separate sau 
+confederații. Repartizarea, în primă instanță, și stingerea progresivă ulterior, ar fi 
+producătoare deopotrivă de rău-umor și animozitate. Cum ar fi posibil să se convină asupra unei reguli de repartizare 
+satisfăcător pentru toți? Nu există aproape nimic care să fie propus care să fie complet lipsit de obiecții reale. Acestea, 
+ca de obicei, ar fi exagerat de interesul advers al părților. Există chiar opinii diferite în rândul 
+statelor cu privire la principiul general al stingerii datoriei publice. Unii dintre ei, fie mai puțin impresionați de 
+importanța creditului național sau pentru că cetățenii lor au un interes imediat redus, dacă este deloc, în această chestiune 
+o indiferență, dacă nu o respingere, față de plata datoriei interne în orice caz. Aceștia ar fi înclinați să 
+amplifica dificultățile unei distribuții. Alții dintre ei, un organism numeros ai căror cetățeni sunt creditori ai 
+public dincolo de proporția statului în valoarea totală a datoriei naționale, ar fi obositoare pentru unii 
+furnizare echitabilă și eficientă. Amânările celor dintâi ar stârni resentimentele celui din urmă. 
+Soluționarea unei reguli ar fi, între timp, amânată de diferențe reale de opinii și întârzieri afectate. 
+Cetăţenii Statelor interesate ar striga; puterile străine ar îndemna pentru satisfacerea drepţilor lor 
+cereri, iar pacea Statelor ar fi pusă în pericol la dubla contingență a invaziei externe și 
+dispută internă. 
+Să presupunem că dificultățile de a conveni asupra unei reguli au fost depășite și împărțirea făcută. Totuși există grozav 
+loc să presupunem că regula convenită va fi găsită, în urma experimentului, a fi mai greu asupra unor state 
+decât asupra altora. Cei care sufereau de aceasta ar căuta în mod natural o atenuare a poverii. The 
+alții ar fi, în mod natural, lipsiți de o revizuire, care era probabil să se încheie cu o creștere a lor 
+sarcinile. Refuzul lor ar fi un pretext prea plauzibil pentru statele reclamante pentru a-și reține 
+contribuții, să nu fie îmbrățișate cu aviditate; și nerespectarea de către aceste state a angajamentelor lor 
+ar fi un teren de discuții acerbe și altercații. Dacă chiar şi regula adoptată ar trebui să justifice în practică 
+egalitatea principiului său, tot delincvenţe în plăţi din partea unora dintre state ar rezulta din a 
+diversitatea altor cauze — deficiența reală a resurselor; gestionarea defectuoasă a finanțelor lor; accidental 
+tulburări în conducerea guvernului; și, pe lângă restul, reticența cu care bărbații 
+de obicei se despart de bani pentru scopuri care au supraviețuit exigențelor care i-au produs și interferează 
+cu furnizarea nevoilor imediate. Delincvențele, indiferent de cauză, ar duce la plângeri, 
+recriminări și certuri. Nu există, poate, nimic mai probabil să tulbure liniștea națiunilor decât 
+fiind legate de contribuţii reciproce pentru orice obiect comun care nu dă un egal şi coincident 
+beneficiu. Căci este o observație, pe cât de adevărată, pe atât de banală, că nu există nimic despre care oamenii diferă atât de ușor ca 
+plata banilor. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+20/240 
+ 
+04.08.26, ora 21:11 
+ 
+Cartea electronică Proiectul Gutenberg al lucrărilor federaliste, de Alexander Hamilton, John Jay și James Madison 
+ 
+Legi cu încălcarea contractelor private, întrucât ele echivalează cu agresiuni asupra drepturilor acelor state ale căror 
+cetăţenii sunt răniţi de acestea, pot fi considerate ca o altă sursă probabilă de ostilitate. Nu suntem autorizați 
+așteptați ca un spirit mai liberal sau mai echitabil să prezideze legislațiile statelor individuale 
+de acum încolo, dacă nu este reținut de orice verificări suplimentare, decât am văzut până acum în prea multe cazuri 
+dezonorând numeroasele lor coduri. Am observat dispoziția la răzbunare entuziasmată în Connecticut în 
+consecință a enormităților comise de Legislativul din Rhode Island; și deducem în mod rezonabil că, în 
+cazuri similare, în alte împrejurări, un război, nu de pergament, ci de sabie, ar pedepsi astfel de 
+încălcări atroce ale obligației morale și justiției sociale. 
+Probabilitatea unor alianțe incompatibile între diferitele state sau confederații și diferite străine 
+națiunile și efectele acestei situații asupra păcii întregului, au fost suficient de desfășurate în unele 
+lucrările precedente. Din punctul de vedere pe care l-au prezentat cu privire la această parte a subiectului, se trage această concluzie, 
+că America, dacă nu este legată deloc, sau numai prin egalitatea slabă a unei simple ligi, ofensivă și defensivă, ar fi, 
+prin operarea unor astfel de alianțe șocante, fiți treptat încurcat în toate labirinturile pernicioase ale Europei. 
+politică și războaie; și prin disputele distructive ale părților în care a fost împărțită, ar fi probabil să o facă 
+deveni pradă artificiilor și mașinațiunilor puterilor, în egală măsură dușmanii tuturor. Divide et impera(1) 
+trebuie să fie motto-ul oricărei națiuni care fie urăște, fie se teme de noi.(2) 
+PUBLIUS 
+1. Împărțiți și comandați. 
+2. Pentru ca întregul subiect al acestor lucrări să poată fi prezentat cât mai curând posibil publicului, este 
+a propus să le publice de patru ori pe săptămână — marți în New York Packet și joi în Daily 
+Agent de publicitate.

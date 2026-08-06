@@ -1,0 +1,903 @@
+FEDERALISTA Nº 1. Introdução Geral 
+Para o Jornal Independente. Sábado, 27 de outubro de 1787 
+HAMILTON 
+Ao povo do estado de Nova York: 
+DEPOIS de uma experiência inequívoca da ineficácia do governo federal subsistente, você é chamado 
+para deliberar sobre uma nova Constituição para os Estados Unidos da América. O assunto fala da sua importância; 
+compreendendo nas suas consequências nada menos que a existência da UNIÃO, a segurança e o bem-estar do 
+partes das quais é composto, o destino de um império em muitos aspectos o mais interessante do mundo. Tem 
+tem sido frequentemente observado que parece ter sido reservado ao povo deste país, pela sua conduta e 
+por exemplo, para decidir a importante questão de saber se as sociedades de homens são realmente capazes ou não de estabelecer 
+bom governo da reflexão e da escolha, ou se estão destinados para sempre a depender de seus interesses políticos 
+constituições sobre acidente e força. Se houver alguma verdade na observação, a crise a que chegamos pode 
+com propriedade seja considerada como a época em que essa decisão será tomada; e uma eleição errada da parte que 
+agirá pode, nesta visão, merecer ser considerado como o infortúnio geral da humanidade. 
+Esta ideia acrescentará os incentivos da filantropia aos do patriotismo, para aumentar a solicitude que todos 
+homens atenciosos e bons devem sentir pelo evento. Feliz será se a nossa escolha for dirigida por um 
+estimativa criteriosa de nossos verdadeiros interesses, sem perplexidade e imparcialidade por considerações não relacionadas com o 
+bem público. Mas isso é algo que deve ser mais ardentemente desejado do que seriamente esperado. O plano oferecido aos nossos 
+deliberações afetam muitos interesses particulares, inovam em muitas instituições locais, para não se envolverem 
+sua discussão uma variedade de objetos estranhos aos seus méritos, e de pontos de vista, paixões e preconceitos pouco favoráveis a 
+a descoberta da verdade. 
+Entre os mais formidáveis obstáculos que a nova Constituição terá de encontrar podem facilmente 
+ser distinguido o interesse óbvio de uma certa classe de homens em cada Estado em resistir a todas as mudanças que possam 
+arriscar uma diminuição do poder, do emolumento e das consequências dos cargos que ocupam sob o Estado 
+estabelecimentos; e a ambição pervertida de outra classe de homens, que ou esperam engrandecer 
+pelas confusões de seu país, ou se lisonjearão com perspectivas mais justas de elevação de 
+a subdivisão do império em várias confederações parciais do que a sua união sob um governo. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+5/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+Não é, contudo, meu propósito insistir em observações desta natureza. Estou bem ciente de que seria 
+hipócrita resolver indiscriminadamente a oposição de qualquer grupo de homens (simplesmente porque suas situações podem 
+sujeitá-los a suspeitas) em opiniões interessadas ou ambiciosas. A franqueza nos obrigará a admitir que mesmo esses homens 
+pode ser movido por intenções corretas; e não há dúvida de que grande parte da oposição que fez a sua 
+aparência, ou pode aparecer daqui em diante, surgirá de fontes, pelo menos inocentes, se não respeitáveis 
+—os erros honestos de mentes desencaminhadas por ciúmes e medos preconcebidos. Tão numerosos de fato e tão 
+poderosas são as causas que servem para dar um falso viés ao julgamento, que nós, em muitas ocasiões, consideramos sábio 
+e homens bons tanto do lado errado quanto do lado certo das questões de primeira magnitude para a sociedade. Isto 
+circunstância, se devidamente atendida, forneceria uma lição de moderação para aqueles que estão tão persuadidos 
+de terem razão em qualquer controvérsia. E uma razão adicional para cautela, a este respeito, pode ser extraída 
+da reflexão de que nem sempre temos certeza de que aqueles que defendem a verdade são influenciados por princípios mais puros 
+princípios do que seus antagonistas. Ambição, avareza, animosidade pessoal, oposição partidária e muitos outros 
+motivos não mais louváveis do que estes, são capazes de agir tanto sobre aqueles que apoiam como sobre aqueles que se opõem ao 
+lado direito de uma pergunta. Se não existissem esses incentivos à moderação, nada poderia ser mais mal avaliado 
+do que aquele espírito intolerante que sempre caracterizou os partidos políticos. Pois na política, como na religião, é 
+é igualmente absurdo tentar fazer prosélitos pelo fogo e pela espada. Heresias em ambos raramente podem ser curadas por 
+perseguição. 
+E, no entanto, por mais justos que sejam esses sentimentos, já temos indicações suficientes de que isso acontecerá. 
+acontecer neste como em todos os casos anteriores de grande discussão nacional. Uma torrente de paixões iradas e malignas irá 
+ser solto. A julgar pela conduta das partes opostas, seremos levados a concluir que elas irão 
+esperam mutuamente evidenciar a justeza de suas opiniões e aumentar o número de seus convertidos pelo 
+volume de suas declamações e a amargura de suas invectivas. Um zelo iluminado pela energia e 
+a eficiência do governo será estigmatizada como fruto de um temperamento apaixonado pelo poder despótico e hostil ao 
+os princípios da liberdade. Um ciúme excessivamente escrupuloso do perigo para os direitos do povo, que é mais 
+comumente culpa da cabeça do que do coração, será representada como mero fingimento e artifício, a isca estragada 
+pela popularidade em detrimento do bem público. Esquecer-se-á, por um lado, que o ciúme é o hábito 
+concomitante do amor, e que o nobre entusiasmo da liberdade pode ser infectado por um espírito de estreitamento e 
+desconfiança iliberal. Por outro lado, será igualmente esquecido que o vigor do governo é essencial para a 
+segurança da liberdade; que, na contemplação de um julgamento sólido e bem informado, o seu interesse nunca pode ser 
+separado; e que uma ambição perigosa se esconde mais frequentemente por detrás da máscara capciosa do zelo pelos direitos do 
+povo do que sob a aparência proibida de zelo pela firmeza e eficiência do governo. A história irá 
+ensina-nos que o primeiro encontrou um caminho muito mais seguro para a introdução do despotismo do que o último, 
+e que daqueles homens que derrubaram as liberdades das repúblicas, o maior número começou a sua carreira 
+pagando um tribunal obsequioso ao povo; começando demagogos e acabando com tiranos. 
+No decurso das observações anteriores, tive a intenção, meus concidadãos, de vos colocar na vossa 
+proteja-se contra todas as tentativas, de qualquer origem, de influenciar sua decisão em uma questão de extrema importância para 
+seu bem-estar, por quaisquer impressões diferentes daquelas que podem resultar da evidência da verdade. Você vai, não 
+dúvida, ao mesmo tempo, recolhida do âmbito geral deles, de que procedem de uma fonte não 
+hostil à nova Constituição. Sim, meus compatriotas, confesso-vos que, depois de ter dado uma atenta 
+consideração, sou claramente de opinião que é do seu interesse adotá-la. Estou convencido de que este é o caminho mais seguro 
+por sua liberdade, sua dignidade e sua felicidade. Não afecto reservas que não sinto. Eu não vou te divertir 
+com uma aparência de deliberação quando eu tiver decidido. Reconheço-vos francamente as minhas convicções e 
+exporei livremente diante de vocês as razões nas quais eles se baseiam. A consciência das boas intenções desdenha 
+ambigüidade. Não irei, entretanto, multiplicar profissões neste assunto. Meus motivos devem permanecer no depósito de 
+meu próprio peito. Meus argumentos estarão abertos a todos e poderão ser julgados por todos. Deverão ser oferecidos pelo menos em um 
+espírito que não desonrará a causa da verdade. 
+Proponho, em uma série de artigos, discutir os seguintes detalhes interessantes: 
+A UTILIDADE DA UNIÃO PARA A SUA PROSPERIDADE POLÍTICA A INSUFICIÊNCIA DO 
+ATUAL CONFEDERAÇÃO PARA PRESERVAR ESSA UNIÃO A NECESSIDADE DE UM GOVERNO EM 
+MENOS IGUALMENTE ENERGÉTICO COM O PROPOSTO, PARA A ATINGIR ESTE OBJETO 
+A CONFORMIDADE DA CONSTITUIÇÃO PROPOSTA COM OS VERDADEIROS PRINCÍPIOS DA 
+GOVERNO REPUBLICANO SUA ANALOGIA COM A CONSTITUIÇÃO DO SEU PRÓPRIO ESTADO e, por último, O 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+6/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+SEGURANÇA ADICIONAL QUE SUA ADOÇÃO PROPORCIONARÁ À PRESERVAÇÃO DESSE 
+ESPÉCIES DE GOVERNO, À LIBERDADE E À PROPRIEDADE. 
+No decorrer desta discussão tentarei dar uma resposta satisfatória a todas as objeções que 
+terão aparecido, que podem parecer ter algum direito à sua atenção. Talvez possa ser considerado supérfluo oferecer argumentos para provar a utilidade da UNIÃO, um ponto, sem dúvida, 
+profundamente gravado nos corações da grande massa popular de todos os Estados, e um, que se possa imaginar, 
+não tem adversários. Mas a verdade é que já ouvimos isso sussurrado nos círculos privados daqueles que se opõem 
+a nova Constituição, que os treze Estados são demasiadamente grandes para qualquer sistema geral, e que devemos, 
+necessariamente recorrerá a confederações separadas de porções distintas do todo. (1) Esta doutrina irá, em todos os 
+probabilidade, será gradualmente propagado, até que tenha devotos suficientes para aceitar uma confissão aberta disso. Por nada 
+pode ser mais evidente, para aqueles que são capazes de ter uma visão ampliada do assunto, do que a alternativa de uma 
+adopção da nova Constituição ou um desmembramento da União. Será, portanto, útil começar por 
+examinando as vantagens dessa União, os males certos e os perigos prováveis, aos quais cada Estado estará 
+exposto a partir de sua dissolução. Isto constituirá, portanto, o assunto do meu próximo discurso. 
+PÚBLIO 
+1. A mesma ideia, traçando os argumentos até às suas consequências, é defendida em várias das últimas publicações 
+contra a nova Constituição. 
+ 
+FEDERALISTA Nº 2. Sobre os perigos de 
+Força e influência estrangeira 
+Para o Jornal Independente. Quarta-feira, 31 de outubro de 1787 
+JAY 
+Ao povo do estado de Nova York: 
+QUANDO o povo da América reflecte que é agora chamado a decidir uma questão que, na sua 
+consequências, deve provar ser um dos mais importantes que já chamaram sua atenção, a propriedade de sua 
+será evidente que adotemos uma visão muito abrangente e também muito séria. 
+Nada é mais certo do que a necessidade indispensável do governo, e é igualmente inegável que 
+sempre e como for instituído, o povo deve ceder-lhe alguns dos seus direitos naturais, a fim de lhe conferir 
+com os poderes necessários. É, portanto, digno de consideração se isso conduziria mais ao interesse 
+do povo da América que eles deveriam, para todos os efeitos gerais, ser uma nação, sob um governo federal, 
+ou que eles deveriam se dividir em confederações separadas e dar ao chefe de cada uma o mesmo tipo de 
+poderes que são aconselhados a atribuir a um governo nacional. 
+Até recentemente, era uma opinião aceite e não contradita que a prosperidade do povo da América 
+dependia de continuarem firmemente unidos e dos desejos, orações e esforços de nossos melhores e mais sábios cidadãos 
+têm sido constantemente direcionados para esse objeto. Mas agora aparecem políticos que insistem que esta opinião é errada, 
+e que em vez de procurar segurança e felicidade na união, deveríamos procurá-la numa divisão dos Estados em 
+confederações ou soberanias distintas. Por mais extraordinária que esta nova doutrina possa parecer, ela ainda assim tem 
+seus defensores; e certos personagens que se opunham muito a isso anteriormente estão atualmente entre eles. 
+Quaisquer que sejam os argumentos ou incentivos que provocaram esta mudança nos sentimentos e 
+declarações destes senhores, certamente não seria sensato que o povo em geral adoptasse estas novas políticas 
+princípios sem estarmos totalmente convencidos de que se baseiam na verdade e em políticas sólidas. 
+Muitas vezes tive prazer em observar que a América independente não era composta por pessoas desapegadas e distantes. 
+territórios, mas aquele país conectado, fértil e amplo era a porção de nossos filhos ocidentais da liberdade. 
+A Providência abençoou-a de maneira particular com uma variedade de solos e produções, e regou-a com 
+inúmeras ribeiras, para deleite e acomodação dos seus habitantes. Uma sucessão de águas navegáveis 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+7/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+forma uma espécie de corrente em torno de suas fronteiras, como se quisesse amarrá-lo; enquanto os rios mais nobres do mundo, correndo 
+a distâncias convenientes, apresente-lhes estradas para a fácil comunicação de ajudas amigas e o mútuo 
+transporte e troca de suas diversas mercadorias. Com igual prazer, notei muitas vezes que a Providência teve o prazer de dar a este, conectado 
+país para um povo unido – um povo descendente dos mesmos ancestrais, falando a mesma língua, 
+professando a mesma religião, apegados aos mesmos princípios de governo, muito semelhantes em seus costumes e 
+costumes, e que, por seus conselhos, armas e esforços conjuntos, lutaram lado a lado durante um longo e sangrento 
+guerra, estabeleceram nobremente a liberdade e a independência gerais. 
+Este país e este povo parecem ter sido feitos um para o outro, e parece que foi o desígnio de 
+Providência, que uma herança tão própria e conveniente para um grupo de irmãos, unidos entre si pela 
+laços mais fortes, nunca devem ser divididos em uma série de soberanias anti-sociais, ciumentas e estranhas. 
+Sentimentos semelhantes têm prevalecido até agora entre todas as ordens e denominações de homens entre nós. Para todos 
+Para fins gerais, temos sido uniformemente um povo, cada cidadão em todos os lugares, desfrutando do mesmo 
+direitos, privilégios e proteção nacionais. Como nação, fizemos a paz e a guerra; como nação, temos 
+vencemos nossos inimigos comuns; como nação, formamos alianças, fizemos tratados e celebramos 
+vários pactos e convenções com estados estrangeiros. 
+Um forte sentido do valor e das bênçãos da união induziu o povo, desde muito cedo, a instituir um 
+governo federal para preservá-lo e perpetuá-lo. Eles o formaram quase assim que tiveram existência política; 
+não, numa época em que suas habitações estavam em chamas, quando muitos de seus cidadãos estavam sangrando e quando o 
+O progresso da hostilidade e da desolação deixou pouco espaço para aquelas perguntas e reflexões calmas e maduras que 
+deve preceder sempre a formação de um governo sábio e bem equilibrado para um povo livre. Não é para ser 
+admirado, que um governo instituído em tempos tão desfavoráveis, fosse considerado experimentalmente muito 
+deficiente e inadequada ao propósito a que se destinava. 
+Este povo inteligente percebeu e lamentou estes defeitos. Continuando ainda não menos apegado à união do que 
+apaixonados pela liberdade, observaram o perigo que ameaçava imediatamente os primeiros e, mais remotamente, os 
+último; e sendo persuadido de que uma ampla segurança para ambos só poderia ser encontrada num governo nacional mais 
+sabiamente enquadrados, eles, como se fossem uma só voz, convocaram a última convenção na Filadélfia, para tomar essa importante 
+assunto em consideração. 
+Esta convenção composta por homens que possuíam a confiança do povo, e muitos dos quais tinham 
+tornaram-se altamente distinguidos pelo seu patriotismo, virtude e sabedoria, em tempos que testaram as mentes e os corações dos 
+homens, empreendeu a árdua tarefa. Na estação amena da paz, com as mentes desocupadas por outros assuntos, eles 
+passei muitos meses em consulta tranquila, ininterrupta e diária; e finalmente, sem ter ficado impressionado com 
+poder, ou influenciados por quaisquer paixões, exceto o amor ao seu país, eles apresentaram e recomendaram ao 
+povo o plano produzido pelos seus conselhos conjuntos e muito unânimes. 
+Admita, pois assim é o fato, que este plano é apenas RECOMENDADO, não imposto, mas lembre-se que 
+não é recomendado à aprovação CEGA, nem à reprovação CEGA; mas para aquele calmo e sincero 
+consideração que a magnitude e a importância do assunto exigem, e que certamente deveria 
+receber. Mas isto (como foi observado no número anterior deste artigo) é mais desejável do que esperado, 
+que possa ser assim considerado e examinado. A experiência de uma ocasião anterior ensina-nos a não ser demasiado otimistas em 
+tais esperanças. Ainda não se esqueceu que receios bem fundamentados de perigo iminente induziram o povo de 
+América para formar o memorável Congresso de 1774. Esse órgão recomendou certas medidas para seus 
+constituintes, e o evento provou a sua sabedoria; no entanto, está fresco em nossas memórias a rapidez com que a imprensa começou a 
+estão repletos de panfletos e jornais semanais contra essas mesmas medidas. Não apenas muitos dos oficiais 
+governo, que obedeceu aos ditames do interesse pessoal, mas outros, a partir de uma estimativa equivocada das consequências, 
+ou a influência indevida de ligações anteriores, ou cuja ambição visava objectos que não correspondiam 
+o bem público, foram incansáveis nos seus esforços para persuadir o povo a rejeitar o conselho daquele patriótico 
+Congresso. Muitos, de fato, foram enganados e iludidos, mas a grande maioria do povo raciocinou e decidiu 
+criteriosamente; e felizes por refletirem que o fizeram. 
+Consideravam que o Congresso era composto por muitos homens sábios e experientes. Que, sendo convocado 
+de diferentes partes do país, eles trouxeram consigo e comunicaram entre si uma variedade de informações úteis 
+informação. Que, no decorrer do tempo que passaram juntos investigando e discutindo a verdadeira 
+interesses do seu país, devem ter adquirido conhecimentos muito precisos sobre esse assunto. Que eles eram 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+8/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+individualmente interessados na liberdade e prosperidade públicas e, portanto, que não era menos sua inclinação do que 
+seu dever de recomendar apenas as medidas que, após a mais madura deliberação, realmente considerassem prudentes 
+e aconselhável. 
+Estas e outras considerações semelhantes induziram então o povo a confiar grandemente no julgamento e na integridade do povo. 
+Congresso; e eles seguiram seu conselho, apesar das várias artes e esforços usados ​​para dissuadi-los de fazê-lo. 
+Mas se o povo em geral tivesse motivos para confiar nos homens daquele Congresso, poucos dos quais tinham sido totalmente julgados ou 
+geralmente conhecidos, têm agora ainda mais motivos para respeitar o julgamento e os conselhos da convenção, pois 
+é bem sabido que alguns dos mais ilustres membros desse Congresso, que desde então foram julgados e 
+justamente aprovados pelo patriotismo e pelas habilidades, e que envelheceram na aquisição de informações políticas, também foram 
+membros desta convenção, e levaram para ela o seu conhecimento e experiência acumulados. 
+É digno de nota que não apenas o primeiro, mas todos os Congressos seguintes, bem como a última convenção, 
+invariavelmente juntaram-se ao povo no pensamento de que a prosperidade da América dependia da sua União. Para 
+preservá-la e perpetuá-la foi o grande objetivo do povo ao formar aquela convenção, e é também o grande objetivo 
+objecto do plano que a convenção os aconselhou a adoptar. Com que propriedade, portanto, ou para que 
+bons propósitos, são tentativas, neste período específico, feitas por alguns homens para depreciar a importância do 
+União? Ou por que se sugere que três ou quatro confederações seriam melhores que uma? Estou convencido em meu 
+própria mente que o povo sempre pensou corretamente sobre este assunto, e que a sua universal e uniforme 
+o apego à causa da União assenta em grandes e importantes razões, que procurarei desenvolver e 
+explicar em alguns artigos seguintes. Aqueles que promovem a ideia de substituir uma série de confederações distintas em 
+espaço do plano da convenção, parecem claramente prever que a rejeição do mesmo colocaria a continuação 
+da União em grande perigo. Esse seria certamente o caso, e desejo sinceramente que possa ser tão 
+claramente previsto por todo bom cidadão, que sempre que chegar a dissolução da União, a América terá 
+motivo para exclamar, nas palavras do poeta: “ADEUS! UM LONGO ADEUS A TODA MINHA GRANDEZA”. 
+PÚBLIO 
+ 
+FEDERALISTA Nº 3. O mesmo assunto 
+Continuação (Sobre os perigos provenientes de estrangeiros 
+Força e Influência) 
+Para o Jornal Independente. Sábado, 3 de novembro de 1787 
+JAY 
+Ao povo do estado de Nova York: 
+NÃO É uma observação nova que o povo de qualquer país (se, como os americanos, for inteligente e 
+bem informados) raramente adotam e perseveram constantemente por muitos anos em uma opinião errônea a respeito de sua 
+interesses. Esta consideração tende naturalmente a criar um grande respeito pela elevada opinião que o povo de 
+A América há muito tempo e de maneira uniforme considera a importância de continuar firmemente unida sob um único 
+governo federal, dotado de poderes suficientes para todos os fins gerais e nacionais. 
+Quanto mais atentamente considero e investigo as razões que parecem ter dado origem a esta opinião, 
+mais me convenço de que são convincentes e conclusivos. 
+Entre os muitos objetos para os quais um povo sábio e livre considera necessário dirigir a sua atenção, o de 
+garantir a sua SEGURANÇA parece ser o primeiro. A SEGURANÇA das pessoas tem, sem dúvida, relação com uma grande 
+variedade de circunstâncias e considerações e, conseqüentemente, oferece grande liberdade para aqueles que desejam definir 
+de forma precisa e abrangente. 
+Neste momento pretendo apenas considerá-lo na medida em que respeita a segurança para a preservação da paz e da tranquilidade, como 
+bem como contra perigos de ARMAS E INFLUÊNCIA ESTRANGEIRA, bem como contra perigos do TIPO SEMELHANTE decorrentes 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+9/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+por causas domésticas. Como o primeiro deles vem primeiro na ordem, é apropriado que seja o primeiro discutido. Deixe 
+passemos, portanto, a examinar se as pessoas não têm razão na sua opinião de que uma União cordial, sob um 
+governo nacional eficiente, proporciona-lhes a melhor segurança que pode ser concebida contra HOSTILIDADES de 
+no exterior. 
+O número de guerras que aconteceram ou acontecerão no mundo sempre será encontrado em 
+proporção ao número e peso das causas, sejam REAIS ou FINGIDAS, que PROVOCAM ou 
+CONVIDE-OS. Se esta observação for justa, torna-se útil perguntar se tantas causas JUSTAS de guerra são prováveis 
+a ser concedido pela UNITED AMERICA como pela DISUNITED America; pois se acontecer que a América Unida 
+provavelmente dará menos, então concluir-se-á que, neste aspecto, a União tende mais a preservar o povo 
+em estado de paz com outras nações. 
+As JUSTAS causas da guerra, na sua maior parte, surgem da violação dos tratados ou da violência direta. 
+A América já firmou tratados com nada menos que seis nações estrangeiras, e todas elas, exceto a Prússia, estão 
+marítimo e, portanto, capaz de nos incomodar e ferir. Ela também tem extenso comércio com Portugal, Espanha e 
+Grã-Bretanha e, no que diz respeito a estes dois últimos, tem, além disso, a circunstância da vizinhança a ter em conta. 
+É de grande importância para a paz da América que ela observe as leis das nações em relação a todas essas potências, 
+e para mim parece evidente que isso será feito de forma mais perfeita e pontual por um governo nacional 
+do que poderia ser por treze Estados separados ou por três ou quatro confederações distintas. 
+Porque quando for estabelecido um governo nacional eficiente, os melhores homens do país não só 
+consente em servir, mas geralmente também será nomeado para gerenciá-lo; pois, embora cidade ou campo, ou outro 
+influência contratada, pode colocar homens em assembleias estaduais, ou senados, ou tribunais de justiça, ou executivos 
+departamentos, ainda será necessária uma reputação mais geral e extensa de talentos e outras qualificações para 
+recomendar homens para cargos sob o governo nacional - especialmente porque terá o mais amplo campo de escolha, 
+e nunca experimente aquela falta de pessoas adequadas, o que não é incomum em alguns estados. Portanto, será 
+resultado que a administração, os conselhos políticos e as decisões judiciais do governo nacional serão 
+mais sábios, sistemáticos e criteriosos do que os dos Estados individuais e, consequentemente, mais satisfatórios com 
+respeito a outras nações, bem como mais SEGURO em relação a nós. 
+Porque, sob o governo nacional, os tratados e artigos de tratados, bem como as leis das nações, 
+sempre ser expostas em um sentido e executadas da mesma maneira - enquanto que decisões sobre o mesmo 
+pontos e questões, em treze Estados, ou em três ou quatro confederações, nem sempre estarão de acordo ou serão consistentes; 
+e que, bem como a variedade de tribunais e juízes independentes nomeados por diferentes e independentes 
+governos, bem como das diferentes leis e interesses locais que podem afetá-los e influenciá-los. A sabedoria de 
+da convenção, ao submeter tais questões à jurisdição e julgamento dos tribunais nomeados e 
+responsável apenas perante um governo nacional, não pode ser muito elogiado. 
+Porque a perspectiva de perda ou vantagem presente pode muitas vezes levar o partido governante de um ou dois Estados a 
+desviar-se da boa fé e da justiça; mas essas tentações, não atingindo os demais Estados, e conseqüentemente 
+tendo pouca ou nenhuma influência sobre o governo nacional, a tentação será infrutífera e a boa fé e 
+justiça seja preservada. O caso do tratado de paz com a Grã-Bretanha acrescenta grande peso a este raciocínio. Porque, mesmo que o partido governante de um Estado esteja disposto a resistir a tais tentações, ainda assim, como tal, 
+tentações podem, e geralmente resultam, de circunstâncias peculiares ao Estado, e podem afetar uma grande parte 
+número de habitantes, o partido do governo nem sempre será capaz, se quiser, de impedir a injustiça 
+meditado, ou para punir os agressores. Mas o governo nacional, não sendo afectado por essas 
+circunstâncias, não serão induzidos a cometer o mal, nem quererão poder ou inclinação para 
+impedir ou punir a sua prática por terceiros. 
+Até agora, portanto, como as violações intencionais ou acidentais dos tratados e das leis das nações permitem APENAS 
+causas da guerra, elas são menos apreensíveis sob um governo geral do que sob vários governos menores, e 
+nesse aspecto, o primeiro favorece mais a SEGURANÇA das pessoas. 
+Quanto às causas justas da guerra que resultam da violência directa e ilegal, parece-me igualmente claro 
+que um bom governo nacional oferece muito mais segurança contra perigos desse tipo do que pode ser obtido 
+de qualquer outro bairro. 
+Porque tais violências são mais frequentemente causadas pelas paixões e interesses de uma parte do que do todo; 
+de um ou dois Estados do que da União. Nem uma única guerra indiana foi ainda ocasionada por agressões do 
+atual governo federal, por mais fraco que seja; mas há vários casos de hostilidades indianas 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+10/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+provocada pela conduta imprópria de Estados individuais, que, incapazes ou não dispostos a restringir ou punir 
+crimes, deram ocasião ao massacre de muitos habitantes inocentes. 
+A vizinhança dos territórios espanhóis e britânicos, confinantes com alguns Estados e não com outros, naturalmente 
+confina as causas da disputa mais imediatamente às fronteiras. Os Estados limítrofes, se existirem, serão aqueles 
+que, sob o impulso de uma irritação súbita e uma rápida sensação de aparente interesse ou ofensa, será mais provável, 
+pela violência direta, para provocar a guerra com essas nações; e nada pode evitar tão eficazmente esse perigo como uma 
+governo nacional, cuja sabedoria e prudência não serão diminuídas pelas paixões que movem o 
+partes imediatamente interessadas. 
+Mas não só o governo nacional apresentará menos causas justas de guerra, como também haverá mais 
+seu poder de acomodá-los e resolvê-los amigavelmente. Eles serão mais temperados e frios, e nisso 
+respeito, assim como em outros, terá mais capacidade de agir com sabedoria do que o Estado infrator. O orgulho de 
+Estados, bem como dos homens, naturalmente os dispõe a justificar todas as suas ações e se opõe a que reconheçam, 
+corrigindo ou reparando seus erros e ofensas. O governo nacional, em tais casos, não será afetado por 
+deste orgulho, mas procederá com moderação e franqueza na consideração e decisão sobre os meios mais adequados para 
+livrá-los das dificuldades que os ameaçam. 
+Além disso, é sabido que reconhecimentos, explicações e compensações são muitas vezes aceitos como 
+satisfatório de uma nação unida forte, que seria rejeitado como insatisfatório se oferecido por um Estado ou 
+confederação de pouca consideração ou poder. 
+No ano de 1685, tendo o estado de Génova ofendido Luís XIV, esforçou-se por apaziguá-lo. Ele exigiu 
+que deveriam enviar o seu Doge, ou magistrado-chefe, acompanhado de quatro dos seus senadores, à FRANÇA, para pedir 
+seu perdão e receber seus termos. Eles foram obrigados a submeter-se a ela em prol da paz. Ele estaria em qualquer 
+ocasião, exigiram ou receberam humilhação semelhante da Espanha, ou da Grã-Bretanha, ou de qualquer outro 
+Nação PODEROSA? 
+PÚBLIO 
+ 
+FEDERALISTA Nº 4. O mesmo assunto 
+Continuação (Sobre os perigos provenientes de estrangeiros 
+Força e Influência) 
+Para o Jornal Independente. Quarta-feira, 7 de novembro de 1787 
+JAY 
+Ao povo do estado de Nova York: 
+MEU ÚLTIMO artigo apresentou várias razões pelas quais a segurança das pessoas seria melhor garantida pelo sindicato 
+contra o perigo a que pode estar exposto por APENAS causas de guerra dadas a outras nações; e essas razões mostram 
+que tais causas não só seriam dadas mais raramente, mas também seriam mais facilmente acomodadas, por um 
+governo nacional do que pelos governos estaduais ou pelas pequenas confederações propostas. Mas a segurança do povo da América contra os perigos das forças ESTRANGEIRAS depende não apenas da sua 
+abstendo-se de dar APENAS causas de guerra a outras nações, mas também de se colocarem e continuarem em 
+uma situação que não CONVITE hostilidade ou insulto; pois não é necessário observar que existem PRETENDIDOS como 
+bem como causas justas de guerra. 
+É verdade, por mais vergonhoso que seja para a natureza humana, que as nações em geral farão guerra sempre que 
+eles têm a perspectiva de conseguir alguma coisa com isso; não, os monarcas absolutos muitas vezes farão guerra quando suas nações 
+não obterão nada com isso, mas para fins e objetivos meramente pessoais, como sede de glória militar, 
+vingança por afrontas pessoais, ambição ou pactos privados para engrandecer ou apoiar suas famílias ou 
+partidários. Estes e uma variedade de outros motivos, que afetam apenas a mente do soberano, muitas vezes levam-no a 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+11/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+envolver-se em guerras não santificadas pela justiça ou pela voz e interesses do seu povo. Mas, independente destes 
+incentivos à guerra, que são mais prevalentes nas monarquias absolutas, mas que merecem a nossa atenção, 
+há outros que afetam as nações com a mesma frequência que os reis; e alguns deles serão examinados e descobrirão que crescem 
+fora de nossa situação e circunstâncias relativas. 
+Com a França e a Grã-Bretanha somos rivais nas pescas e podemos abastecer os seus mercados mais barato do que eles 
+eles próprios, apesar de quaisquer esforços para evitá-lo através de recompensas por conta própria ou de impostos sobre peixes estrangeiros. 
+Com eles e com a maioria das outras nações europeias somos rivais na navegação e no comércio de transporte; e nós 
+nos enganaremos se supormos que algum deles se alegrará em vê-lo florescer; pois, como nosso comércio de transporte 
+não podem aumentar sem, em certa medida, diminuir a sua, é mais do seu interesse, e será mais a sua política, 
+restringi-lo do que promovê-lo. 
+No comércio com a China e a Índia, interferimos em mais de uma nação, na medida em que isso nos permite participar em 
+vantagens que eles tinham de certa forma monopolizadas, e como assim nos abastecemos de mercadorias 
+que costumávamos comprar deles. 
+A extensão do nosso próprio comércio nos nossos próprios navios não pode agradar a nenhuma nação que possua 
+territórios deste continente ou próximos a ele, pois o baixo custo e a excelência de nossas produções, somados ao 
+circunstância de vizinhança, e a empresa e endereço de nossos mercadores e navegadores, nos darão uma maior 
+participar nas vantagens que esses territórios oferecem, do que consistente com os desejos ou políticas dos seus respectivos 
+soberanos. 
+A Espanha considera conveniente fechar o Mississipi contra nós, por um lado, e a Grã-Bretanha exclui-nos da 
+São Lourenço do outro; nem nenhum deles permitirá que as outras águas que estão entre eles e nós 
+tornar-se o meio de relações e tráfego mútuos. 
+A partir destas e de outras considerações semelhantes, que poderiam, se fossem consistentes com a prudência, ser mais ampliadas e 
+detalhadamente, é fácil ver que os ciúmes e as inquietações podem gradualmente deslizar para as mentes e gabinetes dos 
+outras nações, e que não devemos esperar que elas considerem o nosso avanço na união, no poder e 
+consequência por terra e por mar, com olhar de indiferença e compostura. 
+O povo da América está consciente de que estas circunstâncias podem originar incentivos à guerra, bem como 
+de outros não tão óbvios no momento, e que sempre que tais incentivos encontrarem tempo e oportunidade adequados para 
+operação, pretensões de colori-las e justificá-las não faltarão. Sabiamente, portanto, eles consideram a união e 
+um bom governo nacional, se necessário, para colocá-los e mantê-los em TAL SITUAÇÃO, em vez de 
+CONVIDAR à guerra tenderá a reprimi-la e desencorajá-la. Essa situação consiste no melhor estado possível de 
+defesa e depende necessariamente do governo, das armas e dos recursos do país. 
+Como a segurança do todo é do interesse do todo e não pode ser assegurada sem o governo, também 
+um ou mais ou muitos, perguntemos se um bom governo não é, relativamente ao objecto em questão, mais 
+competente do que qualquer outro número. Um governo pode reunir e aproveitar os talentos e a experiência dos homens mais capazes, em qualquer parte do mundo. 
+da União onde possam ser encontrados. Pode avançar com base em princípios uniformes de política. Pode harmonizar, assimilar e 
+proteger as diversas partes e membros e estender o benefício de sua previsão e precauções a cada um. No 
+formação de tratados, considerará o interesse do todo e os interesses particulares das partes como ligados 
+com o do todo. Pode aplicar os recursos e o poder do todo à defesa de qualquer parte específica, 
+e isso de forma mais fácil e rápida do que os governos estaduais ou confederações separadas podem fazer, por 
+falta de concerto e unidade do sistema. Pode colocar a milícia sob um plano de disciplina e, ao colocar a sua 
+oficiais em uma linha adequada de subordinação ao Magistrado Chefe, irão, por assim dizer, consolidá-los em um 
+corpo, e assim torná-los mais eficientes do que se divididos em treze ou em três ou quatro distintos 
+empresas independentes. 
+O que seria a milícia da Grã-Bretanha se a milícia inglesa obedecesse ao governo da Inglaterra, se a milícia escocesa 
+a milícia obedecesse ao governo da Escócia, e se a milícia galesa obedecesse ao governo do País de Gales? Suponha 
+uma invasão; Será que esses três governos (se é que concordaram) seriam capazes, com todas as suas respectivas forças, de 
+operar contra o inimigo tão eficazmente como o faria o governo único da Grã-Bretanha? 
+Ouvimos muito falar das frotas da Grã-Bretanha, e pode chegar o tempo, se formos sábios, em que as frotas da Grã-Bretanha 
+A América pode chamar a atenção. Mas se um governo nacional não tivesse regulamentado a navegação da Grã-Bretanha como 
+torná-lo um berçário para marinheiros - se um governo nacional não tivesse mobilizado todos os meios nacionais e 
+materiais para formar frotas, a sua destreza e o seu trovão nunca teriam sido celebrados. Deixe a Inglaterra 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+12/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+tenha a sua navegação e a sua frota - deixe a Escócia ter a sua navegação e a sua frota - deixe o País de Gales ter a sua navegação e a sua frota 
+- deixe a Irlanda ter a sua navegação e frota - deixe essas quatro partes constituintes do império britânico ficarem sob 
+quatro governos independentes, e é fácil perceber quão rapidamente cada um deles se reduziria a comparativamente 
+insignificância. 
+Aplique esses fatos ao nosso próprio caso. Deixe a América dividida em treze ou, se preferir, em três ou quatro 
+governos independentes — que exércitos poderiam formar e pagar — que frotas poderiam esperar ter? Se 
+um fosse atacado, os outros correriam em seu socorro e gastariam seu sangue e dinheiro em sua defesa? Haveria 
+não haverá perigo de serem lisonjeados até à neutralidade pelas suas promessas capciosas, ou seduzidos por um carinho demasiado grande 
+para que a paz diminua, arriscando a sua tranquilidade e segurança atual em prol dos vizinhos, dos quais talvez 
+eles ficaram com ciúmes e cuja importância eles se contentam em ver diminuída? Embora tal conduta 
+não seria sábio, seria, no entanto, natural. A história dos estados da Grécia e de outros países, 
+está repleto de tais casos, e não é improvável que o que tantas vezes aconteceu, sob condições semelhantes, 
+circunstâncias, aconteça novamente. 
+Mas admita que eles podem estar dispostos a ajudar o Estado invadido ou a confederação. Como, quando e em que 
+proporção será concedida ajuda de homens e dinheiro? Quem comandará os exércitos aliados e de qual deles 
+neles ele receberá suas ordens? Quem deverá decidir os termos da paz e, em caso de disputas, que árbitro deverá 
+decidir entre eles e obrigar a aquiescência? Várias dificuldades e inconvenientes seriam inseparáveis 
+de tal situação; Considerando que um governo, zelando pelos interesses gerais e comuns, e combinando 
+e dirigir os poderes e recursos do todo, estaria livre de todos esses constrangimentos e conduziria 
+muito mais para a segurança das pessoas. 
+Mas seja qual for a nossa situação, quer estejamos firmemente unidos sob um governo nacional, quer estejamos divididos num 
+número de confederações, é certo que as nações estrangeiras saberão e verão exatamente como é; e eles vão agir 
+em nossa direção de acordo. Se virem que o nosso governo nacional é eficiente e bem administrado, o nosso comércio 
+regulamentada com prudência, a nossa milícia devidamente organizada e disciplinada, os nossos recursos e finanças discretamente 
+administrados, nosso crédito restabelecido, nosso povo livre, contente e unido, eles estarão muito mais dispostos a 
+cultivar nossa amizade do que provocar nosso ressentimento. Se, por outro lado, nos acharem desprovidos de uma 
+governo eficaz (cada Estado agindo certo ou errado, conforme possa parecer conveniente para seus governantes), ou dividido em três 
+ou quatro repúblicas ou confederações independentes e provavelmente discordantes, uma inclinada para a Grã-Bretanha, outra para 
+França, e um terceiro para a Espanha, e talvez jogados uns contra os outros pelos três, que figura pobre e lamentável 
+a América fará aos olhos deles! Quão responsável ela se tornaria não apenas pelo desprezo deles, mas também pela indignação deles, 
+e com que rapidez a experiência adquirida proclamaria que quando um povo ou uma família se divide, nunca deixa de ser 
+contra si mesmos. 
+PÚBLIO 
+ 
+FEDERALISTA Nº 5. O mesmo assunto 
+Continuação (Sobre os perigos provenientes de estrangeiros 
+Força e Influência) 
+Para o Jornal Independente. Sábado, 10 de novembro de 1787 
+JAY 
+Ao povo do estado de Nova York: 
+A RAINHA ANNE, na sua carta de 1 de Julho de 1706, ao Parlamento Escocês, faz algumas observações sobre a 
+importância da UNIÃO então formada entre a Inglaterra e a Escócia, que merece a nossa atenção. eu devo 
+apresentar ao público um ou dois trechos dele: "Uma união inteira e perfeita será a base sólida de 
+paz duradoura: garantirá sua religião, liberdade e propriedade; removam as animosidades entre vocês, e 
+os ciúmes e diferenças entre nossos dois reinos. Deve aumentar sua força, riquezas e comércio; e por 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+13/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+desta união toda a ilha, unida no afeto e livre de todas as apreensões de interesses diversos, será 
+CAPACITADO PARA RESISTIR A TODOS OS SEUS INIMIGOS." "Recomendamos-vos sinceramente a calma e a unanimidade 
+neste grande e importante assunto, para que a união possa ser levada a uma conclusão feliz, sendo o único 
+Maneira EFICAZ de garantir nossa felicidade presente e futura e decepcionar os desígnios nossos e seus 
+inimigos, que sem dúvida, nesta ocasião, USARÃO SEUS MÁXIMOS ESFORÇOS PARA PREVENIR OU 
+ATRASE ESTA UNIÃO." 
+Foi observado no artigo anterior que a fraqueza e as divisões em casa seriam um convite aos perigos de 
+no exterior; e que nada tenderia mais a nos proteger deles do que a união, a força e o bom governo 
+dentro de nós mesmos. Este assunto é abundante e não pode ser facilmente esgotado. 
+A história da Grã-Bretanha é aquela que em geral conhecemos melhor e nos dá muitas 
+lições úteis. Podemos lucrar com a experiência deles sem pagar o preço que ela lhes custou. Embora pareça 
+óbvio para o senso comum que o povo de tal ilha deveria ser apenas uma nação, mas descobrimos que eles eram 
+por eras divididas em três, e que esses três estavam quase constantemente envolvidos em brigas e guerras com um 
+outro. Apesar do seu verdadeiro interesse em relação às nações continentais ser realmente o mesmo, ainda assim, pelo 
+artes, políticas e práticas dessas nações, seus ciúmes mútuos foram perpetuamente mantidos inflamados, e por um 
+longa série de anos, eles foram muito mais inconvenientes e problemáticos do que úteis e auxiliaram uns aos outros. 
+outro. 
+Se o povo da América se dividisse em três ou quatro nações, não aconteceria a mesma coisa? 
+Não surgiriam ciúmes semelhantes e seriam igualmente acalentados? Em vez de serem "unidos em afeto" 
+e livres de qualquer apreensão de “interesses” diferentes, a inveja e o ciúme logo extinguiriam a confiança e 
+afeto, e os interesses parciais de cada confederação, em vez dos interesses gerais de toda a América, seriam 
+os únicos objetos de sua política e atividades. Assim, como a maioria das outras nações fronteiriças, eles sempre 
+estar envolvido em disputas e guerras, ou viver na constante apreensão delas. Os defensores mais otimistas de três ou quatro confederações não podem razoavelmente supor que por muito tempo 
+permanecer exatamente em pé de igualdade em termos de força, mesmo que a princípio fosse possível formá-los assim; mas, 
+admitindo que isso seja praticável, mas que artifício humano pode garantir a continuação de tal igualdade? 
+Independentemente das circunstâncias locais que tendem a gerar e aumentar o poder numa parte e a impedir a sua 
+progresso em outro, devemos alertar para os efeitos dessa política superior e da boa gestão que 
+provavelmente distinguir o governo de um acima do resto, e pelo qual a sua relativa igualdade em força e 
+consideração seria destruída. Pois não se pode presumir que o mesmo grau de política sã, prudência, 
+e a previsão seria observada uniformemente por cada uma dessas confederações durante uma longa sucessão de anos. 
+Sempre que, e por qualquer causa, possa acontecer, e aconteceria, que qualquer uma dessas nações ou 
+confederações deveriam subir na escala de importância política muito acima do grau de seus vizinhos, que 
+momento aqueles vizinhos a contemplariam com inveja e medo. Ambas as paixões os levariam a 
+semblante, se não para promover, qualquer coisa que possa prometer diminuir sua importância; e também restringiria 
+de medidas calculadas para promover ou mesmo garantir a sua prosperidade. Muito tempo não seria necessário 
+para capacitá-la a discernir essas disposições hostis. Ela logo começaria, não apenas a perder a confiança em seu 
+vizinhos, mas também sentir uma disposição igualmente desfavorável para eles. A desconfiança cria naturalmente desconfiança e, por 
+nada muda a boa vontade e a conduta bondosa mais rapidamente do que ciúmes invejosos e 
+imputações, expressas ou implícitas. 
+O Norte é geralmente a região de força, e muitas circunstâncias locais tornam provável que a maioria 
+O Norte das confederações propostas seria, num período não muito distante, inquestionavelmente mais formidável 
+do que qualquer um dos outros. Assim que isto se tornaria evidente, a COLMEIA DO NORTE excitaria o mesmo 
+ideias e sensações nas partes mais meridionais da América, como acontecia anteriormente nas partes meridionais da Europa. 
+Nem parece ser uma conjectura precipitada que os seus jovens enxames possam muitas vezes ser tentados a colher mel no 
+campos mais floridos e ar mais ameno de seus vizinhos luxuosos e mais delicados. 
+Aqueles que consideram bem a história de divisões e confederações semelhantes encontrarão motivos abundantes para 
+apreender que aqueles em contemplação não seriam em nenhum outro sentido vizinhos senão como seriam fronteiriços; 
+que eles não amariam nem confiariam um no outro, mas, pelo contrário, seriam vítimas da discórdia, do ciúme e da 
+lesões mútuas; em suma, que nos colocariam exactamente nas situações em que algumas nações sem dúvida desejam 
+para nos ver, ou seja, FORMIDÁVEIS APENAS UM PARA O OUTRO. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+14/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+A partir destas considerações, parece que estão muito enganados aqueles senhores que supõem que as alianças 
+ofensiva e defensiva poderia ser formada entre essas confederações, e produziria essa combinação e 
+união de vontades de armas e de recursos, o que seria necessário para colocá-los e mantê-los num formidável estado de 
+defesa contra inimigos estrangeiros. 
+Quando é que os estados independentes, nos quais a Grã-Bretanha e a Espanha estavam anteriormente divididas, se combinaram de tal forma? 
+aliança ou unir suas forças contra um inimigo estrangeiro? As confederações propostas serão DISTINTAS 
+NAÇÕES. Cada um deles teria o seu comércio com estrangeiros a regular por tratados distintos; e como seu 
+produções e mercadorias são diferentes e adequadas para mercados diferentes, então esses tratados seriam 
+essencialmente diferente. Diferentes interesses comerciais devem criar diferentes interesses e, claro, diferentes 
+graus de ligação política e conexão com diferentes nações estrangeiras. Portanto, pode e provavelmente 
+aconteceria que a nação estrangeira com quem a confederação do SUL pudesse estar em guerra seria a 
+aquele com quem a confederação do NORTE estaria mais desejosa de preservar a paz e a amizade. Uma aliança tão contrária ao seu interesse imediato não seria, portanto, fácil de formar, nem, se formada, seria 
+ser observado e cumprido com perfeita boa fé. 
+Não, é muito mais provável que na América, como na Europa, as nações vizinhas, agindo sob o impulso da 
+interesses opostos e paixões hostis, seriam frequentemente encontrados tomando lados diferentes. Considerando o nosso 
+distância da Europa, seria mais natural que estas confederações apreendessem o perigo umas das outras 
+do que de nações distantes e, portanto, que cada um deles deveria estar mais desejoso de se proteger contra os outros, 
+a ajuda de alianças estrangeiras, do que proteger-se contra perigos estrangeiros através de alianças entre si. E aqui vamos 
+não esqueçamos como é muito mais fácil receber frotas estrangeiras nos nossos portos e exércitos estrangeiros nos nossos 
+país, do que persuadi-los ou obrigá-los a partir. Quantas conquistas os romanos e outros fizeram 
+nos personagens dos aliados, e que inovações eles, sob o mesmo caráter, introduziram no 
+governos daqueles que eles fingiam proteger. 
+Deixemos então que homens sinceros julguem se a divisão da América em qualquer número de países independentes 
+as soberanias tenderiam a proteger-nos contra as hostilidades e a interferência indevida de nações estrangeiras. 
+PÚBLIO 
+ 
+FEDERALISTA Nº 6. Sobre os perigos de 
+Dissensões entre os Estados 
+Para o Jornal Independente. Quarta-feira, 14 de novembro de 1787 
+HAMILTON 
+Ao povo do estado de Nova York: 
+OS três últimos números deste artigo foram dedicados a uma enumeração dos perigos aos quais 
+deveria ser exposto, em estado de desunião, às armas e artes de nações estrangeiras. Vou agora prosseguir para 
+delineiam perigos de um tipo diferente e, talvez, ainda mais alarmante - aqueles que com toda probabilidade fluirão 
+das dissensões entre os próprios Estados e das facções e convulsões internas. Estes foram 
+já em alguns casos ligeiramente antecipado; mas merecem uma investigação mais particular e mais completa. 
+Deve estar muito envolvido em especulações utópicas um homem que possa duvidar seriamente de que, se estes Estados fossem ou 
+totalmente desunidos, ou apenas unidos em confederações parciais, as subdivisões nas quais podem ser lançados 
+teriam disputas frequentes e violentas entre si. Presumir a falta de motivos para tais competições como uma 
+argumento contra a sua existência seria esquecer que os homens são ambiciosos, vingativos e vorazes. Para olhar 
+para uma continuação da harmonia entre uma série de soberanias independentes e não conectadas no mesmo 
+vizinhança, seria desconsiderar o curso uniforme dos acontecimentos humanos e desafiar o acumulado 
+experiência de eras. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+15/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+As causas da hostilidade entre as nações são inúmeras. Há alguns que têm um caráter geral e quase 
+operação constante sobre os órgãos coletivos da sociedade. Desta descrição estão o amor ao poder ou o desejo de 
+preeminência e domínio - o ciúme do poder ou o desejo de igualdade e segurança. Existem outros que 
+têm uma influência mais circunscrita, embora igualmente operativa, dentro de suas esferas. Essas são as rivalidades 
+e competições de comércio entre nações comerciais. E há outros, não menos numerosos que qualquer um 
+dos primeiros, que têm origem inteiramente em paixões privadas; nos apegos, inimizades, interesses, esperanças, 
+e medos de liderar indivíduos nas comunidades das quais são membros. Homens desta classe, sejam eles 
+favoritos de um rei ou de um povo, em muitos casos abusaram da confiança que possuíam; e 
+assumindo o pretexto de algum motivo público, não tiveram escrúpulos em sacrificar a tranquilidade nacional a interesses pessoais 
+vantagem ou gratificação pessoal. 
+O célebre Péricles, em conformidade com o ressentimento de uma prostituta,(1) às custas de grande parte do 
+sangue e tesouros de seus compatriotas, atacou, derrotou e destruiu a cidade dos SAMMIANS. O 
+mesmo homem, estimulado por ressentimento privado contra os MEGARENSIANOS, (2) outra nação da Grécia, ou para evitar um 
+acusação com a qual foi ameaçado como cúmplice de um suposto roubo da estatuária Fídias,(3) ou para 
+livrar-se das acusações preparadas contra ele por dissipar recursos do Estado na compra 
+de popularidade,(4) ou de uma combinação de todas essas causas, foi o autor primitivo daquela famosa e fatal guerra, 
+distinguida nos anais gregos pelo nome de guerra do PELOPONÉSIO; que, depois de vários 
+vicissitudes, intervalos e renovações, culminando na ruína da comunidade ateniense. 
+O ambicioso cardeal, que foi primeiro-ministro de Henrique VIII, permitindo à sua vaidade aspirar ao triplo 
+coroa,(5) alimentava esperanças de conseguir a aquisição daquele esplêndido prêmio pela influência do 
+Imperador Carlos V. Para garantir o favor e o interesse deste monarca empreendedor e poderoso, ele precipitou 
+Inglaterra numa guerra com a França, contrariamente aos mais claros ditames da política, e com risco da segurança e 
+independência, tanto do reino que presidiu pelos seus conselhos, como da Europa em geral. Pois se 
+sempre houve um soberano que fez uma oferta justa para realizar o projeto da monarquia universal, foi o imperador Carlos 
+V., de cujas intrigas Wolsey foi ao mesmo tempo o instrumento e o ingênuo. 
+A influência que a intolerância de uma mulher,(6) a petulância de outra,(7) e as conspirações de uma terceira,(8) tiveram 
+na política contemporânea, os fermentos e as pacificações, de uma parte considerável da Europa, são temas que têm 
+foi decantado com muita frequência para não ser geralmente conhecido. 
+Multiplicar exemplos da agência de considerações pessoais na produção de grandes eventos nacionais, 
+seja estrangeiro ou nacional, de acordo com a sua orientação, seria uma perda de tempo desnecessária. Aqueles que têm 
+mas um conhecimento superficial das fontes das quais eles devem ser extraídos, por si só, recordará uma 
+variedade de instâncias; e aqueles que têm um conhecimento tolerável da natureza humana não necessitarão de tal 
+luzes para formar sua opinião sobre a realidade ou a extensão dessa agência. Talvez, no entanto, uma referência, tendente 
+para ilustrar o princípio geral, pode ser feito com propriedade a um caso que aconteceu recentemente entre 
+nós mesmos. Se Shays não fosse um DEVEDOR DESESPERADO, é duvidoso que Massachusetts 
+teria sido mergulhado em uma guerra civil. 
+Mas, apesar do testemunho concordante da experiência, neste particular, ainda há 
+homens visionários ou projetistas, que estão prontos para defender o paradoxo da paz perpétua entre os Estados, 
+embora desmembrados e alienados uns dos outros. A genialidade das repúblicas (dizem) é pacífica; o espírito de 
+o comércio tende a suavizar os costumes dos homens e a extinguir os humores inflamáveis que 
+tantas vezes desencadearam guerras. As repúblicas comerciais, como a nossa, nunca estarão dispostas a desperdiçar-se em 
+disputas ruinosas entre si. Serão governados pelo interesse mútuo e cultivarão um espírito de 
+amizade e concórdia mútuas. Não é (podemos perguntar a estes projetores da política) o verdadeiro interesse de todas as nações em cultivar o mesmo 
+espírito benevolente e filosófico? Se este for o seu verdadeiro interesse, eles de fato o perseguiram? Não é, no 
+pelo contrário, descobriu-se invariavelmente que as paixões momentâneas e o interesse imediato têm um efeito mais ativo e 
+controle imperioso sobre a conduta humana do que considerações gerais ou remotas de política, utilidade ou justiça? Tem 
+na prática, as repúblicas têm sido menos viciadas na guerra do que as monarquias? Os primeiros não são administrados por HOMENS como 
+bem como o último? Não existem aversões, predileções, rivalidades e desejos de aquisições injustas, que afetam 
+nações, bem como reis? Não estão as assembleias populares frequentemente sujeitas a impulsos de raiva, ressentimento, 
+ciúme, avareza e outras propensões irregulares e violentas? Não é bem sabido que suas determinações 
+são muitas vezes governados por alguns indivíduos em quem depositam confiança e, é claro, estão sujeitos a serem tingidos 
+pelas paixões e pontos de vista desses indivíduos? Até agora, o comércio fez algo mais do que mudar o 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+16/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+objetos de guerra? O amor à riqueza não é uma paixão tão dominadora e empreendedora quanto a do poder ou da glória? 
+Não houve tantas guerras fundadas em motivos comerciais desde que esta se tornou a política prevalecente? 
+sistema de nações, como antes era ocasionado pela cobiça do território ou do domínio? Não tem o espírito de 
+o comércio, em muitos casos, administrou novos incentivos ao apetite, tanto para um como para outro? 
+Deixemos que a experiência, o guia menos falível das opiniões humanas, seja apelada para uma resposta a estas perguntas. 
+Esparta, Atenas, Roma e Cartago eram todas repúblicas; duas delas, Atenas e Cartago, do comércio 
+gentil. No entanto, estavam tão frequentemente envolvidos em guerras, ofensivas e defensivas, como as monarquias vizinhas do 
+mesmos tempos. Esparta era pouco melhor que um campo bem regulamentado; e Roma nunca se cansou de carnificina e 
+conquista. 
+Cartago, embora fosse uma república comercial, foi a agressora na mesma guerra que terminou com a sua destruição. 
+Aníbal levou as armas dela para o coração da Itália e para os portões de Roma, antes que Cipião, por sua vez, lhe desse 
+uma derrubada nos territórios de Cartago e conquistou a comunidade. 
+Veneza, em tempos posteriores, figurou mais de uma vez em guerras de ambição, até que, tornando-se objeto dos outros países italianos, 
+estados, Papa Júlio II. encontrou meios para realizar aquela liga formidável,(9) que deu um golpe mortal ao 
+poder e orgulho desta república arrogante. 
+As províncias da Holanda, até ficarem sobrecarregadas de dívidas e impostos, assumiram um papel de liderança e conspícuo 
+nas guerras da Europa. Eles travaram disputas furiosas com a Inglaterra pelo domínio do mar e estavam entre os 
+o mais perseverante e implacável dos oponentes de Luís XIV. 
+No governo da Grã-Bretanha, os representantes do povo constituem um ramo da legislatura nacional. 
+O comércio tem sido há muito tempo a atividade predominante daquele país. Poucas nações, no entanto, foram mais 
+frequentemente envolvido em guerra; e as guerras em que esse reino esteve envolvido, em numerosos casos, 
+procedeu do povo. 
+Houve, se assim posso expressar, quase tantas guerras populares quanto guerras reais. Os gritos da nação e do 
+as importunações dos seus representantes arrastaram, em diversas ocasiões, os seus monarcas para a guerra, ou 
+continuaram nela, contrariando as suas inclinações e, por vezes, contrariando os reais interesses do Estado. Em 
+aquela memorável luta pela superioridade entre as casas rivais da ÁUSTRIA e BOURBON, que há tanto tempo 
+manteve a Europa em chamas, é sabido que as antipatias dos ingleses contra os franceses, apoiando a 
+a ambição, ou melhor, a avareza de um líder favorito,(10) prolongou a guerra para além dos limites traçados por 
+política sólida e, durante um tempo considerável, em oposição às opiniões do tribunal. As guerras destas duas últimas nações mencionadas surgiram, em grande medida, a partir de conflitos comerciais. 
+considerações - o desejo de suplantar e o medo de ser suplantado, seja em ramos específicos da 
+tráfego ou nas vantagens gerais do comércio e da navegação, e às vezes até no desejo mais culposo de 
+participação no comércio de outras nações sem o seu consentimento. 
+A última guerra entre a Grã-Bretanha e a Espanha surgiu das tentativas dos mercadores britânicos de processar um 
+comércio ilícito com o principal espanhol. Estas práticas injustificáveis, por sua vez, produziram severidade por parte dos 
+espanhóis em relação aos súditos da Grã-Bretanha, o que não era mais justificável, porque ultrapassava o 
+limites de uma retaliação justa e foram acusados de desumanidade e crueldade. Muitos dos ingleses que estavam 
+capturados na costa espanhola foram enviados para escavar nas minas de Potosi; e pelo progresso habitual de um espírito de 
+ressentimento, os inocentes foram, depois de um tempo, confundidos com os culpados em punições indiscriminadas. O 
+reclamações dos mercadores acenderam uma chama violenta em todo o país, que logo depois irrompeu no 
+Câmara dos Comuns, e foi comunicado desse órgão ao ministério. Cartas de represália foram concedidas e 
+Seguiu-se uma guerra que, nas suas consequências, derrubou todas as alianças que apenas vinte anos antes tinham sido formadas. 
+com expectativas otimistas dos frutos mais benéficos. 
+A partir deste resumo do que aconteceu noutros países, cujas situações sofreram os mais próximos 
+semelhança com a nossa, que razão podemos ter para confiar naqueles devaneios que nos seduziriam a um 
+expectativa de paz e cordialidade entre os membros da atual confederação, em estado de separação? 
+Já não vimos o suficiente da falácia e da extravagância daquelas teorias ociosas que nos divertiram 
+com promessas de isenção das imperfeições, fraquezas e males incidentes na sociedade em todas as formas? 
+Não será hora de despertar do sonho enganoso de uma idade de ouro e adotar como máxima prática para o 
+direção da nossa conduta política que nós, assim como os outros habitantes do globo, estamos ainda distantes do 
+feliz império de perfeita sabedoria e perfeita virtude? 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+17/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+Deixemos que o ponto de extrema depressão a que a nossa dignidade e crédito nacionais tenham afundado, deixemos que os inconvenientes 
+sentida em todos os lugares desde uma administração governamental negligente e má, deixe a revolta de uma parte do Estado do Norte 
+Carolina, os últimos distúrbios ameaçadores na Pensilvânia e as insurreições e rebeliões reais na 
+Massachusetts, declare—! 
+Até agora o sentimento geral da humanidade não corresponde aos princípios daqueles que se esforçam para adormecer 
+nossas apreensões de discórdia e hostilidade entre os Estados, em caso de desunião, que há muito tempo 
+a observação do progresso da sociedade tornou-se uma espécie de axioma na política, aquela vizinhança ou proximidade de situação, 
+constitui inimigos naturais das nações. Um escritor inteligente se expressa sobre este assunto neste sentido: 
+“NAÇÕES VIZINHAS (diz ele) são naturalmente inimigas umas das outras, a menos que sua fraqueza comum 
+força-os a unirem-se numa REPÚBLICA CONFEDERADA, e a sua constituição evita as diferenças que 
+ocasiões de vizinhança, extinguindo aquele ciúme secreto que dispõe todos os estados a engrandecerem-se em 
+às custas de seus vizinhos."(11) Esta passagem, ao mesmo tempo, aponta o MAL e sugere o 
+REMÉDIO. 
+PÚBLIO 
+1. Aspásia, vide "A Vida de Péricles de Plutarco". 
+2. Ibidem. 
+3. Ibidem. 
+4. Ibidem. Supunha-se que Fídias teria roubado algum ouro público, com a conivência de Péricles, para o 
+embelezamento da estátua de Minerva. 
+5. Usado pelos papas. 
+6. Madame de Maintenon. 
+7. Duquesa de Marlborough. 
+8. Madame de Pompadour. 
+9. A Liga de Cambray, compreendendo o Imperador, o Rei da França, o Rei de Aragão e a maior parte de 
+os príncipes e estados italianos. 
+10. O duque de Marlborough. 
+11. Vide "Principes des Negociations" por l'Abbé de Mably. 
+ 
+FEDERALISTA Nº 7. O mesmo assunto 
+Continuação (Sobre os perigos de 
+Dissensões entre os Estados) 
+Para o Jornal Independente. Quinta-feira, 15 de novembro de 1787 
+HAMILTON 
+Ao povo do estado de Nova York: 
+PERGUNTA-SE por vezes, com um ar de aparente triunfo, que incentivos poderiam os Estados ter, se estivessem desunidos, 
+fazer guerra entre si? Seria uma resposta completa a esta pergunta dizer – precisamente os mesmos incentivos 
+que, em diferentes momentos, inundaram de sangue todas as nações do mundo. Mas, infelizmente para nós, o 
+pergunta admite uma resposta mais particular. Existem causas para diferenças dentro do nosso ambiente imediato 
+contemplação, cuja tendência, mesmo sob as restrições de uma constituição federal, tivemos 
+experiência suficiente para nos permitir formar um julgamento sobre o que poderia ser esperado se essas restrições fossem 
+removido. 
+As disputas territoriais sempre foram consideradas uma das fontes mais férteis de hostilidade entre as nações. 
+Talvez a maior proporção das guerras que desolaram a terra tenha surgido desta origem. Esta causa 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+18/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+existiria entre nós com força total. Temos uma vasta extensão de território instável dentro das fronteiras dos Estados Unidos 
+Estados. Ainda existem reivindicações discordantes e indecisas entre vários deles, e a dissolução da União 
+estabeleceria uma base para reivindicações semelhantes entre todos eles. É bem sabido que eles até agora tiveram 
+discussão séria e animada sobre os direitos às terras que não eram concedidas na época da 
+Revolução, e que geralmente era chamada de terras da coroa. Os Estados dentro dos limites de cujos 
+os governos coloniais que os compunham reivindicaram-nos como sua propriedade, os outros argumentaram que 
+os direitos da coroa neste artigo foram atribuídos à União; especialmente no que diz respeito a toda aquela parte do Ocidente 
+território que, quer por posse real, quer por submissão dos proprietários índios, foi submetido a 
+a jurisdição do rei da Grã-Bretanha, até que foi abandonada no tratado de paz. Isto, foi dito, 
+foi, em todo caso, uma aquisição da Confederação por meio de um pacto com uma potência estrangeira. Tem sido o prudente 
+política do Congresso para apaziguar esta controvérsia, convencendo os Estados a fazerem cessões aos Estados Unidos 
+Estados em benefício do todo. Isto foi conseguido até agora, no âmbito da continuação da União, para 
+proporcionar uma perspectiva decidida de uma resolução amigável do litígio. Um desmembramento da Confederação, 
+no entanto, reavivaria esta disputa e criaria outras sobre o mesmo assunto. Actualmente, grande parte da 
+O território ocidental vago é, pelo menos por cessão, se não por qualquer direito anterior, propriedade comum da União. Se 
+que estavam no fim, os Estados que fizeram a cessão, com base no princípio do compromisso federal, estariam aptos quando 
+o motivo da concessão havia cessado, para reclamar as terras como reversão. Os outros Estados insistiriam sem dúvida em 
+uma proporção, por direito de representação. O seu argumento seria que uma concessão, uma vez concedida, não poderia ser revogada; 
+e que a justiça de participar em território adquirido ou assegurado pelos esforços conjuntos da Confederação, 
+permaneceu inalterado. Se, contrariamente à probabilidade, todos os Estados admitissem que cada um tinha o direito de 
+uma ação dessas ações ordinárias, ainda haveria uma dificuldade a ser superada, quanto a uma regra adequada de 
+rateio. Diferentes princípios seriam estabelecidos por diferentes Estados para este fim; e como eles afetariam 
+interesses opostos das partes, poderão não ser facilmente susceptíveis de um ajustamento pacífico. 
+No vasto campo do território ocidental, portanto, percebemos um amplo teatro de pretensões hostis, sem 
+qualquer árbitro ou juiz comum para interpor-se entre as partes em conflito. Para raciocinar do passado para o futuro, 
+teremos bons motivos para apreender que a espada às vezes seria apelada como árbitro de seus 
+diferenças. As circunstâncias da disputa entre Connecticut e Pensilvânia, respeitando as terras em 
+Wyoming, admoesta-nos a não sermos otimistas ao esperar uma acomodação fácil para tais diferenças. Os artigos 
+da confederação obrigava as partes a submeter a questão à decisão de um tribunal federal. A submissão foi 
+feito, e o tribunal decidiu a favor da Pensilvânia. Mas Connecticut deu fortes indícios de insatisfação 
+com essa determinação; nem ela parecia estar inteiramente resignada a isso, até que, por negociação e gestão, 
+algo parecido com um equivalente foi encontrado para a perda que ela supunha ter sofrido. Nada aqui dito é 
+pretendia transmitir a menor censura à conduta desse Estado. Ela sem dúvida acreditava sinceramente que 
+foram prejudicados pela decisão; e os Estados, tal como os indivíduos, concordam com grande relutância nas determinações 
+em sua desvantagem. 
+Aqueles que tiveram a oportunidade de conhecer o interior das transações que acompanharam o andamento do 
+controvérsia entre este estado e o distrito de Vermont, pode atestar a oposição que experimentamos, bem como 
+provenientes de Estados não interessados como daqueles que estavam interessados na reivindicação; e pode atestar o perigo que 
+a paz da Confederação poderia ter sido exposta, se este Estado tivesse tentado fazer valer os seus direitos pela força. Dois 
+motivos preponderaram nessa oposição: primeiro, o ciúme nutrido de nosso poder futuro; e o outro, o 
+interesse de certos indivíduos de influência nos Estados vizinhos, que obtiveram doações de terras sob o 
+governo real daquele distrito. Mesmo os Estados que apresentaram reivindicações, em contradição com as nossas, 
+pareciam mais solícitos em desmembrar este Estado, do que em estabelecer as suas próprias pretensões. Estes eram novos 
+Hampshire, Massachusetts e Connecticut. Nova Jersey e Rhode Island, em todas as ocasiões, descobriram um 
+zelo caloroso pela independência de Vermont; e Maryland, até ficar alarmado com o aparecimento de uma conexão 
+entre o Canadá e esse Estado, aderiram profundamente às mesmas opiniões. Sendo estes Estados pequenos, viram com 
+olhar hostil a perspectiva de nossa crescente grandeza. Em uma análise dessas transações, podemos rastrear alguns dos 
+as causas que provavelmente envolveriam os Estados entre si, se esse fosse o seu destino desfavorável 
+para ficar desunido. 
+As competições comerciais seriam outra fonte frutífera de discórdia. Os Estados menos favoravelmente 
+circunstâncias estariam desejosos de escapar das desvantagens da situação local e de compartilhar o 
+vantagens de seus vizinhos mais afortunados. Cada Estado, ou confederação separada, seguiria um sistema de 
+política comercial que lhe é peculiar. Isso ocasionaria distinções, preferências e exclusões, o que 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+19/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+gerar descontentamento. Os hábitos de relações sexuais, com base em privilégios iguais, aos quais estamos acostumados 
+desde a primeira colonização do país, daria uma vantagem mais nítida a essas causas de descontentamento do que 
+teria naturalmente independente desta circunstância. DEVEMOS ESTAR PRONTOS PARA DENOMINAR 
+LESÕES AQUELAS COISAS QUE FORAM NA REALIDADE ATOS JUSTIFICÁVEIS DE INDEPENDÊNCIA 
+SOBERANIAS QUE CONSULTAM UM INTERESSE DISTINTO. O espírito empreendedor que caracteriza a 
+parte comercial da América, não deixou nenhuma oportunidade de se exibir sem melhorias. Não é de todo provável que 
+este espírito desenfreado prestaria muito respeito às regulamentações comerciais pelas quais determinados Estados poderiam 
+esforçar-se por garantir benefícios exclusivos aos seus próprios cidadãos. As infrações a essas normas, de um lado, o 
+os esforços para os prevenir e repelir, por outro, conduziriam naturalmente a ultrajes, e estes a represálias e guerras. 
+As oportunidades que alguns Estados teriam de tornar outros tributários através de 
+regulamentos seriam submetidos impacientemente pelos Estados tributários. A situação relativa de Nova York, 
+Connecticut e Nova Jersey dariam um exemplo desse tipo. Nova York, das necessidades de receita, 
+deve estabelecer direitos sobre suas importações. Grande parte destes direitos deve ser paga pelos habitantes dos outros dois 
+Estados na qualidade de consumidores daquilo que importamos. Nova Iorque não estaria disposta nem seria capaz de renunciar 
+esta vantagem. Os seus cidadãos não consentiriam que um imposto pago por eles fosse remetido a favor do 
+cidadãos de seus vizinhos; nem seria praticável, se não houvesse esse impedimento, distinguir 
+os clientes em nossos próprios mercados. Será que Connecticut e Nova Jersey se submeteriam por muito tempo à tributação de Nova York por 
+seu benefício exclusivo? Se nos fosse permitido permanecer por muito tempo no prazer tranquilo e imperturbado de uma 
+metrópole, de cuja posse obtivemos uma vantagem tão odiosa para os nossos vizinhos e, em sua opinião, 
+opinião, tão opressiva? Deveríamos ser capazes de preservá-lo contra o peso atual de Connecticut, por um lado 
+lado, e a pressão de cooperação de Nova Jersey, do outro? Estas são questões que só a temeridade resolverá 
+responda afirmativamente. 
+A dívida pública da União seria mais uma causa de colisão entre os Estados separados ou 
+confederações. O rateio, em primeira instância, e a extinção progressiva posteriormente, seriam 
+igualmente produtivo de mau humor e animosidade. Como seria possível chegar a um acordo sobre uma regra de rateio 
+satisfatório para todos? Quase não há nada que possa ser proposto que esteja inteiramente livre de objeções reais. Estes, 
+como sempre, seria exagerada pelo interesse adverso das partes. Existem até opiniões divergentes entre os 
+Estados-Membros quanto ao princípio geral do cumprimento da dívida pública. Alguns deles, ou menos impressionados com o 
+importância do crédito nacional, ou porque os seus cidadãos têm pouco ou nenhum interesse imediato na questão, sentem-se 
+uma indiferença, se não uma repugnância, pelo pagamento da dívida interna. Estes estariam inclinados a 
+ampliar as dificuldades de uma distribuição. Outros deles, um grupo numeroso cujos cidadãos são credores do 
+público além da proporção do Estado no montante total da dívida nacional, seria extenuante para alguns 
+prestação equitativa e eficaz. As procrastinações dos primeiros excitariam os ressentimentos dos últimos. 
+A resolução de uma regra seria, entretanto, adiada por diferenças reais de opinião e por atrasos afetados. 
+Os cidadãos dos Estados interessados ​​clamariam; potências estrangeiras exigiriam a satisfação de seus justos 
+demandas, e a paz dos Estados seria arriscada pela dupla contingência de invasão externa e 
+disputa interna. 
+Suponhamos que as dificuldades de chegar a um acordo sobre uma regra sejam superadas e a repartição seja feita. Ainda há ótimo 
+espaço para supor que a regra acordada seria, após experiência, mais difícil para alguns Estados 
+do que sobre outros. Aqueles que sofreram com isso procurariam naturalmente uma mitigação do fardo. O 
+outros não estariam naturalmente inclinados a uma revisão, que provavelmente terminaria num aumento da sua própria 
+encargos. A sua recusa seria um pretexto demasiado plausível para os Estados reclamantes recusarem a sua 
+contribuições, que não devem ser abraçadas com avidez; e o incumprimento destes Estados dos seus compromissos 
+seria um motivo de amarga discussão e altercação. Mesmo que a regra adoptada justificasse na prática a 
+igualdade de princípio, ainda assim a inadimplência nos pagamentos por parte de alguns Estados resultaria de uma 
+diversidade de outras causas – a verdadeira deficiência de recursos; a má gestão das suas finanças; acidental 
+distúrbios na gestão do governo; e, além do resto, a relutância com que os homens 
+comumente gastam dinheiro para fins que sobreviveram às exigências que os produziram e interferem 
+com a oferta de necessidades imediatas. A inadimplência, seja qual for a causa, geraria reclamações, 
+recriminações e brigas. Talvez não haja nada mais susceptível de perturbar a tranquilidade das nações do que 
+estarem vinculados a contribuições mútuas para qualquer objetivo comum que não produza uma igualdade e coincidência 
+benefício. Pois é uma observação, tão verdadeira quanto banal, que não há nada sobre o qual os homens divirjam tão prontamente quanto o 
+pagamento de dinheiro. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+20/240 
+ 
+04/08/26, 21h11 
+ 
+O e-book do Projeto Gutenberg de The Federalist Papers, de Alexander Hamilton, John Jay e James Madison 
+ 
+Leis que violam os contratos privados, pois constituem agressões aos direitos dos Estados cujos 
+cidadãos são feridos por eles, podem ser considerados como outra fonte provável de hostilidade. Não estamos autorizados a 
+esperar que um espírito mais liberal ou mais equitativo presidisse às legislações de cada Estado 
+daqui em diante, se não for restringido por quaisquer verificações adicionais, do que vimos até agora em muitos casos 
+desonrando seus vários códigos. Observamos a disposição à retaliação despertada em Connecticut em 
+consequência das enormidades perpetradas pelo Legislativo de Rhode Island; e inferimos razoavelmente que, em 
+casos semelhantes, sob outras circunstâncias, uma guerra, não de PERGAMINHO, mas de espada, castigaria tais 
+violações atrozes das obrigações morais e da justiça social. 
+A probabilidade de alianças incompatíveis entre os diferentes Estados ou confederações e diferentes países estrangeiros 
+nações, e os efeitos desta situação sobre a paz do todo, foram suficientemente desdobrados em alguns 
+artigos anteriores. Da visão que eles exibiram desta parte do assunto, esta conclusão deve ser tirada, 
+que a América, se não estivesse conectada de forma alguma, ou apenas pelo fraco vínculo de uma liga simples, ofensiva e defensiva, iria, 
+pela operação de alianças tão dissonantes, ser gradualmente enredado em todos os labirintos perniciosos da Europa 
+política e guerras; e pelas disputas destrutivas das partes em que ela estava dividida, provavelmente 
+tornam-se vítimas dos artifícios e maquinações dos poderes, igualmente inimigos de todos eles. Divida e impera(1) 
+deve ser o lema de todas as nações que nos odeiam ou que nos temem.(2) 
+PÚBLIO 
+1. Dividir e comandar. 
+2. Para que todo o assunto destes documentos possa ser apresentado ao público o mais rápido possível, é 
+propôs publicá-los quatro vezes por semana - na terça-feira no New York Packet e na quinta-feira no Daily 
+Anunciante.

@@ -1,0 +1,903 @@
+FEDERALIST nr. 1. Generel introduktion 
+For Independent Journal. Lørdag den 27. oktober 1787 
+HAMILTON 
+Til folket i staten New York: 
+EFTER en utvetydig oplevelse af den eksisterende føderale regerings ineffektivitet, bliver du opfordret 
+at drøfte en ny forfatning for USA. Emnet taler sin egen betydning; 
+at forstå i dens konsekvenser intet mindre end UNIONENS eksistens, sikkerheden og velfærden for 
+dele, som det er sammensat af, er et imperiums skæbne i mange henseender det mest interessante i verden. Det har den 
+blevet hyppigt bemærket, at det synes at være forbeholdt dette lands folk, ved deres adfærd og 
+for eksempel at afgøre det vigtige spørgsmål, om mænds samfund virkelig er i stand til at etablere sig eller ej 
+god regering fra refleksion og valg, eller om de for evigt er bestemt til at være afhængige af deres politiske 
+forfatninger om ulykke og magt. Hvis der er nogen sandhed i bemærkningen, kan den krise, vi er nået til, måske 
+med anstændighed betragtes som den æra, hvor denne beslutning skal træffes; og et forkert valg af den del vi 
+skal handle kan efter denne opfattelse fortjene at blive betragtet som menneskehedens almindelige ulykke. 
+Denne idé vil tilføje filantropiens tilskyndelser til patriotismens tilskyndelser for at øge den omsorg, som alle 
+hensynsfulde og gode mænd skal føle for arrangementet. Glad vil det være, hvis vores valg skulle ledes af en 
+velovervejet skøn over vores sande interesser, uforvirret og upartisk af hensyn, der ikke er forbundet med 
+offentligt gode. Men dette er noget, der er mere brændende at ønske end seriøst at forvente. Planen tilbudt vores 
+overvejelser påvirker for mange særlige interesser, fornyer sig på for mange lokale institutioner, til ikke at involvere sig i 
+dens diskussion en række genstande, der er fremmede for dens fortjenester, og synspunkter, lidenskaber og fordomme, der er lidt gunstige for 
+opdagelsen af sandheden. 
+Blandt de mest formidable af de forhindringer, som den nye forfatning bliver nødt til at støde på, kan let 
+kendetegnes den åbenlyse interesse hos en vis klasse af mænd i enhver stat i at modstå alle ændringer, som måtte 
+fare for en formindskelse af magten, vederlaget og konsekvensen af de embeder, de besidder under staten 
+virksomheder; og den perverse ambition hos en anden klasse af mænd, som enten vil håbe på at hævde 
+sig ved deres lands forvirring, eller vil smigre sig med mere retfærdige udsigter til ophøjelse fra 
+imperiets underopdeling i flere delvise konføderationer end fra dets forening under én regering. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+5/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+Det er dog ikke min hensigt at dvæle ved observationer af denne art. Det er jeg godt klar over, at det ville være 
+uærligt at løse vilkårligt oppositionen fra ethvert sæt mænd (blot fordi deres situationer måske 
+udsætte dem for mistanke) til interesserede eller ambitiøse synspunkter. Oprigtighed vil tvinge os til at indrømme, at selv sådanne mænd 
+kan aktiveres af oprejste hensigter; og det kan ikke betvivles, at meget af den modstand, der har gjort sit 
+udseende, eller kan herefter vise sig, vil udspringe af kilder, i det mindste ulastelig, hvis ikke respektabel 
+- de ærlige vildfarelser i sindene ført på afveje af forudfattede jalousier og frygt. Så mange faktisk og så 
+magtfulde er de årsager, der tjener til at give en falsk skævhed til den dom, som vi ved mange lejligheder ser klog 
+og gode mænd på den forkerte såvel som på den rigtige side af spørgsmål af første størrelse til samfundet. Dette 
+omstændighed, hvis der tages behørigt hensyn til, ville give en lektion om mådehold til dem, der er så meget overbevist 
+at de har ret i enhver kontrovers. Og en yderligere grund til forsigtighed i denne henseende kan drages 
+ud fra den refleksion, at vi ikke altid er sikre på, at de, der fortaler for sandheden, er påvirket af renere 
+principper end deres antagonister. Ambition, griskhed, personlig fjendskab, partiopposition og mange andre 
+motiver, der ikke er mere prisværdige end disse, er tilbøjelige til at virke lige så godt på dem, der støtter, som dem, der er imod 
+højre side af et spørgsmål. Var der ikke engang disse tilskyndelser til mådehold, kunne intet være mere dårligt dømt 
+end den intolerante ånd, som til alle tider har præget politiske partier. For i politik, som i religion, er det det 
+lige så absurd at sigte mod at fremstille proselytter med ild og sværd. Kætteri i begge kan sjældent helbredes af 
+forfølgelse. 
+Og dog, hvor netop disse følelser end får lov at være, har vi allerede tilstrækkelige indikationer på, at det vil 
+ske i dette som i alle tidligere tilfælde af stor national diskussion. En strøm af vrede og ondartede lidenskaber vil 
+blive sluppet løs. For at dømme ud fra de modstående parters adfærd, vil vi blive ført til at konkludere, at de vil 
+gensidigt håb om at bevise retfærdigheden af deres meninger og at øge antallet af deres konvertitter med 
+deres deklamationers højlydte og bitterheden i deres invektiver. En oplyst iver for energien og 
+effektiviteten af regeringen vil blive stigmatiseret som afkom af et temperament, der holder af despotisk magt og fjendtligt over for 
+principperne om frihed. En overdreven jalousi af fare for folkets rettigheder, hvilket er mere 
+almindeligvis vil hovedets skyld end hjertets skyld blive repræsenteret som blot forstillelse og kunstfærdighed, den uaktuelle lokkemad 
+for popularitet på bekostning af almenvellet. Det vil på den ene side blive glemt, at jalousi er det sædvanlige 
+ledsaget af kærlighed, og at frihedens ædle entusiasme er tilbøjelig til at blive inficeret med en snæver og snæver ånd. 
+illiberal mistillid. På den anden side vil det lige så blive glemt, at regeringskraften er afgørende for 
+sikkerhed for frihed; at deres interesse aldrig kan være i betragtning af en sund og velinformeret dømmekraft 
+adskilt; og at en farlig ambition oftere lurer bag den besynderlige maske af iver for de rettigheder 
+mennesker end under det forbudte udseende af nidkærhed for regeringens fasthed og effektivitet. Historien vil 
+lære os, at førstnævnte er blevet fundet en meget mere sikker vej til indførelse af despotisme end sidstnævnte, 
+og at af de mænd, der har omstødt republikkernes friheder, har det største antal påbegyndt deres karriere 
+ved at betale en obsequious domstol til folket; begyndende demagoger og afslutte tyranner. 
+I løbet af de foregående observationer har jeg haft øje, mine medborgere, til at sætte jer på jeres 
+vær på vagt mod alle forsøg, fra hvilket som helst hold, på at påvirke din beslutning i et spørgsmål om det yderste øjeblik til 
+dit velfærd, ved andre indtryk end dem, der måtte være resultatet af sandhedens beviser. Det vil du, nej 
+tvivl, på samme tid, har indsamlet fra den generelle rækkevidde af dem, at de kommer fra en kilde ikke 
+uvenlig over for den nye forfatning. Ja, mine landsmænd, det ejer jeg jer, efter at have givet det en opmærksomhed 
+betragtning, jeg er klart af den opfattelse, at det er din interesse at vedtage det. Jeg er overbevist om, at dette er det sikreste kursus 
+for din frihed, din værdighed og din lykke. Jeg påvirker ikke reserver, som jeg ikke føler. Jeg vil ikke more dig 
+med et udseende af overvejelse, når jeg har besluttet mig. Jeg anerkender ærligt over for dig min overbevisning, og jeg 
+vil frit forelægge dig de grunde, som de er baseret på. Bevidstheden om gode intentioner foragter 
+tvetydighed. Jeg vil dog ikke mangfoldiggøre erhverv på dette hoved. Mine motiver skal forblive i depotet for 
+mit eget bryst. Mine argumenter vil være åbne for alle og kan bedømmes af alle. De skal som minimum tilbydes i en 
+ånd, som ikke vil vanære sandhedens sag. 
+Jeg foreslår i en række artikler at diskutere følgende interessante detaljer: 
+UNIONENS NYTTE TIL DIN POLITISKE VELSTAND Utilstrækkeligheden af 
+NUVÆRENDE KONFEDERATION FOR AT BEVARE DEN UNION NØDVENDIGEN AF EN REGERING KL. 
+MINDST LIGE ENERGISK SOM DEN FORESLÅEDE TIL OPNÅELSE AF DETTE FORMÅL 
+OVERENSSTEMMELSEN AF DEN FORESLÅEDE FORfatning MED DE SANDE PRINCIPPER FOR 
+DEN REPUBLIKANSKE REGERING DENS ANALOGI TIL DIN EGEN STATSFORSLAG og endelig 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+6/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+YDERLIGERE SIKKERHED, SOM DENS ADOPTION VIL TILBYDE TIL OPBEVARING AF DEN 
+REGERINGSARTER, TIL FRIHED OG TIL EJENDOM. 
+Under forløbet af denne diskussion vil jeg bestræbe mig på at give et tilfredsstillende svar på alle de indvendinger, som 
+skal have dukket op, hvilket kan synes at have krav på din opmærksomhed. Det kan måske anses for overflødigt at fremføre argumenter for at bevise UNION's nytte, et punkt, uden tvivl, 
+dybt indgraveret i hjerterne af den store krop af folket i hver stat, og en, som man kan forestille sig, 
+har ingen modstandere. Men faktum er, at vi allerede hører det hviskes i de private kredse af dem, der er imod 
+den nye forfatning, at de tretten stater er af for stor udstrækning til noget generelt system, og at vi skal af 
+nødvendigheden ty til separate konføderationer af adskilte dele af helheden.(1) Denne doktrin vil i alt 
+sandsynlighed, gradvist udbredes, indtil den har tilhængere nok til at tåle en åben erkendelse af den. For ingenting 
+kan være mere indlysende for dem, der er i stand til at anlægge et udvidet syn på emnet, end alternativet med en 
+vedtagelse af den nye forfatning eller en opsplitning af Unionen. Det vil derfor være nyttigt til at begynde med 
+at undersøge fordelene ved denne union, de visse onder og de sandsynlige farer, som enhver stat vil være udsat for 
+udsat for sin opløsning. Dette vil derfor udgøre emnet for min næste adresse. 
+PUBLIUS 
+1. Den samme idé, der sporer argumenterne til deres konsekvenser, er fremført i flere af de sene publikationer 
+imod den nye grundlov. 
+ 
+FEDERALIST nr. 2. Vedrørende Farer fra 
+Fremmed magt og indflydelse 
+For Independent Journal. Onsdag den 31. oktober 1787 
+JAY 
+Til folket i staten New York: 
+NÅR befolkningen i Amerika reflekterer over, at de nu er opfordret til at afgøre et spørgsmål, som i sin 
+konsekvenser, skal vise sig at være en af de vigtigste, der nogensinde har fanget deres opmærksomhed, deres anstændighed 
+at tage et meget omfattende, såvel som et meget seriøst syn på det, vil være tydeligt. 
+Intet er mere sikkert end regeringens uundværlige nødvendighed, og det er lige så ubestrideligt, at 
+når og hvordan den er indstiftet, skal folket afstå nogle af deres naturlige rettigheder til den for at overdrage den 
+med de nødvendige beføjelser. Det er derfor værd at overveje, om det ville bidrage mere til interessen 
+af det amerikanske folk, at de til alle generelle formål skulle være én nation, under én føderal regering, 
+eller at de skulde dele sig i adskilte Forbund og give til Hovedet for hver den samme Slags 
+beføjelser, som de rådes til at placere i én national regering. 
+Det har indtil på det seneste været en modtaget og umodsagt opfattelse, at det amerikanske folks velstand 
+afhænge af deres fortsatte faste forening og vores bedste og klogeste borgeres ønsker, bønner og indsats 
+har konstant været rettet mod det objekt. Men der dukker nu politikere op, som insisterer på, at denne opfattelse er fejlagtig, 
+og at i stedet for at søge tryghed og lykke i foreningen, burde vi søge det i en opdeling af staterne i 
+særskilte konføderationer eller suveræniteter. Hvor usædvanlig denne nye doktrin end kan forekomme, har den ikke desto mindre gjort det 
+dets fortalere; og visse karakterer, der tidligere var meget imod det, er i øjeblikket af antallet. 
+Uanset hvilke argumenter eller tilskyndelser, der har bevirket denne ændring i følelserne og 
+erklæringer fra disse herrer, ville det bestemt ikke være klogt i befolkningen som helhed at vedtage disse nye politiske 
+principper uden at være helt overbevist om, at de er baseret på sandhed og sund politik. 
+Det har ofte givet mig en fornøjelse at observere, at det uafhængige Amerika ikke var sammensat af løsrevet og fjernt 
+territorier, men det ene forbundet, frugtbare, vidt udbredte land var den del af vores vestlige frihedssønner. 
+Forsynet har på en særlig måde velsignet det med en række forskellige jordarter og produktioner og vandet det med 
+utallige vandløb, til glæde og indkvartering for dets indbyggere. En række af sejlbare farvande 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+7/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+danner en Slags Kæde om sine Kanter, som for at binde den sammen; mens de mest ædle floder i verden løber 
+på bekvem afstand, præsentere dem med motorveje for nem kommunikation af venlige hjælpemidler, og det gensidige 
+transport og udveksling af deres forskellige varer. Med lige så stor fornøjelse har jeg så ofte lagt mærke til, at Providence har været glad for at give denne forbindelse 
+land til ét forenet folk - et folk, der stammer fra de samme forfædre, taler det samme sprog, 
+bekender sig til den samme religion, knyttet til de samme regeringsprincipper, meget ens i deres manerer og 
+skikke, og som ved deres fælles råd, våben og indsats kæmper side om side gennem en lang og blodig 
+krig, har ædelt etableret generel frihed og uafhængighed. 
+Dette land og dette folk synes at være skabt for hinanden, og det ser ud som om det var designet af 
+Forsynet, at en arv så passende og bekvem for en gruppe brødre, forenet med hinanden af 
+stærkeste bånd, bør aldrig opdeles i en række usociale, jaloux og fremmede suveræniteter. 
+Lignende følelser har hidtil hersket blandt alle ordener og kirkesamfund blandt os. Til alle 
+generelle formål vi har ensartet været ét folk hver enkelt borger overalt nyder det samme 
+nationale rettigheder, privilegier og beskyttelse. Som nation har vi skabt fred og krig; som en nation vi har 
+besejrede vore fælles fjender; som en nation har vi dannet alliancer og lavet traktater og indgået 
+forskellige aftaler og konventioner med fremmede stater. 
+En stærk følelse af værdien og velsignelserne ved forening fik folket på en meget tidlig periode til at indstifte en 
+føderale regering for at bevare og forevige det. De dannede det næsten lige så snart de havde en politisk tilværelse; 
+nej, på et tidspunkt, hvor deres boliger stod i flammer, hvor mange af deres borgere blødte, og da 
+fremskridt af fjendtlighed og ødelighed efterlod lidt plads til de rolige og modne forespørgsler og overvejelser, som 
+nogensinde skal gå forud for dannelsen af en klog og velafbalanceret regering for et frit folk. Det skal ikke være 
+undrede sig over, at en regering indstiftet i tider så uheldige, skulle på eksperiment i høj grad findes 
+mangelfuld og utilstrækkelig til det formål, den skulle besvare. 
+Dette intelligente folk opfattede og beklagede disse skavanker. Fortsætter stadig ikke mindre knyttet til fagforening end 
+forelskede i frihed iagttog de den fare, som straks truede den tidligere og mere fjerntliggende 
+sidstnævnte; og blive overbevist om, at rigelig sikkerhed for begge kun kunne findes i en national regering mere 
+klogt udformet indkaldte de som med én stemme til det sene stævne i Philadelphia for at tage det vigtige 
+emne under overvejelse. 
+Denne konvention bestod af mænd, der havde folkets tillid, og mange af dem havde 
+blive meget kendetegnet ved deres patriotisme, dyd og visdom i tider, som prøvede sind og hjerter hos 
+mænd, påtog sig den besværlige opgave. I den milde tid af fred, med sind ubesat af andre emner, de 
+gik mange måneder i kølig, uafbrudt og daglig konsultation; og til sidst uden at have været beæret over 
+magt, eller påvirket af enhver lidenskab undtagen kærlighed til deres land, præsenterede og anbefalede de 
+mennesker planen udarbejdet af deres fælles og meget enstemmige råd. 
+Indrøm, for det er det faktum, at denne plan kun er ANBEFALET, ikke påtvunget, men lad det dog huskes, at 
+det anbefales hverken at BLINDE godkendelse eller at BLINDE afvisning; men til det beroligende og oprigtig 
+hensyn, som fagets størrelse og betydning kræver, og som det bestemt burde 
+modtage. Men dette (som det blev bemærket i det foregående nummer af dette papir) er mere at ønske end forventet, 
+at det kan betragtes og undersøges således. Erfaring ved en tidligere lejlighed lærer os ikke at være for glade i 
+sådanne håb. Det er endnu ikke glemt, at velbegrundede frygt for overhængende fare fremkaldte befolkningen i 
+Amerika til at danne den mindeværdige kongres i 1774. Det organ anbefalede visse foranstaltninger til deres 
+bestanddele, og begivenheden beviste deres visdom; men det er frisk i vores erindring, hvor hurtigt pressen begyndte at gøre det 
+vrimler med pjecer og ugeaviser mod netop de foranstaltninger. Ikke kun mange af betjentene i 
+regering, som adlød dikteret af personlige interesser, men andre, ud fra et fejlagtigt skøn over konsekvenserne, 
+eller den uberettigede indflydelse fra tidligere tilknytninger, eller hvis ambitioner sigtede mod genstande, som ikke svarede til 
+det offentlige gode, var utrættelige i deres bestræbelser på at overtale folket til at afvise rådene fra den patriotiske 
+Kongressen. Mange blev rigtignok bedraget og vildledt, men det store flertal af folket ræsonnerede og besluttede 
+velovervejet; og glade for, at de reflekterer over, at de gjorde det. 
+De mente, at kongressen var sammensat af mange kloge og erfarne mænd. Det, bliver indkaldt 
+fra forskellige dele af landet tog de med sig og meddelte hinanden en række nyttige 
+oplysninger. Det, i løbet af tiden, gik de sammen i at spørge ind til og diskutere det sande 
+deres lands interesser, må de have opnået meget nøjagtig viden på det hoved. Det var de 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+8/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+individuelt interesseret i den offentlige frihed og velstand, og derfor at det ikke var mindre deres tilbøjelighed end 
+deres pligt til kun at anbefale sådanne forholdsregler, som de efter den mest modne overvejelse virkelig mente forsigtige 
+og tilrådeligt. 
+Disse og lignende overvejelser fik folk til at stole meget på dømmekraften og integriteten af 
+Kongressen; og de tog deres råd, uagtet de forskellige kunster og bestræbelser, der blev brugt for at afskrække dem fra det. 
+Men hvis folket generelt havde grund til at betro sig til mændene fra den kongres, hvoraf få var blevet fuldstændig prøvet eller 
+almindelig kendt, endnu større grund har de nu til at respektere konventionens dom og råd, for det 
+er velkendt, at nogle af de mest fremtrædende medlemmer af den kongres, som siden er blevet prøvet og 
+med rette godkendt for patriotisme og evner, og som er blevet gamle til at tilegne sig politisk information, blev også 
+medlemmer af denne konvention, og medbragte deres akkumulerede viden og erfaring. 
+Det er værd at bemærke, at ikke kun den første, men hver efterfølgende kongres, såvel som det sene konvent, 
+har uvægerligt sluttet sig til folket og troet, at Amerikas velstand afhang af dets union. Til 
+bevare og forevige det var folkets store formål med at danne den konvention, og det er også den store 
+genstand for den plan, som konventionen har rådet dem til at vedtage. Med hvilken ordentlighed, altså, eller til hvad 
+gode formål, er forsøg på denne særlige periode gjort af nogle mænd til at afskrive betydningen af 
+Union? Eller hvorfor foreslås det, at tre eller fire konføderationer ville være bedre end én? Jeg er overbevist i min 
+eget sind, at folket altid har tænkt rigtigt om dette emne, og at deres universelle og ensartede 
+tilknytningen til Unionens sag hviler på store og vægtige grunde, som jeg vil bestræbe mig på at udvikle og 
+forklare i nogle efterfølgende papirer. De, der fremmer ideen om at erstatte en række forskellige konføderationer i 
+rummet i konventets plan, synes klart at forudse, at afvisningen af den ville føre til fortsættelse 
+Unionen i den største fare. Det ville helt sikkert være tilfældet, og jeg ønsker oprigtigt, at det kan være sådan 
+klart forudset af enhver god borger, at når Unionens opløsning kommer, vil Amerika have 
+grund til at udbryde med digterens ord: "FARVEL! ET LANGT FARVEL TIL AL MIN STORHED." 
+PUBLIUS 
+ 
+FEDERALIST nr. 3. Samme emne 
+Fortsat (vedrørende farer fra udlandet 
+Kraft og indflydelse) 
+For Independent Journal. Lørdag den 3. november 1787 
+JAY 
+Til folket i staten New York: 
+DET ER ikke en ny observation, at befolkningen i noget land (hvis, ligesom amerikanerne, intelligente og 
+velinformeret) adopterer sjældent og holder fast i mange år i en fejlagtig mening med respekt for deres 
+interesser. Den betragtning har naturligvis en tendens til at skabe stor respekt for den høje mening, som befolkningen af 
+Amerika har så længe og ensartet underholdt vigtigheden af, at de fortsat er fast forenet under én 
+føderale regering, tildelt tilstrækkelige beføjelser til alle generelle og nationale formål. 
+Jo mere opmærksomt jeg overvejer og undersøger de grunde, der synes at have affødt denne mening, 
+jo mere bliver jeg overbevist om, at de er overbevisende og afgørende. 
+Blandt de mange genstande, som et klogt og frit folk finder det nødvendigt at rette deres opmærksomhed mod, den af 
+at sørge for deres SIKKERHED synes at være den første. Folkets SIKKERHED har uden tvivl forbindelse til en stor 
+forskellige omstændigheder og overvejelser, og giver derfor stor spillerum til dem, der ønsker at definere 
+det præcist og omfattende. 
+På nuværende tidspunkt mener jeg kun at overveje det, da det respekterer sikkerhed for bevarelse af fred og ro, som 
+såvel som mod farer fra UDENLANDSKE VÅBEN OG PÅVIRKNING, som fra farer af LIGNENDE ART, der opstår 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+9/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+af hjemlige årsager. Da førstnævnte af disse kommer først i rækkefølgen, er det rigtigt, at det skal diskuteres først. Lad 
+vi går derfor i gang med at undersøge, om folket ikke har ret i deres mening om, at en hjertelig Union, under en 
+effektiv national regering, giver dem den bedste sikkerhed, der kan udtænkes mod FJENDIGHEDER fra 
+i udlandet. 
+Antallet af krige, der er sket eller vil ske i verden, vil altid blive fundet at være med 
+forhold til antallet og vægten af årsagerne, hvad enten de er RIGTIGE eller FORETENDE, som PROVOCERER eller 
+INVITER dem. Hvis denne bemærkning er retfærdig, bliver det nyttigt at spørge, om der er sandsynlighed for så mange RETTIGE årsager til krig 
+skal gives af FORENEDE AMERIKA som af UFORENEDE Amerika; for hvis det skulle vise sig, at United America 
+vil nok give færrest, så vil det følge, at Unionen i denne henseende er mest tilbøjelig til at bevare folket 
+i en tilstand af fred med andre nationer. 
+De RETTIGE årsager til krig opstår for det meste enten fra traktatbrud eller direkte vold. 
+Amerika har allerede indgået traktater med ikke mindre end seks fremmede nationer, og alle, undtagen Preussen, er 
+maritime, og derfor i stand til at genere og såre os. Hun har også omfattende handel med Portugal, Spanien og 
+Storbritannien, og med hensyn til de to sidstnævnte, har derudover forholdene i nabolaget at tage sig af. 
+Det er af stor betydning for freden i Amerika, at hun overholder nationernes love over for alle disse magter, 
+og for mig forekommer det indlysende, at dette vil blive gjort mere perfekt og punktligt af én national regering 
+end det kunne være enten af tretten separate stater eller af tre eller fire forskellige konføderationer. 
+For når først en effektiv national regering er etableret, vil de bedste mænd i landet ikke kun 
+samtykke til at tjene, men vil generelt også blive udpeget til at administrere det; for, skønt by eller land, eller andet 
+kontraheret indflydelse, kan placere mænd i statsforsamlinger, eller senater, eller domstole eller udøvende magt 
+afdelinger, endnu mere generelt og omfattende omdømme for talenter og andre kvalifikationer vil være nødvendigt at 
+anbefale mænd til embeder under den nationale regering, - især da den vil have det bredeste valgområde, 
+og aldrig opleve den mangel på ordentlige personer, som ikke er ualmindeligt i nogle af staterne. Derfor vil det 
+resultat, at administrationen, de politiske rådgivere og den nationale regerings retslige afgørelser vil blive 
+mere klog, systematisk og velovervejet end individuelle staters og dermed mere tilfredsstillende med 
+respekt for andre nationer, samt mere SIKKER med respekt for os. 
+Fordi, under den nationale regering, vil traktater og traktater, såvel som nationernes love 
+altid forklares i én forstand og udføres på samme måde, mens domme om samme 
+punkter og spørgsmål, i tretten stater eller i tre eller fire konføderationer, vil ikke altid stemme overens eller være konsekvente; 
+og det, samt fra de mange forskellige uafhængige domstole og dommere udpeget af forskellige og uafhængige 
+regeringer, fra de forskellige lokale love og interesser, som kan påvirke og påvirke dem. Visdommen af 
+konventionen, ved at henlægge sådanne spørgsmål til jurisdiktionen og dommen af domstole udpeget af og 
+kun ansvarlig over for én national regering, kan ikke roses for meget. 
+Fordi udsigten til nuværende tab eller fordel ofte kan friste det regerende parti i en eller to stater til 
+afvige fra god tro og retfærdighed; men disse fristelser når ikke de andre stater og følgelig 
+have ringe eller ingen indflydelse på den nationale regering, vil fristelsen være frugtesløs, og god tro og 
+retfærdighed bevares. Sagen om fredstraktaten med Storbritannien tilføjer stor vægt til dette ræsonnement. For selv om det regerende parti i en stat skulle være indstillet på at modstå sådanne fristelser, men som sådan 
+fristelser kan, og gør det almindeligvis, skyldes omstændigheder, der er særegne for staten, og kan påvirke en stor 
+antallet af indbyggere, vil regeringspartiet muligvis ikke altid være i stand til, hvis de vil, at forhindre uretfærdigheden 
+mediterede, eller for at straffe aggressorerne. Men den nationale regering, bliver ikke påvirket af de lokale 
+omstændigheder, vil hverken blive foranlediget til selv at begå uret, eller ønsker magt eller lyst til 
+forhindre eller straffe andres begåelse. 
+Hidtil, derfor, som enten tilsigtede eller tilfældige overtrædelser af traktater og nationers love giver JUST 
+årsager til krig, er de mindre at gribe under én generel regering end under flere mindre, og 
+i den henseende går førstnævnte mest ind for folkets SIKKERHED. 
+Med hensyn til de retfærdige årsager til krig, der udspringer af direkte og ulovlig vold, er det lige så klart for mig 
+at én god national regering giver langt mere sikkerhed mod farer af den slags, end man kan udlede 
+fra ethvert andet kvarter. 
+Fordi sådanne voldshandlinger oftere er forårsaget af en dels lidenskaber og interesser end af helheden; 
+af en eller to stater end i Unionen. Ikke en eneste indisk krig er endnu blevet forårsaget af aggressioner fra 
+nuværende føderale regering, svag som den er; men der er flere tilfælde af indiske fjendtligheder 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+10/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+fremkaldt af individuelle staters uretmæssige adfærd, som enten ude af stand eller villige til at begrænse eller straffe 
+lovovertrædelser, har givet anledning til at slå mange uskyldige indbyggere ihjel. 
+Nabolaget til spanske og britiske territorier, der grænser op til nogle stater og ikke til andre, naturligvis 
+begrænser årsagerne til skænderi mere umiddelbart til grænserne. De grænsestater, hvis nogen, vil være dem 
+som, under impuls af pludselig irritation og en hurtig følelse af tilsyneladende interesse eller skade, højst sandsynligt, 
+ved direkte vold at opildne krig med disse nationer; og intet kan så effektivt undgå den fare som en 
+national regering, hvis visdom og forsigtighed ikke vil blive formindsket af de lidenskaber, der udløser 
+parter umiddelbart interesserede. 
+Men ikke kun færre retfærdige årsager til krig vil blive givet af den nationale regering, men det vil også være mere inde 
+deres magt til at imødekomme og afgøre dem i mindelighed. De vil være mere tempererede og seje, og i det 
+respekt, såvel som i andre, vil være mere i stand til at handle med råd end den krænkende stat. Stoltheden af 
+stater, såvel som af mennesker, disponerer dem naturligvis til at retfærdiggøre alle deres handlinger og modsætter sig deres anerkendelse, 
+korrigere eller reparere deres fejl og forseelser. Den nationale regering vil i sådanne tilfælde ikke blive berørt af 
+denne stolthed, men vil fortsætte med mådehold og ærlighed for at overveje og beslutte, hvilke midler der er mest passende 
+frigøre dem fra de vanskeligheder, der truer dem. 
+Desuden er det velkendt, at anerkendelser, forklaringer og kompensationer ofte accepteres som 
+tilfredsstillende fra en stærk forenet nation, som ville blive afvist som utilfredsstillende, hvis den blev tilbudt af en stat eller 
+konføderation af ringe hensynsfuldhed eller magt. 
+I år 1685 forsøgte staten Genova, efter at have fornærmet Ludvig XIV., at formilde ham. Han forlangte 
+at de skulle sende deres Doge, eller overdommer, ledsaget af fire af deres senatorer, til FRANKRIG for at spørge 
+hans benådning og modtage hans vilkår. De var forpligtet til at underkaste sig det for fredens skyld. Ville han på nogen 
+lejlighed enten har krævet eller modtaget lignende ydmygelse fra Spanien eller Storbritannien eller enhver anden 
+MÆGTIG nation? 
+PUBLIUS 
+ 
+FEDERALIST nr. 4. Samme emne 
+Fortsat (vedrørende farer fra udlandet 
+Kraft og indflydelse) 
+For Independent Journal. Onsdag den 7. november 1787 
+JAY 
+Til folket i staten New York: 
+MIT SIDSTE papir tildelte flere grunde til, at folks sikkerhed bedst kunne sikres ved fagforening 
+mod den fare, den kan blive udsat for af RETTIGE årsager til krig givet til andre nationer; og de grunde viser 
+at saadanne Aarsager ikke blot vilde være sjældnere opgivet, men ogsaa lettere vilde rummes, ved en 
+national regering end enten af statsregeringerne eller de foreslåede små konføderationer. Men sikkerheden for det amerikanske folk mod farer fra UDENLANDSKE magt afhænger ikke kun af deres 
+at undlade at give andre nationer retfærdige årsager til krig, men også på deres placering og fortsættelse af sig selv i 
+en sådan situation, at den ikke INVITERER fjendtlighed eller fornærmelse; thi det behøver ikke iagttages, at der forgives som 
+samt retfærdige årsager til krig. 
+Det er for sandt, hvor skændigt det end måtte være for den menneskelige natur, at nationer i almindelighed vil føre krig når som helst 
+de har udsigt til at få noget ved det; nej, absolutte monarker vil ofte føre krig, når deres nationer 
+er ikke at få noget ved det, men til formål og genstande, der kun er personlige, såsom tørst efter militær ære, 
+hævn for personlige fornærmelser, ambitioner eller private aftaler for at hævde eller støtte deres særlige familier eller 
+partisaner. Disse og en række andre motiver, som kun påvirker suverænens sind, fører ham ofte til 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+11/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+engagere sig i krige, der ikke er helliget af retfærdighed eller hans folks stemme og interesser. Men uafhængigt af disse 
+tilskyndelser til krig, som er mere udbredt i absolutte monarkier, men som fortjener vores opmærksomhed, 
+der er andre, som påvirker nationer lige så ofte som konger; og nogle af dem vil ved undersøgelse blive fundet at vokse 
+ud af vores relative situation og omstændigheder. 
+Med Frankrig og med Storbritannien er vi rivaler inden for fiskeriet og kan levere deres markeder billigere, end de kan 
+sig selv, uagtet eventuelle bestræbelser på at forhindre det ved egen dusør eller told på fremmede fisk. 
+Med dem og med de fleste andre europæiske nationer er vi rivaler inden for sejlads og transport; og vi 
+skal bedrage os selv, hvis vi antager, at nogen af dem vil glæde sig over at se det blomstre; for, som vores transporthandel 
+kan ikke øges uden til en vis grad at formindske deres, det er mere deres interesse og vil mere være deres politik, 
+at begrænse end at fremme det. 
+I handelen til Kina og Indien blander vi os med mere end én nation, for så vidt som det sætter os i stand til at deltage i 
+fordele, som de på en måde havde monopoliseret, og da vi derved forsyner os med varer 
+som vi plejede at købe hos dem. 
+Udvidelsen af vores egen handel med vore egne fartøjer kan ikke give fornøjelse for nogen nationer, der besidder 
+territorier på eller i nærheden af dette kontinent, fordi billigheden og fortræffeligheden af vores produktioner, føjet til 
+omstændighederne i nærheden og vore købmænds og navigatørers virksomhed og adresse vil give os en større 
+del i de fordele, som disse territorier giver, end det er i overensstemmelse med deres respektives ønsker eller politik 
+suveræner. 
+Spanien mener, det er bekvemt at lukke Mississippi mod os på den ene side, og Storbritannien udelukker os fra 
+Saint Lawrence på den anden; ej heller vil nogen af dem tillade de andre farvande, som er mellem dem og os 
+blive midlet til gensidigt samkvem og trafik. 
+Ud fra disse og lignende overvejelser, som måske, hvis de er i overensstemmelse med forsigtighed, kan blive mere forstærkede og 
+detaljeret er det let at se, at jalousi og uro gradvist kan glide ind i sind og kabinetter hos 
+andre nationer, og at vi ikke skal forvente, at de skal betragte vores fremgang i forening, i magt og 
+konsekvens til lands og til vands, med et øje af ligegyldighed og ro. 
+Folket i Amerika er klar over, at tilskyndelser til krig kan opstå ud af disse omstændigheder, såvel som 
+fra andre, der ikke er så indlysende i øjeblikket, og det, når som helst sådanne tilskyndelser kan finde passende tid og lejlighed til 
+drift, vil foregive at farve og retfærdiggøre dem ikke mangle. Klogt overvejer de derfor forening og 
+en god national regering som nødvendigt for at sætte og holde dem i SÅDAN SITUATION som i stedet for 
+INVITERER krig, vil have tendens til at undertrykke og modvirke den. Den situation består i den bedst mulige tilstand af 
+forsvar, og nødvendigvis afhænger af regeringen, våben og ressourcer i landet. 
+Da helhedens sikkerhed er helhedens interesse og heller ikke kan sikres uden regering 
+en eller flere eller mange, lad os spørge, om én god regering i forhold til det pågældende objekt ikke er mere 
+kompetent end noget andet givet nummer. Én regering kan samle og benytte sig af de dygtigste mænds talenter og erfaring, uanset hvilken del af det 
+den forening, de måtte blive fundet. Det kan bevæge sig på ensartede principper for politik. Det kan harmonisere, assimilere og 
+beskytte de forskellige dele og medlemmer, og udvide fordelene ved dens fremsyn og forholdsregler til hver. I den 
+dannelse af traktater, vil den betragte helhedens interesser og delenes særlige interesser som forbundne 
+med det hele. Den kan anvende helhedens ressourcer og magt til at forsvare en bestemt del, 
+og det lettere og hurtigere end statslige regeringer eller separate konføderationer overhovedet kan gøre, for 
+mangel på koncert og systemens enhed. Det kan placere militsen under én plan for disciplin, og ved at sætte deres 
+officerer i en ordentlig underordnet linje til overmagistraten vil så at sige konsolidere dem til én 
+korps og derved gøre dem mere effektive, end hvis de blev opdelt i tretten eller i tre eller fire forskellige 
+uafhængige virksomheder. 
+Hvad ville Storbritanniens milits være, hvis den engelske milits adlød Englands regering, hvis skotterne 
+militsen adlød Skotlands regering, og hvis den walisiske milits adlød Wales' regering? Antag 
+en invasion; ville disse tre regeringer (hvis de overhovedet var enige) være i stand til det med alle deres respektive styrker 
+operere mod fjenden så effektivt, som Storbritanniens eneste regering ville? 
+Vi har hørt meget om Storbritanniens flåder, og tiden kan komme, hvis vi er kloge, hvor flåderne af 
+Amerika kan tiltrække opmærksomhed. Men hvis en national regering, ikke havde reguleret sejladsen i Storbritannien så 
+at gøre det til en planteskole for sømænd - hvis ikke én national regering havde fremkaldt alle de nationale midler og 
+materialer til at danne flåder, deres dygtighed og deres torden ville aldrig være blevet fejret. Lad England 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+12/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+have sin navigation og flåde - lad Skotland have sin navigation og flåde - lad Wales have sin navigation og flåde 
+- lad Irland have sin sejlads og flåde - lad de fire af de konstituerende dele af det britiske imperium være under 
+fire uafhængige regeringer, og det er let at opfatte, hvor hurtigt de hver især ville svinde ind til komparative 
+ubetydelighed. 
+Anvend disse fakta på vores egen sag. Forlad Amerika delt i tretten eller, hvis du vil, i tre eller fire 
+uafhængige regeringer – hvilke hære kunne de rejse og betale – hvilke flåder kunne de nogensinde håbe på at få? Hvis 
+en blev angrebet, ville de andre flyve til dens hjælp og bruge deres blod og penge til dens forsvar? Ville der 
+være ingen fare for, at de bliver smigret til neutralitet af dens sarte løfter eller forført af en for stor forkærlighed 
+for at freden svigter, der bringer deres ro og nuværende sikkerhed i fare for naboernes skyld, hvoraf evt. 
+de har været jaloux, og hvis betydning er de tilfredse med at se formindsket? Selvom en sådan adfærd ville 
+ikke være klogt, det ville ikke desto mindre være naturligt. Historien om staterne i Grækenland og andre lande, 
+bugner af sådanne tilfælde, og det er ikke usandsynligt, at det, der så ofte er sket, ville under lignende 
+omstændigheder, ske igen. 
+Men indrøm, at de måske er villige til at hjælpe den invaderede stat eller konføderation. Hvordan, hvornår og i hvad 
+skal der ydes hjælp af mænd og penge? Hvem skal kommandere de allierede hære, og fra hvilken af 
+dem skal han modtage sine ordrer? Hvem skal afgøre fredsbetingelserne, og i tilfælde af uenighed hvilken dommer skal 
+vælge mellem dem og tvinge samtykke? Forskellige vanskeligheder og ulemper ville være uadskillelige 
+fra en sådan situation; hvorimod én regering, der våger over de generelle og fælles interesser, og kombinerer 
+og at lede helhedens beføjelser og ressourcer, ville være fri for alle disse pinligheder og fremføre 
+langt mere for folks sikkerhed. 
+Men hvad end vores situation måtte være, om den er fast forenet under én national regering eller splittet i en 
+antallet af konføderationer, det er sikkert, at fremmede nationer vil kende og se det nøjagtigt, som det er; og de vil handle 
+mod os i overensstemmelse hermed. Hvis de ser, at vores nationale regering er effektiv og veladministreret, er vores handel 
+forsigtigt reguleret, vores milits ordentligt organiseret og disciplineret, vores ressourcer og finanser diskret 
+administreres, vores kredit genoprettes, vores folk er frie, tilfredse og forenede, vil de være meget mere indstillet på 
+dyrke vores venskab end fremkalde vores vrede. Hvis de derimod finder os enten fattige på en 
+effektiv regering (hver stat, der gør rigtigt eller forkert, hvad angår dens herskere, kan virke bekvemt), eller opdeles i tre 
+eller fire uafhængige og sandsynligvis uenige republikker eller konføderationer, en tilbøjelig til Storbritannien, en anden til 
+Frankrig, og en tredjedel til Spanien, og måske spillede de tre ud mod hinanden, hvilken stakkels, ynkelig figur 
+vil Amerika gøre i deres øjne! Hvor ansvarlig ville hun ikke kun blive over for deres foragt, men for deres forargelse, 
+og hvor hurtigt ville dyrekøbte erfaringer forkynde, at når et folk eller en familie deler sig sådan, svigter det aldrig 
+mod dem selv. 
+PUBLIUS 
+ 
+FEDERALIST nr. 5. Samme emne 
+Fortsat (vedrørende farer fra udlandet 
+Kraft og indflydelse) 
+For Independent Journal. Lørdag den 10. november 1787 
+JAY 
+Til folket i staten New York: 
+DRONNING ANNE fremsætter i sit brev af 1. juli 1706 til det skotske parlament nogle bemærkninger vedr. 
+betydningen af den UNION, der så dannes mellem England og Skotland, som fortjener vores opmærksomhed. jeg skal 
+præsentere offentligheden for et eller to uddrag deraf: "En hel og perfekt forening vil være det solide grundlag for 
+varig fred: Det vil sikre din religion, frihed og ejendom; fjern fjendskaberne indbyrdes, og 
+jalousien og forskellene mellem vores to kongeriger. Det skal øge din styrke, rigdom og handel; og af 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+13/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+denne forening vil hele øen, der er forenet i hengivenhed og fri for enhver bekymring af forskellig interesse, være 
+AKTIVERET TIL AT MODSTÅ ALLE SINE FJENDER." "Vi anbefaler på det kraftigste ro og enstemmighed 
+i denne store og vægtige affære, at foreningen kan bringes til en lykkelig afslutning, idet den er den eneste 
+EFFEKTUEL måde at sikre vores nuværende og fremtidige lykke på og skuffe vores og dine designs 
+fjender, som utvivlsomt ved denne lejlighed vil BRUGE DERES STØRSTE BEstræbelser på at FORhindre ELLER 
+FORSINK DENNE UNION." 
+Det blev bemærket i det foregående blad, at svaghed og splittelse hjemme ville indbyde til farer fra 
+i udlandet; og at intet ville være mere tilbøjeligt til at sikre os fra dem end forening, styrke og god regering 
+i os selv. Dette emne er rigeligt og kan ikke let udtømmes. 
+Storbritanniens historie er den, vi generelt kender bedst til, og den giver os mange 
+nyttige lektioner. Vi kan drage fordel af deres erfaring uden at betale den pris, det kostede dem. Selvom det ser ud til 
+indlysende for almindelig sund fornuft, at befolkningen på en sådan ø kun skulle være én nation, men alligevel finder vi ud af, at de var det 
+i aldre opdelt i tre, og at de tre næsten konstant var involveret i skænderier og krige med en 
+en anden. På trods af deres sande interesse med hensyn til de kontinentale nationer var virkelig den samme, men af 
+disse nationers kunst og politik og praksis, blev deres gensidige jalousi konstant optændt, og i en 
+lange årrækker var de langt mere ubelejlige og besværlige, end de var nyttige og hjælpende for hver enkelt 
+andet. 
+Skulle folket i Amerika dele sig selv i tre eller fire nationer, ville det samme ikke ske? 
+Ville ikke lignende jalousier opstå og blive værdsat på samme måde? I stedet for at de bliver "forenet i kærlighed" 
+og fri for enhver frygt for forskellige "interesser" ville misundelse og jalousi snart slukke selvtillid og 
+hengivenhed, og de enkelte konføderationers partielle interesser, i stedet for hele Amerikas generelle interesser, ville være 
+de eneste formål med deres politik og forfølgelser. Derfor ville de, ligesom de fleste andre GRÆNENDE nationer, altid 
+enten være involveret i stridigheder og krig, eller leve i den konstante frygt for dem. De mest syndige fortalere for tre eller fire konføderationer kan ikke med rimelighed antage, at de ville længes 
+forblive nøjagtig på lige fod i styrkepunkt, selv om det var muligt at danne dem i begyndelsen; men, 
+indrømmer, at det er praktisk muligt, men hvilken menneskelig opfindsomhed kan sikre fortsættelsen af en sådan lighed? 
+Uafhængigt af de lokale forhold, som har tendens til at skabe og øge magten i én del og hindre dens 
+fremskridt i en anden, må vi gøre opmærksom på virkningerne af den overlegne politik og gode ledelse, som ville 
+formentlig udskille regeringen af en over resten, og hvorved deres relative lighed i styrke og 
+vederlaget ville blive ødelagt. For det kan ikke antages, at samme grad af sund politik, forsigtighed, 
+og fremsyn ville ensartet blive observeret af hvert af disse konføderationer i en lang række af år. 
+Når som helst og af hvilken som helst årsag, kunne det ske, og det ville ske, at enhver af disse nationer eller 
+konføderationer bør hæve sig på skalaen af politisk betydning langt over graden af hendes naboer, det 
+Øjeblik ville disse naboer se hende med misundelse og med frygt. Begge disse lidenskaber ville føre dem til 
+ansigt, om ikke for at fremme, hvad der kunne love at mindske hendes betydning; og ville også beherske 
+dem fra foranstaltninger beregnet til at fremme eller endda sikre hendes velstand. Meget tid ville ikke være nødvendig 
+for at sætte hende i stand til at skelne disse uvenlige dispositioner. Hun ville snart begynde, ikke kun for at miste tilliden til hende 
+naboer, men også for at føle en indstilling lige så ugunstig for dem. Mistillid skaber naturligvis mistillid, og ved 
+intet er velvilje og venlig opførsel hurtigere ændret end ved grim jalousi og uærlig 
+imputationer, hvad enten de er udtrykte eller underforståede. 
+Norden er generelt styrkeområdet, og mange lokale forhold gør det sandsynligt, at den mest 
+Den nordlige del af de foreslåede konføderationer ville i en periode, der ikke er meget fjern, utvivlsomt være mere formidabel 
+end nogen af de andre. Ikke før ville dette blive tydeligt, før NORTHERN HIVE ville ophidse det samme 
+ideer og sensationer i de mere sydlige dele af Amerika, som det tidligere gjorde i de sydlige dele af Europa. 
+Det ser heller ikke ud til at være en overilet formodning, at dens unge sværme ofte kan blive fristet til at samle honning i 
+mere blomstrende marker og mildere luft af deres luksuriøse og mere sarte naboer. 
+De, der godt overvejer historien om lignende opdelinger og konføderationer, vil finde rigelig grund til det 
+forstå, at de i kontemplation på ingen anden måde ville være naboer, end da de ville være grænser; 
+at de hverken ville elske eller stole på hinanden, men tværtimod ville være et bytte for splid, jalousi og 
+gensidige skader; kort sagt, at de ville placere os præcis i de situationer, som nogle nationer uden tvivl ønsker 
+at se os, nemlig, KUN FORMIDABEL FOR HINANDEN. 
+ 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+14/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+Af disse betragtninger fremgår det, at de herrer tager meget fejl, som antager, at alliancer 
+offensiv og defensiv kunne dannes mellem disse konføderationer, og ville producere den kombination og 
+forening af våbenviljer og ressourcer, som ville være nødvendige for at bringe og holde dem i en formidabel tilstand af 
+forsvar mod fremmede fjender. 
+Hvornår forenede de uafhængige stater, som Storbritannien og Spanien tidligere var opdelt i, i sådanne 
+alliance, eller forene deres styrker mod en fremmed fjende? De foreslåede konføderationer vil være DISTINKT 
+NATIONER. Hver af dem ville have sin handel med udlændinge at regulere ved særskilte traktater; og som deres 
+produktioner og råvarer er forskellige og passende for forskellige markeder, så ville disse traktater også være det 
+væsentligt anderledes. Forskellige kommercielle interesser skal skabe forskellige interesser, og selvfølgelig forskellige 
+grader af politisk tilknytning til og forbindelse med forskellige fremmede nationer. Derfor kan det og sandsynligvis 
+ville ske, at den fremmede nation, som det SYDlige forbund kunne være i krig med, ville være 
+en, med hvem det NORDLIGE forbund ville være det mest ønske om at bevare fred og venskab. En alliance så modsat deres umiddelbare interesse ville derfor ikke være let at danne, og hvis den blev dannet, ville den heller ikke 
+blive observeret og opfyldt med fuldkommen god tro. 
+Nej, det er langt mere sandsynligt, at nabonationer i Amerika, som i Europa, handler under impuls af 
+modsatte interesser og uvenlige lidenskaber, ville ofte blive fundet på at tage forskellige sider. I betragtning af vores 
+afstand fra Europa, ville det være mere naturligt for disse konføderationer at opfatte faren fra hinanden 
+end fra fjerne nationer, og derfor at hver af dem skulle være mere ivrige efter at beskytte sig mod de andre ved at 
+hjælp fra fremmede alliancer, end at gardere sig mod fremmede farer ved indbyrdes alliancer. Og her lad 
+vi glemmer ikke, hvor meget lettere det er at modtage fremmede flåder i vores havne og fremmede hære i vores 
+land, end det er for at overtale eller tvinge dem til at rejse. Hvor mange erobringer foretog romerne og andre 
+i karaktererne af allierede, og hvilke innovationer introducerede de under samme karakter i 
+regeringer af dem, som de foregav at beskytte. 
+Lad oprigtige mænd bedømme, om opdelingen af Amerika i et givet antal uafhængige 
+suveræniteter ville have en tendens til at sikre os mod fjendtligheder og upassende indblanding fra fremmede nationer. 
+PUBLIUS 
+ 
+FEDERALIST nr. 6. Vedrørende Farer fra 
+Uenigheder mellem staterne 
+For Independent Journal. Onsdag den 14. november 1787 
+HAMILTON 
+Til folket i staten New York: 
+DE tre sidste numre af dette papir er blevet dedikeret til en opremsning af de farer, som vi 
+bør være afsløret, i en tilstand af splittelse, fra fremmede nationers våben og kunst. Jeg går nu videre til 
+afgrænse farer af en anden og måske endnu mere alarmerende art - dem, der efter al sandsynlighed vil flyde 
+fra uenigheder mellem staterne selv og fra indenlandske fraktioner og kramper. Disse har været 
+allerede i nogle tilfælde lidt forventet; men de fortjener en mere speciel og mere fuldstændig undersøgelse. 
+En mand må være langt væk i utopiske spekulationer, som alvorligt kan tvivle på det, hvis disse stater skulle være det 
+helt uforenede eller kun forenet i delvise konføderationer, de underafdelinger, som de kan blive kastet ind i 
+ville have hyppige og voldelige konkurrencer med hinanden. At antage, at der mangler motiver for sådanne konkurrencer som en 
+argument mod deres eksistens ville være at glemme, at mænd er ambitiøse, hævngerrige og rovlystne. At kigge 
+for en fortsættelse af harmoni mellem en række uafhængige, uforbundne suveræniteter i samme 
+naboskab, ville være at se bort fra det ensartede forløb af menneskelige begivenheder og at sætte på trods af det akkumulerede 
+oplevelse af aldre. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+15/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+Årsagerne til fjendtlighed blandt nationer er utallige. Der er nogle, der har en generel og næsten 
+konstant drift på samfundets kollektive organer. Af denne beskrivelse er kærligheden til magt eller ønsket om 
+overlegenhed og herredømme - magtens jalousi eller ønsket om lighed og sikkerhed. Der er andre som 
+har en mere begrænset, men en lige så operativ indflydelse inden for deres sfærer. Sådan er rivalskaberne 
+og handelskonkurrencer mellem kommercielle nationer. Og der er andre, ikke mindre talrige end dem 
+af de førstnævnte, som helt og holdent har deres oprindelse i private lidenskaber; i tilknytninger, fjendskab, interesser, håb, 
+og frygt for at lede individer i de samfund, de er medlemmer af. Mænd af denne klasse, uanset om 
+favoritter af en konge eller et folk, har i alt for mange tilfælde misbrugt den tillid, de havde; og 
+under påskud af et eller andet offentligt motiv, ikke har skrumpet for at ofre den nationale ro til personlig 
+fordel eller personlig tilfredsstillelse. 
+Den berømte Perikles, i overensstemmelse med en prostituerets vrede,(1) på bekostning af en stor del af 
+hans landsmænds blod og skatte, angreb, besejrede og ødelagde SAMMIANSKE by. Den 
+samme mand, stimuleret af privat pique mod MEGARENSIANSE,(2) en anden nation i Grækenland, eller for at undgå en 
+retsforfølgelse, som han blev truet med som medskyldig til et formodet tyveri af statuen Phidias,(3) eller til 
+slippe af med de beskyldninger, der er rede til at blive rejst mod ham for at have bortskaffet statens midler i købet 
+af popularitet(4) eller af en kombination af alle disse årsager, var den primitive forfatter til den berømte og fatale krig, 
+udmærket i de græske annaler ved navnet på den PELOPONNESISKE krig; som efter div 
+omskiftelser, pauser og fornyelser, endte i ruinen af det athenske rigsfællesskab. 
+Den ambitiøse kardinal, der var premierminister for Henrik VIII., tillod sin forfængelighed at stræbe efter det tredobbelte 
+krone,(5) nærede håb om at lykkes med erhvervelsen af denne pragtfulde pris ved indflydelse af 
+Kejser Karl V. For at sikre denne driftige og magtfulde monarks gunst og interesse, udfældede han 
+England ind i en krig med Frankrig, i modsætning til de klareste retningslinjer, og med fare for sikkerheden og 
+uafhængighed, såvel af det rige, som han præsiderede ved sine råd, som af Europa i almindelighed. For hvis 
+der har nogensinde været en suveræn, der bød retfærdigt for at realisere projektet om det universelle monarki, det var kejser Karl 
+V., af hvis intriger Wolsey på én gang var instrumentet og duperen. 
+Den indflydelse, som den ene kvindes bigotteri,(6) den andens overmod(7) og den tredjes kabaler(8) havde 
+i den nutidige politik er gæringer og pacificeringer i en betydelig del af Europa emner, der har 
+blevet for ofte afskåret til ikke at være almindelig kendt. 
+For at mangfoldiggøre eksempler på, at personlige overvejelser handler i produktionen af store nationale begivenheder, 
+enten udenlandsk eller indenlandsk, efter deres retning, ville være unødvendigt spild af tid. Dem der har 
+men et overfladisk bekendtskab med de kilder, hvorfra de skal hentes, vil selv erindre en 
+forskellige tilfælde; og de, der har et tåleligt kendskab til den menneskelige natur, vil ikke have behov for en sådan 
+lys til at danne deres mening enten om virkeligheden eller omfanget af det pågældende agentur. Måske dog en reference, tendens 
+for at illustrere det almindelige princip, kan med ordentlighed gøres til en sag, som på det seneste er sket blandt 
+os selv. Hvis Shays ikke havde været en DESPERT DEBTOR, er det meget at tvivle på, om Massachusetts 
+ville være kastet ud i en borgerkrig. 
+Men til trods for det samtidige vidnesbyrd om erfaring, er der stadig at finde i dette 
+visionære eller designende mænd, der står klar til at fortalere paradokset med evig fred mellem staterne, 
+selvom de er parteret og fremmedgjort fra hinanden. Genialiteten ved republikker (sige de) er fredelig; ånden af 
+handel har en tendens til at blødgøre menneskers manerer og til at slukke de brændbare humorer, som 
+er så ofte optændt i krige. Kommercielle republikker, som vores, vil aldrig blive udsat for at spilde sig selv i 
+ødelæggende stridigheder med hinanden. De vil være styret af gensidig interesse, og vil dyrke en ånd af 
+gensidig venskab og enighed. Er det ikke (vi kan spørge disse projektorer i politik) alle nationers sande interesse at dyrke det samme 
+velvillig og filosofisk ånd? Hvis dette er deres sande interesse, har de så rent faktisk forfulgt den? Har det ikke, på 
+tværtimod uvægerligt fundet, at øjeblikkelige lidenskaber, og umiddelbar interesse, har en mere aktiv og 
+magtfuld kontrol over menneskelig adfærd end generelle eller fjerne hensyn til politik, nytte eller retfærdighed? Har 
+republikker i praksis været mindre afhængige af krig end monarkier? Er ikke førstnævnte administreret af MEN som 
+samt sidstnævnte? Er der ikke aversioner, forkærligheder, rivaliseringer og ønsker om uretfærdige erhvervelser, der påvirker 
+nationer såvel som konger? Er folkeforsamlinger ikke ofte udsat for impulser af raseri, vrede, 
+jalousi, griskhed og andre uregelmæssige og voldelige tilbøjeligheder? Er det ikke velkendt, at deres beslutninger 
+er ofte styret af nogle få individer, som de har tillid til, og er naturligvis tilbøjelige til at blive tinktur 
+af disse individers lidenskaber og synspunkter? Har handel hidtil gjort andet end at ændre 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+16/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+krigsgenstande? Er kærligheden til rigdom ikke lige så dominerende og foretagsom en lidenskab som magten eller herligheden? 
+Har der ikke været så mange krige baseret på kommercielle motiver, siden det er blevet den fremherskende 
+system af nationer, som før var forårsaget af territoriets eller herredømmet? Har ikke ånden af 
+handel, i mange tilfælde, givet nye incitamenter til appetitten, både for den ene og for den anden? 
+Lad erfaring, den mindst fejlbarlige vejleder for menneskelige meninger, appellere til for et svar på disse henvendelser. 
+Sparta, Athen, Rom og Kartago var alle republikker; to af dem, Athen og Kartago, af den kommercielle 
+venlig. Alligevel var de lige så ofte involveret i krige, offensive og defensive, som nabomonarkier 
+samme tider. Sparta var lidt bedre end en velreguleret lejr; og Rom blev aldrig mæt af blodbad og 
+erobring. 
+Kartago, selv om det var en kommerciel republik, var aggressoren i selve den krig, der endte med hendes ødelæggelse. 
+Hannibal havde båret sine arme ind i hjertet af Italien og til Roms porte, før Scipio til gengæld gav ham 
+en omstyrtning i Karthagos områder og foretog en erobring af rigsfællesskabet. 
+Venedig var i senere tider mere end én gang i ambitionskrige, indtil det blev en genstand for den anden italiener 
+oplyser, pave Julius II. fundet midler til at opnå den formidable liga,(9), som gav et dødbringende slag for 
+magt og stolthed af denne hovmodige republik. 
+Hollands provinser, indtil de blev overvældet af gæld og skatter, tog en ledende og iøjnefaldende rolle 
+i Europas krige. De havde rasende kampe med England om havets herredømme og var blandt de 
+mest udholdende og mest uforsonlige af Ludvig XIVs modstandere. 
+I Storbritanniens regering udgør repræsentanterne for folket én gren af ​​den nationale lovgiver. 
+Handel har i evigheder været landets fremherskende stræben. Ikke desto mindre har få nationer været flere 
+ofte engageret i krig; og de krige, som dette rige har været involveret i, har i adskillige tilfælde, 
+udgik fra folket. 
+Der har været, om jeg så må udtrykke det, næsten lige så mange populære som kongelige krige. Nationens og de 
+deres repræsentanters betydning har ved forskellige lejligheder trukket deres monarker ind i krig, eller 
+fortsatte dem i den, i modstrid med deres tilbøjeligheder, og nogle gange i modstrid med statens virkelige interesser. I 
+den mindeværdige kamp for overlegenhed mellem de rivaliserende huse i ØSTRIG og BOURBON, som så længe 
+holdt Europa i en flamme, er det velkendt, at englændernes antipatier mod franskmændene, udstationering af 
+ambition, eller rettere en yndlingsleders grådighed,(10) forlængede krigen ud over de grænser, der var angivet af 
+forsvarlig politik og i længere tid i modsætning til rettens synspunkter. Disse to sidstnævnte nationers krige er i høj grad vokset ud af kommerciel 
+overvejelser,-lysten om at fortrænge og frygten for at blive fortrængt, enten i særlige grene af 
+trafik eller i de generelle fordele ved handel og navigation, og nogle gange endda de mere skyldige ønske om 
+deltagelse i andre nationers handel uden deres samtykke. 
+Den sidste krig men mellem Storbritannien og Spanien udsprang af de britiske købmænds forsøg på at retsforfølge en 
+ulovlig handel med den spanske main. Disse uberettigede praksisser fra deres side frembragte alvorlighed fra deres side 
+Spaniere over for Storbritanniens undersåtter, som ikke var mere berettigede, fordi de oversteg 
+grænser for en retfærdig gengældelse og blev anklaget for umenneskelighed og grusomhed. Mange af englænderne, der var 
+taget på den spanske kyst blev sendt for at grave i Potosi's miner; og ved den sædvanlige fremgang af en ånd af 
+vrede blev de uskyldige efter et stykke tid forvekslet med de skyldige i vilkårlig straf. Den 
+købmændenes klager antændte en voldsom flamme i hele nationen, som kort efter brød ud i 
+Underhuset, og blev meddelt fra dette organ til ministeriet. Repressalier blev bevilget, og 
+en krig fulgte, som i sine konsekvenser væltede alle de alliancer, der kun tyve år før var blevet dannet 
+med klare forventninger til de mest gavnlige frugter. 
+Fra denne opsummering af, hvad der er sket i andre lande, hvis situationer har båret det nærmeste 
+lighed med vores egen, hvilken grund kan vi have til at betro os til de drømmerier, som ville forføre os til en 
+forventning om fred og hjertelighed mellem medlemmerne af den nuværende konføderation, i en tilstand af adskillelse? 
+Har vi ikke allerede set nok af fejlslutningen og ekstravagancen af de tomme teorier, som har moret os 
+med løfter om en fritagelse fra de ufuldkommenheder, svagheder og ondskaber, der hændes med samfundet i enhver form? 
+Er det ikke på tide at vågne op fra den løgnagtige drøm om en guldalder og at adoptere som en praktisk maksime for 
+retning af vores politiske adfærd, at vi, såvel som de andre indbyggere på kloden, endnu er fjernt fra 
+lykkeligt imperium af fuldkommen visdom og fuldkommen dyd? 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+17/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+Lad punktet af ekstrem depression, som vores nationale værdighed og kredit er sunket til, lad besværlighederne 
+følte overalt fra en slap og dårlig administration af regeringen, lad oprøret af en del af staten North 
+Carolina, de sene truende uroligheder i Pennsylvania, og de faktiske opstande og oprør i 
+Massachusetts, erklær –! 
+Så langt er den generelle følelse af menneskeheden fra at svare til læresætningerne hos dem, der bestræber sig på at falde i søvn 
+vores frygt for uenighed og fjendtlighed mellem staterne, i tilfælde af splittelse, som den har længe 
+observation af samfundets fremskridt bliver en slags aksiom i politik, at nærhed eller nærhed af situation, 
+udgør nationens naturlige fjender. En intelligent forfatter udtrykker sig om dette emne i denne retning: 
+"NABONATIONER (siger han) er naturligvis hinandens fjender, medmindre deres fælles svaghed 
+tvinger dem til at slutte sig til en KONFODERAT REPUBLIK, og deres forfatning forhindrer de forskelle, der 
+lejligheder i nabolaget, slukker den hemmelige jalousi, som får alle stater til at hærde sig selv 
+deres naboers bekostning."(11) Denne passage påpeger samtidig det ONDE og foreslår 
+RETSMIDDEL. 
+PUBLIUS 
+1. Aspasia, se "Plutarks liv af Perikles." 
+2. Ibid. 
+3. Ibid. 
+4. Ibid. Phidias skulle have stjålet noget offentligt guld med Perikles' samråd, for 
+udsmykning af statuen af Minerva. 
+5. Båret af paverne. 
+6. Madame de Maintenon. 
+7. Hertuginde af Marlborough. 
+8. Madame de Pompadour. 
+9. Ligaen af Cambray, der forstår kejseren, kongen af Frankrig, kongen af Aragon og de fleste af 
+de italienske fyrster og stater. 
+10. Hertugen af ​​Marlborough. 
+11. Se "Principes des Negociations" par l'Abbé de Mably. 
+ 
+FEDERALIST nr. 7. Samme emne 
+Fortsættes (vedrørende farer fra 
+Uenigheder mellem staterne) 
+For Independent Journal. Torsdag den 15. november 1787 
+HAMILTON 
+Til folket i staten New York: 
+DET bliver nogle gange spurgt, med en følelse af tilsyneladende triumf, hvilke tilskyndelser staterne kunne have, hvis de er splittede, 
+at føre krig mod hinanden? Det ville være et fuldstændigt svar på dette spørgsmål at sige - præcis de samme tilskyndelser 
+som på forskellige tidspunkter har oversvømmet alle nationer i verden i blod. Men desværre for os 
+spørgsmålet indrømmer et mere specifikt svar. Der er årsager til forskelle inden for vores umiddelbare 
+kontemplation, om hvis tendens vi selv under begrænsninger af en føderal forfatning har haft 
+tilstrækkelig erfaring til at sætte os i stand til at danne os en bedømmelse af, hvad der kunne forventes, hvis disse begrænsninger var 
+fjernet. 
+Territoriale stridigheder har til alle tider været fundet en af ​​de mest frugtbare kilder til fjendtlighed blandt nationer. 
+Måske er den største del af krige, der har lagt jorden øde, udsprunget fra denne oprindelse. denne årsag 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+18/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+ville eksistere iblandt os i fuld kraft. Vi har et stort område af uafklaret territorium inden for De Forenedes grænser 
+stater. Der er stadig uenige og uafklarede krav mellem flere af dem og opløsningen af Unionen 
+ville lægge et grundlag for lignende krav mellem dem alle. Det er velkendt, at de hidtil har haft 
+seriøs og livlig diskussion om rettighederne til de jorder, som var uberettigede på tidspunktet for den 
+Revolution, og som normalt gik under navnet kronland. Staterne inden for hvis grænser 
+koloniregeringer, de var omfattet af, har gjort krav på dem som deres ejendom, det har de andre hævdet 
+kronens rettigheder i denne artikel tilfalder Unionen; især med hensyn til hele den del af det vestlige 
+territorium, som enten ved faktisk besiddelse eller gennem de indiske ejeres underkastelse var underlagt 
+kongen af Storbritanniens jurisdiktion, indtil den blev opgivet i fredstraktaten. Dette er det blevet sagt, 
+var under alle omstændigheder en erhvervelse til konføderationen ved en pakt med en fremmed magt. Det har været det forsigtige 
+Kongressens politik for at formilde denne kontrovers ved at få staterne til at give afkald på De Forenede 
+stater til gavn for helheden. Dette er indtil videre blevet opnået, som under en fortsættelse af Unionen 
+give en afgjort udsigt til en mindelig afslutning af tvisten. En opdeling af konføderationen, 
+ville dog genoplive denne tvist og ville skabe andre om samme emne. På nuværende tidspunkt er en stor del af 
+ledigt vestligt territorium er, i det mindste ved afståelse, hvis ikke ved nogen fremadrettet ret, Unionens fælles ejendom. Hvis 
+som var til ende, ville de stater, der foretog afståelsen, på et princip om føderalt kompromis, være passende, når 
+motivet for bevillingen var ophørt, at tilbagesøge jordene som et hjemfald. De andre stater ville uden tvivl insistere på 
+en andel, ved repræsentationsret. Deres argument ville være, at en bevilling, når den først er givet, ikke kunne tilbagekaldes; 
+og at retfærdigheden til at deltage i territorium erhvervet eller sikret ved konføderationens fælles indsats, 
+forblev uformindsket. Hvis det mod sandsynlighed skulle indrømmes af alle stater, at hver havde ret til 
+en andel af denne fælles aktie, ville der stadig være en vanskelighed at overvinde med hensyn til en ordentlig regel om 
+fordeling. Forskellige principper vil blive opstillet af forskellige stater til dette formål; og som de ville påvirke 
+parternes modsatte interesser er de måske ikke let modtagelige for en fredelig tilpasning. 
+På det vestlige territoriums brede felt opfatter vi derfor et rigeligt teater for fjendtlige prætentioner, uden 
+enhver dommer eller almindelig dommer til at gribe ind mellem de stridende parter. At ræsonnere fra fortiden til fremtiden, 
+vi vil have god grund til at fatte, at sværdet undertiden ville blive appelleret til som dommeren for deres 
+forskelle. Omstændighederne i striden mellem Connecticut og Pennsylvania, respekt for landet kl 
+Wyoming, forman os til ikke at være sanselige i at forvente en nem tilpasning af sådanne forskelle. Artiklerne 
+af konføderationen forpligtet parterne til at forelægge sagen til afgørelse fra en føderal domstol. Indsendelsen var 
+lavet, og retten afgjorde til fordel for Pennsylvania. Men Connecticut gav stærke tegn på utilfredshed 
+med den beslutsomhed; og hun så heller ikke ud til at være helt resigneret med det, indtil ved forhandling og ledelse, 
+noget lignende blev fundet for det tab, hun formodede sig selv at have lidt. Intet her er sagt 
+har til formål at overbringe den mindste mistillidsvotum over denne stats adfærd. Hun troede uden tvivl oprigtigt på sig selv 
+er blevet såret af afgørelsen; og stater, ligesom individer, indvilliger med stor modvilje i beslutninger 
+til deres ulempe. 
+De, der havde en mulighed for at se indersiden af de transaktioner, som deltog i fremskridtene af 
+kontrovers mellem denne stat og distriktet Vermont kan også stå inde for den modstand, vi oplevede 
+fra stater, der ikke var interesserede fra dem, der var interesserede i kravet; og kan bevidne den fare, som 
+konføderationens fred kunne være blevet afsløret, hvis denne stat havde forsøgt at hævde sine rettigheder med magt. To 
+motiver fremherskende i denne opposition: et, en jalousi underholdt over vores fremtidige magt; og den anden, den 
+interesse for visse indflydelsesrige personer i nabostaterne, som havde opnået tilskud af jorder under 
+faktiske regering i det pågældende distrikt. Selv de stater, der fremsatte påstande, i modstrid med vores, 
+syntes mere omhyggeligt at sønderdele denne stat end at etablere deres egne prætentioner. Disse var nye 
+Hampshire, Massachusetts og Connecticut. New Jersey og Rhode Island opdagede ved alle lejligheder en 
+varm iver for Vermonts uafhængighed; og Maryland, indtil de blev foruroliget over tilsyneladende en forbindelse 
+mellem Canada og denne stat, gik dybt ind i de samme synspunkter. Disse er små stater, så med en 
+uvenligt øje perspektivet af vores voksende storhed. I en gennemgang af disse transaktioner kan vi spore nogle af dem 
+de årsager, som sandsynligvis ville indvikle staterne med hinanden, hvis det skulle være deres ugunstige skæbne 
+at blive splittet. 
+Handelens konkurrencer ville være en anden frugtbar kilde til strid. Staterne mindre gunstigt 
+omstændigheder ville være ønsket om at slippe ud af ulemperne ved den lokale situation og at få del i 
+fordelene ved deres mere heldige naboer. Hver stat, eller separat konføderation, ville forfølge et system med 
+handelspolitik, der er særegen for sig selv. Dette ville give anledning til distinktioner, præferencer og udelukkelser, hvilket ville 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+19/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+afføde utilfredshed. De vaner med samleje, på grundlag af lige privilegier, som vi har været vant til 
+siden landets tidligste bosættelse ville give disse årsager til utilfredshed en skarpere fordel end de 
+ville naturligvis have uafhængig af denne omstændighed. VI SKAL VÆRE KLARE TIL AT BETEGN 
+SKADER DE TING, DER I VIRKELIGHEDEN VAR UAFHÆNGIGES BETÆTTELIGE HANDLINGER 
+SOVEREIGNTIES, DER KONSULTERER EN SÆRLIG INTERESSE. Virksomhedsånden, som kendetegner 
+kommercielle del af Amerika, har ikke efterladt nogen lejlighed til at vise sig uforbedret. Det er slet ikke sandsynligt 
+denne uhæmmede ånd ville vise stor respekt for de handelsbestemmelser, som bestemte stater kunne 
+bestræbe sig på at sikre eksklusive fordele til deres egne borgere. Overtrædelserne af disse regler på den ene side 
+bestræbelser på at forhindre og afvise dem ville på den anden naturligt føre til forargelser, og disse til repressalier og krige. 
+De muligheder, som nogle stater ville have for at gøre andre skattepligtige til dem ved kommerciel handel 
+reglerne ville blive utålmodigt underkastet af biflodsstaterne. New Yorks relative situation, 
+Connecticut og New Jersey ville have råd til et eksempel af denne art. New York, fra indtægternes nødvendigheder, 
+skal lægge told på hendes indførsler. En stor del af disse pligter skal betales af indbyggerne i de to andre 
+Stater i egenskab af forbrugere af det, vi importerer. New York ville hverken være villig eller i stand til at give afkald på 
+denne fordel. Hendes borgere ville ikke give samtykke til, at en afgift betalt af dem skulle eftergives til fordel for 
+borgere af hendes naboer; det ville heller ikke være praktisk muligt, hvis der ikke var denne hindring i vejen, at skelne 
+kunderne på vores egne markeder. Ville Connecticut og New Jersey længe underkaste sig at blive beskattet af New York for 
+hendes eksklusive fordel? Skulle vi længe have lov til at forblive i den stille og uforstyrrede nydelse af en 
+metropol, fra hvis besiddelse vi opnåede en så afskyelig fordel for vores naboer, og i deres 
+mening, så undertrykkende? Skal vi være i stand til at bevare det mod den magt, Connecticut har på den ene 
+side, og det samarbejdspres fra New Jersey på den anden? Det er spørgsmål, som modløshed alene vil 
+svare bekræftende. 
+Unionens offentlige gæld ville være en yderligere årsag til kollision mellem de separate stater eller 
+konføderationer. Fordelingen, i første omgang, og den progressive slukning bagefter, ville være 
+både produktive af dårlig humor og fjendskab. Hvordan ville det være muligt at blive enige om en fordelingsregel 
+tilfredsstillende for alle? Der er næppe nogen, der kan foreslås, som er fuldstændig fri for reelle indvendinger. Disse, 
+som sædvanligt ville blive overdrevet af parternes negative interesser. Der er endda forskellige synspunkter blandt 
+stater med hensyn til det generelle princip om afvikling af den offentlige gæld. Nogle af dem, enten mindre imponeret over 
+betydningen af national kredit, eller fordi deres borgere har ringe, om overhovedet nogen, umiddelbar interesse i spørgsmålet, føler 
+en ligegyldighed, hvis ikke en modvilje, over for betalingen af den indenlandske gæld i hvert fald. Disse ville være tilbøjelige til 
+forstørre vanskelighederne ved en distribution. Andre af dem, et talrigt organ, hvis borgere er kreditorer til 
+offentlige ud over en andel af staten i det samlede beløb af den nationale gæld, ville være anstrengende for nogle 
+retfærdig og effektiv levering. Førstnævntes udsættelser ville vække de sidstnævntes vrede. 
+Afviklingen af ​​en regel ville i mellemtiden blive udskudt af reelle meningsforskelle og berørte forsinkelser. 
+Borgerne i de interesserede stater ville råbe; fremmede magter ville opfordre til at tilfredsstille deres retfærdige 
+krav, og staternes fred ville blive sat i fare for den dobbelte hændelse af ekstern invasion og 
+indre strid. 
+Antag, at vanskelighederne med at blive enige om en regel oversteg, og fordelingen blev foretaget. Stadig er der fantastisk 
+plads til at antage, at den aftalte regel ved forsøg ville blive fundet at være hårdere for nogle stater 
+end på andre. De, der blev ramt af det, ville naturligvis søge en mildning af byrden. Den 
+andre ville lige så naturligt være utilbøjelige til en revision, som sandsynligvis ville ende i deres egen stigning 
+byrder. Deres afvisning ville være et for plausibelt påskud for de klagende stater til at tilbageholde deres 
+bidrag, der ikke skal omfavnes med iver; og disse staters manglende overholdelse af deres forpligtelser 
+ville være en grund til bitter diskussion og skænderi. Hvis selv den vedtagne regel i praksis skulle retfærdiggøre 
+lighed i princippet, vil stadig forsinket betalinger fra nogle af staternes side skyldes en 
+mangfoldighed af andre årsager - den reelle mangel på ressourcer; dårlig forvaltning af deres økonomi; tilfældigt 
+forstyrrelser i forvaltningen af regeringen; og, foruden resten, den modvilje, hvormed mænd 
+almindeligvis skiller sig af med penge til formål, der har overlevet de krav, der frembragte dem, og blander sig 
+med levering af umiddelbare ønsker. Forsinkelser, uanset årsagen, ville resultere i klager, 
+beskyldninger og skænderier. Der er måske ikke noget mere sandsynligt, at forstyrre nationernes ro end 
+at de er bundet til gensidige bidrag til ethvert fælles objekt, der ikke giver et lige og tilfældigt 
+fordel. For det er en iagttagelse, lige så sand som den er banal, at der ikke er noget, mænd er så uenige om som 
+betaling af penge. 
+https://www.gutenberg.org/cache/epub/1404/pg1404-images.html 
+ 
+20/240 
+ 
+8/4/26, 21:11 
+ 
+The Project Gutenberg eBook of The Federalist Papers, af Alexander Hamilton, John Jay og James Madison 
+ 
+Love i strid med private kontrakter, da de udgør overgreb på rettighederne for de stater, hvis 
+borgere er såret af dem, kan betragtes som en anden sandsynlig kilde til fjendtlighed. Det har vi ikke tilladelse til 
+forvente, at en mere liberal eller mere retfærdig ånd ville præge lovgivningen i de enkelte stater 
+herefter, hvis den er uhæmmet af yderligere kontroller, end vi hidtil har set i for mange tilfælde 
+vanære deres flere koder. Vi har observeret tendensen til gengældelse ophidset i Connecticut i 
+konsekvens af de enorme ting, der blev begået af Rhode Islands lovgivende forsamling; og det udleder vi med rimelighed i 
+lignende tilfælde, under andre omstændigheder, ville en krig, ikke af PERGAMENT, men af sværdet, tugte sådanne 
+grusomme brud på moralsk forpligtelse og social retfærdighed. 
+Sandsynligheden for uforenelige alliancer mellem de forskellige stater eller konføderationer og forskellige udenlandske 
+nationer, og virkningerne af denne situation på freden i det hele, er blevet tilstrækkeligt udfoldet i nogle 
+foregående papirer. Ud fra det syn, de har udstillet på denne del af emnet, skal denne konklusion drages, 
+at Amerika, hvis det slet ikke er forbundet, eller kun af det svage bånd i en simpel liga, offensiv og defensiv, ville, 
+ved driften af sådanne rystende alliancer, gradvist blive viklet ind i alle de ødelæggende labyrinter i europæiske 
+politik og krige; og ved de destruktive stridigheder i de dele, som hun var opdelt i, ville det sandsynligvis 
+blive et bytte for magter og kræfter, der er lige så fjender af dem alle. Divide et impera(1) 
+må være mottoet for enhver nation, der enten hader eller frygter os.(2) 
+PUBLIUS 
+1. Del og kommando. 
+2. For at hele emnet for disse papirer hurtigst muligt kan fremlægges for offentligheden, er det 
+foreslog at udgive dem fire gange om ugen - tirsdag i New York Packet og torsdag i Daily 
+Annoncør.
