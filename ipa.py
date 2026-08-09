@@ -26,6 +26,7 @@ import argparse
 import sys
 from pathlib import Path
 import time
+import logging
 
 # ── Dependency checks ────────────────────────────────────────────────────────
 try:
@@ -45,8 +46,8 @@ except ImportError:
     sys.exit("Missing dependency 'langdetect'.\nInstall it with: pip install langdetect")
 
 # ── Constants ─────────────────────────────────────────────────────────────────
-SOURCE_DIR = Path("translated")
-OUTPUT_DIR = Path("ipa")
+SOURCE_DIR = Path("HumanRights_translated")
+OUTPUT_DIR = Path("HumanRights_IPA")
 
 LANG_MAP: dict[str,str]={
     "afrikaans": "af",
@@ -103,7 +104,7 @@ LANG_MAP: dict[str,str]={
     "indonesian": "id",
     "irish": "ga",
     "italian": "it",
-    "japanese": "ja",
+    #"japanese": "ja",
     "javanese": "jw",
     "kannada": "kn",
     "kazakh": "kk",
@@ -186,7 +187,26 @@ LANG_MAP: dict[str,str]={
 
 SUPPORTED_ESPEAK = EspeakBackend.supported_languages()
 
-
+def lang_detect(filename: str):
+  if filename.find(f"zh-CN.txt") != -1:
+      lang = 'yue'
+      return lang
+  if filename.find(f"zh-TW.txt") != -1:
+      lang = 'cmn'
+      return lang
+  for (language,tag) in LANG_MAP.items():
+    if filename.find(f"{tag}.txt") != -1:
+      lang = tag
+      if lang not in SUPPORTED_ESPEAK.keys():
+        prefix = tag.split("-")[0]
+        matches = [code for code in SUPPORTED_ESPEAK if code == prefix or code.startswith(prefix + "-")]
+        if matches:
+          lang = matches[0] 
+      return lang
+  #2 exceptions where the GoogleTranslate tag doesn't match ESPEAK, didn't know a better way to do it
+  #I put Cantonese on Simplified Chinese / and Mandarin on Tradicional Chinese
+  
+  return None
 
 def convert_ipa(text: list[str], lang: str, with_stress: bool, separator: str) -> str:
     """Convert a block of text to IPA using the espeak-ng backend."""
@@ -201,14 +221,19 @@ def convert_ipa(text: list[str], lang: str, with_stress: bool, separator: str) -
             with_stress=with_stress,
             njobs=1,
             separator=Separator(word=separator, phone="", syllable=""),
-            preserve_empty_lines= True
+            language_switch= 'remove-flags',
+            preserve_empty_lines= True,
+            words_mismatch= 'warn',
+            logger = logging.getLogger()
         )
+    logging.info('Language is %s', lang)
+    
     time.sleep(0.2)
 
     return "\n".join(ipa)
 
 
-def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
+def process_folder():
     SOURCE_DIR.mkdir(exist_ok=True)
     OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -221,34 +246,23 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
     success, failed, skipped = [], [], []
 
     for file in txt_files:
-        lang = None
         print(f"[{file.name}]")
-        
-        # Determine language
-        if forced_lang:
-            lang = forced_lang
-            print(f"  Language: {lang} (forced)")
-        else:
-            try:
-                for (language,tag) in LANG_MAP.items():
-                    if file.name.find(f"_{tag}.txt") != -1:
-                        lang = tag
-                        break
-            except LangDetectException:
-                    return None
-            
-            if not lang:
-                    print("  Could not detect language — skipping.\n")
-                    failed.append(file.name)
-                    continue
-            print(f"  Detected language: {lang}")
+        lang = lang_detect(file.name)
 
+        if not lang:
+            print("  Could not detect language — skipping.\n")
+            failed.append(file.name)
+            continue
+        print(f"  Detected language: {lang}")
         if lang not in SUPPORTED_ESPEAK.keys():
             print(f"  Language '{lang}' not supported by espeak-ng — skipping.\n")
             failed.append(file.name)
             continue
-        out_path= f"{file.stem}{SUPPORTED_ESPEAK[lang]}.txt"
-        out_path= OUTPUT_DIR / out_path
+
+        language_fullname = SUPPORTED_ESPEAK[lang]
+        out_path= f"{file.stem}{language_fullname}.txt"
+        out_path = OUTPUT_DIR / out_path
+
         if os.path.exists(out_path):
             print(f"{file.name} -> already done, skipping")
             continue
@@ -259,9 +273,10 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
             print("  Skipped (empty file).\n")
             skipped.append(file.name)
             continue
+
         try:
             text = text.splitlines()
-            ipa_text = convert_ipa(text, lang, with_stress, separator)
+            ipa_text = convert_ipa(text, lang, with_stress = False, separator = " ")
             out_path = OUTPUT_DIR / f"{file.stem}{SUPPORTED_ESPEAK[lang]}.txt"
             out_path.write_text(ipa_text, encoding="utf-8")
             print(f"  Saved → {out_path}\n")
@@ -280,41 +295,9 @@ def process_folder(forced_lang: str | None, with_stress: bool, separator: str):
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Convert all .txt files in 'translated/' to IPA and save to 'ipa/'."
-    )
-    parser.add_argument(
-        "--lang",
-        default=None,
-        help="Force a specific espeak-ng language tag for all files (e.g. 'en-us', 'fr-fr', 'de'). "
-             "Defaults to auto-detection.",
-    )
-    parser.add_argument(
-        "--no-stress",
-        action="store_true",
-        help="Omit stress markers (ˈ and ˌ) from the IPA output.",
-    )
-    parser.add_argument(
-        "--separator",
-        default=" ",
-        help="String placed between IPA words (default: single space).",
-    )
-
-    args = parser.parse_args()
-
-    if args.lang and args.lang not in SUPPORTED_ESPEAK:
-        sys.exit(
-            f"Language tag '{args.lang}' is not supported by espeak-ng.\n"
-            "Run: python -c \"from phonemizer.backend import EspeakBackend; "
-            "print(list(EspeakBackend.supported_languages().keys()))\" to see all options."
-        )
-
-    process_folder(
-        forced_lang=args.lang,
-        with_stress=not args.no_stress,
-        separator=args.separator,
-    )
-
-
+    logger = logging.getLogger(__name__)
+    logging.basicConfig(filename='example.log', encoding='utf-8', level=logging.DEBUG)
+    process_folder()
+    
 if __name__ == "__main__":
     main()

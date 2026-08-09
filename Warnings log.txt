@@ -1,0 +1,584 @@
+[HumanRights(English)_af.txt]
+  Detected language: af
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "am" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 5.0% of the lines (10/194)
+  Saved → ipa/Afrikaans.txt
+
+[HumanRights(English)_ak.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_am.txt]
+  Detected language: am
+WARNING:phonemizer:words count mismatch on 6.0% of the lines (11/194)
+  Saved → ipa/Amharic.txt
+
+[HumanRights(English)_ar.txt] #Correct
+  Detected language: ar
+WARNING:phonemizer:15 utterances containing language switches on lines 34, 71, 89, 91, 95, 99, 107, 120, 121, 123, 137, 150, 159, 169, 182
+WARNING:phonemizer:extra phones may appear in the "as" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 34.0% of the lines (65/194)
+  Saved → ipa/Arabic.txt
+
+[HumanRights(English)_as.txt] #Punctuation may interfere
+  Detected language: as
+  Saved → ipa/Assamese.txt
+
+[HumanRights(English)_ay.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_az.txt]
+  Detected language: az
+WARNING:phonemizer:2 utterances containing language switches on lines 34, 36
+WARNING:phonemizer:extra phones may appear in the "bg" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 71.0% of the lines (137/194)
+  Saved → ipa/Azerbaijani.txt
+
+[HumanRights(English)_be.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_bg.txt]
+  Detected language: bg
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "bn" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Bulgarian.txt
+
+[HumanRights(English)_bho.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_bm.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_bn.txt]
+  Detected language: bn
+  Saved → ipa/Bengali.txt
+
+[HumanRights(English)_bs.txt]
+  Detected language: bs
+  Saved → ipa/Bosnian.txt
+
+[HumanRights(English)_ca.txt]
+  Detected language: ca
+WARNING:phonemizer:words count mismatch on 24.0% of the lines (47/194)
+  Saved → ipa/Catalan.txt
+
+[HumanRights(English)_ceb.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ckb.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_co.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_cs.txt]
+  Detected language: cs
+  Saved → ipa/Czech.txt
+
+[HumanRights(English)_cy.txt]
+  Detected language: cy
+  Saved → ipa/Welsh.txt
+
+[HumanRights(English)_da.txt]
+  Detected language: da
+WARNING:phonemizer:words count mismatch on 5.0% of the lines (9/194)
+  Saved → ipa/Danish.txt
+
+[HumanRights(English)_de.txt]
+  Detected language: de
+WARNING:phonemizer:words count mismatch on 4.0% of the lines (7/194)
+  Saved → ipa/German.txt
+
+[HumanRights(English)_doi.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_dv.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ee.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_el.txt]
+  Detected language: el
+WARNING:phonemizer:words count mismatch on 31.0% of the lines (61/194)
+  Saved → ipa/Greek.txt
+
+[HumanRights(English)_en.txt]
+  Detected language: en-029
+WARNING:phonemizer:words count mismatch on 21.0% of the lines (40/194)
+  Saved → ipa/English (Caribbean).txt
+
+[HumanRights(English)_eo.txt]
+  Detected language: eo
+  Saved → ipa/Esperanto.txt
+
+[HumanRights(English)_es.txt]
+  Detected language: es
+WARNING:phonemizer:words count mismatch on 6.0% of the lines (11/194)
+  Saved → ipa/Spanish (Spain).txt
+
+[HumanRights(English)_et.txt]
+  Detected language: et
+  Saved → ipa/Estonian.txt
+
+[HumanRights(English)_eu.txt]
+  Detected language: eu
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "fa" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Basque.txt
+
+[HumanRights(English)_fa.txt]
+  Detected language: fa
+  Saved → ipa/Persian.txt
+
+[HumanRights(English)_fi.txt]
+  Detected language: fi
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (1/194)
+  Saved → ipa/Finnish.txt
+
+[HumanRights(English)_fr.txt]
+  Detected language: fr-be
+WARNING:phonemizer:1 utterances containing language switches on lines 36
+WARNING:phonemizer:extra phones may appear in the "ga" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/French (Belgium).txt
+
+[HumanRights(English)_fy.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ga.txt]
+  Detected language: ga
+  Saved → ipa/Gaelic (Irish).txt
+
+[HumanRights(English)_gd.txt]
+  Detected language: gd
+WARNING:phonemizer:65 utterances containing language switches on lines 25, 38, 46, 48, 51, 54, 56, 61, 64, 66, 70, 71, 74, 76, 79, 83, 84, 86, 88, 89, 91, 94, 95, 96, 98, 99, 102, 104, 106, 107, 109, 110, 115, 119, 120, 121, 122, 123, 125, 126, 130, 136, 137, 139, 141, 144, 146, 149, 150, 155, 158, 159, 164, 169, 171, 172, 175, 178, 181, 182, 184, 185, 189, 191, 193
+WARNING:phonemizer:extra phones may appear in the "gn" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 3.0% of the lines (6/194)
+  Saved → ipa/Gaelic (Scottish).txt
+
+[HumanRights(English)_gl.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_gn.txt]
+  Detected language: gn
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "gu" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Guarani.txt
+
+[HumanRights(English)_gom.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_gu.txt]
+  Detected language: gu
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "hi" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Gujarati.txt
+
+[HumanRights(English)_ha.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_haw.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_hi.txt]
+  Detected language: hi
+  Saved → ipa/Hindi.txt
+
+[HumanRights(English)_hmn.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_hr.txt]
+  Detected language: hr
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (1/194)
+  Saved → ipa/Croatian.txt
+
+[HumanRights(English)_ht.txt]
+  Detected language: ht
+WARNING:phonemizer:words count mismatch on 10.0% of the lines (19/194)
+  Saved → ipa/Haitian Creole.txt
+
+[HumanRights(English)_hu.txt]
+  Detected language: hu
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "hy" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Hungarian.txt
+
+[HumanRights(English)_hy.txt]
+  Detected language: hy
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (1/194)
+  Saved → ipa/Armenian (East Armenia).txt
+
+[HumanRights(English)_id.txt]
+  Detected language: id
+  Saved → ipa/Indonesian.txt
+
+[HumanRights(English)_ig.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ilo.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_is.txt]
+  Detected language: is
+  Saved → ipa/Icelandic.txt
+
+[HumanRights(English)_it.txt]
+  Detected language: it
+WARNING:phonemizer:194 utterances containing language switches on lines 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194
+WARNING:phonemizer:extra phones may appear in the "ja" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 100.0% of the lines (194/194)
+  Saved → ipa/Italian.txt
+
+[HumanRights(English)_iw.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ja.txt]
+  Detected language: ja
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "ka" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Japanese.txt
+
+[HumanRights(English)_jw.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ka.txt]
+  Detected language: ka
+WARNING:phonemizer:11 utterances containing language switches on lines 34, 71, 84, 86, 96, 107, 109, 121, 139, 144, 150
+WARNING:phonemizer:extra phones may appear in the "kk" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (1/194)
+  Saved → ipa/Georgian.txt
+
+[HumanRights(English)_kk.txt]
+  Detected language: kk
+  Saved → ipa/Kazakh.txt
+
+[HumanRights(English)_km.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_kn.txt]
+  Detected language: kn
+WARNING:phonemizer:words count mismatch on 56.99999999999999% of the lines (110/194)
+  Saved → ipa/Kannada.txt
+
+[HumanRights(English)_ko.txt]
+  Detected language: ko
+  Saved → ipa/Korean.txt
+
+[HumanRights(English)_kri.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ku.txt]
+  Detected language: ku
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "ky" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (1/194)
+  Saved → ipa/Kurdish.txt
+
+[HumanRights(English)_ky.txt]
+  Detected language: ky
+  Saved → ipa/Kyrgyz.txt
+
+[HumanRights(English)_la.txt]
+  Detected language: la
+  Saved → ipa/Latin.txt
+
+[HumanRights(English)_lb.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_lg.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ln.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_lo.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_lt.txt]
+  Detected language: lt
+  Saved → ipa/Lithuanian.txt
+
+[HumanRights(English)_lus.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_lv.txt]
+  Detected language: lv
+WARNING:phonemizer:3 utterances containing language switches on lines 93, 103, 190
+WARNING:phonemizer:extra phones may appear in the "mi" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 2.0% of the lines (3/194)
+  Saved → ipa/Latvian.txt
+
+[HumanRights(English)_mai.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_mg.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_mi.txt]
+  Detected language: mi
+  Saved → ipa/Māori.txt
+
+[HumanRights(English)_mk.txt]
+  Detected language: mk
+  Saved → ipa/Macedonian.txt
+
+[HumanRights(English)_ml.txt]
+  Detected language: ml
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "mr" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Malayalam.txt
+
+[HumanRights(English)_mn.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_mni-Mtei.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_mr.txt]
+  Detected language: mr
+WARNING:phonemizer:1 utterances containing language switches on lines 118
+WARNING:phonemizer:extra phones may appear in the "ms" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 5.0% of the lines (9/194)
+  Saved → ipa/Marathi.txt
+
+[HumanRights(English)_ms.txt]
+  Detected language: ms
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (1/194)
+  Saved → ipa/Malay.txt
+
+[HumanRights(English)_mt.txt]
+  Detected language: mt
+WARNING:phonemizer:25 utterances containing language switches on lines 34, 71, 84, 86, 89, 95, 99, 102, 104, 107, 120, 123, 125, 126, 137, 139, 150, 155, 159, 169, 172, 175, 182, 184, 189
+WARNING:phonemizer:extra phones may appear in the "ne" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (1/194)
+  Saved → ipa/Maltese.txt
+
+[HumanRights(English)_my.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ne.txt]
+  Detected language: ne
+  Saved → ipa/Nepali.txt
+
+[HumanRights(English)_nl.txt]
+  Detected language: nl
+  Saved → ipa/Dutch.txt
+
+[HumanRights(English)_no.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_nso.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ny.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_om.txt]
+  Detected language: om
+WARNING:phonemizer:41 utterances containing language switches on lines 17, 22, 23, 24, 34, 36, 40, 41, 42, 44, 57, 58, 59, 63, 67, 68, 74, 80, 86, 92, 99, 104, 113, 118, 128, 139, 159, 160, 161, 162, 166, 167, 173, 175, 176, 185, 187, 189, 192, 193, 194
+WARNING:phonemizer:extra phones may appear in the "or" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 66.0% of the lines (129/194)
+  Saved → ipa/Oromo.txt
+
+[HumanRights(English)_or.txt]
+  Detected language: or
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "pa" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Oriya.txt
+
+[HumanRights(English)_pa.txt]
+  Detected language: pa
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (2/194)
+  Saved → ipa/Punjabi.txt
+
+[HumanRights(English)_pl.txt]
+  Detected language: pl
+  Saved → ipa/Polish.txt
+
+[HumanRights(English)_ps.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_pt.txt]
+  Detected language: pt
+WARNING:phonemizer:words count mismatch on 9.0% of the lines (18/194)
+  Saved → ipa/Portuguese (Portugal).txt
+
+[HumanRights(English)_qu.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ro.txt]
+  Detected language: ro
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "ru" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (1/194)
+  Saved → ipa/Romanian.txt
+
+[HumanRights(English)_ru.txt]
+  Detected language: ru
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "sd" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Russian.txt
+
+[HumanRights(English)_rw.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_sa.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_sd.txt]
+  Detected language: sd
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "si" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 32.0% of the lines (62/194)
+  Saved → ipa/Sindhi.txt
+
+[HumanRights(English)_si.txt]
+  Detected language: si
+WARNING:phonemizer:words count mismatch on 18.0% of the lines (34/194)
+  Saved → ipa/Sinhala.txt
+
+[HumanRights(English)_sk.txt]
+  Detected language: sk
+WARNING:phonemizer:words count mismatch on 24.0% of the lines (47/194)
+  Saved → ipa/Slovak.txt
+
+[HumanRights(English)_sl.txt]
+  Detected language: sl
+  Saved → ipa/Slovenian.txt
+
+[HumanRights(English)_sm.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_sn.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_so.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_sq.txt]
+  Detected language: sq
+  Saved → ipa/Albanian.txt
+
+[HumanRights(English)_sr.txt]
+  Detected language: sr
+  Saved → ipa/Serbian.txt
+
+[HumanRights(English)_st.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_su.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_sv.txt]
+  Detected language: sv
+  Saved → ipa/Swedish.txt
+
+[HumanRights(English)_sw.txt]
+  Detected language: sw
+  Saved → ipa/Swahili.txt
+
+[HumanRights(English)_ta.txt]
+  Detected language: ta
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (2/194)
+  Saved → ipa/Tamil.txt
+
+[HumanRights(English)_te.txt]
+  Detected language: te
+  Saved → ipa/Telugu.txt
+
+[HumanRights(English)_tg.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_th.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ti.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_tk.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_tl.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_tr.txt]
+  Detected language: tr
+WARNING:phonemizer:26 utterances containing language switches on lines 34, 39, 47, 55, 62, 71, 84, 86, 89, 95, 107, 111, 116, 120, 123, 125, 131, 137, 139, 147, 150, 159, 172, 175, 179, 182
+WARNING:phonemizer:extra phones may appear in the "tt" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+WARNING:phonemizer:words count mismatch on 1.0% of the lines (2/194)
+  Saved → ipa/Turkish.txt
+
+[HumanRights(English)_ts.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_tt.txt]
+  Detected language: tt
+WARNING:phonemizer:1 utterances containing language switches on lines 34
+WARNING:phonemizer:extra phones may appear in the "ur" phoneset
+WARNING:phonemizer:language switch flags have been removed (applying "remove-flags" policy)
+  Saved → ipa/Tatar.txt
+
+[HumanRights(English)_ug.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_uk.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_ur.txt]
+  Detected language: ur
+  Saved → ipa/Urdu.txt
+
+[HumanRights(English)_uz.txt]
+  Detected language: uz
+WARNING:phonemizer:words count mismatch on 6.0% of the lines (11/194)
+  Saved → ipa/Uzbek.txt
+
+[HumanRights(English)_vi.txt]
+  Detected language: vi
+  Saved → ipa/Vietnamese (Northern).txt
+
+[HumanRights(English)_xh.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_yi.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_yo.txt]
+  Could not detect language — skipping.
+
+[HumanRights(English)_zh-CN.txt]
+  Detected language: yue
+WARNING:phonemizer:words count mismatch on 100.0% of the lines (194/194)
+  Saved → ipa/Chinese (Cantonese).txt
+
+[HumanRights(English)_zh-TW.txt]
+  Detected language: cmn
+WARNING:phonemizer:words count mismatch on 100.0% of the lines (194/194)
+  Saved → ipa/Chinese (Mandarin).txt
+
+[HumanRights(English)_zu.txt]
+  Could not detect language — skipping.

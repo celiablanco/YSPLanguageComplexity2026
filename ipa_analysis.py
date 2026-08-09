@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-TRANSLATED_DIR = "ipa"
+TRANSLATED_DIR = "HumanRights_IPA"
 
 files = sorted([f for f in os.listdir(TRANSLATED_DIR) if f.endswith(".txt")])
 
@@ -95,7 +95,7 @@ print("Saved as character_statistics.csv")
 import matplotlib.pyplot as plt
 import numpy as np
 
-plt.figure(figsize=(20,6))
+plt.figure(figsize =(50,10))
 plt.scatter(df["Language"], df["Character Count"])
 plt.grid(axis='y')
 plt.xticks(rotation=90)
@@ -104,7 +104,7 @@ plt.title(f"Character Count Across {len(files)} Languages")
 plt.tight_layout()
 plt.savefig(f"character_analysis_v2/IPA Character_Count for {len(files)} Languages.png", dpi=300, bbox_inches="tight")
 
-plt.figure(figsize=(20,6))
+plt.figure(figsize =(50,10))
 plt.scatter(df["Language"], df["Character Count (No Spaces)"])
 plt.grid(axis='y')
 plt.xticks(rotation=90)
