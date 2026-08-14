@@ -94,7 +94,7 @@ LANG_MAP: dict[str,str]={
     "haitian creole": "ht",
     "hausa": "ha",
     "hawaiian": "haw",
-    "hebrew": "iw",
+    "hebrew": "iw", #Another exceppition on abbreviation
     "hindi": "hi",
     "hmong": "hmn",
     "hungarian": "hu",
@@ -188,12 +188,19 @@ LANG_MAP: dict[str,str]={
 SUPPORTED_ESPEAK = EspeakBackend.supported_languages()
 
 def lang_detect(filename: str):
-  if filename.find(f"zh-CN.txt") != -1:
-      lang = 'yue'
-      return lang
-  if filename.find(f"zh-TW.txt") != -1:
-      lang = 'cmn'
-      return lang
+  if filename.find(f"zh-CN.txt") != -1: #Cantonese
+    lang = 'yue'
+    return lang
+  if filename.find(f"zh-TW.txt") != -1: #Chinese mandarin
+    lang = 'cmn'
+    return lang
+  if filename.find(f"iw") != -1: #Hebrew
+    lang = 'he'
+    return lang
+  if filename.find(f"gom") != -1: #Konkani
+    lang = 'kok'
+    return lang
+
   for (language,tag) in LANG_MAP.items():
     if filename.find(f"{tag}.txt") != -1:
       lang = tag

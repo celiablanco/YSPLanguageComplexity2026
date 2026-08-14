@@ -1,14 +1,28 @@
 import os
 import pandas as pd
+from pathlib import Path
+TRANSLATED_DIR = Path("HumanRights_IPA")
+SOURCE_FILENAME = "HumanRights"
+SOURCE_LANGUAGES ={
+    "(Arabic)",
+    '(Chinese)',
+    '(English)',
+    '(Japanese)',
+    '(Korean)',
+    '(Portuguese)',
+    '(Quechua)',
+    '(Russian)',
+    '(Spanish)'
+}
 
-TRANSLATED_DIR = "HumanRights_IPA"
-
-files = sorted([f for f in os.listdir(TRANSLATED_DIR) if f.endswith(".txt")])
-
-print(f"Found {len(files)} translated files")
+files = sorted(TRANSLATED_DIR.glob("*.txt"))
+num_files = len(files)
+print(f"Found {num_files} translated files")
 
 import re
 from collections import Counter
+
+
 
 def analyze_text(text):
 
@@ -61,16 +75,20 @@ def analyze_text(text):
 results = []
 
 for file in files:
-
-    language = file.replace(".txt","")
-
-    with open(os.path.join(TRANSLATED_DIR,file),
-              encoding="utf-8") as f:
-
-        text = f.read()
+    
+    
+    text = file.read_text()
 
     stats = analyze_text(text)
+    for lang in SOURCE_LANGUAGES:
+            if file.name.find(f"{lang}") != -1:
+                source_language = lang
+                break
+            else: source_language= 'Not found'
+    stats["Source_Language"] = source_language
 
+    language = file.name.replace(".txt","")
+    language = file.name.replace(f"{SOURCE_FILENAME}","")
     stats["Language"] = language
 
     results.append(stats)
@@ -80,7 +98,7 @@ df = pd.DataFrame(results)
 df = df.sort_values("Character Count")
 
 df.head()
-
+print(df.describe())
 
 
 pd.set_option("display.max_rows", None)
@@ -94,25 +112,69 @@ print("Saved as character_statistics.csv")
 
 import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.patches as mpatches
+import matplotlib as mpl
+from cycler import cycler
+num_plots = num_files
 
-plt.figure(figsize =(50,10))
-plt.scatter(df["Language"], df["Character Count"])
-plt.grid(axis='y')
-plt.xticks(rotation=90)
-plt.ylabel("Character Count")
-plt.title(f"Character Count Across {len(files)} Languages")
-plt.tight_layout()
-plt.savefig(f"character_analysis_v2/IPA Character_Count for {len(files)} Languages.png", dpi=300, bbox_inches="tight")
+colormap = mpl.colormaps["Set1"]
 
-plt.figure(figsize =(50,10))
-plt.scatter(df["Language"], df["Character Count (No Spaces)"])
-plt.grid(axis='y')
-plt.xticks(rotation=90)
-plt.ylabel("Character Count (No Spaces)")
-plt.title(f"Character Count (No Spaces) Across {len(files)} Languages")
-plt.tight_layout()
-plt.savefig(f"character_analysis_v2/IPA Character Count (No Spaces) for {len(files)} Languages.png", dpi=300, bbox_inches="tight")
+colors = {
+    '(Arabic)' : 'red',
+    '(Chinese)': 'blue',
+    '(English)': 'orange',
+    '(Japanese)': 'purple',
+    '(Korean)': 'green',
+    '(Portuguese)': 'cyan',
+    '(Quechua)': 'grey',
+    '(Russian)': 'maroon',
+    '(Spanish)': 'brown'
+}
 
+print(colors)
+color_list = [colors[lang] for lang in df["Source_Language"]]
+
+
+
+def create_graph(graph: pd.DataFrame, axis_x: str ='', axis_y: str =''):
+        
+    plt.figure(figsize =(50,10))
+    plt.scatter(graph[axis_x], graph[axis_y])
+    plt.grid(axis='y')
+    plt.xticks(rotation=90)
+    plt.ylabel(f"{axis_y}")
+    plt.title(f"{axis_y} Across {num_files} Languages")
+    plt.tight_layout()
+#    plt.savefig(f"character_analysis_v2/IPA {axis_y} for {num_files} Languages.png", dpi=300, bbox_inches="tight")
+
+    return 
+def create_subplot(graph: pd.DataFrame):
+    i=1
+    plt.subplots(3,3, sharey= True, figsize = [50,40])
+
+    for lang in colors:
+        plt.subplot(3,3,i)
+        source = graph[graph["Source_Language"] == lang]
+
+        plt.scatter(source["Language"], source["Character Count"], c = colors[lang])
+        plt.grid(axis = 'both')
+        plt.xticks(rotation=90)
+        plt.ylabel("Language")
+        plt.title(f"{lang}")
+
+        i+=1
+
+    plt.suptitle(f"Languages Across {num_files} Languages")
+    plt.tight_layout()
+    
+    plt.savefig(f"character_analysis_v2/Subplotted.png", dpi=300, bbox_inches="tight")
+    return
+#create_graph(df,"Language", "Character Count")
+#create_graph(df,"Language", "Character Count (No Spaces)")
+#df = df.sort_values("Unique Characters")
+#create_graph(df,"Language", "Unique Characters")
+create_subplot(df)
+'''
 x=np.array(df["Language"])
 y=np.array(df["Character Count"])
 plt.scatter(x,y, color = 'blue')
@@ -124,9 +186,9 @@ plt.grid(axis='y')
 plt.xticks(rotation=90)
 
 plt.ylabel("Character Count")
-plt.title(f"Character Count With (Blue) and Without (Red) Spaces Across {len(files)} Languages")
+plt.title(f"Character Count With (Blue) and Without (Red) Spaces Across {num_files} Languages")
 plt.tight_layout()
-plt.savefig(f"character_analysis_v2/IPA Character Count With and Without Spaces for {len(files)} Languages.png", dpi=300, bbox_inches="tight")
+plt.savefig(f"character_analysis_v2/IPA Character Count With and Without Spaces for {num_files} Languages.png", dpi=300, bbox_inches="tight")
 
 
 
@@ -134,12 +196,9 @@ from collections import Counter
 
 for file in files[:5]:  # First 5 languages for testing
 
-    language = file.replace(".txt", "")
+    language = file.name.replace(".txt", "")
 
-    with open(os.path.join(TRANSLATED_DIR, file),
-              encoding="utf-8") as f:
-
-        text = f.read()
+    text = file.read_text()
 
     chars = [c for c in text if not c.isspace()]
 
@@ -152,12 +211,9 @@ for file in files[:5]:  # First 5 languages for testing
 
 for file in files[:5]:
 
-    language = file.replace(".txt","")
+    language = file.name.replace(".txt","")
 
-    with open(os.path.join(TRANSLATED_DIR,file),
-              encoding="utf-8") as f:
-
-        text = f.read()
+    text = file.read_text()
 
     unique = sorted(set(text))
 
@@ -172,3 +228,4 @@ for file in files[:5]:
                 hex(ord(c)),
                 unicodedata.name(c,"Unknown")
             )
+'''
