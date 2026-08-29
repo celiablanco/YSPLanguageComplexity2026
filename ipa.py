@@ -48,6 +48,8 @@ except ImportError:
 # ── Constants ─────────────────────────────────────────────────────────────────
 SOURCE_DIR = Path("HumanRights_translated")
 OUTPUT_DIR = Path("HumanRights_IPA")
+os.makedirs("kana", exist_ok=True)
+KANA_DIR = Path("kana")
 
 LANG_MAP: dict[str,str]={
     "afrikaans": "af",
@@ -104,7 +106,7 @@ LANG_MAP: dict[str,str]={
     "indonesian": "id",
     "irish": "ga",
     "italian": "it",
-    #"japanese": "ja",
+    "japanese": "ja",
     "javanese": "jw",
     "kannada": "kn",
     "kazakh": "kk",
@@ -187,6 +189,27 @@ LANG_MAP: dict[str,str]={
 
 SUPPORTED_ESPEAK = EspeakBackend.supported_languages()
 
+import pyopenjtalk
+import re
+pyopenjtalk.g2p("辞書確認")
+_PYOPENJTALK_OK = True
+def japanese_kanji_to_kana(lines: list[str]) -> list[str]:
+  if not _PYOPENJTALK_OK:
+    return lines
+  converted = []
+  for line in lines:
+    if not line.strip():
+      converted.append(line)
+      continue
+    try:
+      converted.append(pyopenjtalk.g2p(line, kana=True))
+    except Exception:
+      #Line that pyopenjtalk couldn't process (e.g. punctuation/symbols only) —
+      #keep the original text, the "language_switch" filter further down will
+      #still catch any leftover mess.
+      converted.append(line)
+  return converted
+
 def lang_detect(filename: str):
   if filename.find(f"zh-CN.txt") != -1: #Cantonese
     lang = 'yue'
@@ -199,6 +222,9 @@ def lang_detect(filename: str):
     return lang
   if filename.find(f"gom") != -1: #Konkani
     lang = 'kok'
+    return lang
+  if filename.find(f"no") != -1: #Konkani
+    lang = 'nb'
     return lang
 
   for (language,tag) in LANG_MAP.items():
@@ -243,7 +269,8 @@ def convert_ipa(text: list[str], lang: str, with_stress: bool, separator: str) -
 def process_folder():
     SOURCE_DIR.mkdir(exist_ok=True)
     OUTPUT_DIR.mkdir(exist_ok=True)
-
+    
+    
     txt_files = sorted(SOURCE_DIR.glob("*.txt"))
     if not txt_files:
         print(f"No .txt files found in '{SOURCE_DIR}/'. Add files and try again.")
@@ -280,14 +307,20 @@ def process_folder():
             print("  Skipped (empty file).\n")
             skipped.append(file.name)
             continue
-
+        if lang == 'ja': #Work around for Japanese, turn kanji into kana. Replace Japanese file for written in Kana
+            text = text.splitlines()
+            text = japanese_kanji_to_kana(text)
+            kana_path = KANA_DIR / f"{language_fullname}.txt"
+            kana_path.write_text("\n".join(text), encoding="utf-8")
+            print(f"  Kana saved → {kana_path}")
+            text = "\n".join(text)
         try:
             text = text.splitlines()
             ipa_text = convert_ipa(text, lang, with_stress = False, separator = " ")
             out_path = OUTPUT_DIR / f"{file.stem}{SUPPORTED_ESPEAK[lang]}.txt"
             out_path.write_text(ipa_text, encoding="utf-8")
             print(f"  Saved → {out_path}\n")
-            success.append(file.name)
+            success.append(language_fullname)
         except Exception as e:
             print(f"  ERROR: {e}\n")
             failed.append(file.name)
@@ -295,6 +328,7 @@ def process_folder():
     # ── Summary ───────────────────────────────────────────────────────────────
     print("─" * 45)
     print(f"Done. {len(success)} converted | {len(skipped)} skipped | {len(failed)} failed.")
+    Path("Success_languages").write_text("\n".join(sorted(success)))
     if failed:
         print("Failed files:")
         for f in failed:

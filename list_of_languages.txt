@@ -1,0 +1,143 @@
+Failed:
+aymara
+bambara
+bhojpuri
+cebuano
+chichewa
+corsican
+dhivehi
+dogri
+ewe
+filipino
+frisian
+galician
+hausa
+hmong
+igbo
+ilocano
+javanese
+khmer
+kinyarwanda
+krio
+kurdish (sorani) -There is kurdish(kurmanji)
+lao
+lingala
+luganda
+maithili
+malagasy
+meiteilon (manipuri)
+mizo
+mongolian
+pashto
+samoan
+sanskrit
+sepedi
+sesotho
+shona
+somali
+sundanese
+tajik
+tigrinya
+tsonga
+twi
+xhosa
+yiddish
+yoruba
+zulu
+
+Languages supported by espeak and Google translate that are not here:
+Latgalian
+Nahuatl
+Papiamento
+K'iche'
+Setswana (Tswana)
+Shan 
+
+Success:
+Afrikaans
+Albanian
+Amharic
+Arabic
+Armenian (East Armenia)
+Assamese
+Azerbaijani
+Basque
+Belarusian
+Bengali
+Bosnian
+Bulgarian
+Catalan
+Chinese (Cantonese, latin as Jyutping)
+Chinese (Mandarin, latin as English)
+Croatian
+Czech
+Danish
+Dutch
+English (Caribbean)
+Esperanto
+Estonian
+Finnish
+French (Belgium)
+Gaelic (Irish)
+Gaelic (Scottish)
+Georgian
+German
+Greek
+Guarani
+Gujarati
+Haitian Creole
+Hawaiian
+Hebrew
+Hindi
+Hungarian
+Icelandic
+Indonesian
+Italian
+Japanese
+Kannada
+Kazakh
+Konkani
+Korean
+Kurdish
+Kyrgyz
+Latin
+Latvian
+Lithuanian
+Luxembourgish
+Macedonian
+Malay
+Malayalam
+Maltese
+Marathi
+Māori
+Nepali
+Norwegian Bokmål
+Oriya
+Oromo
+Persian
+Polish
+Portuguese (Portugal)
+Punjabi
+Quechua
+Romanian
+Russian
+Serbian
+Sindhi
+Sinhala
+Slovak
+Slovenian
+Spanish (Spain)
+Swahili
+Swedish
+Tamil
+Tatar
+Telugu
+Thai
+Turkish
+Turkmen
+Ukrainian
+Urdu
+Uyghur
+Uzbek
+Vietnamese (Northern)
+Welsh

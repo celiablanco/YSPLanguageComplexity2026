@@ -31,10 +31,10 @@ def analyze_text(text):
 
     # Ignore spaces for some analyses
     characters_no_space = [c for c in text if not c.isspace()]
-
+    characters_no_space.count
     character_count_no_spaces = len(characters_no_space)
 
-    # Unique characters
+    # Unique_Characters
     unique_characters = len(set(characters_no_space))
 
     # Words
@@ -60,23 +60,24 @@ def analyze_text(text):
         character_count_no_spaces / sentence_count
         if sentence_count else 0
     )
-
+    #Character_frequency
+    freq = Counter(text)
+    freq = dict(freq)
     return {
-        "Character Count": character_count,
-        "Character Count (No Spaces)": character_count_no_spaces,
-        "Unique Characters": unique_characters,
-        "Word Count": word_count,
-        "Sentence Count": sentence_count,
-        "Characters / Word": avg_chars_per_word,
-        "Words / Sentence": avg_words_per_sentence,
-        "Characters / Sentence": avg_chars_per_sentence,
+        "Character_Count": character_count,
+        "Character_Count_(No_Spaces)": character_count_no_spaces,
+        "Unique_Characters": unique_characters,
+        "Word_Count": word_count,
+        "Sentence_Count": sentence_count,
+        "Characters_per_Word": avg_chars_per_word,
+        "Words_per_Sentence": avg_words_per_sentence,
+        "Characters_per_Sentence": avg_chars_per_sentence,
+        "Character_Freq": freq
     }
 
 results = []
 
 for file in files:
-    
-    
     text = file.read_text()
 
     stats = analyze_text(text)
@@ -87,17 +88,17 @@ for file in files:
             else: source_language= 'Not found'
     stats["Source_Language"] = source_language
 
-    language = file.name.replace(".txt","")
-    language = file.name.replace(f"{SOURCE_FILENAME}","")
+    language = file.name.removesuffix(".txt")
+    language = language.replace(f"{SOURCE_FILENAME}","")
+    language = language.replace(f"{source_language}","")
     stats["Language"] = language
 
     results.append(stats)
 
 df = pd.DataFrame(results)
 
-df = df.sort_values("Character Count")
+df = df.sort_values("Character_Count")
 
-df.head()
 print(df.describe())
 
 
@@ -112,9 +113,8 @@ print("Saved as character_statistics.csv")
 
 import matplotlib.pyplot as plt
 import numpy as np
-import matplotlib.patches as mpatches
-import matplotlib as mpl
-from cycler import cycler
+import matplotlib.pyplot as mpl
+
 num_plots = num_files
 
 colormap = mpl.colormaps["Set1"]
@@ -136,16 +136,18 @@ color_list = [colors[lang] for lang in df["Source_Language"]]
 
 
 
-def create_graph(graph: pd.DataFrame, axis_x: str ='', axis_y: str =''):
+def create_graph(graph: pd.DataFrame, axis_x: pd.DataFrame, axis_y: pd.DataFrame, title: str ='None'):
         
-    plt.figure(figsize =(50,10))
-    plt.scatter(graph[axis_x], graph[axis_y])
+    plt.figure(figsize =(10,8))
+    plt.scatter(axis_x, axis_y)
     plt.grid(axis='y')
-    plt.xticks(rotation=90)
-    plt.ylabel(f"{axis_y}")
-    plt.title(f"{axis_y} Across {num_files} Languages")
+#    plt.xticks(rotation=90)
+#    plt.ylabel(f"{axis_y}")
+    plt.ylabel(f"frequency")
+    plt.title(f"{title}")
     plt.tight_layout()
-#    plt.savefig(f"character_analysis_v2/IPA {axis_y} for {num_files} Languages.png", dpi=300, bbox_inches="tight")
+    plt.savefig(f"character_analysis_v2/freq/ {title}.png", dpi=200, bbox_inches="tight")
+    plt.close()
 
     return 
 def create_subplot(graph: pd.DataFrame):
@@ -156,7 +158,7 @@ def create_subplot(graph: pd.DataFrame):
         plt.subplot(3,3,i)
         source = graph[graph["Source_Language"] == lang]
 
-        plt.scatter(source["Language"], source["Character Count"], c = colors[lang])
+        plt.scatter(source["Language"], source["Character_Count"], c = colors[lang])
         plt.grid(axis = 'both')
         plt.xticks(rotation=90)
         plt.ylabel("Language")
@@ -169,45 +171,55 @@ def create_subplot(graph: pd.DataFrame):
     
     plt.savefig(f"character_analysis_v2/Subplotted.png", dpi=300, bbox_inches="tight")
     return
-#create_graph(df,"Language", "Character Count")
-#create_graph(df,"Language", "Character Count (No Spaces)")
-#df = df.sort_values("Unique Characters")
-#create_graph(df,"Language", "Unique Characters")
+#create_graph(df,"Language", "Character_Count")
+#create_graph(df,"Language", "Character_Count_(No_Spaces)")
+#df = df.sort_values("Unique_Characters")
+for row in df.itertuples():
+ #    print(f"{row} :::::::::::::::::::::: Freq= {row.Character_Freq.values()}")
+     create_graph(df,row.Character_Freq.keys(), row.Character_Freq.values(),f"{row.Source_Language}{row.Language}")
 create_subplot(df)
 '''
+
 x=np.array(df["Language"])
-y=np.array(df["Character Count"])
+y=np.array(df["Character_Count"])
 plt.scatter(x,y, color = 'blue')
 plt.grid(axis='y')
 plt.xticks(rotation=90)
-y=np.array(df["Character Count (No Spaces)"])
+y=np.array(df["Character_Count_(No_Spaces)"])
 plt.scatter(x,y,color = 'red')
 plt.grid(axis='y')
 plt.xticks(rotation=90)
 
-plt.ylabel("Character Count")
-plt.title(f"Character Count With (Blue) and Without (Red) Spaces Across {num_files} Languages")
+plt.ylabel("Character_Count")
+plt.title(f"Character_Count With (Blue) and Without (Red) Spaces Across {num_files} Languages")
 plt.tight_layout()
-plt.savefig(f"character_analysis_v2/IPA Character Count With and Without Spaces for {num_files} Languages.png", dpi=300, bbox_inches="tight")
+plt.savefig(f"character_analysis_v2/IPA Character_Count With and Without Spaces for {num_files} Languages.png", dpi=300, bbox_inches="tight")
 
 
-
+import matplotlib.pyplot as plt
+import numpy as np
 from collections import Counter
 
-for file in files[:5]:  # First 5 languages for testing
 
+data= []
+for file in files[:5]:  # First 5 languages for testing
+    
     language = file.name.replace(".txt", "")
 
     text = file.read_text()
 
-    chars = [c for c in text if not c.isspace()]
 
-    freq = Counter(chars)
+    freq = Counter(text)
+    lang_map = {language:freq}
+    print(lang_map)
+    data.append(lang_map)
 
-    print(f"\n{language}")
-    print(freq.most_common(20))
-
-    import unicodedata
+    
+char_freq= pd.DataFrame(data)
+print(char_freq.head())
+char_freq.to_csv("character_frequency.csv", index=False)
+#create_graph(char_freq, char_freq[''])
+import unicodedata
 
 for file in files[:5]:
 
