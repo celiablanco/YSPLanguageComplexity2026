@@ -1,0 +1,13 @@
+language,language_name,comparison_system,representation_type,representation_name,font_id,normalized_complexity,total_complexity,matched_characters,matched_unique_characters
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,0.18834462894548806,1685.3077398042271,8948,55
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,0.18809744358219502,1683.095925173481,8948,55
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,0.19496648045144144,1744.560067079498,8948,55
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,0.1839075086017023,1645.6043869680323,8948,55
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,0.18226808077141396,1630.934786742612,8948,55
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,0.188341868802578,1686.0364095206783,8952,56
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,0.18809797623912755,1683.85308329267,8952,56
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,0.19496211639811573,1745.300865995932,8952,56
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,0.18390334519206794,1646.3027461593922,8952,56
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,0.18226492108839365,1631.6355735833,8952,56
+eng,English,International Morse Code,Encoded representation,International Morse Code,,0.15177943708378658,1358.1224030257224,8948,55
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,0.19122179271779755,1711.8174884097236,8952,56

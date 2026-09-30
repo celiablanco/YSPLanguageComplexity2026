@@ -1,0 +1,667 @@
+language,language_name,comparison_system,representation_type,representation_name,font_id,character,codepoint,unicode,unicode_name,category,count,representation,complexity,weighted_complexity
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.20575352129724317,215.0124297556191
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.18566221505190733,147.60146096626633
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.17727821824090897,125.15842207808174
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.1722786789715171,120.25051792211895
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.1850645684778007,128.80493966054928
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.20641451237224787,138.29772328940606
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.18117445495984058,109.97289416062323
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.2038232273519565,93.55486135454802
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.18057706319008426,80.17621605639741
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.1604531189412777,63.86034133862852
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.20473685969306338,64.90158452270109
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.17436122871625076,50.73911755642897
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.1843955699957292,41.120212109047614
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.17204815622412184,32.51710152635903
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.18935219345871873,34.84080359640425
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.2071140416748925,34.380930918032156
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.2162089729688823,35.4582715668967
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.20528944855718448,30.588127835020487
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.2047502356817136,22.31777568930678
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.1929568959778286,19.10273270180503
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,",",44,U+002C,COMMA,Po,95,",",0.1632498882588163,15.50873938458755
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,.,46,U+002E,FULL STOP,Po,93,.,0.12378873351870114,11.512352217239206
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.2159899096641229,14.687313857160358
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.20783200538533447,7.274120188486706
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.1752178849435071,5.606972318192227
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.20543154012932094,5.341220043362345
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.17823883484896594,4.455970871224149
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.2046598103366485,3.6838765860596734
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.201908184446707,3.230530951147312
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.20522372335981237,3.283579573756998
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.2004952209850872,3.007428314776308
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.2028549817621541,1.825694835859387
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.1578394097298402,1.2627152778387216
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.1905969678930114,1.3341787752510799
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.1749451045084096,1.2246157315588673
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.2250656519249717,1.5754595634748019
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.18306924184280612,1.2814846928996428
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.20916437519548803,1.2549862511729282
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.20462470702961663,1.0231235351480832
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.10224837712400643,0.5112418856200321
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.20637460983016848,0.8254984393206739
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.18837578705251085,0.7535031482100434
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.19548131611394917,0.5864439483418475
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.2161276867240925,0.6483830601722775
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.22057068988345271,0.6617120696503581
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.19606837319766876,0.5882051195930063
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.14895872067330104,0.4468761620199031
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.22333158886735555,0.6699947666020667
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.20607582794088647,0.6182274838226594
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.21737114370068786,0.6521134311020635
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.2160838354123594,0.4321676708247188
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.16217355530056635,0.3243471106011327
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.17963271965263422,0.17963271965263422
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.20113823302699194,0.20113823302699194
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Light,1344.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.17742698222977277,0.17742698222977277
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.20600975012289074,215.28018887842083
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.18253624952990172,145.11631837627186
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.18433507990746675,130.14056641467153
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.17563272119223494,122.59163939217999
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.16413112451054965,114.23526265934255
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.20823920369318083,139.52026647443117
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.17051060931930123,103.49993985681584
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.20537889182337668,94.2689113469299
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.185080457891213,82.17572330369858
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.1548532014942914,61.63157419472798
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.21027227404177104,66.65631087124142
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.18147010706414604,52.807801155666496
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.18090624332771177,40.342092262079724
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.17152807546750995,32.41880626335938
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.20182022771367727,37.134921899316616
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.20899203806456837,34.69267831871835
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.2420425486723894,39.69497798227186
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.20842252824314011,31.054956708227877
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.20872967109460897,22.751534149312377
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.1956321251433496,19.36758038919161
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,",",44,U+002C,COMMA,Po,95,",",0.16727505767539408,15.891130479162438
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,.,46,U+002E,FULL STOP,Po,93,.,0.12718535335559797,11.828237862070612
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.2232355469378172,15.180017191771569
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.21337340156841317,7.468069054894461
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.1775099285494854,5.680317713583533
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.20949773905527375,5.446941215437118
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.16453911087405776,4.113477771851444
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.2049826496098547,3.689687692977385
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.20294873075401476,3.247179692064236
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.20871515091520745,3.3394424146433193
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.18774107944739848,2.8161161917109774
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.2021835430025226,1.8196518870227032
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.15826374311751376,1.26610994494011
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.19421431133160288,1.3595001793212202
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.18332735336838366,1.2832914735786856
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.2403289389570941,1.6823025726996585
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.1870350512971751,1.3092453590802258
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.21338515871069294,1.2803109522641576
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.2150444142038929,1.0752220710194644
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.09915434621351836,0.4957717310675918
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.20083865981432641,0.8033546392573057
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.18332609148689794,0.7333043659475917
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.1993579292713929,0.5980737878141786
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.21740712332331935,0.652221369969958
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.22339519378147868,0.6701855813444361
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.18818252098416918,0.5645475629525075
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.07936827834828648,0.23810483504485946
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.18433750697409762,0.5530125209222929
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.20931375553568501,0.6279412666070551
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.21749240138450593,0.6524772041535178
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.21976690596934298,0.43953381193868596
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.16986840797547878,0.33973681595095756
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.1871593418299361,0.1871593418299361
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.20772002734762388,0.20772002734762388
+eng,English,International Morse Code,Font,Noto Sans CJK SC,2142.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.17447769436299948,0.17447769436299948
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.2080961286382787,217.46045442700125
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.18786625196871018,149.3536703151246
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.17926851367745872,126.56357065628586
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.1839811301438367,128.41882884039802
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.19314316480211008,134.42764270226863
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.21609791169088371,144.7856008328921
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.18401045457024262,111.69434592413727
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.20644874092465498,94.75997208441663
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.1932315631068249,85.79481401943026
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.16764720237663097,66.72358654589912
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.21645767022994986,68.6170814628941
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.18046311478835475,52.51476640341123
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.1857442335801038,41.42096408836315
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.18363228069378637,34.70650105112563
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.20236952329010707,37.2359922853797
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.21893692767641673,36.34352999428518
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.2297696034406864,37.68221496427257
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.21815929019397676,32.505734238902534
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.21648822922840882,23.597216985896562
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.19430043354340143,19.235742920796742
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,",",44,U+002C,COMMA,Po,95,",",0.1729036796644288,16.425849568120736
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,.,46,U+002E,FULL STOP,Po,93,.,0.12195361724623685,11.341686403900027
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.2302096996998631,15.654259579590692
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.21542531968927875,7.539886189124756
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.18501297100911243,5.920415072291598
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.2127065486420296,5.5303702646927695
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.18136789614080281,4.5341974035200705
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.20968817044553462,3.774387068019623
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.2152858096338774,3.4445729541420382
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.21678931258202327,3.4686290013123724
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.20426498535795348,3.063974780369302
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.21386614784370775,1.9247953305933698
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.16554140480443347,1.3243312384354677
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.19945973469866385,1.396218142890647
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.1867488741188873,1.3072421188322112
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.23883013523610402,1.6718109466527282
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.19320059073637738,1.3524041351546416
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.21467760375367942,1.2880656225220766
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.21965871508825652,1.0982935754412826
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.09791865540992895,0.4895932770496447
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.2165139993287176,0.8660559973148704
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.19786375939548315,0.7914550375819326
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.20786422283470177,0.6235926685041053
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.22945639057098563,0.6883691717129569
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.23671592771621403,0.710147783148642
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.20084202502306442,0.6025260750691932
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.1548487187965325,0.4645461563895975
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.23230542667951873,0.6969162800385562
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.2150507666789057,0.6451523000367172
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.23036888068639713,0.6911066420591914
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.2298763382643426,0.4597526765286852
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.1752832104477217,0.3505664208954434
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.18501382283616513,0.18501382283616513
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.20796444141885412,0.20796444141885412
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.1836881901257699,0.1836881901257699
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.1940018861741655,202.73197105200293
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.1853456204782767,147.34976828023
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.17628434003069,124.45674406166714
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.1698442049387049,118.55125504721602
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.18401453314145788,128.07411506645468
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.19614552652762907,131.41750277351147
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.17748075516472545,107.73081838498834
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.19860518113460063,91.15977814078168
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.1791031255360664,79.52178773801347
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.15418466506317174,61.365496695142355
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.20260080579386375,64.22445543665481
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.17524506936688627,50.996315185763905
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.1839900941209918,41.02979098898117
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.16970782548273866,32.074779016237606
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.18102741188793156,33.30904378737941
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.20272213039005754,33.65187364474955
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.2121517719156769,34.79289059417101
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.2007402583818683,29.910298498898374
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.2005601348789051,21.861054701800654
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.18931061797236678,18.741751179264313
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,",",44,U+002C,COMMA,Po,95,",",0.14841816667717095,14.09972583433124
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,.,46,U+002E,FULL STOP,Po,93,.,0.12702266072037674,11.813107446995037
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.20344583248115183,13.834316608718325
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.20032713981155154,7.011449893404304
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.16543399303194523,5.293887777022247
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.19814406389841238,5.151745661358722
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.17315969988821553,4.328992497205388
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.19479060911707322,3.506230964107318
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.1934527573134719,3.0952441170155502
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.2018351320984552,3.229362113575283
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.1988303291831746,2.982454937747619
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.19839491252276104,1.7855542127048494
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.15131810648612998,1.2105448518890398
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.1813047738875332,1.2691334172127324
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.17129551794017445,1.199068625581221
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.2113692701687622,1.4795848911813354
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.1746144763531155,1.2223013344718086
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.20757288304622765,1.2454372982773658
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.1974628164020554,0.987314082010277
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.09588558947917589,0.47942794739587946
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.19678709434952077,0.7871483773980831
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.17815414459939027,0.7126165783975611
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.18588427629275342,0.5576528288782603
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.20923397015589162,0.6277019104676749
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.20910702807894704,0.6273210842368411
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.18809769719458228,0.5642930915837469
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.1466998632389108,0.44009958971673235
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.20504729292614235,0.6151418787784271
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.20023583793015018,0.6007075137904505
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.2087917186573948,0.6263751559721844
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.20169562143199504,0.4033912428639901
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.15624248360926143,0.31248496721852287
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.18286152423332788,0.18286152423332788
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.19807554206949265,0.19807554206949265
+eng,English,International Morse Code,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.172140896312329,0.172140896312329
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.1910034654283127,199.59862137258676
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.18591711671414043,147.80410778774166
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.17569872858121477,124.04330237833763
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.1644419296876439,114.78046692197545
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.18899422096986093,131.53997779502322
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.19242421954279507,128.9242270936727
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.176086008204256,106.88420697998339
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.193355549902643,88.75019740531314
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.17568272290181558,78.00312896840612
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.1596286633530881,63.53220801452906
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.19712437553587242,62.48842704487156
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.17582707889746477,51.16567995916225
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.18575249444885755,41.422806262095236
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.16397258759893452,30.990819056198625
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.18181815098440246,33.45453978113005
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.1993088775081039,33.085273666345245
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.20948147406184991,34.35496174614339
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.19768960822690862,29.455751625809384
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.195788142557501,21.340907538767606
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.184027755321929,18.21874777687097
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,",",44,U+002C,COMMA,Po,95,",",0.14344393260202984,13.627173597192835
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,.,46,U+002E,FULL STOP,Po,93,.,0.12953630559678583,12.046876420501082
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.19140720191587027,13.015689730279178
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.19535276587995953,6.837346805798584
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.1662264360780527,5.319245954497687
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.19373227968192705,5.037039271730103
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.1714326137708488,4.28581534427122
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.19573897659831005,3.5233015787695807
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.18843531157820428,3.0149649852512685
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.1982415641927045,3.171865027083272
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.20572585353121156,3.0858878029681733
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.19543181316007036,1.7588863184406331
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.15815036191419185,1.2652028953135348
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.18167884428768513,1.271751910013796
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.17307849948994627,1.2115494964296238
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.20355512047119909,1.4248858432983935
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.17602848671203428,1.23219940698424
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.2049109109587734,1.2294654657526403
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.20043251618166605,1.0021625809083303
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.09869662710791029,0.4934831355395514
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.18684686586791932,0.7473874634716773
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.17083097248710521,0.6833238899484209
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.18491192424171418,0.5547357727251425
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.20295682500643247,0.6088704750192975
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.20154024124229497,0.6046207237268849
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.18130562780832676,0.5439168834249803
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.14910356104541883,0.4473106831362565
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.19912851681813343,0.5973855504544003
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.19609430106268586,0.5882829031880575
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.2039638470215772,0.6118915410647315
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.19445945631403874,0.3889189126280775
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.15663919340907276,0.3132783868181455
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.18436594842468143,0.18436594842468143
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.19688856962926077,0.19688856962926077
+eng,English,International Morse Code,Font,Noto Sans Mono Condensed Black,2288.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.17045629296489195,0.17045629296489195
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.20575352129724317,215.0124297556191
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.18566221505190733,147.60146096626633
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.17727821824090897,125.15842207808174
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.1722786789715171,120.25051792211895
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.1850645684778007,128.80493966054928
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.20641451237224787,138.29772328940606
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.18117445495984058,109.97289416062323
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.2038232273519565,93.55486135454802
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.18057706319008426,80.17621605639741
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.1604531189412777,63.86034133862852
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.20473685969306338,64.90158452270109
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.17436122871625076,50.73911755642897
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.1843955699957292,41.120212109047614
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.17204815622412184,32.51710152635903
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.18935219345871873,34.84080359640425
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.2071140416748925,34.380930918032156
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.2162089729688823,35.4582715668967
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.20528944855718448,30.588127835020487
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.2047502356817136,22.31777568930678
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.1929568959778286,19.10273270180503
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,",",44,U+002C,COMMA,Po,95,",",0.1632498882588163,15.50873938458755
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,.,46,U+002E,FULL STOP,Po,93,.,0.12378873351870114,11.512352217239206
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.2159899096641229,14.687313857160358
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.20783200538533447,7.274120188486706
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.1752178849435071,5.606972318192227
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.20543154012932094,5.341220043362345
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.17823883484896594,4.455970871224149
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.2046598103366485,3.6838765860596734
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.201908184446707,3.230530951147312
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.20522372335981237,3.283579573756998
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.2004952209850872,3.007428314776308
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.2028549817621541,1.825694835859387
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.1578394097298402,1.2627152778387216
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.1905969678930114,1.3341787752510799
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.1749451045084096,1.2246157315588673
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.2250656519249717,1.5754595634748019
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.18306924184280612,1.2814846928996428
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.20916437519548803,1.2549862511729282
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.20462470702961663,1.0231235351480832
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.10224837712400643,0.5112418856200321
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,;,59,U+003B,SEMICOLON,Po,4,;,0.18216742911278505,0.7286697164511402
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.20637460983016848,0.8254984393206739
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.18837578705251085,0.7535031482100434
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.19548131611394917,0.5864439483418475
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.2161276867240925,0.6483830601722775
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.22057068988345271,0.6617120696503581
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.19606837319766876,0.5882051195930063
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.14895872067330104,0.4468761620199031
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.22333158886735555,0.6699947666020667
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.20607582794088647,0.6182274838226594
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.21737114370068786,0.6521134311020635
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.2160838354123594,0.4321676708247188
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.16217355530056635,0.3243471106011327
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.17963271965263422,0.17963271965263422
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.20113823302699194,0.20113823302699194
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Light,1344.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.17742698222977277,0.17742698222977277
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.20600975012289074,215.28018887842083
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.18253624952990172,145.11631837627186
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.18433507990746675,130.14056641467153
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.17563272119223494,122.59163939217999
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.16413112451054965,114.23526265934255
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.20823920369318083,139.52026647443117
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.17051060931930123,103.49993985681584
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.20537889182337668,94.2689113469299
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.185080457891213,82.17572330369858
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.1548532014942914,61.63157419472798
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.21027227404177104,66.65631087124142
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.18147010706414604,52.807801155666496
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.18090624332771177,40.342092262079724
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.17152807546750995,32.41880626335938
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.20182022771367727,37.134921899316616
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.20899203806456837,34.69267831871835
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.2420425486723894,39.69497798227186
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.20842252824314011,31.054956708227877
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.20872967109460897,22.751534149312377
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.1956321251433496,19.36758038919161
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,",",44,U+002C,COMMA,Po,95,",",0.16727505767539408,15.891130479162438
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,.,46,U+002E,FULL STOP,Po,93,.,0.12718535335559797,11.828237862070612
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.2232355469378172,15.180017191771569
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.21337340156841317,7.468069054894461
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.1775099285494854,5.680317713583533
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.20949773905527375,5.446941215437118
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.16453911087405776,4.113477771851444
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.2049826496098547,3.689687692977385
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.20294873075401476,3.247179692064236
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.20871515091520745,3.3394424146433193
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.18774107944739848,2.8161161917109774
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.2021835430025226,1.8196518870227032
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.15826374311751376,1.26610994494011
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.19421431133160288,1.3595001793212202
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.18332735336838366,1.2832914735786856
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.2403289389570941,1.6823025726996585
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.1870350512971751,1.3092453590802258
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.21338515871069294,1.2803109522641576
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.2150444142038929,1.0752220710194644
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.09915434621351836,0.4957717310675918
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,;,59,U+003B,SEMICOLON,Po,4,;,0.18928952979733654,0.7571581191893462
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.20083865981432641,0.8033546392573057
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.18332609148689794,0.7333043659475917
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.1993579292713929,0.5980737878141786
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.21740712332331935,0.652221369969958
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.22339519378147868,0.6701855813444361
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.18818252098416918,0.5645475629525075
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.07936827834828648,0.23810483504485946
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.18433750697409762,0.5530125209222929
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.20931375553568501,0.6279412666070551
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.21749240138450593,0.6524772041535178
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.21976690596934298,0.43953381193868596
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.16986840797547878,0.33973681595095756
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.1871593418299361,0.1871593418299361
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.20772002734762388,0.20772002734762388
+eng,English,Unified English Braille,Font,Noto Sans CJK SC,2142.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.17447769436299948,0.17447769436299948
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.2080961286382787,217.46045442700125
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.18786625196871018,149.3536703151246
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.17926851367745872,126.56357065628586
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.1839811301438367,128.41882884039802
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.19314316480211008,134.42764270226863
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.21609791169088371,144.7856008328921
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.18401045457024262,111.69434592413727
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.20644874092465498,94.75997208441663
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.1932315631068249,85.79481401943026
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.16764720237663097,66.72358654589912
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.21645767022994986,68.6170814628941
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.18046311478835475,52.51476640341123
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.1857442335801038,41.42096408836315
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.18363228069378637,34.70650105112563
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.20236952329010707,37.2359922853797
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.21893692767641673,36.34352999428518
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.2297696034406864,37.68221496427257
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.21815929019397676,32.505734238902534
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.21648822922840882,23.597216985896562
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.19430043354340143,19.235742920796742
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,",",44,U+002C,COMMA,Po,95,",",0.1729036796644288,16.425849568120736
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,.,46,U+002E,FULL STOP,Po,93,.,0.12195361724623685,11.341686403900027
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.2302096996998631,15.654259579590692
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.21542531968927875,7.539886189124756
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.18501297100911243,5.920415072291598
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.2127065486420296,5.5303702646927695
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.18136789614080281,4.5341974035200705
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.20968817044553462,3.774387068019623
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.2152858096338774,3.4445729541420382
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.21678931258202327,3.4686290013123724
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.20426498535795348,3.063974780369302
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.21386614784370775,1.9247953305933698
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.16554140480443347,1.3243312384354677
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.19945973469866385,1.396218142890647
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.1867488741188873,1.3072421188322112
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.23883013523610402,1.6718109466527282
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.19320059073637738,1.3524041351546416
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.21467760375367942,1.2880656225220766
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.21965871508825652,1.0982935754412826
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.09791865540992895,0.4895932770496447
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,;,59,U+003B,SEMICOLON,Po,4,;,0.18519972910853835,0.7407989164341534
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.2165139993287176,0.8660559973148704
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.19786375939548315,0.7914550375819326
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.20786422283470177,0.6235926685041053
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.22945639057098563,0.6883691717129569
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.23671592771621403,0.710147783148642
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.20084202502306442,0.6025260750691932
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.1548487187965325,0.4645461563895975
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.23230542667951873,0.6969162800385562
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.2150507666789057,0.6451523000367172
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.23036888068639713,0.6911066420591914
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.2298763382643426,0.4597526765286852
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.1752832104477217,0.3505664208954434
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.18501382283616513,0.18501382283616513
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.20796444141885412,0.20796444141885412
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed Thin,2211.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.1836881901257699,0.1836881901257699
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.1940018861741655,202.73197105200293
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.1853456204782767,147.34976828023
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.17628434003069,124.45674406166714
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.1698442049387049,118.55125504721602
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.18401453314145788,128.07411506645468
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.19614552652762907,131.41750277351147
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.17748075516472545,107.73081838498834
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.19860518113460063,91.15977814078168
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.1791031255360664,79.52178773801347
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.15418466506317174,61.365496695142355
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.20260080579386375,64.22445543665481
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.17524506936688627,50.996315185763905
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.1839900941209918,41.02979098898117
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.16970782548273866,32.074779016237606
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.18102741188793156,33.30904378737941
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.20272213039005754,33.65187364474955
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.2121517719156769,34.79289059417101
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.2007402583818683,29.910298498898374
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.2005601348789051,21.861054701800654
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.18931061797236678,18.741751179264313
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,",",44,U+002C,COMMA,Po,95,",",0.14841816667717095,14.09972583433124
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,.,46,U+002E,FULL STOP,Po,93,.,0.12702266072037674,11.813107446995037
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.20344583248115183,13.834316608718325
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.20032713981155154,7.011449893404304
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.16543399303194523,5.293887777022247
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.19814406389841238,5.151745661358722
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.17315969988821553,4.328992497205388
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.19479060911707322,3.506230964107318
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.1934527573134719,3.0952441170155502
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.2018351320984552,3.229362113575283
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.1988303291831746,2.982454937747619
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.19839491252276104,1.7855542127048494
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.15131810648612998,1.2105448518890398
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.1813047738875332,1.2691334172127324
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.17129551794017445,1.199068625581221
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.2113692701687622,1.4795848911813354
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.1746144763531155,1.2223013344718086
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.20757288304622765,1.2454372982773658
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.1974628164020554,0.987314082010277
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.09588558947917589,0.47942794739587946
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,;,59,U+003B,SEMICOLON,Po,4,;,0.1745897978400084,0.6983591913600335
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.19678709434952077,0.7871483773980831
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.17815414459939027,0.7126165783975611
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.18588427629275342,0.5576528288782603
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.20923397015589162,0.6277019104676749
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.20910702807894704,0.6273210842368411
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.18809769719458228,0.5642930915837469
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.1466998632389108,0.44009958971673235
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.20504729292614235,0.6151418787784271
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.20023583793015018,0.6007075137904505
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.2087917186573948,0.6263751559721844
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.20169562143199504,0.4033912428639901
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.15624248360926143,0.31248496721852287
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.18286152423332788,0.18286152423332788
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.19807554206949265,0.19807554206949265
+eng,English,Unified English Braille,Font,Noto Sans Mono ExtraCondensed SemiBold,2213.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.172140896312329,0.172140896312329
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,e,0.1910034654283127,199.59862137258676
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,t,0.18591711671414043,147.80410778774166
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,o,0.17569872858121477,124.04330237833763
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,n,0.1644419296876439,114.78046692197545
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,i,0.18899422096986093,131.53997779502322
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,a,0.19242421954279507,128.9242270936727
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,r,0.176086008204256,106.88420697998339
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,s,0.193355549902643,88.75019740531314
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,h,0.17568272290181558,78.00312896840612
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,l,0.1596286633530881,63.53220801452906
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,d,0.19712437553587242,62.48842704487156
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,c,0.17582707889746477,51.16567995916225
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,f,0.18575249444885755,41.422806262095236
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,u,0.16397258759893452,30.990819056198625
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,m,0.18181815098440246,33.45453978113005
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,y,0.1993088775081039,33.085273666345245
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,g,0.20948147406184991,34.35496174614339
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,p,0.19768960822690862,29.455751625809384
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,b,0.195788142557501,21.340907538767606
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,v,0.184027755321929,18.21874777687097
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,",",44,U+002C,COMMA,Po,95,",",0.14344393260202984,13.627173597192835
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,.,46,U+002E,FULL STOP,Po,93,.,0.12953630559678583,12.046876420501082
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,w,0.19140720191587027,13.015689730279178
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,A,0.19535276587995953,6.837346805798584
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,E,0.1662264360780527,5.319245954497687
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,2,50,U+0032,DIGIT TWO,Nd,26,2,0.19373227968192705,5.037039271730103
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,1,49,U+0031,DIGIT ONE,Nd,25,1,0.1714326137708488,4.28581534427122
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,k,0.19573897659831005,3.5233015787695807
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,N,0.18843531157820428,3.0149649852512685
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,q,0.1982415641927045,3.171865027083272
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,j,0.20572585353121156,3.0858878029681733
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,3,51,U+0033,DIGIT THREE,Nd,9,3,0.19543181316007036,1.7588863184406331
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,T,0.15815036191419185,1.2652028953135348
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,D,0.18167884428768513,1.271751910013796
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,U,0.17307849948994627,1.2115494964296238
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,W,0.20355512047119909,1.4248858432983935
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,x,0.17602848671203428,1.23219940698424
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,S,0.2049109109587734,1.2294654657526403
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,M,0.20043251618166605,1.0021625809083303
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,-,45,U+002D,HYPHEN-MINUS,Pd,5,-,0.09869662710791029,0.4934831355395514
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,;,59,U+003B,SEMICOLON,Po,4,;,0.17519671017193342,0.7007868406877337
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,4,52,U+0034,DIGIT FOUR,Nd,4,4,0.18684686586791932,0.7473874634716773
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,z,0.17083097248710521,0.6833238899484209
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,P,0.18491192424171418,0.5547357727251425
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,9,57,U+0039,DIGIT NINE,Nd,3,9,0.20295682500643247,0.6088704750192975
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,8,56,U+0038,DIGIT EIGHT,Nd,3,8,0.20154024124229497,0.6046207237268849
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,7,55,U+0037,DIGIT SEVEN,Nd,3,7,0.18130562780832676,0.5439168834249803
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,I,0.14910356104541883,0.4473106831362565
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,0,48,U+0030,DIGIT ZERO,Nd,3,0,0.19912851681813343,0.5973855504544003
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,5,53,U+0035,DIGIT FIVE,Nd,3,5,0.19609430106268586,0.5882829031880575
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,6,54,U+0036,DIGIT SIX,Nd,3,6,0.2039638470215772,0.6118915410647315
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,R,0.19445945631403874,0.3889189126280775
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,H,0.15663919340907276,0.3132783868181455
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,C,0.18436594842468143,0.18436594842468143
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,G,0.19688856962926077,0.19688856962926077
+eng,English,Unified English Braille,Font,Noto Sans Mono Condensed Black,2288.0,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,F,0.17045629296489195,0.17045629296489195
+eng,English,International Morse Code,Encoded representation,International Morse Code,,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,.,0.12650028085364382,132.19279349205777
+eng,English,International Morse Code,Encoded representation,International Morse Code,,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,-,0.09146651956704804,72.71588305580319
+eng,English,International Morse Code,Encoded representation,International Morse Code,,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,---,0.1474051007640714,104.06800113943441
+eng,English,International Morse Code,Encoded representation,International Morse Code,,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,-.,0.13626318679730046,95.11170438451572
+eng,English,International Morse Code,Encoded representation,International Morse Code,,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,..,0.15121866511472257,105.2481909198469
+eng,English,International Morse Code,Encoded representation,International Morse Code,,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,.-,0.13626318679730046,91.29633515419131
+eng,English,International Morse Code,Encoded representation,International Morse Code,,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,.-.,0.16259828602733442,98.697159618592
+eng,English,International Morse Code,Encoded representation,International Morse Code,,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,...,0.1715143621574427,78.7250922302662
+eng,English,International Morse Code,Encoded representation,International Morse Code,,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,....,0.1907890933419004,84.71035744380377
+eng,English,International Morse Code,Encoded representation,International Morse Code,,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,.-..,0.18792978796490223,74.79605561003109
+eng,English,International Morse Code,Encoded representation,International Morse Code,,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,-..,0.16220970109904498,51.42047524839726
+eng,English,International Morse Code,Encoded representation,International Morse Code,,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,-.-.,0.1832628657030747,53.32949391959474
+eng,English,International Morse Code,Encoded representation,International Morse Code,,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,..-.,0.1881556704884414,41.958714518922434
+eng,English,International Morse Code,Encoded representation,International Morse Code,,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,..-,0.1621344069245319,30.64340290873653
+eng,English,International Morse Code,Encoded representation,International Morse Code,,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,--,0.12256715101873025,22.552355787446366
+eng,English,International Morse Code,Encoded representation,International Morse Code,,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,-.--,0.1798847151303754,29.860862711642316
+eng,English,International Morse Code,Encoded representation,International Morse Code,,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,--.,0.1637961977235792,26.86257642666699
+eng,English,International Morse Code,Encoded representation,International Morse Code,,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,.--.,0.18186454650407008,27.097817429106442
+eng,English,International Morse Code,Encoded representation,International Morse Code,,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,-...,0.18292328045700063,19.938637569813068
+eng,English,International Morse Code,Encoded representation,International Morse Code,,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,...-,0.18250916249717875,18.068407087220695
+eng,English,International Morse Code,Encoded representation,International Morse Code,,",",44,U+002C,COMMA,Po,95,--..--,0.21380899745753473,20.3118547584658
+eng,English,International Morse Code,Encoded representation,International Morse Code,,.,46,U+002E,FULL STOP,Po,93,.-.-.-,0.2187965999747325,20.348083797650123
+eng,English,International Morse Code,Encoded representation,International Morse Code,,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,.--,0.1632691385019877,11.102301418135164
+eng,English,International Morse Code,Encoded representation,International Morse Code,,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,.-,0.13626318679730046,4.769211537905516
+eng,English,International Morse Code,Encoded representation,International Morse Code,,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,.,0.12650028085364382,4.048008987316602
+eng,English,International Morse Code,Encoded representation,International Morse Code,,2,50,U+0032,DIGIT TWO,Nd,26,..---,0.20617276521864672,5.360491895684815
+eng,English,International Morse Code,Encoded representation,International Morse Code,,1,49,U+0031,DIGIT ONE,Nd,25,.----,0.2053944429534938,5.134861073837345
+eng,English,International Morse Code,Encoded representation,International Morse Code,,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,-.-,0.14915570328952665,2.6848026592114795
+eng,English,International Morse Code,Encoded representation,International Morse Code,,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,-.,0.13626318679730046,2.1802109887568073
+eng,English,International Morse Code,Encoded representation,International Morse Code,,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,--.-,0.17950824425781006,2.872131908124961
+eng,English,International Morse Code,Encoded representation,International Morse Code,,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,.---,0.1895040822543113,2.8425612338146697
+eng,English,International Morse Code,Encoded representation,International Morse Code,,3,51,U+0033,DIGIT THREE,Nd,9,...--,0.20221949937087227,1.8199754943378506
+eng,English,International Morse Code,Encoded representation,International Morse Code,,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,-,0.09146651956704804,0.7317321565363843
+eng,English,International Morse Code,Encoded representation,International Morse Code,,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,-..,0.16220970109904498,1.135467907693315
+eng,English,International Morse Code,Encoded representation,International Morse Code,,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,..-,0.1621344069245319,1.1349408484717234
+eng,English,International Morse Code,Encoded representation,International Morse Code,,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,.--,0.1632691385019877,1.142883969513914
+eng,English,International Morse Code,Encoded representation,International Morse Code,,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,-..-,0.1655110648650633,1.1585774540554432
+eng,English,International Morse Code,Encoded representation,International Morse Code,,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,...,0.1715143621574427,1.0290861729446563
+eng,English,International Morse Code,Encoded representation,International Morse Code,,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,--,0.12256715101873025,0.6128357550936513
+eng,English,International Morse Code,Encoded representation,International Morse Code,,-,45,U+002D,HYPHEN-MINUS,Pd,5,-....-,0.20255150389199872,1.0127575194599936
+eng,English,International Morse Code,Encoded representation,International Morse Code,,4,52,U+0034,DIGIT FOUR,Nd,4,....-,0.19669530928293658,0.7867812371317463
+eng,English,International Morse Code,Encoded representation,International Morse Code,,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,--..,0.1761365050557761,0.7045460202231044
+eng,English,International Morse Code,Encoded representation,International Morse Code,,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,.--.,0.18186454650407008,0.5455936395122103
+eng,English,International Morse Code,Encoded representation,International Morse Code,,9,57,U+0039,DIGIT NINE,Nd,3,----.,0.20516856042995457,0.6155056812898637
+eng,English,International Morse Code,Encoded representation,International Morse Code,,8,56,U+0038,DIGIT EIGHT,Nd,3,---..,0.20654923609121204,0.6196477082736361
+eng,English,International Morse Code,Encoded representation,International Morse Code,,7,55,U+0037,DIGIT SEVEN,Nd,3,--...,0.20191832267282,0.60575496801846
+eng,English,International Morse Code,Encoded representation,International Morse Code,,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,..,0.15121866511472257,0.4536559953441677
+eng,English,International Morse Code,Encoded representation,International Morse Code,,0,48,U+0030,DIGIT ZERO,Nd,3,-----,0.20485010908489137,0.6145503272546742
+eng,English,International Morse Code,Encoded representation,International Morse Code,,5,53,U+0035,DIGIT FIVE,Nd,3,.....,0.2058832000399482,0.6176496001198446
+eng,English,International Morse Code,Encoded representation,International Morse Code,,6,54,U+0036,DIGIT SIX,Nd,3,-....,0.19654472093391046,0.5896341628017314
+eng,English,International Morse Code,Encoded representation,International Morse Code,,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,.-.,0.16259828602733442,0.32519657205466884
+eng,English,International Morse Code,Encoded representation,International Morse Code,,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,....,0.1907890933419004,0.3815781866838008
+eng,English,International Morse Code,Encoded representation,International Morse Code,,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,-.-.,0.1832628657030747,0.1832628657030747
+eng,English,International Morse Code,Encoded representation,International Morse Code,,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,--.,0.1637961977235792,0.1637961977235792
+eng,English,International Morse Code,Encoded representation,International Morse Code,,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,..-.,0.1881556704884414,0.1881556704884414
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,e,101,U+0065,LATIN SMALL LETTER E,Ll,1045,⠑,0.19576339938268195,204.57275235490263
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,t,116,U+0074,LATIN SMALL LETTER T,Ll,795,⠞,0.21903888545588018,174.13591393742473
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,o,111,U+006F,LATIN SMALL LETTER O,Ll,706,⠕,0.18479114365703866,130.4625474218693
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,n,110,U+006E,LATIN SMALL LETTER N,Ll,698,⠝,0.21182845388928292,147.8562608147195
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,i,105,U+0069,LATIN SMALL LETTER I,Ll,696,⠊,0.19576339938268195,136.25132597034664
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,a,97,U+0061,LATIN SMALL LETTER A,Ll,670,⠁,0.12650028085364382,84.75518817194136
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,r,114,U+0072,LATIN SMALL LETTER R,Ll,607,⠗,0.19888377961719259,120.7224542276359
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,s,115,U+0073,LATIN SMALL LETTER S,Ll,459,⠎,0.2071927983718149,95.10149445266303
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,h,104,U+0068,LATIN SMALL LETTER H,Ll,444,⠓,0.19657710825074198,87.28023606332944
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,l,108,U+006C,LATIN SMALL LETTER L,Ll,398,⠇,0.17038494953974664,67.81320991681916
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,d,100,U+0064,LATIN SMALL LETTER D,Ll,317,⠙,0.19657710825074198,62.31494331548521
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,c,99,U+0063,LATIN SMALL LETTER C,Ll,291,⠉,0.1526116073432144,44.40997773687539
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,f,102,U+0066,LATIN SMALL LETTER F,Ll,223,⠋,0.19650181407622894,43.819904538999054
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,u,117,U+0075,LATIN SMALL LETTER U,Ll,189,⠥,0.1890476907994349,35.730013561093195
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,m,109,U+006D,LATIN SMALL LETTER M,Ll,184,⠍,0.18923592623571758,34.819410427372034
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,y,121,U+0079,LATIN SMALL LETTER Y,Ll,166,⠽,0.21488383242088907,35.67071618186758
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,g,103,U+0067,LATIN SMALL LETTER G,Ll,164,⠛,0.1972778758570324,32.35357164055331
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,p,112,U+0070,LATIN SMALL LETTER P,Ll,149,⠏,0.2103225703990215,31.338062989454205
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,b,98,U+0062,LATIN SMALL LETTER B,Ll,109,⠃,0.15343984326285817,16.72494291565154
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,v,118,U+0076,LATIN SMALL LETTER V,Ll,99,⠧,0.21024727622450842,20.814480346226333
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,",",44,U+002C,COMMA,Po,95,⠂,0.12650028085364382,12.017526681096163
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,.,46,U+002E,FULL STOP,Po,93,⠲,0.19657710825074198,18.281671067319003
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,w,119,U+0077,LATIN SMALL LETTER W,Ll,68,⠺,0.19903436796621873,13.534337021702873
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,A,65,U+0041,LATIN CAPITAL LETTER A,Lu,35,⠠⠁,0.1872175105754484,6.552612870140694
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,E,69,U+0045,LATIN CAPITAL LETTER E,Lu,32,⠠⠑,0.1992436373389852,6.3757963948475265
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,2,50,U+0032,DIGIT TWO,Nd,26,⠼⠃,0.24801777403990488,6.448462125037527
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,1,49,U+0031,DIGIT ONE,Nd,25,⠼⠁,0.23027284304147905,5.756821076036976
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,k,107,U+006B,LATIN SMALL LETTER K,Ll,18,⠅,0.14779278017437786,2.6602700431388016
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,N,78,U+004E,LATIN CAPITAL LETTER N,Lu,16,⠠⠝,0.2309436524970469,3.6950984399527504
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,q,113,U+0071,LATIN SMALL LETTER Q,Ll,16,⠟,0.22411972016898674,3.5859155227037878
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,j,106,U+006A,LATIN SMALL LETTER J,Ll,15,⠚,0.19665240242525506,2.9497860363788257
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,3,51,U+0033,DIGIT THREE,Nd,9,⠼⠉,0.24574682246450155,2.211721402180514
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,T,84,U+0054,LATIN CAPITAL LETTER T,Lu,8,⠠⠞,0.23582538070711917,1.8866030456569534
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,D,68,U+0044,LATIN CAPITAL LETTER D,Lu,7,⠠⠙,0.21925492854509507,1.5347844998156654
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,U,85,U+0055,LATIN CAPITAL LETTER U,Lu,7,⠠⠥,0.20651924321938112,1.4456347025356677
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,W,87,U+0057,LATIN CAPITAL LETTER W,Lu,7,⠠⠺,0.2172345619351611,1.5206419335461279
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,x,120,U+0078,LATIN SMALL LETTER X,Ll,7,⠭,0.18756492734484628,1.312954491413924
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,S,83,U+0053,LATIN CAPITAL LETTER S,Lu,6,⠠⠎,0.21937831316650322,1.3162698789990193
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,M,77,U+004D,LATIN CAPITAL LETTER M,Lu,5,⠠⠍,0.21402708821275196,1.0701354410637598
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,-,45,U+002D,HYPHEN-MINUS,Pd,5,⠤,0.1526116073432144,0.7630580367160721
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,;,59,U+003B,SEMICOLON,Po,4,⠆,0.15343984326285817,0.6137593730514327
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,4,52,U+0034,DIGIT FOUR,Nd,4,⠼⠙,0.26328698782614246,1.0531479513045698
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,z,122,U+007A,LATIN SMALL LETTER Z,Ll,4,⠵,0.2117155126275133,0.8468620505100533
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,P,80,U+0050,LATIN CAPITAL LETTER P,Lu,3,⠠⠏,0.2302351959542225,0.6907055878626676
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,9,57,U+0039,DIGIT NINE,Nd,3,⠼⠊,0.24348901274772375,0.7304670382431713
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,8,56,U+0038,DIGIT EIGHT,Nd,3,⠼⠓,0.2553383282721822,0.7660149848165467
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,7,55,U+0037,DIGIT SEVEN,Nd,3,⠼⠛,0.27670488882037697,0.830114666461131
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,I,73,U+0049,LATIN CAPITAL LETTER I,Lu,3,⠠⠊,0.19834010724482837,0.5950203217344852
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,0,48,U+0030,DIGIT ZERO,Nd,3,⠼⠚,0.25947770702637696,0.7784331210791309
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,5,53,U+0035,DIGIT FIVE,Nd,3,⠼⠑,0.24262312974082345,0.7278693892224704
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,6,54,U+0036,DIGIT SIX,Nd,3,⠼⠋,0.260013492078848,0.780040476236544
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,R,82,U+0052,LATIN CAPITAL LETTER R,Lu,2,⠠⠗,0.22452939785357234,0.4490587957071447
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,H,72,U+0048,LATIN CAPITAL LETTER H,Lu,2,⠠⠓,0.21490645472666023,0.42981290945332046
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,C,67,U+0043,LATIN CAPITAL LETTER C,Lu,1,⠠⠉,0.20369623717888574,0.20369623717888574
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,G,71,U+0047,LATIN CAPITAL LETTER G,Lu,1,⠠⠛,0.2357500865326061,0.2357500865326061
+eng,English,Unified English Braille,Encoded representation,Unified English Braille,,F,70,U+0046,LATIN CAPITAL LETTER F,Lu,1,⠠⠋,0.21922772481747707,0.21922772481747707
